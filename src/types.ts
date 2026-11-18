@@ -87,13 +87,10 @@ export interface UserProgress {
 }
 
 export interface FilterState {
-  specialty: SpecialtyId | "all";
-  domain: string;
-  batchGroup: string;
-  sourceFilter: "all" | "visual" | "text_osce" | "guide";
+  specialties: SpecialtyId[]; // empty = all 4 specialties
+  sourceFilter: "all" | "visual" | "text";
   statusFilter: "all" | "unanswered" | "incorrect" | "bookmarked";
   guideId: string;
-  search: string;
 }
 
 export type AppMode = "study" | "exam" | "guides";
@@ -103,7 +100,8 @@ export interface ExamConfig {
   title: string;
   count: number;
   secondsPerQuestion: number; // 0 = untimed
-  specialtyMix: "balanced" | "filtered" | SpecialtyId;
+  specialties: SpecialtyId[]; // selected specialties (1..4)
+  useFiltered?: boolean;
   visualOnly: boolean;
 }
 

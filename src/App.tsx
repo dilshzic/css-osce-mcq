@@ -22,14 +22,20 @@ import { GuidesPipelineView } from "./components/GuidesPipelineView";
 const STORAGE_KEY = "css_osce_sba_progress_v1";
 const THEME_KEY = "css_osce_sba_theme_v1";
 
+const ALL_SPECIALTIES: SpecialtyId[] = ["med", "surg", "gynobs", "paed"];
+
 const DEFAULT_FILTERS: FilterState = {
-  specialty: "all",
-  domain: "all",
-  batchGroup: "all",
+  specialties: [],
   sourceFilter: "all",
   statusFilter: "all",
   guideId: "all",
-  search: "",
+};
+
+const SPEC_THEME: Record<SpecialtyId, { color: string; soft: string }> = {
+  med: { color: "var(--med-color)", soft: "var(--med-soft)" },
+  surg: { color: "var(--surg-color)", soft: "var(--surg-soft)" },
+  gynobs: { color: "var(--gynobs-color)", soft: "var(--gynobs-soft)" },
+  paed: { color: "var(--paed-color)", soft: "var(--paed-soft)" },
 };
 
 function loadProgress(): UserProgress {
@@ -119,18 +125,17 @@ export const App: React.FC = () => {
   }, []);
 
   const filteredQuestions = useMemo(() => {
-    const qLower = filters.search.trim().toLowerCase();
+    const activeSpecs =
+      filters.specialties.length > 0 && filters.specialties.length < 4
+        ? filters.specialties
+        : null;
+
     return questions.filter((q) => {
-      if (filters.specialty !== "all" && q.specialty !== filters.specialty) return false;
-      if (filters.domain !== "all" && q.domainClean !== filters.domain) return false;
-      if (filters.batchGroup !== "all" && q.batchGroup !== filters.batchGroup) return false;
+      if (activeSpecs && !activeSpecs.includes(q.specialty)) return false;
       if (filters.guideId !== "all" && q.guideCitation.guideId !== filters.guideId) return false;
 
       if (filters.sourceFilter === "visual" && !q.imagePath) return false;
-      if (filters.sourceFilter === "text_osce" && (q.imagePath || q.sourceType !== "osce")) {
-        return false;
-      }
-      if (filters.sourceFilter === "guide" && q.sourceType !== "guide") return false;
+      if (filters.sourceFilter === "text" && q.imagePath) return false;
 
       if (filters.statusFilter === "unanswered" && progress.answers[q.id]) return false;
       if (
@@ -141,13 +146,6 @@ export const App: React.FC = () => {
       }
       if (filters.statusFilter === "bookmarked" && !progress.bookmarks.includes(q.id)) {
         return false;
-      }
-
-      if (qLower) {
-        const hay = `${q.topic} ${q.stem} ${q.options.join(" ")} ${q.domainClean} ${q.batch} ${
-          q.sourceStation?.title ?? ""
-        }`.toLowerCase();
-        if (!hay.includes(qLower)) return false;
       }
       return true;
     });
@@ -202,7 +200,6 @@ export const App: React.FC = () => {
     });
   }, []);
 
-  // Merge submitted exam results into persistent study progress
   const handleUpdateExam = useCallback(
     (updater: (prev: ActiveExam) => ActiveExam) => {
       setActiveExam((prev) => {
@@ -233,9 +230,13 @@ export const App: React.FC = () => {
 
   const startExam = (cfg: ExamConfig) => {
     let chosen: SbaQuestion[] = [];
-    if (cfg.specialtyMix === "balanced") {
-      const perSpec = Math.max(1, Math.floor(cfg.count / 4));
-      const specs: SpecialtyId[] = ["med", "surg", "gynobs", "paed"];
+    if (cfg.useFiltered) {
+      let pool = [...filteredQuestions];
+      if (cfg.visualOnly) pool = pool.filter((q) => Boolean(q.imagePath));
+      chosen = shuffleArray(pool).slice(0, cfg.count);
+    } else {
+      const specs = cfg.specialties.length > 0 ? cfg.specialties : ALL_SPECIALTIES;
+      const perSpec = Math.max(1, Math.floor(cfg.count / specs.length));
       for (const s of specs) {
         let pool = questions.filter((q) => q.specialty === s);
         if (cfg.visualOnly) pool = pool.filter((q) => Boolean(q.imagePath));
@@ -243,18 +244,11 @@ export const App: React.FC = () => {
       }
       if (chosen.length < cfg.count) {
         const used = new Set(chosen.map((c) => c.id));
-        let rem = questions.filter((q) => !used.has(q.id));
+        let rem = questions.filter((q) => specs.includes(q.specialty) && !used.has(q.id));
         if (cfg.visualOnly) rem = rem.filter((q) => Boolean(q.imagePath));
         chosen.push(...shuffleArray(rem).slice(0, cfg.count - chosen.length));
       }
       chosen = shuffleArray(chosen).slice(0, cfg.count);
-    } else {
-      let pool = cfg.specialtyMix === "filtered" ? filteredQuestions : questions;
-      if (cfg.specialtyMix !== "filtered") {
-        pool = pool.filter((q) => q.specialty === cfg.specialtyMix);
-      }
-      if (cfg.visualOnly) pool = pool.filter((q) => Boolean(q.imagePath));
-      chosen = shuffleArray(pool).slice(0, cfg.count);
     }
 
     setActiveExam({
@@ -272,7 +266,6 @@ export const App: React.FC = () => {
     setMode("exam");
   };
 
-  // Keyboard shortcuts for Study Mode
   useEffect(() => {
     if (mode !== "study" || !currentStudyQ || lightboxState) return;
     const onKey = (e: KeyboardEvent) => {
@@ -294,7 +287,7 @@ export const App: React.FC = () => {
       } else if (e.key.toLowerCase() === "z" && currentStudyQ.imagePath) {
         setLightboxState({
           src: `${import.meta.env.BASE_URL}${currentStudyQ.imagePath}`,
-          caption: `${currentStudyQ.batch} — Clinical Figure`,
+          caption: `${currentStudyQ.specialtyName} — Clinical Figure`,
           filter: "normal",
         });
       }
@@ -339,6 +332,9 @@ export const App: React.FC = () => {
     );
   }
 
+  const isAllSpecialties =
+    filters.specialties.length === 0 || filters.specialties.length === 4;
+
   return (
     <div className="app-shell">
       <HeaderBar
@@ -364,21 +360,58 @@ export const App: React.FC = () => {
               setFilters(DEFAULT_FILTERS);
               setCurrentIdx(0);
             }}
-            onLaunchExamFromFiltered={() =>
+            onLaunchExamFromFiltered={() => {
+              const specs =
+                filters.specialties.length > 0 ? filters.specialties : ALL_SPECIALTIES;
               startExam({
                 title: "Custom Filtered OSCE Circuit",
                 count: Math.min(20, filteredQuestions.length),
                 secondsPerQuestion: 90,
-                specialtyMix: "filtered",
+                specialties: specs,
+                useFiltered: true,
                 visualOnly: filters.sourceFilter === "visual",
-              })
-            }
+              });
+            }}
             onCloseMobile={() => setMobileFiltersOpen(false)}
           />
         )}
 
         {mode === "study" && (
           <section className="study-main" aria-label="Interactive Study Bench">
+            <div className="spec-switcher-bar" role="group" aria-label="Choose specialty">
+              <button
+                type="button"
+                className={`spec-switch-pill ${isAllSpecialties ? "active" : ""}`}
+                onClick={() => handleFilterChange({ specialties: [], guideId: "all" })}
+              >
+                <span>All</span>
+                <span className="spec-switch-count">{metadata.totalQuestions}</span>
+              </button>
+
+              {metadata.specialties.map((sp) => {
+                const theme = SPEC_THEME[sp.id];
+                const isSelected = !isAllSpecialties && filters.specialties.includes(sp.id);
+                return (
+                  <button
+                    key={sp.id}
+                    type="button"
+                    className={`spec-switch-pill ${isSelected ? "active" : ""}`}
+                    style={
+                      {
+                        "--pill-color": theme.color,
+                        "--pill-soft": theme.soft,
+                      } as React.CSSProperties
+                    }
+                    onClick={() => handleFilterChange({ specialties: [sp.id], guideId: "all" })}
+                  >
+                    <span className="spec-dot" style={{ background: theme.color, marginRight: 0 }} />
+                    <span>{sp.shortName}</span>
+                    <span className="spec-switch-count">{sp.count}</span>
+                  </button>
+                );
+              })}
+            </div>
+
             <div className="deck-toolbar">
               <div className="deck-counter">
                 <span>
@@ -413,7 +446,7 @@ export const App: React.FC = () => {
                       if (nextUnans >= 0) setCurrentIdx(nextUnans);
                       else if (fallback >= 0) setCurrentIdx(fallback);
                     }}
-                    title="Jump to next unanswered station in current filter"
+                    title="Jump to next unanswered station in current selection"
                   >
                     Next Unanswered
                   </button>
@@ -491,7 +524,7 @@ export const App: React.FC = () => {
               <div className="pipeline-box">
                 <h2 style={{ margin: "0 0 8px" }}>No questions match these filters</h2>
                 <p style={{ margin: "0 0 12px", color: "var(--text-secondary)" }}>
-                  Try broadening your specialty, sub-domain, or search query.
+                  Try selecting another specialty or clearing your status filter.
                 </p>
                 <button
                   type="button"
@@ -501,7 +534,7 @@ export const App: React.FC = () => {
                     setCurrentIdx(0);
                   }}
                 >
-                  Reset All Filters
+                  Reset Filters
                 </button>
               </div>
             )}
@@ -530,7 +563,7 @@ export const App: React.FC = () => {
             onPracticeGuide={(guideId, spec) => {
               setFilters({
                 ...DEFAULT_FILTERS,
-                specialty: spec,
+                specialties: [spec],
                 guideId,
               });
               setCurrentIdx(0);

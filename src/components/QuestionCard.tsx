@@ -11,7 +11,7 @@ import {
   Strikethrough,
   SunMoon,
 } from "lucide-react";
-import { ImageFilterMode, SbaQuestion } from "../types";
+import { ImageFilterMode, SbaQuestion, SpecialtyId } from "../types";
 
 interface QuestionCardProps {
   question: SbaQuestion;
@@ -28,6 +28,13 @@ interface QuestionCardProps {
 }
 
 const LETTERS = ["A", "B", "C", "D", "E"] as const;
+
+const SPEC_LABELS: Record<SpecialtyId, string> = {
+  med: "Medicine",
+  surg: "Surgery",
+  gynobs: "Gyn & Obs",
+  paed: "Paediatrics",
+};
 
 export const QuestionCard: React.FC<QuestionCardProps> = ({
   question,
@@ -48,16 +55,14 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   const imgSrc = question.imagePath
     ? `${import.meta.env.BASE_URL}${question.imagePath}`
     : null;
+  const specLabel = SPEC_LABELS[question.specialty] ?? question.specialtyName;
 
   return (
     <article className="question-card">
       <div className="q-header-bar">
         <div className="q-chips">
           <span className="mono-badge">#{question.number}</span>
-          <span className={`chip spec ${question.specialty}`}>{question.specialtyName}</span>
-          <span className="chip">{question.domainClean}</span>
-          <span className="chip">{question.batch}</span>
-          <span className="chip">{question.difficulty}</span>
+          <span className={`chip spec ${question.specialty}`}>{specLabel}</span>
           {lockedReveal && selectedIndex === undefined && (
             <span className="chip" style={{ color: "var(--bad)", borderColor: "var(--bad-border)" }}>
               Not Attempted
@@ -81,7 +86,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
               type="button"
               className={`tool-toggle ${isBookmarked ? "active" : ""}`}
               onClick={onToggleBookmark}
-              title="Bookmark question (B)"
+              title="Bookmark question (Shift+B)"
             >
               <Bookmark size={13} /> {isBookmarked ? "Saved" : "Save"}
             </button>
@@ -91,7 +96,6 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 
       <div className={`q-body ${imgSrc ? "with-image" : "text-only"}`}>
         <div className="q-content-col">
-          <div className="q-topic-label">{question.topic}</div>
           <p className="q-stem">{question.stem}</p>
 
           <div className="options-list" role="radiogroup" aria-label="Answer choices">
@@ -173,6 +177,16 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                 {traceOpen && (
                   <div className="trace-body">
                     <div className="trace-row">
+                      <span className="trace-kicker">Topic &amp; Classification</span>
+                      <div>
+                        <strong>{question.topic}</strong>
+                      </div>
+                      <div style={{ color: "var(--text-secondary)" }}>
+                        {question.specialtyName} · {question.domainClean} · {question.batch} · {question.difficulty}
+                      </div>
+                    </div>
+
+                    <div className="trace-row">
                       <span className="trace-kicker">Referenced CSS Guide Document</span>
                       <div>
                         {question.guideCitation.guideUrl ? (
@@ -251,7 +265,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                   onClick={() =>
                     onOpenLightbox(
                       imgSrc,
-                      `${question.batch} — Clinical Figure`,
+                      `${specLabel} — Clinical Figure`,
                       imgFilter
                     )
                   }
@@ -265,12 +279,12 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
             <div
               className="figure-frame"
               onClick={() =>
-                onOpenLightbox(imgSrc, `${question.batch} — Clinical Figure`, imgFilter)
+                onOpenLightbox(imgSrc, `${specLabel} — Clinical Figure`, imgFilter)
               }
             >
               <img
                 src={imgSrc}
-                alt={`Clinical OSCE image for ${question.topic}`}
+                alt="Clinical OSCE figure"
                 className={
                   imgFilter === "contrast"
                     ? "filter-contrast"
@@ -282,7 +296,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
             </div>
 
             <div className="figure-caption">
-              <span>{question.batch}</span>
+              <span>{specLabel}</span>
               <span>Click figure or press Z to zoom</span>
             </div>
           </div>

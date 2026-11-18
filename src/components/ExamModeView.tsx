@@ -28,6 +28,8 @@ interface ExamModeViewProps {
   onOpenLightbox: (src: string, caption: string, filter: ImageFilterMode) => void;
 }
 
+const ALL_SPECIALTIES: SpecialtyId[] = ["med", "surg", "gynobs", "paed"];
+
 function formatTimer(sec: number): string {
   const m = Math.floor(sec / 60);
   const s = sec % 60;
@@ -36,7 +38,6 @@ function formatTimer(sec: number): string {
 
 export const ExamModeView: React.FC<ExamModeViewProps> = ({
   questions,
-  filteredQuestions,
   metadata,
   activeExam,
   onStartExam,
@@ -44,7 +45,7 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
   onExitExam,
   onOpenLightbox,
 }) => {
-  const [presetMix, setPresetMix] = useState<ExamConfig["specialtyMix"]>("balanced");
+  const [selectedSpecs, setSelectedSpecs] = useState<SpecialtyId[]>(ALL_SPECIALTIES);
   const [qCount, setQCount] = useState<number>(20);
   const [pacingSec, setPacingSec] = useState<number>(90);
   const [visualOnly, setVisualOnly] = useState<boolean>(false);
@@ -56,7 +57,6 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
     return m;
   }, [questions]);
 
-  // Countdown tick while exam is active & unsubmitted & timed
   useEffect(() => {
     if (!activeExam || activeExam.submitted) return;
     const id = window.setInterval(() => {
@@ -78,15 +78,28 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
     return () => window.clearInterval(id);
   }, [activeExam?.startedAt, activeExam?.submitted, onUpdateExam]);
 
-  if (!activeExam) {
-    const eligibleCount = (() => {
-      let pool = presetMix === "filtered" ? filteredQuestions : questions;
-      if (presetMix !== "balanced" && presetMix !== "filtered") {
-        pool = pool.filter((q) => q.specialty === presetMix);
+  const toggleExamSpec = (spec: SpecialtyId) => {
+    setSelectedSpecs((prev) => {
+      if (prev.includes(spec)) {
+        return prev.length === 1 ? prev : prev.filter((x) => x !== spec);
       }
-      if (visualOnly) pool = pool.filter((q) => Boolean(q.imagePath));
-      return pool.length;
-    })();
+      return [...prev, spec];
+    });
+  };
+
+  if (!activeExam) {
+    const eligibleCount = questions.filter((q) => {
+      if (!selectedSpecs.includes(q.specialty)) return false;
+      if (visualOnly && !q.imagePath) return false;
+      return true;
+    }).length;
+
+    const circuitTitle =
+      selectedSpecs.length === 4
+        ? "Combined 4-Specialty OSCE Circuit"
+        : selectedSpecs
+            .map((id) => metadata.specialties.find((s) => s.id === id)?.shortName ?? id)
+            .join(" + ") + " Circuit";
 
     return (
       <section className="exam-setup-card" aria-label="Configure Timed OSCE Circuit">
@@ -94,48 +107,42 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
           Timed OSCE Circuit Simulator
         </h1>
         <p style={{ margin: "0 0 18px", color: "var(--text-secondary)", fontSize: 14.5 }}>
-          Simulate a Combined Clinical OSCE circuit drawn from Kelaniya Batches 20–33 and the CSS
-          Guide Documents. Answers stay locked until you submit the full circuit.
+          Choose which specialties to include below. Question titles and hints stay hidden until
+          after you submit the circuit.
         </p>
 
         <div className="filter-group" style={{ marginBottom: 16 }}>
-          <span className="filter-label">1. Circuit Composition</span>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+            <span className="filter-label">1. Choose Specialties (Click to toggle 1–4)</span>
+            <button
+              type="button"
+              className="text-link-btn"
+              onClick={() => setSelectedSpecs(ALL_SPECIALTIES)}
+            >
+              Select All 4
+            </button>
+          </div>
           <div className="setup-grid">
-            <button
-              type="button"
-              className={`preset-card ${presetMix === "balanced" ? "active" : ""}`}
-              onClick={() => setPresetMix("balanced")}
-            >
-              <strong>Balanced 4-Specialty Circuit</strong>
-              <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: 4 }}>
-                Equal split across Medicine, Surgery, Gyn &amp; Obs, and Paediatrics
-              </div>
-            </button>
-
-            <button
-              type="button"
-              className={`preset-card ${presetMix === "filtered" ? "active" : ""}`}
-              onClick={() => setPresetMix("filtered")}
-            >
-              <strong>Use Current Study Filters</strong>
-              <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: 4 }}>
-                Draw from your active filter selection ({filteredQuestions.length} matching SBAs)
-              </div>
-            </button>
-
-            {metadata.specialties.map((sp) => (
-              <button
-                key={sp.id}
-                type="button"
-                className={`preset-card ${presetMix === sp.id ? "active" : ""}`}
-                onClick={() => setPresetMix(sp.id as SpecialtyId)}
-              >
-                <strong>{sp.name} Focus</strong>
-                <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: 4 }}>
-                  {sp.count} total SBAs ({sp.imageCount} with clinical figures)
-                </div>
-              </button>
-            ))}
+            {metadata.specialties.map((sp) => {
+              const active = selectedSpecs.includes(sp.id);
+              return (
+                <button
+                  key={sp.id}
+                  type="button"
+                  className={`preset-card ${active ? "active" : ""}`}
+                  onClick={() => toggleExamSpec(sp.id)}
+                  aria-pressed={active}
+                >
+                  <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                    <strong>{sp.shortName}</strong>
+                    <span className={`chip spec ${sp.id}`}>{sp.count} SBAs</span>
+                  </div>
+                  <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: 6 }}>
+                    {active ? "Included in circuit" : "Click to include"} · {sp.imageCount} figures
+                  </div>
+                </button>
+              );
+            })}
           </div>
         </div>
 
@@ -177,7 +184,7 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
 
           <div className="filter-group">
             <label className="filter-label" htmlFor="exam-visual">
-              4. Visual Spotter Constraint
+              4. Visual Spotter Filter
             </label>
             <select
               id="exam-visual"
@@ -186,12 +193,12 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
               onChange={(e) => setVisualOnly(e.target.value === "visual")}
             >
               <option value="mixed">Mixed Visual &amp; Scenario SBAs</option>
-              <option value="visual">Clinical Image Stations Only (CXR, ECG, Photos)</option>
+              <option value="visual">Clinical Image Stations Only</option>
             </select>
           </div>
         </div>
 
-        <div style={{ marginTop: 18, display: "flex", alignItems: "center", gap: 12 }}>
+        <div style={{ marginTop: 18, display: "flex", alignItems: "center", gap: 12, flexWrap: "wrap" }}>
           <button
             id="btn-start-exam"
             type="button"
@@ -199,15 +206,10 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
             disabled={eligibleCount === 0}
             onClick={() =>
               onStartExam({
-                title:
-                  presetMix === "balanced"
-                    ? "Combined 4-Specialty OSCE Circuit"
-                    : presetMix === "filtered"
-                      ? "Filtered OSCE Circuit"
-                      : `${metadata.specialties.find((s) => s.id === presetMix)?.name} Circuit`,
+                title: circuitTitle,
                 count: Math.min(qCount, eligibleCount),
                 secondsPerQuestion: pacingSec,
-                specialtyMix: presetMix,
+                specialties: selectedSpecs,
                 visualOnly,
               })
             }
@@ -308,7 +310,7 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
               const pct = Math.round((ok / subset.length) * 100);
               return (
                 <div key={sp.id} className="domain-bar-row">
-                  <strong>{sp.name}</strong>
+                  <strong>{sp.shortName}</strong>
                   <div className="bar-track">
                     <div
                       className="bar-fill"
@@ -355,7 +357,7 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
       {!activeExam.submitted && (
         <div className="exam-hud">
           <div className="exam-hud-top">
-            <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 10, flexWrap: "wrap" }}>
               <strong>{activeExam.config.title}</strong>
               <span className="mono-badge">
                 Station {activeExam.currentIndex + 1} / {examQuestions.length}

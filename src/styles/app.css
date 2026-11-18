@@ -295,6 +295,26 @@
   color: var(--text-muted);
 }
 
+.spec-check-row input[type="checkbox"] {
+  accent-color: var(--pill-color, var(--accent-primary));
+  width: 14px;
+  height: 14px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.active-guide-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--accent-primary-soft);
+  color: var(--text-primary);
+}
+
 .filter-select {
   width: 100%;
   padding: 8px 10px;
@@ -331,6 +351,50 @@
   flex-direction: column;
   gap: 14px;
   min-width: 0;
+}
+
+.spec-switcher-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 14px;
+}
+
+.spec-switch-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-canvas);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.14s ease;
+}
+
+.spec-switch-pill:hover {
+  border-color: var(--border-strong);
+  background: var(--bg-subtle);
+  color: var(--text-primary);
+}
+
+.spec-switch-pill.active {
+  border-color: var(--pill-color, var(--accent-primary));
+  background: var(--pill-soft, var(--accent-primary-soft));
+  color: var(--pill-color, var(--accent-primary));
+}
+
+.spec-switch-count {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  opacity: 0.8;
 }
 
 .deck-toolbar {

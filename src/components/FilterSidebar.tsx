@@ -1,5 +1,5 @@
 import React from "react";
-import { Play, Search, X } from "lucide-react";
+import { Play, X } from "lucide-react";
 import { BankMetadata, FilterState, GuideCatalogItem, SpecialtyId } from "../types";
 
 interface FilterSidebarProps {
@@ -32,28 +32,28 @@ export const FilterSidebar: React.FC<FilterSidebarProps> = ({
   onLaunchExamFromFiltered,
   onCloseMobile,
 }) => {
-  const activeSpecMeta = metadata.specialties.find((s) => s.id === filters.specialty);
-  const availableDomains = React.useMemo(() => {
-    if (activeSpecMeta) return activeSpecMeta.domains;
-    const map = new Map<string, number>();
-    for (const sp of metadata.specialties) {
-      for (const d of sp.domains) {
-        map.set(d.name, (map.get(d.name) ?? 0) + d.count);
-      }
-    }
-    return Array.from(map.entries())
-      .map(([name, count]) => ({ name, count }))
-      .sort((a, b) => a.name.localeCompare(b.name));
-  }, [activeSpecMeta, metadata.specialties]);
+  const isAllSelected = filters.specialties.length === 0 || filters.specialties.length === 4;
 
-  const availableGuides = guides.filter(
-    (g) => g.questionCount > 0 && (filters.specialty === "all" || g.specialty === filters.specialty)
-  );
+  const toggleSpecialty = (id: SpecialtyId) => {
+    const active = isAllSelected ? [] : [...filters.specialties];
+    const next = active.includes(id)
+      ? active.filter((x) => x !== id)
+      : [...active, id];
+    // If all 4 checked individually or none left unchecked, treat empty as All
+    if (next.length === 4 || next.length === 0) {
+      onChange({ specialties: [], guideId: "all" });
+    } else {
+      onChange({ specialties: next, guideId: "all" });
+    }
+  };
+
+  const activeGuide =
+    filters.guideId !== "all" ? guides.find((g) => g.id === filters.guideId) : null;
 
   return (
     <aside className={`sidebar-panel ${isOpenMobile ? "open" : ""}`} aria-label="Question filters">
       <div className="sidebar-head">
-        <span>Filter Bank ({filteredCount})</span>
+        <span>Filters ({filteredCount})</span>
         <div style={{ display: "flex", gap: "10px", alignItems: "center" }}>
           <button type="button" className="text-link-btn" onClick={onReset}>
             Reset
@@ -71,73 +71,63 @@ export const FilterSidebar: React.FC<FilterSidebarProps> = ({
         </div>
       </div>
 
-      <div className="search-box">
-        <Search size={15} />
-        <input
-          id="filter-search"
-          type="search"
-          className="search-input"
-          placeholder="Search diagnosis, drug, sign..."
-          value={filters.search}
-          onChange={(e) => onChange({ search: e.target.value })}
-        />
-      </div>
-
       <div className="filter-group">
-        <span className="filter-label">Specialty</span>
+        <span className="filter-label">Choose Specialties</span>
         <div className="spec-pills">
           <button
             type="button"
-            className={`spec-pill-btn ${filters.specialty === "all" ? "active" : ""}`}
-            onClick={() => onChange({ specialty: "all", domain: "all", guideId: "all" })}
+            className={`spec-pill-btn ${isAllSelected ? "active" : ""}`}
+            onClick={() => onChange({ specialties: [], guideId: "all" })}
           >
-            <span>All Specialties</span>
+            <span>All 4 Specialties</span>
             <span className="spec-count">{metadata.totalQuestions}</span>
           </button>
+
           {metadata.specialties.map((sp) => {
             const theme = SPEC_COLORS[sp.id];
+            const checked = !isAllSelected && filters.specialties.includes(sp.id);
             return (
-              <button
+              <label
                 key={sp.id}
-                type="button"
-                className={`spec-pill-btn ${filters.specialty === sp.id ? "active" : ""}`}
+                className={`spec-pill-btn spec-check-row ${checked ? "active" : ""}`}
                 style={
                   {
                     "--pill-color": theme.color,
                     "--pill-soft": theme.soft,
                   } as React.CSSProperties
                 }
-                onClick={() => onChange({ specialty: sp.id, domain: "all", guideId: "all" })}
               >
-                <span style={{ display: "inline-flex", alignItems: "center" }}>
-                  <span className="spec-dot" style={{ background: theme.color }} />
-                  {sp.shortName}
+                <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
+                  <input
+                    type="checkbox"
+                    checked={checked}
+                    onChange={() => toggleSpecialty(sp.id)}
+                    aria-label={`Include ${sp.shortName}`}
+                  />
+                  <span className="spec-dot" style={{ background: theme.color, marginRight: 2 }} />
+                  <span>{sp.shortName}</span>
                 </span>
                 <span className="spec-count">{sp.count}</span>
-              </button>
+              </label>
             );
           })}
         </div>
       </div>
 
-      <div className="filter-group">
-        <label className="filter-label" htmlFor="filter-domain">
-          Clinical Sub-Domain
-        </label>
-        <select
-          id="filter-domain"
-          className="filter-select"
-          value={filters.domain}
-          onChange={(e) => onChange({ domain: e.target.value })}
-        >
-          <option value="all">All Sub-Domains ({availableDomains.length})</option>
-          {availableDomains.map((d) => (
-            <option key={d.name} value={d.name}>
-              {d.name} ({d.count})
-            </option>
-          ))}
-        </select>
-      </div>
+      {activeGuide && (
+        <div className="active-guide-chip">
+          <span style={{ fontSize: 12, lineHeight: 1.35 }}>
+            Guide filter: <strong>{activeGuide.title}</strong>
+          </span>
+          <button
+            type="button"
+            className="text-link-btn"
+            onClick={() => onChange({ guideId: "all" })}
+          >
+            Clear
+          </button>
+        </div>
+      )}
 
       <div className="filter-group">
         <label className="filter-label" htmlFor="filter-source">
@@ -149,48 +139,11 @@ export const FilterSidebar: React.FC<FilterSidebarProps> = ({
           value={filters.sourceFilter}
           onChange={(e) => onChange({ sourceFilter: e.target.value as FilterState["sourceFilter"] })}
         >
-          <option value="all">All Sources ({metadata.totalQuestions})</option>
-          <option value="visual">Visual / Clinical Image OSCEs ({metadata.visualImageQuestions})</option>
-          <option value="text_osce">Text &amp; Scenario OSCEs ({metadata.osceStationQuestions - metadata.visualImageQuestions})</option>
-          <option value="guide">CSS Guide Protocol SBAs ({metadata.guideProtocolQuestions})</option>
-        </select>
-      </div>
-
-      <div className="filter-group">
-        <label className="filter-label" htmlFor="filter-batch">
-          OSCE Batch / Source
-        </label>
-        <select
-          id="filter-batch"
-          className="filter-select"
-          value={filters.batchGroup}
-          onChange={(e) => onChange({ batchGroup: e.target.value })}
-        >
-          <option value="all">All Batches (20–33) &amp; Guides</option>
-          {metadata.batchGroups.map((b) => (
-            <option key={b.name} value={b.name}>
-              {b.name} ({b.count})
-            </option>
-          ))}
-        </select>
-      </div>
-
-      <div className="filter-group">
-        <label className="filter-label" htmlFor="filter-guide">
-          CSS Guide Reference
-        </label>
-        <select
-          id="filter-guide"
-          className="filter-select"
-          value={filters.guideId}
-          onChange={(e) => onChange({ guideId: e.target.value })}
-        >
-          <option value="all">All CSS Guides ({availableGuides.length})</option>
-          {availableGuides.map((g) => (
-            <option key={g.id} value={g.id}>
-              {g.title} ({g.questionCount})
-            </option>
-          ))}
+          <option value="all">All Questions ({metadata.totalQuestions})</option>
+          <option value="visual">With Clinical Figure ({metadata.visualImageQuestions})</option>
+          <option value="text">
+            Text Vignettes Only ({metadata.totalQuestions - metadata.visualImageQuestions})
+          </option>
         </select>
       </div>
 
@@ -207,7 +160,7 @@ export const FilterSidebar: React.FC<FilterSidebarProps> = ({
           <option value="all">All Questions</option>
           <option value="unanswered">Unanswered Only</option>
           <option value="incorrect">Missed / Incorrect</option>
-          <option value="bookmarked">Bookmarked</option>
+          <option value="bookmarked">Saved</option>
         </select>
       </div>
 
@@ -218,7 +171,7 @@ export const FilterSidebar: React.FC<FilterSidebarProps> = ({
         onClick={onLaunchExamFromFiltered}
       >
         <Play size={14} />
-        Timed OSCE From Filter ({Math.min(filteredCount, 20)})
+        Timed OSCE From Selection ({Math.min(filteredCount, 20)})
       </button>
     </aside>
   );
