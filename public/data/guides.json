@@ -24,7 +24,7 @@
     "driveId": "108662RTNbgUBL1Sz3ByPA3Gn3AE26dNP",
     "url": "https://drive.google.com/file/d/108662RTNbgUBL1Sz3ByPA3Gn3AE26dNP/view",
     "extractedChars": 6406,
-    "questionCount": 3
+    "questionCount": 6
   },
   {
     "id": "guide_med_ecg_slides",
@@ -33,7 +33,7 @@
     "driveId": "1ZZwx2epiw8DoVtIs9WqBeQNsKnjoi40K",
     "url": "https://drive.google.com/file/d/1ZZwx2epiw8DoVtIs9WqBeQNsKnjoi40K/view",
     "extractedChars": 9742,
-    "questionCount": 2
+    "questionCount": 6
   },
   {
     "id": "guide_med_emergency",
@@ -42,7 +42,7 @@
     "driveId": "1TFkbuvry5WWV7L62jQyuEZdElvTzIzZV",
     "url": "https://drive.google.com/file/d/1TFkbuvry5WWV7L62jQyuEZdElvTzIzZV/view",
     "extractedChars": 8625,
-    "questionCount": 7
+    "questionCount": 9
   },
   {
     "id": "guide_med_gcs",
@@ -51,7 +51,7 @@
     "driveId": "1dAKdR09i7RaTLG-L85tzXmbo9N6icPdh",
     "url": "https://drive.google.com/file/d/1dAKdR09i7RaTLG-L85tzXmbo9N6icPdh/view",
     "extractedChars": 2852,
-    "questionCount": 6
+    "questionCount": 8
   },
   {
     "id": "guide_med_abg",
@@ -60,7 +60,7 @@
     "driveId": "1i4hwE9WEtVQI3OrMc55hGnnaK4y3v2ct",
     "url": "https://drive.google.com/file/d/1i4hwE9WEtVQI3OrMc55hGnnaK4y3v2ct/view",
     "extractedChars": 7177,
-    "questionCount": 9
+    "questionCount": 11
   },
   {
     "id": "guide_med_nerve",
@@ -78,7 +78,7 @@
     "driveId": "1zGslC-xryBIc2Swvlv3B7Vt9hvXDYdxK",
     "url": "https://drive.google.com/file/d/1zGslC-xryBIc2Swvlv3B7Vt9hvXDYdxK/view",
     "extractedChars": 6361,
-    "questionCount": 1
+    "questionCount": 4
   },
   {
     "id": "guide_med_gi_rad",
@@ -87,7 +87,7 @@
     "driveId": "1k94eyV9Mh65vquP8ew0SDbOCL8awFWdC",
     "url": "https://drive.google.com/file/d/1k94eyV9Mh65vquP8ew0SDbOCL8awFWdC/view",
     "extractedChars": 7487,
-    "questionCount": 0
+    "questionCount": 4
   },
   {
     "id": "guide_med_skin_bone",
@@ -96,7 +96,7 @@
     "driveId": "1Nl__FVIgMP7Y86pHCB2VCnII93uTBsPq",
     "url": "https://drive.google.com/file/d/1Nl__FVIgMP7Y86pHCB2VCnII93uTBsPq/view",
     "extractedChars": 5444,
-    "questionCount": 7
+    "questionCount": 9
   },
   {
     "id": "guide_med_retina",
@@ -105,7 +105,7 @@
     "driveId": "1cYnApjMCpavn4XUEyzN9j5aB99mr9lIJ",
     "url": "https://drive.google.com/file/d/1cYnApjMCpavn4XUEyzN9j5aB99mr9lIJ/view",
     "extractedChars": 2138,
-    "questionCount": 1
+    "questionCount": 4
   },
   {
     "id": "guide_med_ors",
@@ -114,7 +114,7 @@
     "driveId": "1ZBo5WEJtJtHdW4yLuN-Y-Zk26P9Gd_x_",
     "url": "https://drive.google.com/file/d/1ZBo5WEJtJtHdW4yLuN-Y-Zk26P9Gd_x_/view",
     "extractedChars": 3531,
-    "questionCount": 1
+    "questionCount": 3
   },
   {
     "id": "guide_med_niroshan",
@@ -123,7 +123,7 @@
     "driveId": "1paTcGqRE6-QGy2qpFybkzTGIjEEbLn7f",
     "url": "https://drive.google.com/file/d/1paTcGqRE6-QGy2qpFybkzTGIjEEbLn7f/view",
     "extractedChars": 12243,
-    "questionCount": 28
+    "questionCount": 29
   },
   {
     "id": "guide_surg_tubes",
@@ -132,7 +132,7 @@
     "driveId": "1Yi2PvkCo_rKYRErJRwlWT448RWCDF5Wy",
     "url": "https://drive.google.com/file/d/1Yi2PvkCo_rKYRErJRwlWT448RWCDF5Wy/view",
     "extractedChars": 8208,
-    "questionCount": 7
+    "questionCount": 11
   },
   {
     "id": "guide_surg_preop",
@@ -141,7 +141,7 @@
     "driveId": "1Pna-mCReo7bQaVSa1I-7BTNFmXTyl1z4",
     "url": "https://drive.google.com/file/d/1Pna-mCReo7bQaVSa1I-7BTNFmXTyl1z4/view",
     "extractedChars": 18078,
-    "questionCount": 23
+    "questionCount": 25
   },
   {
     "id": "guide_surg_checklist",
@@ -150,7 +150,7 @@
     "driveId": "14_Ln0ycAdDtzqWOQbUbwwBf_EC51JIjT",
     "url": "https://drive.google.com/file/d/14_Ln0ycAdDtzqWOQbUbwwBf_EC51JIjT/view",
     "extractedChars": 2893,
-    "questionCount": 2
+    "questionCount": 6
   },
   {
     "id": "guide_surg_fractures",
@@ -159,7 +159,7 @@
     "driveId": "1OIDzwS-BUSjMCmGzD5pV9xOGCJiz0bZn",
     "url": "https://drive.google.com/file/d/1OIDzwS-BUSjMCmGzD5pV9xOGCJiz0bZn/view",
     "extractedChars": 8475,
-    "questionCount": 3
+    "questionCount": 8
   },
   {
     "id": "guide_surg_instruments_proc",
@@ -168,7 +168,7 @@
     "driveId": "1eAMmoa56BlPpb-QNGuhbYHsambPgSL0M",
     "url": "https://drive.google.com/file/d/1eAMmoa56BlPpb-QNGuhbYHsambPgSL0M/view",
     "extractedChars": 11085,
-    "questionCount": 1
+    "questionCount": 5
   },
   {
     "id": "guide_surg_instruments_ward",
@@ -177,7 +177,7 @@
     "driveId": "1zM5maxmLVKRpk7V1amG8qWCfl3ax1I-7",
     "url": "https://drive.google.com/file/d/1zM5maxmLVKRpk7V1amG8qWCfl3ax1I-7/view",
     "extractedChars": 5877,
-    "questionCount": 1
+    "questionCount": 7
   },
   {
     "id": "guide_surg_casualty",
@@ -186,7 +186,7 @@
     "driveId": "1xgXWBftCNAh5qHdP-Nixk4wMEbw-ZKkG",
     "url": "https://drive.google.com/file/d/1xgXWBftCNAh5qHdP-Nixk4wMEbw-ZKkG/view",
     "extractedChars": 5529,
-    "questionCount": 4
+    "questionCount": 8
   },
   {
     "id": "guide_surg_bhanuka",
@@ -195,7 +195,7 @@
     "driveId": "1b4dyGm51-Um0EKRv47XQQOBMg8tqlb6P",
     "url": "https://drive.google.com/file/d/1b4dyGm51-Um0EKRv47XQQOBMg8tqlb6P/view",
     "extractedChars": 16135,
-    "questionCount": 32
+    "questionCount": 34
   },
   {
     "id": "guide_gyn_comp",
@@ -204,7 +204,7 @@
     "driveId": "1yH1X_rZj0r5OvqYVr76B-cfnWaW_VAmWQ6SBaoixz40",
     "url": "https://docs.google.com/document/d/1yH1X_rZj0r5OvqYVr76B-cfnWaW_VAmWQ6SBaoixz40/edit",
     "extractedChars": 24973,
-    "questionCount": 52
+    "questionCount": 54
   },
   {
     "id": "guide_gyn_partogram",
@@ -213,7 +213,7 @@
     "driveId": "17uvWoDLwc3FUiXc34V3wIQv6T0BNlmUk",
     "url": "https://drive.google.com/file/d/17uvWoDLwc3FUiXc34V3wIQv6T0BNlmUk/view",
     "extractedChars": 6000,
-    "questionCount": 6
+    "questionCount": 10
   },
   {
     "id": "guide_gyn_gdm_pih",
@@ -222,7 +222,7 @@
     "driveId": "1kbP45RsiAjNJ5qgh3uTxWyZ-kqCV6RUx",
     "url": "https://drive.google.com/file/d/1kbP45RsiAjNJ5qgh3uTxWyZ-kqCV6RUx/view",
     "extractedChars": 21743,
-    "questionCount": 8
+    "questionCount": 12
   },
   {
     "id": "guide_gyn_fetal",
@@ -231,7 +231,7 @@
     "driveId": "1Y0Y4Qve3kU7xUNhtCOMLJgLJ1rn_eVl_",
     "url": "https://drive.google.com/file/d/1Y0Y4Qve3kU7xUNhtCOMLJgLJ1rn_eVl_/view",
     "extractedChars": 12508,
-    "questionCount": 7
+    "questionCount": 11
   },
   {
     "id": "guide_gyn_perineal",
@@ -240,7 +240,7 @@
     "driveId": "10jWAcAoCG45y3qe6MRYUuaga2srtx-Up",
     "url": "https://drive.google.com/file/d/10jWAcAoCG45y3qe6MRYUuaga2srtx-Up/view",
     "extractedChars": 10757,
-    "questionCount": 1
+    "questionCount": 6
   },
   {
     "id": "guide_gyn_instruments",
@@ -249,7 +249,7 @@
     "driveId": "1iA0jF31MntuIj3Lo_6QxB5NvT2RoByMV",
     "url": "https://drive.google.com/file/d/1iA0jF31MntuIj3Lo_6QxB5NvT2RoByMV/view",
     "extractedChars": 14497,
-    "questionCount": 7
+    "questionCount": 9
   },
   {
     "id": "guide_gyn_blood_tx",
@@ -258,7 +258,7 @@
     "driveId": "1lgL9FrmaF7LKjxYIIaf_kdJoItnDBiHR",
     "url": "https://drive.google.com/file/d/1lgL9FrmaF7LKjxYIIaf_kdJoItnDBiHR/view",
     "extractedChars": 16979,
-    "questionCount": 2
+    "questionCount": 7
   },
   {
     "id": "guide_gyn_sti",
@@ -267,7 +267,7 @@
     "driveId": "1dkGTYAGr0gwbYCwsDELiCoHM_zWvNBta",
     "url": "https://drive.google.com/file/d/1dkGTYAGr0gwbYCwsDELiCoHM_zWvNBta/view",
     "extractedChars": 381235,
-    "questionCount": 7
+    "questionCount": 11
   },
   {
     "id": "guide_paed_dev",
@@ -276,7 +276,7 @@
     "driveId": "167vPTdM7jCCw9hJ-3JPHZs_4tRgo1leU",
     "url": "https://drive.google.com/file/d/167vPTdM7jCCw9hJ-3JPHZs_4tRgo1leU/view",
     "extractedChars": 7089,
-    "questionCount": 15
+    "questionCount": 17
   },
   {
     "id": "guide_paed_milestones",
@@ -285,7 +285,7 @@
     "driveId": "1jLubIzGM-xaF3OKN-zz2c_gGYy3kD6_f",
     "url": "https://drive.google.com/file/d/1jLubIzGM-xaF3OKN-zz2c_gGYy3kD6_f/view",
     "extractedChars": 914,
-    "questionCount": 1
+    "questionCount": 4
   },
   {
     "id": "guide_paed_dehydr",
@@ -294,7 +294,7 @@
     "driveId": "12r4SauTyzpdHCmQ-zLXMgiP2R8iEI2aL",
     "url": "https://drive.google.com/file/d/12r4SauTyzpdHCmQ-zLXMgiP2R8iEI2aL/view",
     "extractedChars": 2924,
-    "questionCount": 2
+    "questionCount": 6
   },
   {
     "id": "guide_paed_dengue",
@@ -303,7 +303,7 @@
     "driveId": "12bY90-3w8eQqMkecj6UIpde-6g3N71pv",
     "url": "https://drive.google.com/file/d/12bY90-3w8eQqMkecj6UIpde-6g3N71pv/view",
     "extractedChars": 15644,
-    "questionCount": 4
+    "questionCount": 7
   },
   {
     "id": "guide_paed_vaccines",
@@ -312,7 +312,7 @@
     "driveId": "13CnjcH8ASu8MGB4BiP9JLrvpYRXunohJ",
     "url": "https://drive.google.com/file/d/13CnjcH8ASu8MGB4BiP9JLrvpYRXunohJ/view",
     "extractedChars": 20753,
-    "questionCount": 4
+    "questionCount": 7
   },
   {
     "id": "guide_paed_slma_vacc",
@@ -321,7 +321,7 @@
     "driveId": "1mgNbPnD9KjcwnwweUIDYH_D2mw8XYhVo",
     "url": "https://drive.google.com/file/d/1mgNbPnD9KjcwnwweUIDYH_D2mw8XYhVo/view",
     "extractedChars": 625177,
-    "questionCount": 3
+    "questionCount": 6
   },
   {
     "id": "guide_paed_ors",
@@ -330,7 +330,7 @@
     "driveId": "16ijZp8bALiWjwYvGtrA50vc-ePJYUJFN",
     "url": "https://drive.google.com/file/d/16ijZp8bALiWjwYvGtrA50vc-ePJYUJFN/view",
     "extractedChars": 3533,
-    "questionCount": 3
+    "questionCount": 6
   },
   {
     "id": "guide_paed_inhalers",
@@ -339,7 +339,7 @@
     "driveId": "1_GOAJ9qUIioIUlyEyeFJaCL0Jz9UyoOu",
     "url": "https://drive.google.com/file/d/1_GOAJ9qUIioIUlyEyeFJaCL0Jz9UyoOu/view",
     "extractedChars": 6371,
-    "questionCount": 1
+    "questionCount": 4
   },
   {
     "id": "guide_paed_rad",
@@ -348,7 +348,7 @@
     "driveId": "1pdmDBlxrvqkStz4ST2TxNQDfgWalImyL",
     "url": "https://drive.google.com/file/d/1pdmDBlxrvqkStz4ST2TxNQDfgWalImyL/view",
     "extractedChars": 7497,
-    "questionCount": 0
+    "questionCount": 5
   },
   {
     "id": "guide_paed_rickets",
@@ -357,7 +357,7 @@
     "driveId": "1RnSx-xuKMAozqJZ1ovp4ZNZO32MP-RNp",
     "url": "https://drive.google.com/file/d/1RnSx-xuKMAozqJZ1ovp4ZNZO32MP-RNp/view",
     "extractedChars": 5168,
-    "questionCount": 2
+    "questionCount": 5
   },
   {
     "id": "guide_paed_skin",
@@ -366,7 +366,7 @@
     "driveId": "1AsBVpVawdT_CAyKcwqtE_sNutgFQvwJq",
     "url": "https://drive.google.com/file/d/1AsBVpVawdT_CAyKcwqtE_sNutgFQvwJq/view",
     "extractedChars": 3048,
-    "questionCount": 8
+    "questionCount": 9
   },
   {
     "id": "guide_paed_osce",

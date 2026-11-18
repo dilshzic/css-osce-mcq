@@ -1,0 +1,954 @@
+[
+  {
+    "id": "med_guide_c_01",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Posterior Urethral Valves & MCUG Preoperative Management",
+    "stem": "A 4-week-old male infant is brought to hospital with a weak, dribbling urinary stream, a palpable distended bladder, and bilateral hydroureteronephrosis on renal ultrasound. Which investigation confirms the underlying diagnosis, and which preoperative steps are required before endoscopic ablation?",
+    "options": [
+      "Intravenous urogram; single-dose oral antibiotic prophylaxis and outpatient review",
+      "Micturating cystourethrogram; bladder drainage, UTI control, and electrolyte balance",
+      "Tc-99m DMSA renal scan; immediate percutaneous nephrostomy and diuretic therapy",
+      "Retrograde urethrogram; prolonged urethral bougienage and alkaline urine therapy",
+      "Antegrade pyelography; systemic corticosteroids and delayed ureteric reimplantation"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: An intravenous urogram involves ionising radiation and IV contrast with poor renal concentration in neonates, and outpatient review would delay life-saving decompression.",
+      "Correct: Micturating cystourethrogram (MCUG/VCUG) is the gold-standard imaging modality for posterior urethral valves (PUV), and preoperative stabilisation mandates bladder drainage, UTI treatment/prevention, and fluid, electrolyte, and acid-base correction prior to endoscopic valve ablation.",
+      "Incorrect: Tc-99m DMSA evaluates static renal cortical scarring rather than urethral outlet obstruction, and bladder catheter drainage is the standard initial decompression step.",
+      "Incorrect: Retrograde urethrography evaluates acquired anterior urethral strictures rather than PUV, and bougienage is inappropriate for congenital urethral valves.",
+      "Incorrect: Antegrade pyelography via a lower pole calyx needle outlines upper ureteric obstruction, and steroids have no role in PUV management."
+    ],
+    "clinicalPearl": "In the Kelaniya Radiological Investigations guide, MCUG (VCUG) is the gold-standard investigation for posterior urethral valves and vesicoureteric reflux; always stabilise bladder drainage, infection, and metabolic acidosis before endoscopic valve ablation.",
+    "guideCitation": {
+      "guideId": "guide_med_gi_rad",
+      "guideTitle": "Guide for GI Radiological Investigations",
+      "keyPoint": "MCUG is the gold standard for posterior urethral valves; preoperative care requires bladder drainage, UTI treatment/prevention, and correction of fluid, electrolyte, and acid-base imbalance before endoscopic ablation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_02",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Nuclear Medicine Renal Scintigraphy — DMSA vs DTPA Lasix Renogram",
+    "stem": "A 19-year-old man has recurrent right flank pain and persistent unilateral right hydronephrosis on ultrasound without ureteric dilatation or visible stones. Which nuclear medicine scan is indicated to distinguish mechanical pelvi-ureteric junction obstruction from non-obstructive dilatation, and what finding confirms obstruction?",
+    "options": [
+      "Static Tc-99m DMSA scan; cortical wedge defect due to proximal tubular stagnation",
+      "Micturating cystourethrogram; contrast reflux into a dilated tortuous right ureter",
+      "Plain KUB radiography; ureteric calculus projected over the L2–L5 transverse processes",
+      "Dynamic Tc-99m DTPA Lasix renogram; rising excretory curve failing to wash out",
+      "Transrectal ultrasound scan; thickened bladder wall with raised post-void residual volume"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Tc-99m DMSA is a static cortical scan (taken up by proximal tubules and performed 6 months after acute UTI to detect focal scarring or ectopic/horseshoe kidneys), not a dynamic drainage study.",
+      "Incorrect: MCUG detects vesicoureteric reflux and posterior urethral valves during voiding rather than differentiating obstructive from non-obstructive PUJ hydronephrosis.",
+      "Incorrect: Plain X-ray KUB only detects radio-opaque calculi and cannot evaluate dynamic glomerular filtration or furosemide washout across a PUJ.",
+      "Correct: A dynamic Tc-99m DTPA (or MAG3) diuretic renogram with IV furosemide (Lasix renogram) measures glomerular filtration and drainage; a persistently rising or plateau curve after Lasix confirms true outflow obstruction (such as PUJ obstruction).",
+      "Incorrect: Transrectal ultrasound evaluates prostatic pathology and guided prostatic biopsy rather than upper-tract pelvi-ureteric junction drainage."
+    ],
+    "clinicalPearl": "Distinguish the two nuclear renal scans cleanly: Tc-99m DMSA is a STATIC scan (proximal tubular uptake; detects cortical scarring 6 months post-UTI), whereas Tc-99m DTPA/MAG3 with furosemide is a DYNAMIC scan (glomerular clearance/excretion; differentiates PUJ obstruction from baggy non-obstructed collecting systems).",
+    "guideCitation": {
+      "guideId": "guide_med_gi_rad",
+      "guideTitle": "Guide for GI Radiological Investigations",
+      "keyPoint": "Dynamic 99mTc-DTPA/MAG3 Lasix renography evaluates glomerular filtration and differentiates mechanical outflow obstruction (e.g. PUJ obstruction) from non-obstructive hydronephrosis, whereas static 99mTc-DMSA detects cortical scarring after 6 months."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_03",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Retrograde Urethrogram for Urethral Stricture",
+    "stem": "A 42-year-old man presents with progressive urinary hesitancy, a thin split stream, and post-micturition dribbling several years after untreated gonococcal urethritis. Which radiological investigation best delineates a suspected bulbar or penile urethral stricture, and how is contrast administered?",
+    "options": [
+      "Retrograde urethrogram; water-soluble contrast via catheter bulb placed at navicular fossa",
+      "Antegrade pyelography; contrast injected via prone Chiba needle into lower pole calyx",
+      "Intravenous pyelogram; iodinated contrast injected intravenously for 15-minute KUB films",
+      "Tc-99m DMSA scintigraphy; intravenous radiotracer trapped inside proximal renal tubules",
+      "Computed tomography KUB; non-contrast axial slices across renal and pelvic structures"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: A retrograde (ascending) urethrogram introduces water-soluble contrast through a small catheter whose balloon is gently inflated at the navicular fossa, providing detailed anatomical definition of penile and bulbar urethral strictures, false passages, fistulae, and periurethral abscesses.",
+      "Incorrect: Antegrade pyelography uses a 20–22G Chiba needle placed prone under ultrasound guidance into a lower pole renal calyx to locate upper ureteric obstruction rather than anterior urethral strictures.",
+      "Incorrect: An intravenous urogram (IVU/IVP) demonstrates renal filtration and the upper collecting system/ureters (coursing over the L2–L5 transverse processes) rather than giving crisp retrograde detail of anterior urethral strictures.",
+      "Incorrect: Tc-99m DMSA images renal parenchymal cortex and scarring rather than the urethral lumen.",
+      "Incorrect: Non-contrast CT KUB is the study of choice for renal colic calculi, not for delineating urethral mucosal strictures or false passages."
+    ],
+    "clinicalPearl": "Know the contrast route and anatomical target of each GU study: retrograde urethrogram seats the catheter bulb at the navicular fossa to outline penile/bulbar strictures (post-gonococcal or trauma), whereas antegrade pyelography punctures a lower pole calyx prone with a 20–22G Chiba needle to define upper ureteric obstruction.",
+    "guideCitation": {
+      "guideId": "guide_med_gi_rad",
+      "guideTitle": "Guide for GI Radiological Investigations",
+      "keyPoint": "Retrograde urethrography delivers water-soluble contrast via a catheter positioned at the navicular fossa to delineate penile/bulbar urethral strictures, false passages, and periurethral abscesses."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_04",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Rigid vs Flexible Bronchoscopy — Indications & Airway Access",
+    "stem": "A 58-year-old smoker presents with massive life-threatening haemoptysis and stridor caused by a central tumour partially occluding the left mainstem bronchus. Why is rigid bronchoscopy preferred over flexible bronchoscopy alone in this acute setting?",
+    "options": [
+      "Allows bedside awake topical anaesthesia without general airway support",
+      "Reaches subsegmental distal bronchioles for transbronchial alveolar lavage",
+      "Provides proximal airway control, large-bore suction, and tumour debulking",
+      "Eliminates complication risk completely even in severe uncontrolled coagulopathy",
+      "Replaces endobronchial ultrasound for staging deep peripheral lymph nodes"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Flexible bronchoscopy can be performed under topical anaesthesia and light sedation, whereas rigid bronchoscopy normally requires general anaesthesia and an experienced operator.",
+      "Incorrect: Flexible bronchoscopy is specifically superior for exploring distal peripheral airways and performing bronchoalveolar lavage (BAL) and transbronchial lung biopsy.",
+      "Correct: Rigid bronchoscopy provides complete visualisation and ventilation of the proximal airway (posterior larynx, trachea, and mainstem bronchi), enabling large-bore suction for massive bleeding, foreign body extraction, stricture dilation, stenting, and mechanical or laser tumour ablation.",
+      "Incorrect: Uncontrolled coagulopathy, extreme ventilatory/oxygenation demands, and tracheal obstruction in a novice operator remain relative contraindications to rigid bronchoscopy.",
+      "Incorrect: Endobronchial ultrasound (EBUS) and transbronchial needle aspiration (TBNA) are performed via dedicated flexible bronchoscopes."
+    ],
+    "clinicalPearl": "Pair each bronchoscope to its anatomical zone: rigid bronchoscopy dominates the PROXIMAL airway (massive haemoptysis, foreign bodies, tracheal stenosis dilation, tumour debulking, Y-stenting; a flexible scope can even be passed inside it), whereas flexible bronchoscopy explores DISTAL airways (BAL, transbronchial biopsy, TBNA, EBUS).",
+    "guideCitation": {
+      "guideId": "guide_med_gi_rad",
+      "guideTitle": "Guide for GI Radiological Investigations",
+      "keyPoint": "Rigid bronchoscopy enables superior proximal airway control for massive bleeding, foreign body removal, tumour ablation, and stent placement; flexible bronchoscopy targets distal airways for BAL, biopsies, and EBUS."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_05",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Evohaler (Pressurised MDI) Direct Inhalation Technique",
+    "stem": "A 31-year-old woman with persistent asthma is prescribed a fluticasone/salmeterol Evohaler (pressurised metered-dose inhaler) without a spacer and asks how to inhale each dose properly. Which breathing and timing instruction ensures optimal lower airway drug deposition?",
+    "options": [
+      "Inhale as rapidly and forcefully as possible immediately after firing two puffs",
+      "Keep head flexed forward and exhale forcefully through the mouthpiece prior to firing",
+      "Actuate canister during passive end-expiration and breathe out straight away",
+      "Coordinate slow steady inhalation with one canister actuation and swallow residual mist",
+      "Breathe in slowly and deeply while actuating once, then hold breath for 10 seconds"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Rapid, forceful inhalation is required for dry powder inhalers (DPIs) to disaggregate powder, whereas rapid inhalation with a pressurised MDI causes inertial impaction on the posterior pharynx; furthermore, only one puff should be inhaled at a time.",
+      "Incorrect: The head should be tilted slightly backwards (not flexed forward) and the patient should exhale gently away from the inhaler before sealing lips firmly around the mouthpiece.",
+      "Incorrect: Pressing the canister at end-expiration without simultaneous inspiration wastes the aerosol bolus in the oral cavity instead of carrying it to the small airways.",
+      "Incorrect: Swallowing or failing to hold the breath allows exhaled drug loss and systemic gastrointestinal absorption rather than peripheral alveolar/bronchiolar settling.",
+      "Correct: Per the CSS Inhalers Guide, hold the MDI upright, exhale gently, seal lips around the mouthpiece (without biting), tilt the head slightly back, begin breathing in slowly and deeply while pressing down once, remove the mouthpiece, and hold the breath for at least 10 seconds."
+    ],
+    "clinicalPearl": "Contrast MDI vs DPI flow rates at every OSCE station: a pressurised MDI (Evohaler) demands SLOW, STEADY deep inspiration coordinated with actuation plus a 10-second breath-hold, whereas a dry powder inhaler (DPI) needs a FAST, FORCEFUL deep breath to de-aggregate the drug.",
+    "guideCitation": {
+      "guideId": "guide_med_inhalers",
+      "guideTitle": "Guide for Inhalers & Spacer Devices",
+      "keyPoint": "Correct MDI (Evohaler) technique: gentle exhalation, slight head tilt back, slow deep inspiration coordinated with single actuation, and >=10-second breath-hold."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_06",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Spacer Valve Mechanics, Tidal Breathing & Antistatic Delivery",
+    "stem": "A 68-year-old man with severe COPD and hand osteoarthritis struggles to coordinate canister depression with inhalation on his MDI and is given an Aeromate/Zerostat VT spacer. How do the spacer's one-way valve and holding chamber optimise aerosol delivery when he breathes slowly or takes tidal breaths?",
+    "options": [
+      "Valve locks shut during inspiration so all large propellant droplets enter the oropharynx",
+      "One-way valve holds suspended aerosol for several seconds while large droplets settle out",
+      "Warm aerosol heating coils inside the chamber vaporise steroid crystals before inhalation",
+      "Pressurised chamber forces simultaneous dual-puff boluses through closed vocal cords",
+      "Internal dry-cloth wiping polishes polycarbonate walls to boost drug-wall repulsion"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The petalled or FlowGate one-way valve opens during inhalation and closes during exhalation so exhaled air does not blow the suspended aerosol out of the chamber, while large droplets impact inside the chamber rather than the oropharynx.",
+      "Correct: The holding chamber slows the aerosol plume so propellant evaporates (reducing particle size) and large particles trap inside, while the one-way FlowGate or petalled valve suspends fine aerosol for several seconds to permit slow deep inhalation (or tidal breathing via mask) with 1 puff at a time and a 1-minute interval before the next dose.",
+      "Incorrect: Valved holding chambers are passive unheated plastic devices that rely on propellant evaporation and electrostatic control (via mild detergent washing and air-drying), not heating coils.",
+      "Incorrect: Actuating two puffs simultaneously causes aerosol collision and wall rain-out, cutting lung delivery; always actuate one puff at a time and wait 1 minute before shaking and repeating.",
+      "Incorrect: Wiping the interior with a dry cloth generates electrostatic charge that attracts drug particles onto the plastic walls instead of delivering them to the lungs."
+    ],
+    "clinicalPearl": "A valved holding chamber (Zerostat VT FlowGate valve / Aeromate petalled valve) removes hand-lung coordination barriers, evaporates propellant to shrink particle size, and cuts oral steroid deposition—provided you actuate 1 puff at a time (wait 1 min before the 2nd) and keep the plastic antistatic via detergent wash + air-drying.",
+    "guideCitation": {
+      "guideId": "guide_med_inhalers",
+      "guideTitle": "Guide for Inhalers & Spacer Devices",
+      "keyPoint": "One-way FlowGate/petalled valves retain suspended aerosol for slow or tidal inhalation while propellant evaporates and large droplets settle; give 1 puff at a time and wait 1 minute before repeating."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_07",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Bag-Valve-Mask (Ambu Bag) Reservoir & Pressure-Limiting Valve",
+    "stem": "During manual resuscitation of an apnoeic adult using a self-inflating Bag-Valve-Mask (Ambu bag) connected to wall oxygen at 15 L/min, which functional pairing accurately describes the roles of the oxygen reservoir bag and the pressure-limiting valve?",
+    "options": [
+      "Reservoir prevents ambient air dilution to raise FiO2; pop-off valve limits barotrauma",
+      "Reservoir vents expired carbon dioxide; pop-off valve increases positive end-expiratory pressure",
+      "Reservoir delivers fixed 24% Venturi flow; pop-off valve accelerates bag recoil speed",
+      "Reservoir stores patient expirate for rebreathing; pop-off valve shuts off oxygen inlet",
+      "Reservoir reduces delivered oxygen to 40%; pop-off valve bypasses the non-rebreathing valve"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Attaching an oxygen reservoir bag prevents ambient room-air dilution during bag recoil—raising delivered FiO2 from ~40–50% toward 85–100%—while the pressure-limiting (pop-off) valve vents excessive inspiratory pressure to protect against pulmonary barotrauma and gastric insufflation.",
+      "Incorrect: Expired carbon dioxide exits via the separate one-way patient expiration valve port rather than the oxygen reservoir bag, and PEEP requires a dedicated expiratory PEEP valve.",
+      "Incorrect: A fixed 24% oxygen concentration is delivered by a blue Venturi mask jet, whereas a BVM with reservoir at 15 L/min O2 delivers near-100% inspired oxygen.",
+      "Incorrect: The reservoir fills exclusively with fresh oxygen/air via the intake valve before recoil; expired gas is separated by the one-way patient valve so it is never rebreathed.",
+      "Incorrect: Without supplemental oxygen and a reservoir, a self-inflating bag delivers only 21% room air (or ~40–50% with O2 tubing alone); the reservoir increases, rather than reduces, FiO2."
+    ],
+    "clinicalPearl": "Know all four Ambu bag components from the Inhalers & Airway Guide diagram: (1) Reservoir bag + O2 inlet tube boosts FiO2 toward 85–100%; (2) One-way patient valve prevents CO2 rebreathing; (3) Pressure-limiting (pop-off) valve prevents barotrauma (though it may need overriding in severe bronchospasm/stiff lungs); (4) C-E mask grip maintains seal.",
+    "guideCitation": {
+      "guideId": "guide_med_inhalers",
+      "guideTitle": "Guide for Inhalers & Spacer Devices",
+      "keyPoint": "Ambu bag anatomy: oxygen reservoir bag prevents room-air entrainment to maximise FiO2, one-way patient valve vents expiration, and pressure-limiting valve prevents excess airway pressure."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_08",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Central Retinal Artery Occlusion — Cherry-Red Spot",
+    "stem": "A 69-year-old man with atrial fibrillation and carotid atherosclerosis develops sudden, painless, profound loss of vision in his left eye over minutes, with a left relative afferent pupillary defect. Direct ophthalmoscopy reveals a pale, milky-white retina, thread-like attenuated arterioles, and a prominent bright cherry-red spot at the fovea. What is the most likely diagnosis?",
+    "options": [
+      "Central retinal vein occlusion",
+      "Proliferative diabetic retinopathy",
+      "Exudative age-related macular degeneration",
+      "Central retinal artery occlusion",
+      "Anterior ischaemic optic neuropathy"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Central retinal vein occlusion produces a 'stormy sunset' fundus with markedly dilated, tortuous veins and extensive four-quadrant flame haemorrhages rather than a pale retina with attenuated arterioles.",
+      "Incorrect: Proliferative diabetic retinopathy presents with neovascularisation (new fragile vessels on the disc or retina), microaneurysms, and hard exudates rather than sudden cherry-red macular ischaemia.",
+      "Incorrect: Age-related macular degeneration causes gradual central visual distortion with macular drusen and abnormal retinal pigmentation rather than acute retinal pallor and a foveal cherry-red spot.",
+      "Correct: Central retinal artery occlusion (CRAO) causes acute inner retinal infarction and cloudy white ischaemic swelling; because the foveola lacks inner retinal layers, the underlying vascular choroid shines through as the classic 'cherry-red spot'.",
+      "Incorrect: Anterior ischaemic optic neuropathy causes sudden altitudinal visual loss with a pale, swollen optic disc rather than generalised milky retinal pallor and a foveal cherry-red spot."
+    ],
+    "clinicalPearl": "Classic CSS ophthalmoscopy contrast: CRAO = pale ischaemic retina + attenuated arteries + foveal 'cherry-red spot' (ophthalmic emergency; ocular massage/reduce IOP within hours + carotid/cardiac embolic workup), whereas CRVO = engorged tortuous veins + four-quadrant haemorrhages ('stormy sunset').",
+    "guideCitation": {
+      "guideId": "guide_med_retina",
+      "guideTitle": "Retina & Fundoscopy OSCE Guide",
+      "keyPoint": "Acute painless monocular blindness with pale ischaemic retina, attenuated arterioles, and a foveal cherry-red spot indicates central retinal artery occlusion."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_09",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Grade IV (Malignant) Hypertensive Retinopathy",
+    "stem": "A 48-year-old man with poorly compliant hypertension presents with severe occipital headache, blurred vision, and a blood pressure of 228/134 mmHg. Fundoscopy demonstrates narrowed, tortuous silver-wired arterioles with arteriovenous nipping, flame-shaped haemorrhages, hard exudates forming a macular star, and bilateral optic disc swelling. Which grade of hypertensive retinopathy and immediate management priority apply?",
+    "options": [
+      "Grade II retinopathy; discharge with oral amlodipine and routine clinic follow-up",
+      "Grade III retinopathy; rapid intravenous nitroprusside to normalise BP within 1 hour",
+      "Grade IV retinopathy; controlled parenteral BP reduction over hours to prevent ischaemia",
+      "Grade I retinopathy; oral furosemide monotherapy and repeat fundoscopy in 6 months",
+      "Background diabetic maculopathy; urgent panretinal laser photocoagulation alone"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Grade II hypertensive retinopathy shows only arteriolar narrowing and AV nipping without haemorrhages, macular star exudates, or optic disc swelling; outpatient management would be unsafe in malignant hypertension.",
+      "Incorrect: The presence of bilateral papilloedema upgrades hypertensive retinopathy from Grade III to Grade IV, and dropping blood pressure precipitously to normal within 1 hour risks watershed cerebral or optic nerve infarction.",
+      "Correct: Narrowed tortuous vessels, flame haemorrhages, a 'macular star' exudate pattern, and bilateral papilloedema define Grade IV (malignant/accelerated) hypertensive retinopathy, requiring admission for controlled parenteral antihypertensive reduction (typically <=25% MAP drop in the first hours).",
+      "Incorrect: Grade I manifests solely as mild generalised arteriolar narrowing/silver wiring, and diuretic monotherapy is wholly inadequate for a hypertensive emergency.",
+      "Incorrect: While diabetes can cause hard exudates, silver-wired arterioles, AV nipping, macular star formation, and bilateral papilloedema at 228/134 mmHg are hallmarks of accelerated hypertension rather than isolated diabetic maculopathy."
+    ],
+    "clinicalPearl": "Remember Keith-Wagener-Barker hypertensive retinopathy grading from the Retina OSCE Guide: Grade I = arteriolar narrowing/silver wiring; Grade II = AV nipping; Grade III = haemorrhages + cotton-wool spots + macular star; Grade IV = Grade III + bilateral papilloedema (hypertensive emergency).",
+    "guideCitation": {
+      "guideId": "guide_med_retina",
+      "guideTitle": "Retina & Fundoscopy OSCE Guide",
+      "keyPoint": "Advanced hypertensive retinopathy features narrow tortuous arterioles, haemorrhages, 'starburst' macular exudates, and papilloedema (Grade IV / malignant hypertension)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_10",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Proliferative Diabetic Retinopathy & Photocoagulation",
+    "stem": "A 57-year-old man with a 16-year history of poorly controlled type 2 diabetes mellitus attends annual eye screening and is asymptomatic. Fundoscopy reveals dot-and-blot haemorrhages, cotton-wool spots, and fine tufts of fragile abnormal vessels growing over the optic disc and superior temporal arcade. Which stage of diabetic retinopathy is present, and which treatment prevents vitreous haemorrhage?",
+    "options": [
+      "Mild background retinopathy; strict glycaemic monitoring without ocular intervention",
+      "Pre-proliferative retinopathy; systemic antiplatelet therapy and annual screening",
+      "Hypertensive maculopathy; immediate bilateral cataract lens extraction",
+      "Optic nerve atrophy; high-dose oral prednisolone pulse therapy",
+      "Proliferative diabetic retinopathy; panretinal laser photocoagulation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Mild background diabetic retinopathy features only microaneurysms and small dot-and-blot haemorrhages without cotton-wool spots or neovascularisation.",
+      "Incorrect: Pre-proliferative retinopathy displays venous beading, intraretinal microvascular abnormalities, and cotton-wool spots, but once frank new vessel formation (neovascularisation) appears, the disease has progressed to proliferative retinopathy.",
+      "Incorrect: Fragile neovascular fronds at the optic disc and temporal arcades in a long-standing diabetic patient represent VEGF-driven retinal neovascularisation rather than hypertensive maculopathy, and cataract extraction does not halt retinal hypoxia.",
+      "Incorrect: Optic atrophy presents as a pale, sharply demarcated optic disc with progressive visual loss rather than proliferative vascular tufts, and systemic steroids worsen glycaemia.",
+      "Correct: New vessel formation on the optic disc (NVD) or elsewhere on the retina (NVE) defines proliferative diabetic retinopathy (PDR); panretinal laser photocoagulation (PRP) ablates ischaemic peripheral retina to regress neovascularisation and prevent vitreous haemorrhage or tractional detachment."
+    ],
+    "clinicalPearl": "In the Kelaniya Retina OSCE Guide slides (Slides 7–12), spot the progression: microaneurysms/haemorrhages (Mild Background) -> hard exudates (Background) -> soft exudates/preretinal subhyaloid haemorrhage (Pre-proliferative) -> new vessels (Proliferative DR) -> peripheral laser burn scars (Panretinal Photocoagulation).",
+    "guideCitation": {
+      "guideId": "guide_med_retina",
+      "guideTitle": "Retina & Fundoscopy OSCE Guide",
+      "keyPoint": "Proliferative diabetic retinopathy is defined by retinal or optic-disc neovascularisation and treated with panretinal laser photocoagulation to prevent vitreous haemorrhage."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_11",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "ORS Preparation, 24-Hour Discard Rule & Vomiting Protocol",
+    "stem": "A 28-year-old mother is prescribed WHO Oral Rehydration Salts (20.5 g packet) for acute watery diarrhoea with mild dehydration and two episodes of vomiting. Which counselling instruction accurately follows the Kelaniya ORS protocol regarding solution preparation, vomiting, and storage?",
+    "options": [
+      "Dissolve in 1 L clean drinking water; wait 10 min after vomiting and discard after 24 h",
+      "Boil dissolved ORS for 5 minutes; give large boluses after vomiting and store for 48 h",
+      "Dissolve in 500 mL warm milk; stop ORS permanently after any vomit and keep for 12 h",
+      "Mix 1 packet in 2 L tap water; give chilled juice instead of ORS and store for 72 h",
+      "Dissolve in 1 L boiled cooled water; add extra table salt if vomiting persists beyond 4 h"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per the CSS ORS Guide, dissolve 1 packet (20.5 g) in 1 litre of clean drinking water (no boiling of the mixed solution is needed), give small frequent sips/teaspoons (waiting 10 minutes before restarting if vomiting occurs), and discard any unused solution after 24 hours.",
+      "Incorrect: Boiling the prepared ORS concentrates electrolytes abnormally and is unnecessary when using clean drinking water; large rapid gulps worsen vomiting, and prepared ORS must never be kept for 48 hours.",
+      "Incorrect: ORS must always be reconstituted in 1 litre of clean water (never milk or half-volume, which causes hypernatraemia), and a single episode of vomiting only calls for a 10-minute pause before resuming slow teaspoon sips.",
+      "Incorrect: Diluting 1 packet into 2 litres halves the sodium and glucose concentrations needed for SGLT1 co-transport, and sugary juices can aggravate osmotic diarrhoea.",
+      "Incorrect: Adding extra table salt creates dangerous hypernatraemic dehydration; persistent severe vomiting requires switching to intravenous fluids rather than altering ORS concentration."
+    ],
+    "clinicalPearl": "Essential Kelaniya ORS counselling checklist: 1 packet (20.5 g) in 1 L clean drinking water (do not boil once mixed), give 1–2 teaspoons every 2–3 min in young children, wait 10 minutes after vomiting then resume slowly, and discard any leftover solution after 24 hours.",
+    "guideCitation": {
+      "guideId": "guide_med_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions",
+      "keyPoint": "Prepare 1 packet in 1 L clean drinking water, pause 10 minutes after vomiting before resuming slow small sips, and discard unused ORS after 24 hours."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_12",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Contraindications to Oral Rehydration & Switch to IV Fluids",
+    "stem": "A 62-year-old man admitted with profuse cholera-like watery diarrhoea initially started on oral rehydration therapy becomes drowsy and lethargic, develops progressive abdominal distension with absent bowel sounds, and continues to pass high-volume rice-water stools. What is the immediate fluid management priority?",
+    "options": [
+      "Increase oral ORS volume to 1 litre per hour via cup sips",
+      "Administer oral loperamide alongside double-strength ORS packets",
+      "Discontinue ORS and initiate urgent intravenous crystalloid rehydration",
+      "Insert a large-bore nasogastric tube for rapid high-rate ORS bolus",
+      "Withhold all fluids for 6 hours until bowel sounds return spontaneously"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Altered mental status carries a high risk of pulmonary aspiration during oral drinking, and paralytic ileus prevents effective intestinal absorption of ORS.",
+      "Incorrect: Antimotility drugs are contraindicated in severe secretory diarrhoea/ileus, and double-strength ORS worsens hypernatraemia and osmotic fluid shifts.",
+      "Correct: Per the CSS ORS Guide, altered mental status (aspiration risk), abdominal/paralytic ileus, severe malabsorption, intractable vomiting, or excessive stool output failing oral rehydration mandate immediate conversion from ORS to intravenous hydration (isotonic crystalloid such as Ringer's lactate or 0.9% saline).",
+      "Incorrect: Nasogastric ORS boluses are contraindicated in paralytic ileus because luminal fluid pooling promotes vomiting and aspiration.",
+      "Incorrect: Withholding fluid resuscitation in ongoing severe secretory diarrhoea precipitates fatal hypovolaemic shock and acute kidney injury."
+    ],
+    "clinicalPearl": "Know the 3 absolute limitations of ORS and 2 switch triggers from the Kelaniya ORS Guide: avoid oral therapy in (1) altered mental status (aspiration risk), (2) paralytic ileus, and (3) intestinal malabsorption (short gut/carbohydrate malabsorption); switch promptly to IV fluids if stool losses outpace intake or vomiting is persistent.",
+    "guideCitation": {
+      "guideId": "guide_med_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions",
+      "keyPoint": "Altered mental status, abdominal ileus, severe malabsorption, persistent vomiting, or high stool losses failing ORT require immediate switch from ORS to IV rehydration."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_13",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Hyperkalaemia ECG Progression & Immediate Membrane Stabilisation",
+    "stem": "A 64-year-old man with oliguric acute-on-chronic kidney disease develops progressive muscle weakness and a serum potassium of 7.4 mmol/L. His 12-lead ECG reveals tall, narrow, peaked T waves, flattened P waves, prolonged PR interval, and widening QRS complexes. Which immediate intravenous drug stabilises the cardiac membrane, and what terminal ECG rhythm ensues if untreated?",
+    "options": [
+      "IV insulin with 50% dextrose; torsades de pointes with polymorphic twisting",
+      "IV 10% calcium gluconate; sine-wave pattern degenerating into ventricular fibrillation",
+      "IV sodium bicarbonate; progressive QT prolongation with prominent U waves",
+      "Nebulised salbutamol 5 mg; fixed Wenckebach PR prolongation without QRS widening",
+      "IV magnesium sulphate 2 g; high-amplitude P pulmonale with short PR interval"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Insulin-dextrose shifts potassium intracellularly over 15–30 minutes but does not immediately antagonise myocardial membrane excitability; torsades de pointes is classically driven by hypokalaemia, hypomagnesaemia, and long QT rather than hyperkalaemia.",
+      "Correct: IV 10% calcium gluconate (10 mL over 2–5 minutes) immediately restores the resting-to-threshold cardiac membrane potential gradient without lowering serum K+; untreated hyperkalaemia progresses from tall peaked T waves -> PR lengthening/absent P waves -> QRS widening -> sine wave -> VF/asystole.",
+      "Incorrect: Prominent U waves and QT prolongation are hallmarks of hypokalaemia (contrasted with hyperkalaemia in the ECG OSCE slides), and sodium bicarbonate is only an adjunct in severe metabolic acidosis.",
+      "Incorrect: Nebulised salbutamol shifts potassium intracellularly but is not a direct myocardial membrane stabiliser and does not replace IV calcium when QRS widening is already present.",
+      "Incorrect: IV magnesium sulphate treats torsades de pointes (hypomagnesaemia/long QT), not hyperkalaemic QRS widening."
+    ],
+    "clinicalPearl": "Memorise the hyperkalaemia ECG ladder from the Kelaniya ECG OSCE Deck: peaked tented T waves -> prolonged PR & flattened/lost P waves -> widened QRS -> sine wave -> VF/asystole; always give IV 10% calcium gluconate FIRST when ECG changes appear (protects the heart in 1–3 min while insulin-dextrose/salbutamol lowers K+).",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "Hyperkalaemia progresses sequentially from peaked T waves and P-wave flattening to QRS widening and sine-wave arrest, requiring urgent IV calcium gluconate membrane stabilisation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_14",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Atrial Flutter vs Atrial Fibrillation — ECG & Rate Calculation",
+    "stem": "A 66-year-old man with ischaemic heart disease presents with sudden palpitations and a regular pulse of 150 bpm. His 12-lead ECG demonstrates a regular narrow-complex tachycardia with continuous saw-tooth negative deflections at 300/min in leads II, III, and aVF and no flat isoelectric baseline. How does this rhythm differ from atrial fibrillation, including rate estimation?",
+    "options": [
+      "Atrial flutter shows irregular R-R intervals; AFib rate uses saw-tooth F waves divided by 2",
+      "Atrial flutter shows discrete P waves at 150/min; AFib has regular R-R at 100/min",
+      "Atrial flutter exhibits delta waves; AFib shows wide QRS with concordant ST elevation",
+      "Atrial flutter has regular 2:1 AV block; AFib has chaotic baseline with narrow QRS",
+      "Atrial flutter shows saw-tooth F waves (~300/min); AFib uses 10-s QRS count x 6"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Typical atrial flutter has regular R-R intervals (unless variable AV block occurs), whereas atrial fibrillation is characterised by irregularly irregular R-R intervals without saw-tooth flutter waves.",
+      "Incorrect: Atrial flutter displays macro-reentrant saw-tooth flutter (F) waves at ~300 bpm rather than discrete sinus P waves with flat baselines, and AFib is irregularly irregular rather than fixed at 100/min.",
+      "Incorrect: Delta waves and short PR intervals belong to Wolff-Parkinson-White pre-excitation rather than typical atrial flutter.",
+      "Incorrect: Although atrial flutter often conducts 2:1 (~150 bpm) and AFib has a chaotic fibrillatory baseline, this option omits the diagnostic saw-tooth flutter morphology (~300/min, absent isoelectric baseline) and 10-second rate rule taught in the guide.",
+      "Correct: Per the ECG OSCE Slide Deck, typical atrial flutter shows ~300/min saw-tooth F waves without a flat baseline (often conducting 2:1 to yield ~150 bpm), whereas atrial fibrillation has irregularly irregular R-R intervals without P waves—best quantified by counting QRS complexes on a 10-second strip and multiplying by 6."
+    ],
+    "clinicalPearl": "Whenever a resting ECG shows a regular narrow-complex tachycardia near 150 bpm, always suspect Atrial Flutter with 2:1 AV block (atrial rate ~300 bpm, saw-tooth F waves, no flat baseline in II/III/aVF); for irregular Atrial Fibrillation, count QRS complexes across a standard 10-second strip and multiply by 6.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "Atrial flutter shows ~300/min saw-tooth F waves with no flat baseline (commonly 2:1 block at ~150 bpm), whereas AFib has irregularly irregular R-R intervals calculated on a 10-second strip by multiplying QRS count by 6."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_15",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Monomorphic Ventricular Tachycardia vs SVT Management",
+    "stem": "A 68-year-old man with a previous anterior myocardial infarction presents with sudden dyspnoea, diaphoresis, and BP 82/50 mmHg. His ECG shows a regular tachycardia at 180 bpm with broad, bizarre QRS complexes (160 ms), discordant T waves, and independent P waves marching through the strip. What is the rhythm and immediate treatment?",
+    "options": [
+      "Supraventricular tachycardia with aberration; IV verapamil 5 mg bolus",
+      "Atrial flutter with 1:1 conduction; carotid sinus massage and oral digoxin",
+      "Monomorphic ventricular tachycardia; immediate vagal manoeuvres alone",
+      "Monomorphic ventricular tachycardia; urgent synchronised DC cardioversion",
+      "Polymorphic torsades de pointes; unsynchronised 360 J defibrillation shock"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: AV dissociation (independent P waves) and prior MI strongly confirm ventricular tachycardia rather than SVT; furthermore, IV verapamil in VT precipitates severe hypotension and cardiac arrest.",
+      "Incorrect: Flutter with 1:1 conduction does not exhibit AV dissociation with independent slower P waves, and digoxin/vagal manoeuvres are ineffective and unsafe in haemodynamically unstable broad-complex tachycardia.",
+      "Incorrect: While the rhythm is monomorphic VT, vagal manoeuvres act only on the AV node and have no effect on a ventricular re-entry circuit, especially in a hypotensive patient.",
+      "Correct: Regular broad-complex tachycardia (>120 ms) with abnormal QRS morphology, discordant T waves, and AV dissociation in ischaemic heart disease is monomorphic VT; with hypotension (BP 82/50 mmHg), immediate synchronised DC cardioversion (under sedation) is mandatory.",
+      "Incorrect: Polymorphic torsades de pointes features QRS complexes twisting continuously in axis/amplitude around the baseline rather than uniform monomorphic complexes, and unstable monomorphic VT with a pulse receives synchronised cardioversion."
+    ],
+    "clinicalPearl": "In the Kelaniya ECG OSCE Deck, treat any wide, abnormal-shaped regular tachycardia in a patient with structural heart disease as Ventricular Tachycardia until proven otherwise—NEVER administer IV verapamil, and perform immediate synchronised DC cardioversion if haemodynamically unstable.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "Ventricular tachycardia produces wide abnormal QRS complexes with discordant T waves and AV dissociation, requiring urgent synchronised DC cardioversion when haemodynamically compromised."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_16",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Wolff-Parkinson-White Syndrome — Delta Wave & AF Pitfall",
+    "stem": "A 24-year-old man evaluated for recurrent paroxysmal palpitations has a resting sinus ECG showing a short PR interval (90 ms), a slurred initial QRS upstroke (delta wave), widened QRS complexes, and dominant R waves in lead V1. Why does this pre-excitation occur, and which drug class is hazardous if he develops atrial fibrillation?",
+    "options": [
+      "Accessory Bundle of Kent bypasses AV node; avoid AV-nodal blockers",
+      "His-Purkinje bundle delay slows conduction; avoid oral potassium supplements",
+      "Dual AV-nodal pathway accelerates exit; avoid intravenous amiodarone infusion",
+      "Sinoatrial exit block triggers escape; avoid oral Class IC antiarrhythmics",
+      "Left anterior fascicular fibrosis; avoid direct-acting oral anticoagulants"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: In Wolff-Parkinson-White (WPW) syndrome, an accessory atrioventricular pathway (Bundle of Kent) bypasses the physiological AV nodal delay, producing a short PR interval and slurred delta wave; if AF develops, AV-nodal blockers (verapamil, adenosine, digoxin, beta-blockers) are contraindicated as they funnel all atrial impulses down the accessory tract into VF.",
+      "Incorrect: WPW represents accelerated ventricular pre-excitation via an accessory tract rather than slowed His-Purkinje delay, and potassium supplements are unrelated to accessory-pathway conduction.",
+      "Incorrect: Dual AV-nodal pathways cause typical AVNRT (narrow QRS, no baseline delta wave), not WPW pre-excitation with delta waves.",
+      "Incorrect: Sinoatrial exit block causes pauses/bradycardia rather than short PR and delta waves, and Class IC drugs (flecainide/procainamide) actually slow accessory pathway conduction when structurally normal.",
+      "Incorrect: Left anterior fascicular block causes left axis deviation without short PR or delta waves, and anticoagulants do not alter accessory pathway conduction."
+    ],
+    "clinicalPearl": "Remember WPW OSCE pearls from the ECG Slide Deck: Bundle of Kent bypasses AV nodal delay -> short PR (<120 ms) + slurred delta wave + wide QRS (Type A = positive R in V1); NEVER give AV-nodal blockers (adenosine, verapamil, digoxin, beta-blockers) in pre-excited AF because unopposed accessory conduction can trigger VF.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "WPW syndrome arises from an accessory Bundle of Kent bypassing the AV node (short PR, delta wave, wide QRS); AV-nodal blockers are dangerous in pre-excited AF due to VF risk."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_17",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Inferior & Posterior STEMI Localisation and ECG Calibration",
+    "stem": "A 61-year-old man presents with crushing central chest pain for 60 minutes. On a standard ECG (25 mm/s paper speed, 10 mm/mV calibration), leads II, III, and aVF show 2 mm convex ST elevation, while leads V1 and V2 show 2 mm horizontal ST depression with tall broad R waves. Which territory is involved, and what confirmatory leads should be recorded?",
+    "options": [
+      "Isolated anteroseptal STEMI; repeat standard precordial leads after 2 hours",
+      "High lateral STEMI; record leads I and aVL at 50 mm/s paper speed",
+      "Inferior and posterior STEMI; record posterior V7–V9 and right-sided V4R leads",
+      "Acute viral pericarditis; record serial ECGs after starting oral ibuprofen",
+      "Benign early repolarisation; verify 0.04 s small-square calibration in lead aVR"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Anteroseptal STEMI produces ST elevation in V1–V4 rather than horizontal ST depression with tall R waves in V1–V2, and serial ECGs in suspected ACS are repeated every 5–10 minutes (never delayed 2 hours).",
+      "Incorrect: High lateral STEMI localises to leads I and aVL (not II, III, aVF), and 50 mm/s doubles paper speed (halving apparent beat spacing) without adding posterior chest views.",
+      "Correct: At standard calibration (25 mm/s: 1 small box = 0.04 s, 1 large box = 0.20 s; 10 mm/mV: 1 mm = 0.1 mV), >1 mm ST elevation in II, III, and aVF localises to the inferior wall while tall R waves and horizontal ST depression in V1–V2 indicate posterior MI—confirmed with V7–V9 (plus V4R to check RV involvement before giving nitrates).",
+      "Incorrect: Acute pericarditis produces diffuse concave ST elevation with PR depression and no focal reciprocal territory changes or tall R waves in V1–V2.",
+      "Incorrect: Early repolarisation occurs as benign J-point notching/concave ST elevation in young healthy individuals without focal inferior ST elevation and reciprocal/posterior depression."
+    ],
+    "clinicalPearl": "In the ECG Reference & Emergencies Guide, posterior MI presents as an anterior mirror image in V1–V2 (tall R wave + horizontal ST depression) and is treated as a STEMI; always pair inferior STEMI (II, III, aVF) with V7–V9 (posterior) and V4R (right ventricle) at standard 25 mm/s (1 small box = 0.04 s) and 10 mm/mV (1 mm = 0.1 mV) calibration.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Inferior STEMI (>0.1 mV ST elevation in II, III, aVF) with tall R waves and ST depression in V1–V2 indicates posterior wall involvement requiring V7–V9 confirmation and urgent reperfusion."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_18",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Acute Pulmonary Embolism — ECG Pattern & Differential",
+    "stem": "A 55-year-old woman 8 days post-total hip arthroplasty develops acute dyspnoea, pleuritic chest pain, and SpO2 87% on room air. Her 12-lead ECG reveals sinus tachycardia at 118 bpm, a deep S wave in lead I, a Q wave and inverted T wave in lead III (S1Q3T3), and T-wave inversions across leads V1–V4. Which statement best explains these ECG findings?",
+    "options": [
+      "Left circumflex occlusion causing lateral ischaemia; requires urgent thrombolysis",
+      "Acute right ventricular strain from pulmonary embolism; sinus tachycardia is commonest",
+      "Normal early repolarisation in athletes; exclude underlying structural heart disease",
+      "Post-infarction left ventricular aneurysm; shows persistent precordial ST elevation",
+      "Takotsubo stress cardiomyopathy; confirmed solely by prolonged PR depression in aVR"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Lateral ischaemia involves I, aVL, V5–V6 rather than right-sided strain (S1Q3T3 and V1–V4 T-wave inversions), and standard systemic thrombolysis is reserved for massive PE with shock rather than routine chest pain without confirming PE.",
+      "Correct: Per the ECG Reference & Emergencies Guide, acute pulmonary embolism is a major STEMI/ischaemia imposter; sinus tachycardia is the most frequent ECG abnormality, while S1Q3T3 and anterior T-wave inversions (V1–V4) reflect acute right ventricular strain.",
+      "Incorrect: Benign early repolarisation shows J-point elevation in young healthy individuals, never acute postoperative hypoxia with tachycardia and RV strain.",
+      "Incorrect: Left ventricular aneurysm manifests as persistent ST-segment elevation weeks to months after an anterior myocardial infarction rather than acute postoperative S1Q3T3.",
+      "Incorrect: Takotsubo cardiomyopathy mimics anterior STEMI/T-wave inversion following severe emotional/medical stress and shows apical ballooning with clean coronaries, whereas PR elevation in aVR belongs to acute pericarditis."
+    ],
+    "clinicalPearl": "Remember the PE ECG pearls from the ECG Reference Guide: SINUS TACHYCARDIA is the most common ECG finding in pulmonary embolism, while S1Q3T3 and anterior V1–V4 T-wave inversions signal acute right ventricular pressure overload (so never mistake V1–V4 TWI for LAD ischaemia in a hypoxic postoperative patient).",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Pulmonary embolism acts as an ECG imposter producing sinus tachycardia (most common), S1Q3T3, and anterior V1–V4 T-wave inversions from acute right ventricular strain."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_19",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Complete Heart Block vs Mobitz Type I & II AV Block",
+    "stem": "A 74-year-old man presents with recurrent syncope and a regular pulse of 34 bpm with BP 86/54 mmHg. On his ECG (25 mm/s), P waves march regularly at 88/min and QRS complexes (width 140 ms) occur regularly at 34/min with completely variable PR intervals and no consistent coupling between P waves and QRS complexes. Which rhythm is present, and how is it distinguished from Mobitz type II block?",
+    "options": [
+      "First-degree AV block; every P wave conducts with fixed PR >0.20 s",
+      "Mobitz type I Wenckebach; progressive PR prolongation precedes each dropped beat",
+      "Sinus bradycardia; regular P waves precede every QRS with constant normal PR",
+      "Mobitz type II block; constant PR precedes intermittent dropped QRS complexes",
+      "Third-degree complete heart block; AV dissociation with independent escape beat"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: In first-degree AV block, every P wave is conducted to the ventricles (1:1 conduction) with a fixed PR interval >0.20 seconds (>5 small boxes at 25 mm/s).",
+      "Incorrect: Mobitz type I (Wenckebach) shows progressive PR lengthening from beat to beat until one P wave fails to conduct, creating grouped beating rather than complete AV dissociation.",
+      "Incorrect: Sinus bradycardia maintains 1:1 AV conduction where every P wave is followed by a QRS at a constant normal PR interval (0.12–0.20 s).",
+      "Incorrect: Mobitz type II shows a constant PR interval on all conducted beats before an intermittent non-conducted P wave, whereas here no P wave conducts at all and atrial and ventricular rates are completely independent.",
+      "Correct: Complete (3rd-degree) heart block exhibits total AV dissociation—atrial P waves and a slow regular ventricular escape rhythm beat independently with no fixed PR relationship—requiring urgent pacing, unlike Mobitz II where conducted beats retain a constant PR."
+    ],
+    "clinicalPearl": "Distinguish the AV blocks rapidly at 25 mm/s (1 large square = 0.20 s): 1st degree = fixed PR >0.20 s, all conducted; Mobitz I = progressive PR lengthening then dropped beat; Mobitz II = constant PR then sudden dropped beat (high risk -> pace); 3rd-degree CHB = complete AV dissociation (regular P-P, regular slow R-R, varying PR -> immediate pacing).",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Third-degree (complete) heart block shows total AV dissociation with independent regular P-P and slow escape R-R intervals, contrasting with constant-PR dropped beats in Mobitz II and progressive PR lengthening in Mobitz I."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_20",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "GCS Special Notations ('C' & 'T') and Pain Application Rules",
+    "stem": "A 33-year-old motorcyclist with facial fractures is orotracheally intubated on mechanical ventilation and has severe bilateral periorbital swelling completely preventing eyelid opening. When painful pressure is applied to his nail bed, his right arm withdraws purposefully while his left arm remains flaccid. How should his Glasgow Coma Scale be documented, and what rule governs testing eye opening to pain?",
+    "options": [
+      "Document as E_C V_T M4; never apply painful stimuli to the face",
+      "Document as E1 V1 M4; test eye opening using firm supraorbital facial pressure",
+      "Document as E_C V1 M1; record the worst limb motor response observed",
+      "Document as E1 V_T M4; stimulate eyelids manually to force orbital opening",
+      "Document as E_C V_T M6; intubated patients automatically receive maximum verbal score"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per standard GCS protocol, unassessable eyes closed by severe periorbital oedema are recorded as 'C' (E_C) and an intubated/tracheostomised airway is recorded as 'T' (V_T) rather than scoring 1; best limb motor response is recorded (withdrawal = M4), and painful stimuli for eye opening must not be applied to the face.",
+      "Incorrect: Assigning E1 or V1 falsely implies absent brainstem/cortical eye or verbal responsiveness when assessment is blocked mechanically, and the GCS Guide explicitly specifies painful stimuli for eye opening should not be applied to the face.",
+      "Incorrect: Recording V1 ignores intubation ('T') and recording M1 (the worst limb) violates the core GCS rule to always score the BEST motor response across limbs.",
+      "Incorrect: E1 misclassifies mechanically swollen eyes, and forcing swollen traumatised eyelids open risks aggravating globe injury.",
+      "Incorrect: Intubated patients are scored 'T' (not V1 or V5), and M6 applies solely when the patient obeys verbal/written commands (not withdrawal to pain, M4)."
+    ],
+    "clinicalPearl": "Two high-yield Kelaniya GCS documentation traps: (1) Record 'C' for eyes shut by local swelling and 'T' for intubated/tracheostomy patients—never guess '1'; (2) Always record the BEST motor response across limbs, and never apply painful stimuli directly to the face when testing eye opening.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "Use 'C' when periorbital swelling prevents eye opening and 'T' for intubated verbal assessment; score best limb motor response and do not apply facial pain for eye opening."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_21",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "GCS Motor Subscale Differentiation & Moderate Head Injury",
+    "stem": "A 50-year-old man struck on the head during a fall opens his eyes when his name is called loudly, speaks in full sentences that are confused and disoriented in time and place, and brings his hand up above the clavicle to push away a firm trapezius pinch. What is his GCS score and head injury severity category?",
+    "options": [
+      "GCS 11/15 (E3 V4 M4); mild head injury",
+      "GCS 12/15 (E3 V3 M6); moderate head injury",
+      "GCS 13/15 (E4 V4 M5); mild head injury",
+      "GCS 12/15 (E3 V4 M5); moderate head injury",
+      "GCS 10/15 (E2 V4 M4); severe head injury"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Pulling away without crossing midline/reaching the stimulus site is M4 (withdrawal), whereas purposefully bringing the hand above the clavicle to push away a central trapezius stimulus is M5 (localising); moreover, GCS 11 is moderate (9–12), not mild.",
+      "Incorrect: Confused full conversation scores V4 (inappropriate single words = V3), and pushing away pain without obeying commands scores M5 rather than M6.",
+      "Incorrect: E4 requires spontaneous eye opening with baseline blinking; opening eyes only when spoken to scores E3.",
+      "Correct: Per the GCS OSCE Guide, eye opening to verbal command scores E3, confused conversation scores V4, and purposeful movement to central painful stimulus (localising) scores M5, giving 12/15—classified as moderate head injury (GCS 9–12).",
+      "Incorrect: E2 is eye opening to pain, M4 is withdrawal, and severe head injury (coma) is strictly defined as GCS 8 or less."
+    ],
+    "clinicalPearl": "Distinguish the upper motor tiers cleanly on the ward: M6 obeys commands, M5 crosses midline / reaches above clavicle to push away a central stimulus (trapezius/supraorbital), M4 simply withdraws limb away from pain, M3 shows slow decorticate elbow flexion, and M2 shows decerebrate extension (pronation + elbow extension); Moderate head injury = GCS 9–12.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "E3 (to speech) + V4 (confused conversation) + M5 (purposeful localising movement to pain) = GCS 12/15, classified as Moderate Head Injury (9–12)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_22",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Non-Shockable Cardiac Arrest (PEA / Asystole) Management",
+    "stem": "A 65-year-old inpatient suddenly becomes unresponsive and stops breathing, with an absent carotid pulse. Chest compressions (30:2) are started immediately and defibrillator pads reveal a flat-line trace confirmed in two leads with intact connections and high gain. What is the correct immediate pharmacological and electrical sequence?",
+    "options": [
+      "Give 200 J unsynchronised DC shock immediately, then reassess rhythm in 2 minutes",
+      "Continue CPR, give IV adrenaline 1 mg immediately, and treat reversible 4 Hs/4 Ts",
+      "Administer IV amiodarone 300 mg bolus first, followed by synchronised 100 J shock",
+      "Give IV atropine 3 mg single bolus and defer chest compressions for pacing",
+      "Withhold adrenaline until three consecutive 2-minute CPR cycles are completed"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Asystole and pulseless electrical activity (PEA) are non-shockable rhythms; delivering DC shocks pauses chest compressions unnecessarily without restoring perfusion.",
+      "Correct: For non-shockable cardiac arrest (asystole or PEA), do NOT defibrillate—maintain uninterrupted high-quality CPR (30:2), administer IV/IO adrenaline 1 mg (10 mL of 1:10,000) as soon as access is obtained (and every 3–5 minutes), and aggressively reverse the 4 Hs and 4 Ts.",
+      "Incorrect: Amiodarone 300 mg is reserved for shock-refractory VF/pulseless VT (after the 3rd shock), and synchronised shocks are never used in asystole.",
+      "Incorrect: High-dose atropine is no longer recommended for routine adult asystole/PEA management, and interrupting CPR worsens cerebral and coronary perfusion.",
+      "Incorrect: Deferring adrenaline until after the 3rd shock applies to shockable VF/pVT rhythms; in non-shockable PEA/asystole, adrenaline 1 mg is given immediately once IV/IO access is established."
+    ],
+    "clinicalPearl": "Memorise the shockable vs non-shockable split: VF/pVT -> immediate shock + adrenaline/amiodarone after 3rd shock; PEA/Asystole -> NO shock, immediate IV adrenaline 1 mg every 3–5 min, uninterrupted 30:2 CPR, and hunt the 4 Hs (Hypoxia, Hypovolaemia, Hypo/Hyperkalaemia, Hypothermia) & 4 Ts (Tension pneumothorax, Tamponade, Toxins, Thrombosis).",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Adult resuscitation requires uninterrupted 30:2 CPR, immediate adrenaline and reversible-cause correction in non-shockable arrests rather than inappropriate defibrillation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_23",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Acute Foreign-Body Choking Management Protocol",
+    "stem": "While eating in the ward dining area, a 45-year-old man suddenly clutches his neck, becomes cyanotic, and cannot speak, breathe, or produce an audible cough. According to the Emergency Medicine OSCE first-aid algorithm, what is the immediate intervention while he remains conscious?",
+    "options": [
+      "Perform blind deep finger sweeps inside the pharynx to dislodge food",
+      "Encourage forceful coughing alone without touching the chest or abdomen",
+      "Deliver up to 5 sharp back blows alternating with 5 abdominal thrusts",
+      "Place immediately into the left lateral recovery position and give water",
+      "Begin immediate 30:2 chest compressions while the patient stands upright"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Blind finger sweeps are contraindicated because they can push a supraglottic foreign body deeper into the larynx and cause mucosal trauma.",
+      "Incorrect: Encouraging coughing is appropriate only in MILD airway obstruction when the patient can speak and cough effectively; silent/ineffective cough with cyanosis signals severe obstruction.",
+      "Correct: Per the Emergency Medicine OSCE Guide, a conscious adult with severe choking (unable to speak or cough effectively) requires up to 5 sharp back blows between the shoulder blades alternating with 5 abdominal thrusts (Heimlich manoeuvre) until the obstruction clears or the patient loses consciousness.",
+      "Incorrect: The recovery position is used for an unconscious breathing patient without suspected cervical trauma, and giving water during airway obstruction worsens aspiration.",
+      "Incorrect: Standard 30:2 CPR is initiated supine only if the choking victim collapses and becomes unconscious."
+    ],
+    "clinicalPearl": "Follow the Kelaniya Emergency Medicine choking cascade: Mild obstruction (effective cough) -> encourage coughing; Severe obstruction (silent cough/cyanotic, conscious) -> alternate 5 back blows & 5 abdominal thrusts (Heimlich manoeuvre); Unconscious -> call for help and start 30:2 CPR.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Choking first aid: encourage coughing if mild; in severe obstruction while conscious, alternate sharp back blows with Heimlich abdominal thrusts."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_24",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Acute-on-Chronic Type 2 Respiratory Failure & Controlled Oxygen",
+    "stem": "A 66-year-old lifelong smoker with severe COPD presents with worsening purulent sputum and drowsiness. Room-air ABG reveals pH 7.32, PaO2 52 mmHg, PaCO2 64 mmHg, and actual HCO3- 32 mmol/L. Which acid-base and respiratory classification is present, and what initial oxygen delivery strategy is appropriate?",
+    "options": [
+      "Acute-on-chronic Type 2 respiratory failure; 24–28% Venturi mask targeting SpO2 88–92%",
+      "Pure Type 1 hypoxaemic respiratory failure; 15 L/min non-rebreather mask targeting 100%",
+      "Primary metabolic alkalosis with hypoventilation; withhold all supplemental oxygen",
+      "Uncompensated acute respiratory acidosis; simple Hudson mask at 10 L/min flow",
+      "Chronic fully compensated respiratory alkalosis; high-flow nasal cannula at 60% FiO2"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Hypoxaemia (PaO2 < 60 mmHg) combined with hypercapnia (PaCO2 > 45 mmHg) defines Type 2 respiratory failure; elevated HCO3- (32 mmol/L) indicates chronic renal compensation with superimposed acute respiratory acidaemia (pH 7.32), treated initially with controlled 24–28% Venturi oxygen aiming for SpO2 88–92% (plus bronchodilators/steroids and NIV if acidosis persists).",
+      "Incorrect: Type 1 respiratory failure presents with hypoxaemia (PaO2 < 60 mmHg) alongside normal or low PaCO2; high-flow 15 L/min non-rebreather oxygen in chronic CO2-retaining COPD precipitates worsening hypercapnic narcosis.",
+      "Incorrect: The primary pH shift is acidaemic (7.32 < 7.35) driven by elevated PaCO2 (64 mmHg), meaning raised HCO3- is compensatory rather than a primary alkalosis; severe hypoxaemia (PaO2 52 mmHg) must still be treated safely.",
+      "Incorrect: An elevated actual HCO3- of 32 mmol/L demonstrates substantial renal bicarbonate retention from chronic hypercapnia, and uncontrolled 10 L/min simple face-mask oxygen risks worsening hypercapnia.",
+      "Incorrect: PaCO2 is elevated (acidosis, not alkalosis), and indiscriminate 60% FiO2 exacerbates V/Q mismatch and Haldane-effect CO2 retention in COPD."
+    ],
+    "clinicalPearl": "From the Blood Gas Analysis Guide: primary disorder follows the pH shift (pH 7.32 + PaCO2 64 = respiratory acidosis), while elevated actual HCO3- reflects chronic renal H+ excretion; in acute-on-chronic Type 2 COPD failure, give controlled 24–28% Venturi oxygen targeting SpO2 88–92% and escalate to NIV if pH remains <7.35.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Chronic hypercapnia triggers renal bicarbonate retention; acute-on-chronic Type 2 respiratory failure is identified by hypoxaemia, elevated PaCO2, raised HCO3-, and acidaemic pH, requiring controlled Venturi oxygen."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_25",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Venous Blood Gas (ScvO2) vs ABG & Tissue Oxygen Balance",
+    "stem": "A 52-year-old man with perforated peritonitis and septic shock has a pulse oximeter reading 100% on FiO2 0.50. A central venous blood gas (VBG) shows pH 7.30, PvCO2 31 mmHg, central venous saturation (ScvO2) 50%, Hb 7 g/dL, and lactate 5.0 mmol/L. How should this ScvO2 be interpreted, and what key parameter requires arterial rather than venous sampling?",
+    "options": [
+      "ScvO2 50% indicates hyperoxia; VBG measures arterial pH poorly compared with ABG",
+      "ScvO2 50% reflects normal tissue balance; VBG cannot measure serum lactate accurately",
+      "ScvO2 50% shows excess O2 supply; ABG is needed solely to calculate bicarbonate",
+      "ScvO2 50% marks low tissue extraction; VBG gives identical PaO2 readings to ABG",
+      "ScvO2 50% signals O2 supply-demand mismatch; ABG is needed to quantify PaO2"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Normal ScvO2 is ~65–75%, so 50% indicates severe tissue oxygen deficit rather than hyperoxia; additionally, peripheral/central VBG pH correlates closely with ABG pH (typically ~0.03–0.05 lower).",
+      "Incorrect: An ScvO2 of 50% alongside lactate 5.0 mmol/L reflects severe tissue hypoperfusion/anaerobic metabolism, and blood gas analysers measure venous lactate accurately.",
+      "Incorrect: ScvO2 of 50% signifies inadequate oxygen delivery relative to tissue demand (driven here by low Hb 7 g/dL and septic shock), and bicarbonate correlates closely between VBG and ABG.",
+      "Incorrect: Low ScvO2 reflects INCREASED (excessive) peripheral oxygen extraction due to inadequate delivery, and venous blood cannot substitute for arterial PaO2 when quantifying lung oxygenation.",
+      "Correct: Per the CSS Blood Gas Guide, VBG (ScvO2) assesses systemic oxygen supply-to-tissue demand balance (50% with lactate 5 mmol/L confirms inadequate delivery despite 100% SpO2), whereas ABG is specifically required to quantify pulmonary oxygenation (PaO2 and PaO2/FiO2 ratio)."
+    ],
+    "clinicalPearl": "Know the exact ABG vs VBG clinical split from the Kelaniya Blood Gas Guide: ABG quantifies LUNG oxygenation (PaO2/FiO2) and alveolar ventilation; VBG tracks pH (~0.03–0.05 lower) and HCO3- well and uses ScvO2 (normal 65–75%) to gauge systemic O2 supply-demand balance—never assume SpO2 100% guarantees tissue oxygenation if Hb or cardiac output is low.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "ABG quantifies arterial oxygenation (PaO2/FiO2), whereas central VBG (ScvO2) assesses tissue O2 supply-demand balance; low ScvO2 with lactic acidosis reflects inadequate oxygen delivery."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_26",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Acute Osteomyelitis — Pathogen, Radiographic Lag & MRI",
+    "stem": "A 17-year-old boy presents with 4 days of high swinging fever, rigors, severe localised pain over the distal right femoral metaphysis, and refusal to bear weight. Plain radiographs of the femur appear entirely normal, while CRP and ESR are markedly elevated. Which causative organism accounts for ~90% of cases, and which imaging study detects early bone marrow infection before lytic lesions appear?",
+    "options": [
+      "Pseudomonas aeruginosa; repeat plain radiograph at 48 hours",
+      "Streptococcus pyogenes; computed tomography KUB with oral contrast",
+      "Staphylococcus aureus; magnetic resonance imaging of the femur",
+      "Haemophilus influenzae; diagnostic needle biopsy before blood cultures",
+      "Mycobacterium tuberculosis; chest radiograph and Mantoux testing alone"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Pseudomonas aeruginosa is typical of puncture wounds through footwear or intravenous drug use rather than 90% of acute haematogenous osteomyelitis, and plain radiographs lag 10–14 days before demonstrating lytic bone destruction or periosteal reaction.",
+      "Incorrect: Streptococci represent a minor fraction compared with Staphylococcus aureus (~90%), and CT KUB has no role in evaluating femoral metaphyseal osteomyelitis.",
+      "Correct: Per the Bone & Skin Infections Guide, Staphylococcus aureus (including MRSA) causes ~90% of acute osteomyelitis; because plain X-ray lytic changes and sequestrum take 10–14 days to appear, MRI is the gold-standard early imaging investigation alongside blood cultures before prolonged IV antibiotics.",
+      "Incorrect: Haemophilus influenzae is a less common cause than S. aureus, and blood cultures should always be drawn immediately while MRI non-invasively confirms early marrow oedema.",
+      "Incorrect: Tuberculous osteomyelitis presents indolently over months (often spinal/Pott's disease) rather than acute 4-day metaphyseal sepsis."
+    ],
+    "clinicalPearl": "In the Bone & Skin Infections Guide, acute osteomyelitis is caused in ~90% of cases by Staphylococcus aureus (including MRSA); never be falsely reassured by a normal plain radiograph in week 1 (lytic lesions and sequestra appear later—order MRI early and obtain blood cultures before prolonged IV flucloxacillin/vancomycin).",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Staphylococcus aureus (including MRSA) causes ~90% of acute osteomyelitis; MRI detects early disease before plain-radiograph lytic lesions and sequestra develop."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_27",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Acute Bacterial Septic Arthritis — Urgent Aspiration & Washout",
+    "stem": "A 59-year-old man with rheumatoid arthritis and diabetes mellitus presents with a 24-hour history of high fever and an exquisitely painful, hot, erythematous, swollen right knee held slightly flexed with severe restriction of both active and passive motion. Which diagnostic and therapeutic sequence is mandatory?",
+    "options": [
+      "Start oral NSAIDs immediately and arrange outpatient rheumatology MRI in 2 weeks",
+      "Urgent joint aspiration for microscopy/culture, then IV antibiotics and washout",
+      "Inject intra-articular triamcinolone promptly to suppress inflammatory joint damage",
+      "Begin empirical oral flucloxacillin at home without joint aspiration or blood tests",
+      "Administer intravenous colchicine and defer arthrocentesis until uric acid returns"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Delaying diagnosis in an acutely hot, swollen monoarticular joint allows bacterial proteases to destroy articular cartilage irreversibly within days.",
+      "Correct: An acute hot swollen monoarthritis (especially in rheumatoid arthritis or diabetes) is septic arthritis until proven otherwise; perform immediate sterile joint aspiration (Gram stain, culture, cell count, crystal microscopy) and blood cultures BEFORE urgent empirical IV antibiotics (e.g. flucloxacillin/ceftriaxone) and surgical/arthroscopic joint washout.",
+      "Incorrect: Intra-articular corticosteroids injected into an undiagnosed septic joint are catastrophic and accelerate fulminant joint destruction and systemic sepsis.",
+      "Incorrect: Oral outpatient therapy without diagnostic arthrocentesis misses MRSA/Gram-negative pathogens and omits urgent joint decompression/washout.",
+      "Incorrect: Gout can coexist with or mimic septic arthritis, so synovial fluid microscopy and culture must never be deferred for serum urate results."
+    ],
+    "clinicalPearl": "Golden rule for any acute hot, swollen single joint (especially in RA, diabetes, or prosthetic joints): aspirate synovial fluid FIRST (Gram stain, culture, crystals) before giving empirical IV anti-staphylococcal antibiotics and arranging surgical washout—NEVER inject steroids or delay aspiration.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Acute staphylococcal/bacterial bone and joint sepsis requires urgent microbiological sampling (synovial aspirate/blood cultures) prior to empirical IV antibiotics and surgical drainage."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_c_28",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Extradural vs Subdural Haematoma on Non-Contrast CT Brain",
+    "stem": "A 23-year-old cricketer struck over the right temple briefly loses consciousness, regains full alertness for 45 minutes, and then rapidly deteriorates into coma with a fixed dilated right pupil. Non-contrast CT brain shows a bright hyperdense biconvex (lentiform) extra-axial collection bounded by cranial suture lines. Which diagnosis and ruptured vessel account for these findings?",
+    "options": [
+      "Acute subdural haematoma; tearing of cortical bridging veins crossing sutures",
+      "Subarachnoid haemorrhage; rupture of a saccular anterior communicating aneurysm",
+      "Chronic subdural haematoma; slow venous oozing in an atrophic elderly brain",
+      "Acute extradural haematoma; rupture of the middle meningeal artery",
+      "Intraparenchymal putaminal bleed; rupture of Charcot-Bouchard microaneurysms"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: An acute subdural haematoma arises from torn bridging cortical veins and forms a hyperdense CRESCENTIC (concave) collection that crosses cranial suture lines but stops at dural reflections like the falx.",
+      "Incorrect: Subarachnoid haemorrhage fills the basal cisterns and cortical sulci with hyperdense blood rather than forming a focal suture-bound lentiform mass.",
+      "Incorrect: Chronic subdural haematomas appear hypodense or isodense and crescentic weeks after minor trauma in elderly or anticoagulated patients rather than acute lucid-interval lentiform bleeding.",
+      "Correct: A lucid interval following temporal trauma, ipsilateral CN III uncal herniation, and a hyperdense biconvex (lentiform) CT collection restricted by periosteal dural attachments at suture lines define an acute extradural (epidural) haematoma from middle meningeal artery laceration—requiring emergency neurosurgical evacuation.",
+      "Incorrect: Hypertensive putaminal haemorrhage appears as a hyperdense intraparenchymal haematoma centered within the basal ganglia rather than an extra-axial lens-shaped collection."
+    ],
+    "clinicalPearl": "Compare extra-axial bleeds from the Niroshan & Nerve Palsies OSCE Guides: Extradural haematoma = BICONVEX/LENTIFORM, middle meningeal artery, respects SUTURES, lucid interval; Acute Subdural haematoma = CRESCENTIC/CONCAVE, bridging veins, crosses sutures (respects falx/tentorium); both risk ipsilateral CN III palsy via uncal herniation.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Extradural haematoma forms a suture-limited biconvex (lentiform) hyperdensity on CT brain from middle meningeal artery bleeding, contrasting with crescentic subdural haematomas from bridging veins."
+    },
+    "sourceStation": null
+  }
+]

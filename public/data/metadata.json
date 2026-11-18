@@ -1,15 +1,15 @@
 {
-  "totalQuestions": 358,
+  "totalQuestions": 480,
   "osceStationQuestions": 310,
-  "guideProtocolQuestions": 48,
+  "guideProtocolQuestions": 170,
   "visualImageQuestions": 256,
   "totalGuides": 42,
   "answerDistribution": {
-    "A": 72,
-    "B": 72,
-    "C": 72,
-    "D": 71,
-    "E": 71
+    "A": 97,
+    "B": 97,
+    "C": 97,
+    "D": 95,
+    "E": 94
   },
   "specialties": [
     {
@@ -20,36 +20,36 @@
       "color": "#1557b0",
       "docUrl": "https://docs.google.com/document/d/1xQOVblVgn0MtkaJQKI3T6UtVKfwZH4GqjWgkVQoe6Jk/edit",
       "pdfUrl": "https://drive.google.com/file/d/1Ny2fx-UVn_py60KhXbj8OZ6vlhMg9FgA/view",
-      "count": 92,
+      "count": 120,
       "imageCount": 70,
       "domains": [
         {
           "name": "1.1 CARDIOLOGY & ECG INTERPRETATION",
-          "count": 12
+          "count": 20
         },
         {
           "name": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT",
-          "count": 18
+          "count": 22
         },
         {
           "name": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS",
-          "count": 17
+          "count": 21
         },
         {
           "name": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE",
-          "count": 13
+          "count": 14
         },
         {
           "name": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE",
-          "count": 8
+          "count": 14
         },
         {
           "name": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS",
-          "count": 16
+          "count": 18
         },
         {
           "name": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT",
-          "count": 8
+          "count": 11
         }
       ]
     },
@@ -61,24 +61,24 @@
       "color": "#00695c",
       "docUrl": "https://docs.google.com/document/d/1bvAysKjCqlB1Cvpg-j8KC7ZtVxGVcoYIQV-oUFaRfD4/edit",
       "pdfUrl": "https://drive.google.com/file/d/1DLCgeoeJnVvd3g_Ys2yCfzTQVA5tAg0Y/view",
-      "count": 89,
+      "count": 120,
       "imageCount": 64,
       "domains": [
         {
           "name": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN",
-          "count": 13
+          "count": 14
         },
         {
           "name": "2.2 BREAST, THYROID & HEAD/NECK LUMPS",
-          "count": 17
+          "count": 18
         },
         {
           "name": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE",
-          "count": 16
+          "count": 17
         },
         {
           "name": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL",
-          "count": 5
+          "count": 10
         },
         {
           "name": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS",
@@ -90,15 +90,15 @@
         },
         {
           "name": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS",
-          "count": 16
+          "count": 26
         },
         {
           "name": "Perioperative Preparation & Surgical Safety (CSS Guide)",
-          "count": 2
+          "count": 8
         },
         {
           "name": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
-          "count": 4
+          "count": 11
         }
       ]
     },
@@ -110,24 +110,24 @@
       "color": "#9c1458",
       "docUrl": "https://docs.google.com/document/d/181exRioGegCPHAdmxqf4Vv8jhWy82r9EInRgqR7j6Wg/edit",
       "pdfUrl": "https://drive.google.com/file/d/1Pb9qmUzTyec0Xcr-JGLItzhLtIgE1626/view",
-      "count": 90,
+      "count": 120,
       "imageCount": 59,
       "domains": [
         {
           "name": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION",
-          "count": 21
+          "count": 24
         },
         {
           "name": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES",
-          "count": 8
-        },
-        {
-          "name": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS",
           "count": 12
         },
         {
+          "name": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS",
+          "count": 16
+        },
+        {
           "name": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES",
-          "count": 17
+          "count": 21
         },
         {
           "name": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT)",
@@ -139,11 +139,11 @@
         },
         {
           "name": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION",
-          "count": 8
+          "count": 13
         },
         {
           "name": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
-          "count": 6
+          "count": 16
         }
       ]
     },
@@ -155,7 +155,7 @@
       "color": "#283593",
       "docUrl": "https://docs.google.com/document/d/1M0EsousJkpuMwWTBmBpx-xx3guJvvO_Ciy_IEYtZ_ag/edit",
       "pdfUrl": "https://drive.google.com/file/d/1IxwiDGy870ZeN6SdeW9thwEdVjCSGQ6W/view",
-      "count": 87,
+      "count": 120,
       "imageCount": 63,
       "domains": [
         {
@@ -164,7 +164,7 @@
         },
         {
           "name": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS",
-          "count": 16
+          "count": 21
         },
         {
           "name": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS",
@@ -172,19 +172,19 @@
         },
         {
           "name": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION",
-          "count": 9
+          "count": 19
         },
         {
           "name": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI",
-          "count": 10
+          "count": 21
         },
         {
           "name": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY",
-          "count": 12
+          "count": 13
         },
         {
           "name": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT",
-          "count": 11
+          "count": 17
         }
       ]
     }
@@ -244,7 +244,7 @@
     },
     {
       "name": "CSS Guide",
-      "count": 48
+      "count": 170
     }
   ]
 }

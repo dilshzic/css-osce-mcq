@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "gynobs_guide_c_01",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Mediolateral Episiotomy Technique & Timing",
+    "stem": "A 24-year-old primigravida at 39 weeks' gestation is in the active second stage of labour with a singleton cephalic fetus. As the fetal head begins distending the rigid perineum during contractions, the obstetrician decides to perform an episiotomy after infiltrating 1% lignocaine. Which timing, incision trajectory, and protective precaution follow Kelaniya CSS guidance?",
+    "options": [
+      "Infiltrate 2% bupivacaine and cut vertically in the midline toward the anal verge before crowning",
+      "Place two fingers over the perineum externally and incise laterally at 90 degrees before crowning",
+      "Incise from fourchette at 45–60 degrees mediolaterally at crowning with internal fingers shielding",
+      "Perform a vertical midline incision during the passive second stage to preserve all perineal muscle",
+      "Cut horizontally across the labium majus as soon as the anterior shoulder engages under the pubis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Midline episiotomy carries a high risk of extending posteriorly into the anal sphincter and anal canal, and 1% lignocaine (5–10 mL) rather than 2% bupivacaine is standard.",
+      "Incorrect: Protective fingers must be placed inside the vagina between the presenting part and vaginal wall (not externally), and a lateral 90-degree incision causes excessive bleeding and poor healing.",
+      "Correct: A right mediolateral episiotomy is performed at crowning (at the height of a contraction) starting at the posterior fourchette at 45–60 degrees away from the anal sphincter while two internal fingers shield the fetus.",
+      "Incorrect: Episiotomy should not be performed prematurely in the passive second stage, and midline incisions pose unacceptable obstetric anal sphincter injury risk despite sparing muscle.",
+      "Incorrect: Episiotomy is directed posterolaterally from the posterior fourchette prior to head delivery, never horizontally across the labium majus after head birth."
+    ],
+    "clinicalPearl": "Time a mediolateral episiotomy at crowning of the head (or when the breech climbs up the perineum) at the height of a contraction, angling 45–60 degrees from the posterior fourchette to steer extensions away from the anal sphincter.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Perform a mediolateral episiotomy at crowning (or breech climbing perineum) from the posterior fourchette at 45–60 degrees while two internal fingers protect the fetus."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_02",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Episiotomy & Second-Degree Tear Repair Sequence",
+    "stem": "A 27-year-old woman delivers spontaneously without epidural analgesia and sustains a second-degree perineal tear involving the vaginal mucosa and perineal muscles, with an intact anal sphincter complex confirmed on examination. After explaining the procedure and obtaining verbal consent, which analgesic and three-layer suturing protocol should be followed?",
+    "options": [
+      "Infiltrate 1% lignocaine, start absorbable continuous stitch above apex, then muscle and subcuticular skin",
+      "Infiltrate 5% lignocaine jelly, close skin first with interrupted nylon, then muscle and vaginal mucosa",
+      "Use non-absorbable silk throughout, starting at the fourchette and suturing upward toward the mucosal apex",
+      "Give intramuscular pethidine alone, take deep full-thickness vaginal bites, and leave perineal skin unsutured",
+      "Close vaginal mucosa with interrupted chromic catgut starting below the apex, then suture muscles with silk"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Perineal repair without epidural requires 5–10 mL of 1% lignocaine infiltration followed by No. 0 polyglycolic acid (Vicryl) sutures: continuous non-interlocking vaginal mucosal closure starting just above the apex, muscle layer closure, and subcuticular skin.",
+      "Incorrect: Topical jelly provides inadequate anaesthesia for deep muscular suturing, closure must proceed from internal mucosa outward to skin, and non-absorbable nylon is reserved for secondary resuturing of infected wounds.",
+      "Incorrect: Non-absorbable silk causes severe tissue reaction and requires removal; starting at the fourchette risks missing the retracted mucosal apex and causing concealed haematoma.",
+      "Incorrect: Local infiltration is mandatory if not under epidural, and taking thick vaginal bites risks shortening and narrowing the vagina with subsequent dyspareunia.",
+      "Incorrect: Suturing must begin just above the apex of the mucosal incision (using traction on a high stay stitch if needed) to secure retracted vessels, and synthetic absorbable polyglactin is preferred over silk."
+    ],
+    "clinicalPearl": "Always begin vaginal mucosal repair just above the apex using continuous non-interlocking absorbable polyglactin sutures (taking mucosal edges only to avoid shortening the vagina), then approximate perineal muscles and close skin subcuticularly.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Infiltrate 5–10 mL of 1% lignocaine if not under epidural and repair in three layers with absorbable polyglactin starting just above the vaginal mucosal apex."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_03",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Post-Repair Vaginal & Rectal Examination",
+    "stem": "During repair of a right mediolateral episiotomy in a 29-year-old primigravida, the operator places a gauze tampon high in the vagina to prevent uterine bleeding from obscuring the surgical field. Once subcuticular skin closure is completed and haemostasis appears satisfactory, which mandatory checks must be performed before cleaning and applying a perineal pad?",
+    "options": [
+      "Leave the vaginal tampon in situ for 6 hours as haemostatic packing and avoid rectal examination",
+      "Perform abdominal fundal massage only and inspect the perineal skin line visually with a torch",
+      "Administer prophylactic intravenous co-amoxiclav and leave a Foley catheter alongside the vaginal pack",
+      "Perform bimanual pelvic exam to assess uterine involution and discharge immediately without rectal exam",
+      "Perform gentle vaginal and digital rectal checks for missed tears or rectal sutures, and remove vaginal tampon"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Retaining a vaginal tampon or swab risks severe toxic shock syndrome and puerperal sepsis; it must always be removed and counted immediately after suturing.",
+      "Incorrect: Visual inspection alone misses occult vaginal lacerations, incomplete mucosal apposition, occult sphincter defects, and inadvertent sutures penetrating the anorectal mucosa.",
+      "Incorrect: Routine uncomplicated episiotomy repair does not require intravenous antibiotics or catheterisation, and leaving the pack inside is a serious surgical never-event.",
+      "Incorrect: Omitting a digital rectal examination fails to confirm sphincter integrity and misses misplaced sutures traversing the anorectal mucosa.",
+      "Correct: After every perineal repair, perform a gentle vaginal examination (confirming apposition and no missed tears), a digital rectal examination (confirming intact sphincter and zero sutures in anorectal mucosa), and remove the tampon."
+    ],
+    "clinicalPearl": "Never leave the delivery room after perineal suturing without performing three checks: (1) gentle VE for apposition and missed tears, (2) DRE to verify an intact sphincter and zero sutures in the rectal mucosa, and (3) removal/count of any vaginal tampon.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Post-repair care requires gentle vaginal examination, digital rectal examination to confirm sphincter integrity and exclude rectal sutures, and removal of any vaginal tampon."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_04",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Fourth-Degree Perineal Tear Repair & Debriefing",
+    "stem": "Following an unattended precipitate delivery of a 4.2 kg newborn, lithotomy inspection reveals laceration of the vaginal mucosa, perineal muscles, both the external and internal anal sphincters, and a 2 cm longitudinal defect in the anterior anorectal mucosa. How is this obstetric injury graded, and what is the correct operative and debriefing plan?",
+    "options": [
+      "Grade 3c tear; repair immediately in the labour room under 1% lignocaine infiltration using No. 0 nylon",
+      "Fourth-degree tear; repair in theatre under regional/GA with two-layer 3-0 polyglactin mucosal closure",
+      "Grade 3b tear; repair the rectal wall with a single interrupted catgut layer and withhold debriefing for 6 weeks",
+      "Fourth-degree tear; pack with gauze for 48 hours until swelling resolves, then perform delayed primary repair",
+      "Grade 3c tear; repair in theatre under pudendal block alone and advise routine vaginal delivery next pregnancy"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Involvement of the anorectal mucosa elevates the injury beyond Grade 3c (EAS + IAS only) to a fourth-degree tear, which cannot be adequately repaired under local infiltration in the labour ward.",
+      "Correct: Tearing of perineal muscles, EAS, IAS, and anorectal mucosa defines a fourth-degree tear; it requires theatre repair under regional or general anaesthesia with senior/surgical support, closing the anorectal mucosa in two continuous layers of 3-0 polyglactin, followed by senior debriefing at 48–72 hours.",
+      "Incorrect: Grade 3b involves >50% of the external sphincter without IAS or mucosal injury; furthermore, fourth-degree tears require senior debriefing within 48–72 hours after surgery.",
+      "Incorrect: Fresh fourth-degree obstetric tears must undergo prompt primary anatomical repair in theatre rather than delayed closure after packing, which increases infection and fistula risk.",
+      "Incorrect: Pudendal block gives inadequate muscle relaxation for OASIS repair, and women after fourth-degree tears require senior counselling regarding bowel symptoms and Caesarean birth in future pregnancies."
+    ],
+    "clinicalPearl": "A fourth-degree tear breaches the anorectal mucosa as well as both anal sphincters: transfer to theatre for regional/general anaesthesia, suture anorectal mucosa in two continuous 3-0 polyglactin layers with surgical input, and debrief at 48–72 hours.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Fourth-degree tears involve the sphincter complex plus anorectal mucosa; repair in theatre under regional/general anaesthesia with two-layer 3-0 polyglactin mucosal closure and debrief at 48–72 hours."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_05",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Infected Episiotomy Wound Management",
+    "stem": "A 26-year-old woman returns 6 days after a normal vaginal delivery with a mediolateral episiotomy complaining of fever, throbbing perineal pain, and foul-smelling discharge. Examination shows erythema, warmth, tender inguinal lymph nodes, wound breakdown, and fluctuant swelling indicating underlying pus. What is the most appropriate management sequence?",
+    "options": [
+      "Immediate resuturing under local analgesia with absorbable polyglactin after topical antiseptic swabbing",
+      "Apply harsh antiseptic dressings twice daily and prescribe topical hydrocortisone cream for perineal swelling",
+      "Give oral paracetamol with warm salt sitz baths alone and defer antibiotics unless bacteraemia develops",
+      "Swab for culture, give broad-spectrum antibiotics, drain pus with saline baths, delay resuturing",
+      "Perform emergency examination under anaesthesia to excise the perineal body and create a diverting colostomy"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Resuturing an actively infected, pus-filled episiotomy traps bacteria, worsens cellulitis, and leads to recurrent breakdown; resuturing must wait until infection clears and granulation tissue forms.",
+      "Incorrect: Harsh antiseptics and topical corticosteroids impair healing and worsen local infection; warm dilute salt-water sitz baths and normal saline irrigation are recommended after drainage.",
+      "Incorrect: Underlying pus with fever and foul discharge demands wound opening for drainage plus empirical broad-spectrum antibiotics tailored to culture sensitivity.",
+      "Correct: For an infected episiotomy with underlying pus, take a swab for culture/ABST, start broad-spectrum antibiotics, open and irrigate the wound daily with normal saline alongside warm salt sitz baths, and delay resuturing (with non-absorbable nylon) until granulation tissue forms.",
+      "Incorrect: Simple infected episiotomy abscess requires local opening, drainage, antibiotics, and delayed secondary closure rather than radical excision or faecal diversion."
+    ],
+    "clinicalPearl": "Never resuture an acutely infected episiotomy containing pus: swab, start broad-spectrum antibiotics, open and irrigate with normal saline plus sitz baths, and only resuture (with non-absorbable nylon) once healthy granulation tissue forms.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Manage an infected episiotomy with pus by swabbing for culture, broad-spectrum antibiotics, opening for saline irrigation and sitz baths, and delaying resuturing with nylon until granulation forms."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_06",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Pregnancy Anaemia Cutoffs & Parenteral Iron",
+    "stem": "A 30-year-old multigravida at 35 weeks' gestation has a haemoglobin of 8.6 g/dL, low serum ferritin, and normal haemoglobin electrophoresis excluding thalassaemia trait. She reports severe gastritis and intractable vomiting whenever she takes oral ferrous sulphate tablets, leaving insufficient time before term for oral correction. According to the SLCOG Blood Transfusion guideline, how should this be classified and managed?",
+    "options": [
+      "Normal physiological haemodilution of late pregnancy; reassure and repeat haemoglobin only after delivery",
+      "Third-trimester anaemia (<10.5 g/dL); give parenteral IV iron with full resuscitation facilities ready",
+      "Mild third-trimester anaemia (<11.0 g/dL threshold); transfuse two units of packed red cells prophylactically today",
+      "Refractory iron deficiency; administer parenteral iron at an outpatient primary clinic lacking resuscitation equipment",
+      "Severe antenatal anaemia (<10.0 g/dL threshold); switch to oral iron elixir alongside antacids at bedtime"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Even accounting for physiological haemodilution, SLCOG defines second- and third-trimester anaemia as Hb <10.5 g/dL; 8.6 g/dL approaching term requires active correction to avoid peripartum transfusion.",
+      "Correct: Per SLCOG/BCSH criteria, anaemia is defined as Hb <11.0 g/dL in T1, <10.5 g/dL in T2/T3, and <10.0 g/dL postpartum; oral intolerance or proximity to term indicates parenteral IV iron administered with immediate anaphylaxis resuscitation facilities.",
+      "Incorrect: The T2/T3 cutoff is 10.5 g/dL (11.0 g/dL applies to T1), and prophylactic red cell transfusion is inappropriate in a stable non-bleeding antenatal patient when IV iron can safely boost haemoglobin.",
+      "Incorrect: Parenteral iron carries a risk of severe allergic/anaphylactic reactions and must never be given without immediate resuscitation equipment on site.",
+      "Incorrect: <10.0 g/dL is the postpartum anaemia threshold, and persistent intolerance at 35 weeks leaves too little time for oral supplementation before delivery."
+    ],
+    "clinicalPearl": "Remember the three SLCOG/BCSH pregnancy anaemia cutoffs (<11.0 g/dL T1, <10.5 g/dL T2/T3, <10.0 g/dL postpartum): exclude haemoglobinopathies first, use oral iron first-line, and give IV iron only with immediate resuscitation facilities available.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "Anaemia thresholds are <11 g/dL (T1), <10.5 g/dL (T2/T3), and <10 g/dL (postpartum); parenteral IV iron is indicated for oral intolerance or near term and requires immediate resuscitation facilities."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_07",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Group & Screen Sample Validity in Pregnancy",
+    "stem": "A 33-year-old woman (G3P2) at 33 weeks' gestation is admitted for expectant inpatient monitoring of major placenta praevia. Her booking and 28-week antibody screens showed blood group A RhD-positive with no clinically significant red cell alloantibodies. According to the SLCOG Blood Transfusion in Pregnancy guideline, how should her pre-transfusion group and screen sampling be scheduled?",
+    "options": [
+      "No further group and screen samples are needed until onset of active intraoperative bleeding",
+      "Repeat the group and screen sample once monthly because her 28-week antibody screen was negative",
+      "Reliance on the 28-week booking card suffices because RhD-positive women never form alloantibodies",
+      "Draw a single confirmatory group and screen sample 14 days prior to scheduled Caesarean delivery",
+      "Send weekly group and screen samples, ensuring any sample used for blood provision is under 3 days old"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Waiting until massive haemorrhage occurs in major placenta praevia causes dangerous delays in crossmatching compatible blood.",
+      "Incorrect: Monthly sampling leaves the woman without a valid <3-day specimen during acute bleeding episodes and misses newly formed red cell antibodies.",
+      "Incorrect: RhD-positive women can still develop non-D red cell alloantibodies following prior pregnancies or transfusions, and sample validity rules apply universally.",
+      "Incorrect: A 14-day-old sample is invalid for blood issue in pregnancy under SLCOG standards.",
+      "Correct: Per SLCOG Section 4.2, group and screen samples used for blood provision in pregnancy must be less than 3 days old, and high-risk patients (e.g., placenta praevia) without alloantibodies require weekly group and screen sampling."
+    ],
+    "clinicalPearl": "In pregnancy, a Group & Screen sample expires after 3 days (<72 hours); for high-risk bleeding patients like placenta praevia without alloantibodies, send weekly G&S samples to stay crossmatch-ready.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "Group and screen samples used for blood provision in pregnancy must be less than 3 days old, and high-risk women (e.g., placenta praevia) without alloantibodies should be sampled weekly."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_08",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Empirical FFP Protocol & Transfusion Risks in PPH",
+    "stem": "A 35-year-old woman experiences sudden cardiovascular collapse and massive postpartum haemorrhage shortly after placental delivery, with suspected amniotic fluid embolism. She has received 6 units of red cell concentrates while ongoing bleeding continues and laboratory clotting or point-of-care viscoelastic results are still pending. What empirical fresh frozen plasma (FFP) dose, coagulation ratio target, and major adverse hazards apply?",
+    "options": [
+      "Give FFP 12–15 mL/kg per 6 units RCC aiming PT/APTT ratios <1.5, monitoring for TACO and TRALI",
+      "Withhold FFP completely until laboratory fibrinogen falls below 0.5 g/L, monitoring only for hyperkalaemia",
+      "Give FFP 30 mL/kg after every single unit of RCC aiming PT/APTT ratios <3.0, monitoring for citrate toxicity",
+      "Substitute FFP with 500 mL normal saline boluses because early postpartum haemorrhage rarely affects clotting",
+      "Administer FFP 5 mL/kg per 10 units RCC aiming INR <2.5, as FFP rapidly normalises fibrinogen alone"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per SLCOG Section 5.2, when coagulation/POCT results are unavailable during continuing major PPH (and early in abruption or amniotic fluid embolism), give FFP 12–15 mL/kg per 6 units RCC, aiming PT/APTT ratios <1.5× normal while watching for TACO and TRALI.",
+      "Incorrect: Amniotic fluid embolism and placental abruption carry high risk of early consumptive coagulopathy, requiring early empirical FFP rather than waiting for extreme hypofibrinogenaemia.",
+      "Incorrect: Excessive empiric FFP (30 mL/kg per RCC) precipitates severe volume overload (TACO), and a PT/APTT ratio target of <3.0 reflects profound coagulopathy rather than the <1.5 target.",
+      "Incorrect: Crystalloid dilution worsens dilutional coagulopathy in amniotic fluid embolism, where early haemostatic component therapy is life-saving.",
+      "Incorrect: 5 mL/kg is subtherapeutic, and SLCOG specifically notes that FFP achieves only a small increment in plasma fibrinogen compared with cryoprecipitate."
+    ],
+    "clinicalPearl": "Consider early FFP (12–15 mL/kg per 6 RCC) especially in abruption, amniotic fluid embolism, or delayed PPH recognition—aiming PT/APTT ratios <1.5× normal while staying vigilant for TACO and TRALI.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "In ongoing major PPH without POCT results, give FFP 12–15 mL/kg per 6 RCC (early in abruption/AFE), target PT/APTT ratios <1.5, and monitor for TACO and TRALI."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_09",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Platelet Transfusion Thresholds in Obstetric Haemorrhage",
+    "stem": "A 30-year-old woman (blood group B RhD-positive) is undergoing emergency laparotomy for intractable postpartum haemorrhage after uterine rupture. She has already received 8 units of red cell concentrates and 2 litres of crystalloid, bleeding persists, and point-of-care testing is unavailable while laboratory platelet counts are pending. What empirical platelet management and target thresholds does SLCOG recommend?",
+    "options": [
+      "Defer platelet transfusion until 16 units of RCC are given, targeting a platelet count >20 × 10⁹/L",
+      "Administer 1 unit of platelets immediately, using a transfusion trigger of <30 × 10⁹/L in ongoing bleeding",
+      "Transfuse 10 units of cryoprecipitate instead of platelets, aiming to keep platelets above 150 × 10⁹/L",
+      "Give 4 units platelet concentrates empirically after ≥8 RCC, maintaining >50 × 10⁹/L (trigger <75)",
+      "Give intravenous tranexamic acid alone because dilutional thrombocytopenia never occurs after 8 RCC units"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Waiting until 16 RCC units or allowing platelets to fall near 20 × 10⁹/L breaches the critical haemostatic floor of 50 × 10⁹/L in actively bleeding patients.",
+      "Incorrect: A trigger of <30 × 10⁹/L provides no safety margin in acute obstetric bleeding, and a single unit of platelet concentrate is inadequate compared with an adult therapeutic pool of 4 units.",
+      "Incorrect: Cryoprecipitate replaces fibrinogen and Factor VIII/vWF rather than platelets, and platelets need only be kept >50 × 10⁹/L (not >150 × 10⁹/L).",
+      "Correct: SLCOG Section 5.3 recommends maintaining platelets >50 × 10⁹/L using a trigger of <75 × 10⁹/L as a safety margin, and empirically giving 4 units of platelet concentrates after ≥8 units of RCC when POCT/lab results are unavailable.",
+      "Incorrect: Replacing approximately two blood volumes inevitably causes dilutional thrombocytopenia requiring timely platelet replacement."
+    ],
+    "clinicalPearl": "In ongoing obstetric haemorrhage, never let platelets drop below the critical 50 × 10⁹/L floor: transfuse at a safety trigger of 75 × 10⁹/L, or give 4 units of platelet concentrates empirically once ≥8 RCC units have been infused.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "Maintain platelets >50 × 10⁹/L using a 75 × 10⁹/L trigger in ongoing haemorrhage; if lab/POCT results are unavailable, give 4 units of platelets after ≥8 units of RCC."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_10",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Non-Bleeding Intrapartum & Postnatal Anaemia Transfusion",
+    "stem": "A 25-year-old woman in early active labour has no active vaginal bleeding, normal blood pressure, and a reassuring fetal heart rate, but her urgent full blood count shows haemoglobin of 7.2 g/dL accompanied by exertional dyspnoea, dizziness, and resting tachycardia of 114 bpm. According to the SLCOG Blood Transfusion guideline, what is the most appropriate red cell transfusion strategy?",
+    "options": [
+      "Withhold all blood products until delivery and treat symptomatic intrapartum anaemia with oral iron only",
+      "Transfuse three units of red cell concentrates rapidly to raise haemoglobin above 12.0 g/dL before birth",
+      "Transfuse a single unit of red cell concentrate followed by clinical reassessment before giving further units",
+      "Administer two units of fresh frozen plasma first to improve oxygen-carrying capacity in early labour",
+      "Proceed directly to emergency Caesarean section under general anaesthesia without red cell transfusion"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: In labour with Hb <8 g/dL and clear cardiorespiratory symptoms (dyspnoea, dizziness, tachycardia), oral iron acts far too slowly and blood transfusion should be considered on clinical grounds.",
+      "Incorrect: Over-transfusion to physiological haemoglobin levels (≥12.0 g/dL) increases alloimmunisation and circulatory overload risks and is expressly discouraged by SLCOG.",
+      "Correct: Per SLCOG Section 6, for non-bleeding women with Hb <8 g/dL in labour or immediate postpartum where transfusion is clinically indicated by symptoms/history, transfuse a single unit of RCC and clinically reassess before giving additional units.",
+      "Incorrect: Fresh frozen plasma supplies coagulation factors rather than erythrocytes and does not restore oxygen-carrying haemoglobin.",
+      "Incorrect: Anaemia alone is not an indication for Caesarean delivery, and surgery without optimising symptomatic severe anaemia increases maternal morbidity."
+    ],
+    "clinicalPearl": "In non-bleeding intrapartum/immediate postpartum women with Hb <8 g/dL needing transfusion, follow the 'single-unit policy' (transfuse 1 unit RCC, then clinically reassess); in stable postnatal women with Hb >7 g/dL and no bleeding, favour iron over transfusion.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "When transfusing a non-bleeding woman in labour with Hb <8 g/dL based on symptoms/history, give a single unit of RCC followed by clinical reassessment."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_11",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "SLCOG Partogram Induction Start & Observation Intervals",
+    "stem": "A 27-year-old primigravida at 41+0 weeks' gestation is admitted for induction of labour by amniotomy and intravenous oxytocin infusion. Vaginal examination reveals a soft cervix dilated to 2 cm, cephalic vertex at 3/5 above the brim, and zero spontaneous contractions. According to SLCOG Partogram guidelines, how should charting and observations proceed from induction?",
+    "options": [
+      "Start partogram at induction without an Alert line until ≥4 cm; chart pulse and contractions q30min",
+      "Defer opening the partogram sheet until cervical dilatation reaches 4 cm, checking FHR every 15 minutes",
+      "Plot the 1 cm/hr Alert line at 2 cm immediately and document uterine contractions only every 4 hours",
+      "Start the partogram now with 4-hourly maternal pulse checks and omit oxytocin infusion rate charting",
+      "Record latent-phase FHR every 5 minutes and omit contraction-free interval timing on the partograph"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per SLCOG Slides 4, 8, 11, 13, and 19, initiate the partogram at induction (oxytocin or amniotomy), defer drawing the Alert line until dilatation reaches ≥4 cm, chart contractions (duration + interval) and maternal pulse every 30 minutes, check latent FHR q30min, and monitor BP/temp q4h.",
+      "Incorrect: Waiting until active labour (4 cm) misses induction oxytocin titration, early contraction patterns, FHR (checked every 30 min in latent phase), and maternal observations.",
+      "Incorrect: The Alert line is strictly restricted to active labour (≥4 cm) and must never be drawn at 2 cm; furthermore, uterine contractions must be charted every 30 minutes rather than 4-hourly.",
+      "Incorrect: Maternal pulse is recorded every 30 minutes throughout labour (blood pressure and temperature every 4 hours), and oxytocin infusion rate (drops/min or mL/min) must be charted.",
+      "Incorrect: Every-5-minute FHR auscultation applies only to active second-stage pushing (latent phase requires q30min), and SLCOG mandates charting both contraction duration and contraction-free interval."
+    ],
+    "clinicalPearl": "Start the SLCOG partogram whenever induction begins (amniotomy/oxytocin) or contractions reach ≥2/10 min, deferring the Alert line until ≥4 cm; chart contractions (duration + free interval) and maternal pulse every 30 minutes, and BP/temperature every 4 hours.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Start the partogram at induction (oxytocin/amniotomy) without drawing the Alert line until ≥4 cm; chart contractions and maternal pulse every 30 min and BP/temperature every 4 hours."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_12",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Second-Stage SLCOG Partogram FHR & Maternal Monitoring",
+    "stem": "A 28-year-old primigravida in spontaneous labour reaches full cervical dilatation (10 cm) on vaginal examination with vertex at +1 station and no immediate urge to push. Forty-five minutes later, the presenting part reaches the pelvic floor and she begins active expulsive pushing. Under SLCOG Partogram rules, what second-stage timing entries and FHR monitoring frequencies are required?",
+    "options": [
+      "Record time of full dilatation only; maintain FHR auscultation every 15 minutes throughout the second stage",
+      "Record time of pushing onset only; monitor FHR every 30 minutes and maternal blood pressure every 15 minutes",
+      "Discontinue partogram FHR charting at 10 cm and rely on maternal pulse checks every 4 hours",
+      "Record both times; check FHR every 10 minutes passively and every 5 minutes once active pushing starts",
+      "Record both times; check FHR every 5 minutes passively and every 15 minutes during expulsive pushing"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: SLCOG explicitly requires documenting both the time of full dilatation and the time pushing commenced, and FHR surveillance must intensify from 15-minute active-first-stage checks.",
+      "Incorrect: Both full dilatation time and pushing onset time must be documented; FHR every 30 minutes is for the latent phase, and maternal BP is checked 4-hourly during first/second stages.",
+      "Incorrect: The second stage carries heightened risk of cord compression and fetal acidaemia, requiring tighter—not discontinued—FHR monitoring, while maternal pulse is checked every 30 minutes.",
+      "Correct: Per SLCOG Slides 7, 9, and 18–19, record both time of full dilatation and time of pushing onset; auscultate FHR every 10 minutes in the passive phase and every 5 minutes during expulsive pushing (with pulse q30min and BP/temp q4h).",
+      "Incorrect: This inverts the passive and active second-stage monitoring intervals; expulsive pushing demands the most frequent (5-minute) FHR monitoring."
+    ],
+    "clinicalPearl": "In the SLCOG second stage, record both time of full dilatation and time pushing starts, and step up FHR checks from every 10 minutes (passive phase) to every 5 minutes (expulsive pushing).",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Document both full dilatation and pushing onset times in the second stage; record FHR every 10 min during the passive phase and every 5 min during active pushing."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_13",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Abdominal Fifths Engagement & SLCOG Contraction/Liquor Coding",
+    "stem": "At 2:00 p.m., a 26-year-old woman in active labour is at 7 cm cervical dilatation with membranes intact on vaginal examination. Abdominal palpation reveals 2/5 of the fetal head palpable above the pelvic brim, and uterine palpation over 10 minutes detects 4 contractions each lasting 45–50 seconds with 1-minute contraction-free intervals. How should head engagement, liquor status, and contractions be charted on the SLCOG partogram?",
+    "options": [
+      "Head is unengaged (O at 2/5); chart liquor as C and draw 4 dotted boxes for contractions",
+      "Head is engaged (O plotted at 2/5); chart liquor as I and fill 4 solid boxes for contractions",
+      "Head is engaged (O plotted at 2/5); chart liquor as A and shade 4 diagonally hatched boxes",
+      "Head is unengaged (O at 3/5); chart liquor as I and shade 4 diagonally hatched boxes",
+      "Head is engaged (O plotted at 5/5); chart liquor code M and fill 5 completely solid contraction boxes"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: When 2/5 or less of the fetal head is palpable above the pelvic brim, the head is engaged; furthermore, 'C' means clear ruptured liquor and dotted boxes represent contractions <20 seconds.",
+      "Correct: Per SLCOG Partogram rules, ≤2/5 palpable per abdomen signifies engagement (plot O at 2), intact membranes are charted 'I', and 4 contractions lasting 40–60 seconds each are plotted as 4 completely shaded (solid) squares.",
+      "Incorrect: 'A' denotes absent liquor (severe oligohydramnios after membrane rupture), and diagonal hatching indicates moderate contractions lasting 20–40 seconds.",
+      "Incorrect: The abdominal finding was explicitly 2/5 (engaged), not 3/5 (unengaged), and 45–50 second contractions exceed the 20–40 second diagonal-hatch band.",
+      "Incorrect: '5/5' indicates the entire head is floating above the pelvic brim, and 'M' denotes meconium-stained liquor rather than intact membranes."
+    ],
+    "clinicalPearl": "On the SLCOG partogram, engagement means ≤2/5 head palpable per abdomen; code membranes/liquor as I (intact), C (clear), M (meconium), B (blood), or A (absent), and shade contractions as dots (<20 s), diagonal hatch (20–40 s), or solid fill (40–60 s).",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Abdominal descent ≤2/5 indicates engagement; chart intact membranes as 'I' and contractions lasting 40–60 seconds as completely solid shaded boxes."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_14",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Third-Stage SLCOG Partogram & Grey-Box Escalation",
+    "stem": "Thirty minutes after an apparently normal vaginal delivery, a mother is monitored on the reverse (third-stage) chart of the SLCOG partogram. Her pulse has climbed to 118 bpm (falling inside a single dark grey alert box), her blood pressure is 96/64 mmHg, and abdominal palpation shows the uterine fundus has risen 3 cm above the ink mark drawn on her skin right after placental delivery. What is the immediate priority?",
+    "options": [
+      "Continue routine 30-minute maternal observations because at least two dark grey boxes are required to escalate",
+      "Lower the frequency of fundal palpation to hourly since only mild external lochia is visible on the pad",
+      "Record her observations as normal white-box parameters and discharge her to the postnatal ward",
+      "Wait 60 minutes to check urine output before alerting a doctor because systolic BP remains above 90 mmHg",
+      "Notify the Medical Officer immediately because a dark grey box and rising marked fundus signal concealed PPH"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: SLCOG Slide 26 mandates notifying the MO/Senior MO if ANY parameter enters even ONE dark grey box (or two or more light grey boxes).",
+      "Incorrect: Postpartum uterine tone and fundal level must be checked every 15 minutes during initial third-stage monitoring, and a rising fundus indicates concealed intrauterine blood/clot accumulation.",
+      "Incorrect: Tachycardia of 118 bpm and a rising uterine fundus are high-risk red flags requiring urgent clinical intervention, not postnatal ward transfer.",
+      "Incorrect: Young pregnant women maintain systolic BP via sympathetic vasoconstriction until massive hypovolaemia occurs; delaying action risks decompensated haemorrhagic shock.",
+      "Correct: On the SLCOG reverse third-stage chart, marking the abdominal fundus detects concealed uterine bleeding/atony (any rise requires urgent attention), and any single dark grey box (or ≥2 light grey boxes) mandates immediate MO/Senior MO notification."
+    ],
+    "clinicalPearl": "Use the reverse side of the SLCOG partogram every 15 minutes for pulse and fundal tone/level (BP/RR q30min): mark the fundus with a pen—a rising fundus means concealed PPH—and call the MO immediately for 1 dark grey box or ≥2 light grey boxes.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Mark the postpartum fundal height with a pen (any rise demands urgent attention) and notify the MO immediately if any parameter falls in one dark grey box or ≥2 light grey boxes."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_15",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Assisted Vaginal Breech Delivery Manoeuvres",
+    "stem": "A multiparous woman at 38 weeks' gestation undergoes an assisted vaginal breech delivery in lithotomy. Following an adequate mediolateral episiotomy and release of extended legs, the trunk delivers spontaneously without traction until the inferior angle of the scapula becomes visible, revealing both fetal arms extended above the head. Which sequential manoeuvres safely deliver the arms and then the aftercoming head?",
+    "options": [
+      "Pinard's manoeuvre to flex the arms downward, followed by vigorous axial trunk traction for the head",
+      "Immediate fundal pressure to expel the shoulders, followed by Burns-Marshall hyperextension over the abdomen",
+      "Løvset's 180-degree rotations for extended arms, then deliver head by forceps or Mauriceau-Smellie-Veit",
+      "Apply Malmström ventouse to the fetal occiput once visible after sweeping the posterior arm blindly",
+      "Pull firmly on the umbilical cord loop while rotating the fetal trunk 360 degrees to disengage the arms"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Pinard's manoeuvre releases extended legs (abducting the thigh and flexing the knee), not extended arms, and vigorous axial traction risks cervical spine and brachial plexus injury.",
+      "Incorrect: Fundal pressure worsens nuchal arm entrapment, and the guide warns that Burns-Marshall risks cervical spine injury and sudden intracranial decompression causing tentorial tears.",
+      "Correct: Extended arms at the scapular tip are delivered using Løvset's manoeuvre (holding the bony pelvis, rotating 180° in one direction to sweep the anterior-brought arm across the chest, then 180° opposite), followed by forceps or Mauriceau-Smellie-Veit for the aftercoming head.",
+      "Incorrect: Ventouse cannot be applied to the aftercoming head of a breech delivery, and blind sweeping without Løvset's rotation risks humeral fracture.",
+      "Incorrect: Pulling a cord loop is done gently solely to prevent cord traction/tension, never to deliver the fetus, and 360-degree torsion injures the fetal neck."
+    ],
+    "clinicalPearl": "In assisted vaginal breech delivery, practise 'masterly inactivity' until the scapulae appear: use Pinard's for extended legs, Løvset's 180° rotations for extended arms, and forceps or Mauriceau-Smellie-Veit (splinting the neck) for the aftercoming head.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Use Løvset's 180-degree rotation manoeuvre for extended arms once the scapular angle is visible, and deliver the aftercoming head safely with obstetric forceps or Mauriceau-Smellie-Veit."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_16",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Slow Breech Labour & Aftercoming Head Entrapment",
+    "stem": "A 30-year-old multiparous woman in the first stage of labour with a singleton frank breech presentation (estimated fetal weight 2.9 kg, intact membranes, reassuring CTG) has a cervical dilatation of 5 cm at 8:00 a.m. and only 7 cm at 1:00 p.m., with 2 contractions per 10 minutes. What is the safest management option and its clinical rationale?",
+    "options": [
+      "Perform immediate amniotomy and commence intravenous oxytocin augmentation to speed dilatation",
+      "Insert a single vaginal dinoprostone pessary to soften the cervix and review again in 6 hours",
+      "Perform internal podalic version and immediate breech extraction through the 7 cm cervix",
+      "Emergency LSCS immediately; oxytocin risks undiagnosed CPD and aftercoming head entrapment",
+      "Encourage active maternal bearing-down efforts immediately to push the breech across the pelvic floor"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Oxytocin augmentation in slow first-stage breech labour is dangerous because it can drive the smaller breech through a borderline pelvis, leading to catastrophic aftercoming head entrapment.",
+      "Incorrect: Prostaglandins are strictly contraindicated in established labour and worsen uterine hyperstimulation and hypoxia.",
+      "Incorrect: Breech extraction is strictly contraindicated in a singleton pregnancy (reserved solely for emergencies in a second twin) and attempting it at 7 cm causes fatal cervical entrapment.",
+      "Correct: Per the Malpresentation Guide (Q3.5), slow progress in first-stage singleton breech labour warrants immediate lower-segment Caesarean section because oxytocin augmentation masks undiagnosed cephalopelvic disproportion and risks head entrapment.",
+      "Incorrect: Encouraging maternal pushing before full 10 cm cervical dilatation pulls the fetal trunk through an incompletely dilated cervix, precipitating cord compression and head entrapment."
+    ],
+    "clinicalPearl": "Never augment slow first-stage singleton breech labour with oxytocin or allow early pushing—both risk pulling the fetal body through an incompletely dilated cervix or narrow pelvis, causing lethal aftercoming head entrapment.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "In slow first-stage breech labour, perform an emergency Caesarean section; oxytocin augmentation is contraindicated as undiagnosed CPD can cause head entrapment."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_17",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Transverse Lie & Shoulder Presentation Management",
+    "stem": "A 32-year-old multiparous woman at 39 weeks' gestation presents in established active labour with contractions every 4 minutes and a cervical dilatation of 5 cm. Abdominal and ultrasound examinations confirm a singleton fetus in transverse lie with shoulder presentation, intact membranes, a fundal placenta, and normal fetal heart activity. What is the safest management plan?",
+    "options": [
+      "Perform immediate artificial rupture of membranes to allow the fetal shoulder to descend and rotate",
+      "Perform emergency LSCS and strictly avoid amniotomy to prevent umbilical cord or fetal hand prolapse",
+      "Commence high-dose intravenous oxytocin infusion to convert the transverse lie to longitudinal spontaneously",
+      "Wait for full cervical dilatation, then perform internal podalic version for a singleton vaginal birth",
+      "Discharge her home to await spontaneous membrane rupture before deciding on operative delivery"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Artificial rupture of membranes in transverse lie removes the fluid cushion over the empty lower segment, precipitating acute umbilical cord prolapse and fetal hand/arm prolapse.",
+      "Correct: Once active labour is established with transverse lie/shoulder presentation, emergency lower-segment Caesarean section is the safest option, avoiding amniotomy which risks cord/hand prolapse, obstructed labour, and uterine rupture.",
+      "Incorrect: Stimulating contractions against an uncorrected transverse lie causes neglected shoulder presentation, obstructed labour, and uterine rupture (especially in multiparae).",
+      "Incorrect: Internal podalic version is contraindicated in active singleton labour with transverse lie and risks uterine rupture and fetal demise.",
+      "Incorrect: Allowing a woman in active labour with transverse lie to leave hospital risks unattended membrane rupture, cord prolapse, and fetal death."
+    ],
+    "clinicalPearl": "In transverse lie/shoulder presentation, never perform amniotomy: before labour at term without contraindications offer ECV/stabilising induction, whereas in active labour deliver promptly by emergency LSCS to prevent cord/hand prolapse and uterine rupture.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Transverse lie with shoulder presentation in active labour risks hand/cord prolapse, obstructed labour, and uterine rupture; avoid ARM and perform emergency Caesarean section."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_18",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Deep Transverse Arrest & Pelvic Morphology",
+    "stem": "A 26-year-old primigravida in the second stage of labour fails to show fetal descent over 90 minutes despite strong contractions. Prior clinical pelvimetry recorded an android pelvis with prominent ischial spines. Vaginal examination confirms full dilatation with the vertex arrested at the level of the ischial spines, sagittal suture transverse, and fontanelles palpable laterally. What caused this arrest and what is the safest management?",
+    "options": [
+      "Deep transverse arrest from partial OP rotation; deliver by Caesarean section given prominent spines",
+      "Direct occipito-posterior arrest typical of an anthropoid pelvis; await spontaneous face-to-pubes birth",
+      "Deep transverse arrest; start high-dose oxytocin augmentation for 2 hours to achieve anterior rotation",
+      "Incomplete vertex rotation; apply Kielland's rotational forceps immediately without spinal or epidural block",
+      "Primary brow presentation; push the vertex above the brim and perform emergency internal podalic version"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Partial internal rotation of an occipito-posterior position arrests transversely at the ischial spines (deep transverse arrest), classically in an android pelvis with prominent spines; Caesarean section is the safest definitive management when spines are prominent.",
+      "Incorrect: In deep transverse arrest, the sagittal suture lies transversely rather than anteroposteriorly; an anthropoid pelvis has a large AP diameter facilitating direct 'face-to-pubes' delivery rather than transverse arrest.",
+      "Incorrect: She already has strong uterine contractions against an unfavourable android mid-cavity with prominent spines; augmenting with oxytocin risks obstructed labour and fetal distress.",
+      "Incorrect: Kielland's rotational forceps (or ventouse) may only be attempted if the spines are NOT prominent and the head is at or below the spines—and Kielland's strictly requires epidural or spinal analgesia.",
+      "Incorrect: Brow presentation is diagnosed by palpating supraorbital ridges and the nasal bridge rather than a transverse sagittal suture with lateral fontanelles, and internal podalic version is contraindicated in obstructed cephalic labour."
+    ],
+    "clinicalPearl": "Android pelvis with prominent ischial spines predisposes to deep transverse arrest (sagittal suture transverse at the ischial spines from partial OP rotation): Caesarean section is safest when spines are prominent, whereas Kielland's requires non-prominent spines and spinal/epidural analgesia.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Deep transverse arrest results from partial OP rotation in an android pelvis with prominent ischial spines; Caesarean section is safest when spines are prominent."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_19",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Pre-Pregnancy Diabetes Counselling & Teratogen Switch",
+    "stem": "A 32-year-old woman with type 2 diabetes mellitus and hypertension attends the pre-pregnancy clinic planning conception. Her medications are metformin, glimepiride, enalapril, and atorvastatin; BMI is 29 kg/m² and HbA1c is 10.3%. According to the GDM & PIH guide, what pre-conception counselling and medication adjustment are mandatory before she attempts pregnancy?",
+    "options": [
+      "Approve immediate conception with folic acid 400 µg daily while maintaining enalapril for renoprotection",
+      "Switch metformin to glimepiride monotherapy and continue atorvastatin throughout the first trimester",
+      "Aim for HbA1c ≤6.5% first, use metformin/insulin only, stop enalapril/statin, give 5 mg folic acid",
+      "Continue all current medications until a positive urine pregnancy test, then stop metformin and switch to enalapril",
+      "Advise against pregnancy only if HbA1c exceeds 12%, and omit retinal or renal screening before conception"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Women with diabetes require high-dose folic acid 5 mg daily (not 400 µg), and ACE inhibitors (enalapril) are teratogenic and must be stopped before conception.",
+      "Incorrect: Only metformin and insulin are permitted hypoglycaemic agents in pregnancy (sulphonylureas like glimepiride are stopped), and statins must be discontinued pre-conception.",
+      "Correct: Per GDM & PIH Question 1.1, strongly advise against conception when HbA1c >10% (target ≤6.5% to minimise congenital cardiac/neural/sacral agenesis anomalies), give folic acid 5 mg daily, stop ACEi/ARBs/statins, use metformin/insulin only, reduce weight if BMI >27, and screen retina/kidneys/heart.",
+      "Incorrect: Continuing teratogenic ACE inhibitors and statins during early organogenesis causes fetal renal dysplasia and malformations; medication transition must occur before conception.",
+      "Incorrect: Conception should be strongly advised against whenever HbA1c exceeds 10%, and baseline retinal, renal, and cardiac assessments are mandatory pre-conception."
+    ],
+    "clinicalPearl": "Pre-conception checklist for diabetes: target HbA1c ≤6.5% (advise against pregnancy if >10%), prescribe folic acid 5 mg daily, stop ACEi/ARBs/statins, restrict glucose therapy to metformin/insulin, and assess retina, kidneys, and heart.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Target pre-conception HbA1c ≤6.5% (advise against conception if >10%), start folic acid 5 mg daily, discontinue ACEi/ARBs/statins, and use only metformin and insulin."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_20",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Immediate Insulin Threshold & Booking HbA1c in Diabetes",
+    "stem": "A 31-year-old multigravida (BMI 26 kg/m²) presents at 28 weeks' gestation with markedly elevated glycaemic indices: fasting plasma glucose is 7.6 mmol/L (137 mg/dL), and 2-hour postprandial levels after lunch and dinner are 9.4 and 11.2 mmol/L. An HbA1c is requested alongside renal, retinal, and ultrasound assessments. According to the GDM & PIH study guide, what initial pharmacotherapy is indicated immediately?",
+    "options": [
+      "Trial medical nutrition therapy and walking alone for 4 weeks before re-evaluating drug therapy",
+      "Commence oral glibenclamide 5 mg twice daily and defer insulin initiation until 34 weeks' POA",
+      "Begin metformin monotherapy for 2 weeks and add soluble insulin only if ultrasound shows macrosomia",
+      "Prescribe a single daytime dose of isophane insulin alone without pre-meal soluble cover or diet",
+      "Start pre-meal soluble insulin immediately with diet because fasting glucose exceeds 7.0 mmol/L"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Diet and exercise alone for 2 weeks is only appropriate when fasting blood sugar is <7.0 mmol/L without complications; FBS >7.0 mmol/L requires immediate insulin.",
+      "Incorrect: Glibenclamide is not part of the guide's pregnancy regimen (only metformin and insulin are recommended), and delaying control risks fetal death and macrosomia.",
+      "Incorrect: Metformin alone is insufficient when fasting glucose exceeds 7.0 mmol/L, where immediate pre-meal soluble insulin (± night isophane) is mandated.",
+      "Incorrect: Pre-meal soluble insulin (typically 3 pre-meal doses starting small and titrated to a 6–7 point profile, adding nocturnal isophane if fasting remains high) alongside diabetic diet is standard.",
+      "Correct: Per the GDM & PIH guide (Q2.1), any pregnant diabetic patient presenting with fasting blood sugar >7.0 mmol/L must be commenced immediately on insulin (three pre-meal doses of soluble insulin ± nocturnal isophane) alongside diet and exercise."
+    ],
+    "clinicalPearl": "In hyperglycaemia in pregnancy, a fasting blood glucose >7.0 mmol/L mandates immediate insulin (3 pre-meal soluble doses ± nocturnal isophane) rather than a diet-alone or metformin trial; check HbA1c (<6.5% helps exclude pre-existing DM).",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Commence insulin immediately alongside medical nutrition therapy whenever fasting blood glucose exceeds 7.0 mmol/L."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_21",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Chronic Hypertension vs PIH & Acute Severe BP Control",
+    "stem": "A 34-year-old woman with a singleton intrauterine pregnancy (no trophoblastic disease) is found to have blood pressures of 152/96 and 156/98 mmHg at 14 weeks' gestation. Later, at 33 weeks, she develops severe hypertension of 172/114 mmHg with frontal headache and brisk reflexes, and intravenous magnesium sulphate is initiated. How is her baseline hypertension classified, and which acute antihypertensive choice avoids dangerous drug interaction?",
+    "options": [
+      "Pregnancy-induced hypertension; administer sublingual nifedipine 10 mg simultaneously with magnesium sulphate",
+      "Chronic hypertension; give IV labetalol rapidly for DBP >110 mmHg, avoiding nifedipine with MgSO4",
+      "Gestational hypertension; commence oral enalapril 10 mg immediately to achieve rapid diastolic reduction",
+      "Chronic hypertension; restrict antihypertensives until diastolic pressure stays above 120 mmHg for 24 hours",
+      "Superimposed eclampsia; administer IV furosemide 40 mg bolus alongside oral losartan 50 mg"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Hypertension detected before 20 weeks without trophoblastic disease is chronic hypertension (not PIH, which arises after 20 weeks), and combining nifedipine with magnesium sulphate risks severe hypotension and neuromuscular blockade via dual calcium-channel blockade.",
+      "Correct: Per the PIH guide, hypertension before 20 weeks (persisting >42 days postpartum) is chronic hypertension; DBP >110 mmHg mandates rapid reduction with IV labetalol (or IV hydralazine), avoiding simultaneous nifedipine alongside magnesium sulphate.",
+      "Incorrect: ACE inhibitors such as enalapril are strictly contraindicated during pregnancy because they cause fetal renal dysplasia, oligohydramnios, and congenital anomalies.",
+      "Incorrect: Rapid pharmacological BP reduction is indicated as soon as diastolic BP exceeds 110 mmHg to prevent maternal haemorrhagic stroke—never wait 24 hours at 120 mmHg.",
+      "Incorrect: Eclampsia requires seizures in the setting of pre-eclampsia, and both diuretics (furosemide) and ARBs (losartan) are contraindicated during pregnancy."
+    ],
+    "clinicalPearl": "Hypertension before 20 weeks (persisting >42 days postpartum) = chronic hypertension; treat severe acute hypertension (DBP >110 mmHg) promptly with IV labetalol or IV hydralazine, and never co-administer nifedipine with MgSO4.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Hypertension <20 weeks (persisting >42 days postpartum) defines chronic hypertension; rapidly reduce DBP >110 mmHg with IV labetalol/hydralazine and avoid nifedipine with MgSO4."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_22",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Pre-Eclampsia Expedited Delivery & Eclampsia Anaesthesia",
+    "stem": "A 29-year-old primigravida at 31+5 weeks' gestation is admitted with severe pre-eclampsia and given antenatal corticosteroids. Twelve hours later, despite antihypertensive therapy and magnesium sulphate prophylaxis, she develops persistent epigastric pain, platelet count 58 × 10⁹/L, serum ALT 240 U/L, and absent end-diastolic flow on umbilical artery Doppler with a live fetus. What is the definitive obstetric and anaesthetic plan?",
+    "options": [
+      "Continue expectant inpatient management with twice-weekly blood tests until 36 weeks' gestation",
+      "Induce labour with vaginal dinoprostone and administer spinal anaesthesia once platelets drop below 50 × 10⁹/L",
+      "Administer a repeat steroid course at 34 weeks and schedule elective Caesarean delivery under epidural block",
+      "Delay delivery for 72 hours while transfusing fresh frozen plasma to normalise liver transaminases first",
+      "Deliver promptly by Caesarean under general anaesthesia regardless of gestation for HELLP and Doppler"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Although stable pre-eclampsia without severe features may be watched toward 36–37 weeks, organ involvement (HELLP/elevated ALT/thrombocytopenia) and absent umbilical end-diastolic flow require urgent delivery regardless of gestation.",
+      "Incorrect: Attempting prostaglandin induction at 31+5 weeks with absent end-diastolic flow and HELLP delays delivery dangerously, and severe thrombocytopenia contraindicates neuraxial (spinal/epidural) anaesthesia.",
+      "Incorrect: Waiting until 34 weeks in the presence of maternal HELLP syndrome and absent Doppler flow risks maternal hepatic rupture, eclampsia, and stillbirth.",
+      "Incorrect: Definitive treatment of HELLP syndrome and severe pre-eclampsia is delivery of the placenta; delaying 72 hours increases maternal and fetal mortality.",
+      "Correct: Per the PIH guide (Answers 1.8 & 3.5), organ involvement/HELLP, signs of impending eclampsia, or reduced/absent diastolic Doppler flow mandates expedited delivery regardless of gestation, using general anaesthesia when thrombocytopenia/coagulopathy contraindicates spinal block."
+    ],
+    "clinicalPearl": "In pre-eclampsia, maternal organ involvement (HELLP, renal dysfunction), impending eclampsia, uncontrollable BP, absent/reversed Doppler end-diastolic flow, or abnormal CTG mandates delivery regardless of gestation—and thrombocytopenia/coagulopathy or raised ICP dictates general over spinal anaesthesia.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Deliver pre-eclampsia regardless of gestation if severe features (organ involvement/HELLP, impending eclampsia, abnormal Doppler/CTG) arise, using general anaesthesia when coagulopathy precludes spinal block."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_23",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Syphilis in Third-Trimester Pregnancy",
+    "stem": "A 24-year-old primigravida presenting late for antenatal care at 32 weeks' gestation has a painless indurated vulval ulcer and reactive syphilis serology (VDRL 1:32, TPPA positive). She has no history of penicillin or beta-lactam allergy. According to the National Combined STI Guidelines (Sri Lanka), what is the recommended maternal antimicrobial schedule and key acute reaction counselling?",
+    "options": [
+      "Give single-dose oral azithromycin 2 g now and reassure her that neonatal congenital screening is unnecessary",
+      "Prescribe oral doxycycline 100 mg twice daily for 14 days and repeat VDRL after delivery",
+      "Give IM benzathine penicillin G 2.4 MU now and repeat in 1 week; warn of Jarisch-Herxheimer",
+      "Give a single dose of IM benzathine penicillin G 2.4 MU only and avoid partner treatment until birth",
+      "Prescribe oral erythromycin 500 mg four times daily for 14 days to avoid acute fetal distress"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Sri Lankan STI guidelines explicitly state azithromycin is NOT recommended in pregnancy (nor HIV/MSM) due to resistance and unreliable prevention of congenital syphilis.",
+      "Incorrect: Doxycycline is strictly contraindicated in pregnancy because of fetal dental staining and bone toxicity.",
+      "Correct: Per Sri Lankan STI guidelines (Chapter 2.1.3), when early syphilis treatment is initiated in the third trimester, give IM benzathine penicillin G 2.4 MU (after sensitivity test) followed by a second 2.4 MU IM dose 1 week later, counselling about Jarisch-Herxheimer fever/uterine contractions.",
+      "Incorrect: A single dose suffices in the first and second trimesters, whereas initiating therapy in the third trimester mandates a second weekly dose—and early syphilis contacts must be treated epidemiologically immediately.",
+      "Incorrect: Non-penicillin regimens such as erythromycin do not reliably cross the placenta and are classified in Chapter 2.4 as inadequate maternal therapy requiring 10 days of IV neonatal penicillin G."
+    ],
+    "clinicalPearl": "In Sri Lankan STI guidelines, third-trimester early syphilis requires TWO weekly doses of IM benzathine penicillin G 2.4 MU (not one), non-penicillin regimens (erythromycin/azithromycin) fail to reliably prevent congenital syphilis, and mothers need Jarisch-Herxheimer counselling.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "When early syphilis treatment starts in the third trimester, give a second 2.4 MU IM benzathine penicillin dose 1 week after the first and counsel regarding Jarisch-Herxheimer fetal risks."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_24",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Gonorrhoea & Chlamydia Co-Treatment in Pregnancy",
+    "stem": "A 22-year-old woman at 19 weeks' gestation presents with mucopurulent cervical discharge, dysuria, and post-coital spotting. Endocervical swab microscopy and culture confirm Neisseria gonorrhoeae, while NAAT testing for Chlamydia trachomatis is awaited. She has no drug allergies. According to the National Combined STI Guidelines (Sri Lanka), what is the safest complete antimicrobial and follow-up management?",
+    "options": [
+      "Give oral cefixime 400 mg plus azithromycin 2 g single dose, treat her partner, and arrange TOC",
+      "Administer single-dose IM ceftriaxone 1 g with oral doxycycline 100 mg twice daily for 7 days",
+      "Prescribe oral ofloxacin 400 mg twice daily for 7 days alone and defer partner notification until postpartum",
+      "Treat gonorrhoea only with oral amoxicillin 500 mg three times daily and avoid test of cure in pregnancy",
+      "Delay all antibiotics until 24 weeks' gestation and screen only her partner before prescribing dual therapy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per Chapters 4 and 5 of the Sri Lankan STI Guidelines, uncomplicated anogenital gonorrhoea requires oral cefixime 400 mg plus azithromycin 2 g single dose (which also covers chlamydia co-infection safely in pregnancy), partner treatment, and pregnancy TOC (culture ≥72 h for gonorrhoea; NAAT ≥3–5 weeks post-treatment for chlamydia).",
+      "Incorrect: Doxycycline is contraindicated throughout pregnancy due to fetal tooth discolouration and skeletal effects.",
+      "Incorrect: Quinolones such as ofloxacin are contraindicated in pregnancy, lack reliable antigonococcal efficacy due to resistance, and partners within 3 months must be treated epidemiologically.",
+      "Incorrect: Amoxicillin is ineffective against Neisseria gonorrhoeae, and a test of cure IS specifically recommended in pregnancy (culture ≥72 h for gonorrhoea; deferred ≥3–5 weeks for chlamydia NAAT to avoid false positives from residual DNA).",
+      "Incorrect: Untreated gonorrhoea/chlamydia in pregnancy causes chorioamnionitis, preterm birth, and neonatal ophthalmia neonatorum; prompt pregnancy-safe dual therapy must not be delayed."
+    ],
+    "clinicalPearl": "In pregnancy, treat gonorrhoea + presumptive chlamydia co-infection immediately with single-dose cephalosporin (cefixime 400 mg PO or ceftriaxone 1 g IM) plus azithromycin (never doxycycline or ofloxacin), treat partners, and always perform a pregnancy Test of Cure.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Treat uncomplicated gonorrhoea with cephalosporin plus azithromycin to cover chlamydia co-infection (avoiding doxycycline/ofloxacin in pregnancy), treat partners, and perform pregnancy TOC."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_25",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Bacterial Vaginosis vs Trichomoniasis Diagnosis & Partner Care",
+    "stem": "A 28-year-old non-pregnant woman presents with a thin, homogeneous greyish-white vaginal discharge and an unpleasant fishy odour without vulval itching or soreness. Speculum inspection reveals a normal-appearing cervix without punctate erythema; vaginal fluid pH is 5.3, adding 10% KOH releases a strong fishy odour, and wet microscopy demonstrates clue cells with absent trichomonads. What is the diagnosis, regimen, and partner guidance?",
+    "options": [
+      "Trichomoniasis; treat with oral metronidazole and enforce mandatory epidemiological treatment of her male partner",
+      "Vulvovaginal candidiasis; treat with oral fluconazole 150 mg single dose and perform partner culture",
+      "Chlamydial cervicitis; prescribe oral azithromycin 1 g followed by 500 mg daily for 2 days and treat partner",
+      "Bacterial vaginosis (Amsel); treat with metronidazole 400 mg BD for 5–7 days without partner therapy",
+      "Bacterial vaginosis; administer topical clotrimazole pessaries for 6 nights and treat her male partner"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Trichomonas vaginalis typically causes frothy yellow discharge, vulval pruritus, strawberry cervix, and motile trichomonads on wet mount—and DOES require mandatory partner treatment, unlike bacterial vaginosis.",
+      "Incorrect: Candidiasis produces non-offensive curdy white discharge, vulval itching/fissuring, vaginal pH ≤4.5, and budding yeast/pseudohyphae rather than clue cells and a positive KOH whiff test.",
+      "Incorrect: Chlamydial cervicitis causes mucopurulent cervical discharge, contact bleeding, and pelvic discomfort rather than clue cells and a fishy amine odour on 10% KOH.",
+      "Correct: Four of four Amsel criteria are satisfied (thin homogeneous discharge, clue cells, pH >4.5, positive 10% KOH whiff test) confirming bacterial vaginosis; treat with oral metronidazole 400 mg BD for 5–7 days (advise avoiding alcohol for 48 h) without routine male partner treatment.",
+      "Incorrect: Clotrimazole is an antifungal with no activity against anaerobic BV flora (Gardnerella, Prevotella, Mobiluncus), and routine partner screening/treatment is not indicated in BV."
+    ],
+    "clinicalPearl": "Distinguish BV (≥3 Amsel criteria: thin homogeneous discharge, pH >4.5, clue cells, fishy 10% KOH whiff test — NO routine male partner treatment) from Trichomoniasis (frothy discharge, strawberry cervix, motile trichomonads — MUST treat sexual partners).",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Confirm bacterial vaginosis using ≥3 Amsel criteria, treat with oral metronidazole 400 mg BD for 5–7 days (avoiding alcohol), and omit routine male partner treatment."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_26",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "HIV PEPSE & Prophylaxis After Sexual Assault",
+    "stem": "A 21-year-old woman presents 32 hours after unprotected penetrative vaginal sexual assault by an unknown assailant suspected of intravenous drug use. She has minor posterior fourchette abrasions and a negative high-sensitivity urine pregnancy test. In line with Chapter 25 of the National Combined STI Guidelines (Sri Lanka), which preventive bundle should be offered immediately?",
+    "options": [
+      "Defer HIV PEPSE until baseline HIV antibody results return in 2 weeks and give emergency pills within 24 hours only",
+      "Offer HIV PEPSE only if she presents within 24 hours, and avoid bacterial STI prophylaxis without culture proof",
+      "Offer immediate HIV PEPSE (within 72 h), emergency contraception, bacterial STI prophylaxis, and HBV vaccination",
+      "Repeat baseline serology at 12 months only and withhold hepatitis B vaccination unless surface antigen is positive",
+      "Perform an immediate routine speculum and colposcopy under anaesthesia before discussing psychological or STI care"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: HIV PEPSE efficacy depends on urgent initiation within 72 hours (do NOT wait 2 weeks for serology), and emergency contraception (copper IUD or oral EC) remains indicated up to 5 days post-assault.",
+      "Incorrect: Sri Lankan guidelines allow HIV PEPSE initiation up to 72 hours after high-risk sexual assault, and empiric prophylaxis against chlamydia, gonorrhoea, and trichomoniasis is offered when acquisition risk is high.",
+      "Correct: Per Chapter 25, high-risk sexual assault presenting within 72 hours warrants immediate HIV PEPSE (occupational-exposure regimen), pregnancy prevention up to 5 days, bacterial STI prophylaxis (chlamydia/gonorrhoea/TV), accelerated HBV vaccination (± HBIG within 7 days), and follow-up serology at 2 weeks and 3–6 months.",
+      "Incorrect: Post-assault STI/HIV serology follow-up occurs at baseline, 2 weeks, and 3–6 months, and accelerated HBV vaccination (0, 1, 2 months + 12-month booster) plus HBIG within 7 days is offered promptly.",
+      "Incorrect: Non-invasive swabs/urine NAATs are preferred if a survivor declines speculum exam, and immediate preventive prophylaxis must not be delayed."
+    ],
+    "clinicalPearl": "In sexual assault survivors, keep the dual time windows clear: HIV PEPSE must start within 72 hours, emergency pregnancy prevention up to 5 days, HBIG within 7 days (with accelerated HBV vaccine), plus empiric STI prophylaxis and 3–6 month repeat serology.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Offer HIV PEPSE within 72 hours of high-risk sexual assault alongside emergency contraception (up to 5 days), chlamydia/gonorrhoea/TV prophylaxis, HBV cover, and 3–6 month repeat serology."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_27",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Ventouse Mechanics & Mid-Cavity Forceps Traction",
+    "stem": "A 29-year-old primigravida at 39+4 weeks' gestation develops acute sustained fetal bradycardia (78 bpm for 4 minutes) during active second-stage pushing. Examination confirms full dilatation, ruptured membranes, empty bladder, and an occipito-anterior vertex at station +2 with 0/5 head palpable abdominally. Both Malmström metallic ventouse and mid-cavity obstetric forceps are available. Which instrument selection and traction trajectory are most appropriate?",
+    "options": [
+      "Apply 50 mm Malmström ventouse immediately at 0.2 kg/cm² and pull strictly upwards from the start",
+      "Choose Malmström ventouse because it achieves immediate vacuum in 30 seconds without maternal laceration",
+      "Apply forceps directly over the fetal face and exert continuous upward traction regardless of contractions",
+      "Use Wrigley's outlet forceps with its sliding lock to rotate the fetal occiput 180 degrees first",
+      "Use forceps (faster than 5–8 min ventouse set-up) pulling backward-downward, straight, upward-forward"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Effective Malmström ventouse vacuum requires 0.8 kg/cm² over 5–8 minutes to form a chignon, making it slow for acute severe fetal distress, and traction must follow the pelvic curve rather than pulling immediately upwards.",
+      "Incorrect: Building effective Malmström suction takes 5–8 minutes (not 30 seconds), which delays delivery in acute severe fetal bradycardia where forceps are faster.",
+      "Incorrect: Mid-cavity forceps blades are applied symmetrically along the parietal bones in OA position (never across the face), and traction is applied in three sequential pelvic-axis vectors synchronized with contractions/expulsive efforts.",
+      "Incorrect: Wrigley's forceps are short outlet forceps lacking a sliding lock (Kielland's has the sliding lock for rotation), and no rotation is needed for an occipito-anterior vertex.",
+      "Correct: Per the Instruments Guide (Slides 40 & 46), ventouse requires 5–8 minutes to reach 0.8 kg/cm² chignon formation and is disadvantaged in acute fetal distress; mid-cavity forceps expedite birth using traction first backward and downward, then straight, and finally upward and forward."
+    ],
+    "clinicalPearl": "Know the 3-step obstetric forceps pull following the curve of Carus: (1) backward & downward → (2) straight → (3) upward & forward to extend the head; avoid Malmström ventouse (needs 5–8 min at 0.8 kg/cm² for chignon) in acute fetal distress or <34 weeks.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Malmström ventouse needs 5–8 min at 0.8 kg/cm² to form a chignon and is avoided in fetal distress; mid-cavity forceps traction goes backward-downward, then straight, then upward-forward."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_28",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Ovum Forceps vs Sponge-Holding Forceps in Evacuation",
+    "stem": "A 26-year-old woman at 11 weeks' gestation undergoes theatre evacuation of retained products of conception for an incomplete miscarriage with brisk bleeding. Which pairing of instruments from the uterine evacuation tray safely steadies the soft vascular pregnant cervix and extracts protruding placental tissue while minimising cervical tearing and uterine perforation?",
+    "options": [
+      "Sharp Allis tissue forceps to grasp the cervix and Kocher's toothed artery forceps to extract tissue",
+      "Sponge-holding forceps on the cervix and lockless Haywood-Smith ovum forceps to extract tissue",
+      "Multi-toothed Vulsellum forceps to clamp the cervix and a sharp-ended Blake's curette to pull out clots",
+      "Heaney's hysterectomy clamp on the cervical lip and a Veress needle to aspirate the endometrial cavity",
+      "Green-Armytage forceps on the posterior fornix and a Sims' anterior retractor to extract products"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Sharp-toothed Allis forceps lacerate the friable, hypervascular pregnant cervix, and toothed Kocher's clamps risk perforating the soft gravid uterine wall.",
+      "Correct: Per the Instruments Guide (Slides 22 & 24), ring-shaped serrated sponge-holding forceps hold the soft pregnant cervix atraumatically, while spoon-ended Haywood-Smith ovum forceps lack a ratchet lock so they exert no crushing action on the gravid uterus.",
+      "Incorrect: Multi-toothed Vulsellum tears the soft pregnant cervix (reserved for non-pregnant D&C), and aggressive sharp curettage risks uterine perforation and Asherman syndrome.",
+      "Incorrect: Heaney's clamp is a heavy crushing pedicle clamp used in hysterectomy, and a Veress needle establishes laparoscopic pneumoperitoneum.",
+      "Incorrect: Green-Armytage forceps clamp cut LSCS uterine wound edges, and retractors do not extract intrauterine products of conception."
+    ],
+    "clinicalPearl": "On the pregnant uterus and cervix, replace sharp toothed instruments with atraumatic ones: use Sponge-holding forceps (not Vulsellum) on the soft pregnant cervix, and lockless Haywood-Smith ovum forceps (no ratchet = no crushing perforation) to remove POC.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Use ring-ended sponge-holding forceps to hold the pregnant cervix atraumatically and lockless spoon-shaped Haywood-Smith ovum forceps to remove POC without crushing the uterus."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_29",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Shoulder Dystocia Immediate Manoeuvre Sequence",
+    "stem": "A 31-year-old woman with gestational diabetes mellitus delivers the fetal head spontaneously at 39 weeks' gestation, but the head immediately retracts tightly against the perineum (turtle-neck sign) and fails to restitute, while gentle routine axial traction fails to deliver the anterior shoulder. What is the immediate first-line sequence of actions?",
+    "options": [
+      "Call for help, apply McRoberts hip flexion with suprapubic pressure, and strictly avoid fundal pressure",
+      "Ask the mother to push forcefully while an assistant applies firm downward fundal pressure behind the uterus",
+      "Apply Simpson's obstetric forceps to the delivered head and rotate laterally while pulling continuously downward",
+      "Place the patient in steep Trendelenburg position and await the next uterine contraction for spontaneous release",
+      "Perform immediate symphysiotomy under local anaesthesia before attempting any positional manoeuvres"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per the Comprehensive Study Guide (HELPERR), immediately call senior obstetric/neonatal/anaesthetic help, stop maternal pushing, place legs into McRoberts position (hyperflex/abduct hips) plus continuous or rocking suprapubic pressure (resolving up to 90% of cases), and NEVER apply fundal pressure.",
+      "Incorrect: Fundal pressure and continued pushing further impact the anterior fetal shoulder against the pubic symphysis, worsening brachial plexus injury and risking uterine rupture.",
+      "Incorrect: Traction or forceps rotation on an already delivered head causes severe cervical spine and Erb's brachial plexus injury without disimpacting the shoulder girdle.",
+      "Incorrect: Trendelenburg tilt is used for umbilical cord prolapse or laparoscopy, not shoulder dystocia, and waiting passively worsens progressive fetal asphyxia.",
+      "Incorrect: Symphysiotomy is a last-resort destructive/salvage measure only after external (McRoberts, suprapubic pressure, Gaskin) and internal rotational/posterior-arm manoeuvres fail."
+    ],
+    "clinicalPearl": "In shoulder dystocia (HELPERR): Call for Help, Evaluate for episiotomy, Legs into McRoberts (flattens sacral promontory & rotates symphysis cephalad), suprapubic Pressure (resolves ~90%), Enter (Rubin/Woods), Remove posterior arm, Roll to all-fours—NEVER push the fundus!",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Shoulder dystocia management follows HELPERR: call for help, stop pushing, hyperflex/abduct hips (McRoberts) with suprapubic pressure, and strictly avoid fundal pressure."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_c_30",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Refractory PPH Uterotonic Contraindications",
+    "stem": "A 34-year-old woman with severe pre-eclampsia (BP 166/106 mmHg) and moderate persistent bronchial asthma develops refractory primary postpartum haemorrhage (estimated blood loss 1300 mL) from uterine atony after vaginal delivery. Bimanual uterine massage, bladder catheterisation, IV oxytocin infusion, and IV tranexamic acid 1 g have failed to restore tone. Which uterotonic agents must be avoided and what is the safest next medical and mechanical step?",
+    "options": [
+      "Give intramuscular ergometrine 0.5 mg immediately and withhold all prostaglandins until BP normalises",
+      "Administer intramuscular carboprost 250 µg every 15 minutes as first-line rescue and defer balloon tamponade",
+      "Combine IV ergometrine 0.5 mg with carboprost 250 µg IM to achieve rapid synergistic uterine contraction",
+      "Avoid both ergometrine and carboprost; administer misoprostol 800–1000 µg and prepare Bakri balloon tamponade",
+      "Discontinue oxytocin completely and treat atony solely with oral nifedipine 20 mg and pelvic packing"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Ergometrine causes intense peripheral vasoconstriction and is contraindicated in hypertension and pre-eclampsia because it precipitates hypertensive crisis, eclampsia, and cerebral haemorrhage.",
+      "Incorrect: Carboprost (PGF2-alpha) induces severe smooth-muscle bronchoconstriction and is contraindicated in bronchial asthma.",
+      "Incorrect: Giving both ergometrine and carboprost exposes this patient simultaneously to severe hypertensive crisis and status asthmaticus.",
+      "Correct: Per the HAEMOSTASIS bundle in the Comprehensive Study Guide, ergometrine is contraindicated in pre-eclampsia/hypertension and carboprost is contraindicated in asthma; use misoprostol 800–1000 µg sublingually/rectally alongside Bakri balloon tamponade (or B-Lynch suture if refractory).",
+      "Incorrect: Nifedipine is a calcium-channel tocolytic that relaxes the myometrium and worsens uterine atony and postpartum haemorrhage."
+    ],
+    "clinicalPearl": "Know the two classic PPH uterotonic contraindications cold: Ergometrine is contraindicated in hypertension/pre-eclampsia, and Carboprost (PGF2-alpha) is contraindicated in bronchial asthma—switch safely to Misoprostol (800–1000 µg) and Bakri balloon tamponade.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "In refractory atonic PPH, ergometrine is contraindicated in hypertension/pre-eclampsia and carboprost in asthma; escalate to misoprostol 800–1000 µg and Bakri balloon tamponade."
+    },
+    "sourceStation": null
+  }
+]

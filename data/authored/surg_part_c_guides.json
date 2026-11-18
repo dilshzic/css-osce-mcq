@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "surg_guide_c_01",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Scalpel Handle Sizing & Blade Compatibility (#4 vs #3/#7)",
+    "stem": "A surgical trainee is setting up two operating trolleys: an exploratory laparotomy tray containing a No. 4 Bard-Parker scalpel handle for a major midline abdominal incision, and a minor biopsy tray containing a No. 3 handle for a short, shallow excision on the forearm. Which scalpel blade pairing correctly matches mechanical handle compatibility and intended incision depth?",
+    "options": [
+      "No. 15 blade on the No. 4 handle for laparotomy; No. 23 blade on the No. 3 handle for excision",
+      "No. 11 blade on the No. 4 handle for laparotomy; No. 20 blade on the No. 3 handle for excision",
+      "No. 22 blade on the No. 4 handle for laparotomy; No. 15 blade on the No. 3 handle for excision",
+      "No. 10 blade on the No. 4 handle for laparotomy; No. 24 blade on the No. 3 handle for excision",
+      "No. 21 blade on the No. 7 handle for laparotomy; No. 12 blade on the No. 4 handle for excision"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Blades beginning with '1' (#15) fit only No. 3 or No. 7 handles, whereas blades beginning with '2' (#23) have a wider tang slot fitting only the No. 4 handle.",
+      "Incorrect: The #11 pointed blade fits No. 3/No. 7 handles for tiny stab punctures, and the broad #20 blade requires a No. 4 handle rather than a No. 3 handle.",
+      "Correct: Blades with numeric prefix '2' (#20–#24, such as the broad curved #22/#23) fit the No. 4 handle for major skin incisions, while prefix '1' blades (#10, #11, #12, #15) fit No. 3/No. 7 handles (#15 for short, shallow incisions).",
+      "Incorrect: The #10 blade fits No. 3/No. 7 handles (not No. 4), and the #24 blade fits the No. 4 handle (not No. 3).",
+      "Incorrect: The #21 blade fits the No. 4 handle rather than the slender No. 7 handle, while the hooked #12 blade fits No. 3/No. 7 handles rather than No. 4."
+    ],
+    "clinicalPearl": "Bard-Parker blade-to-handle rule: blades starting with '1' (#10 large skin, #11 stab puncture, #12 hooked, #15 short shallow) fit No. 3/No. 7 handles; blades starting with '2' (#20–#24) fit the No. 4 handle.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Blades prefixed with '1' (#10, #11, #12, #15) fit #3 or #7 handles (#15 for short shallow incisions), while blades prefixed with '2' (#20–#24) fit #4 handles for major incisions."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_02",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Surgical Scissors Selection (Mayo vs Metzenbaum)",
+    "stem": "During an elective right hemicolectomy, the surgeon must first dissect delicate mesenteric peritoneum around ileocolic vessels, later divide dense linea alba scar tissue, and finally trim interrupted nylon skin sutures. Which sequence of scissors should the scrub nurse hand over for each step to preserve blade sharpness and prevent tissue trauma?",
+    "options": [
+      "Metzenbaum scissors for delicate peritoneum, curved Mayo for dense fascia, straight Mayo for sutures",
+      "Straight Mayo scissors for delicate peritoneum, Metzenbaum for dense fascia, curved Mayo for sutures",
+      "Curved Mayo scissors for delicate peritoneum, Lister bandage scissors for fascia, Metzenbaum for sutures",
+      "Iris scissors for delicate peritoneum, straight Mayo for dense fascia, Tenotomy scissors for sutures",
+      "Metzenbaum scissors for all three tasks including cutting heavy fascia and thick nylon suture tails"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Metzenbaum scissors have long slender shanks and fine tips for delicate soft-tissue dissection; heavy curved Mayo scissors cut tough fascia or scar tissue; straight Mayo ('suture') scissors are reserved strictly for cutting sutures.",
+      "Incorrect: Straight Mayo suture scissors are heavy and blunt-tipped for cutting suture material—using them on delicate mesentery crushes tissue, while Metzenbaum blades bend or spring if used on dense fascia.",
+      "Incorrect: Lister bandage scissors are non-sterile/dressing instruments with a blunt probe tip for cutting gauze and bandages rather than intra-abdominal fascia.",
+      "Incorrect: Iris and tenotomy scissors are delicate micro/ophthalmic instruments whose fine tips are ruined by cutting nylon sutures, while straight Mayo scissors are for sutures rather than dense fascia.",
+      "Incorrect: Cutting dense fascia or thick sutures with delicate Metzenbaum scissors quickly misaligns and blunts their fine cutting edges."
+    ],
+    "clinicalPearl": "Every scissor has one job: straight Mayo strictly for sutures, curved Mayo for tough fascia/heavy tissue, and Metzenbaum for delicate dissection; load needles in Mayo-Hegar/Crile-Wood holders 1/3 from the swaged end and 1/8 inch from the tip.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Surgical scissors must be used solely for their intended purpose: straight Mayo for sutures, curved Mayo for heavy fascia, and Metzenbaum for delicate tissue dissection."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_03",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Crushing Haemostats vs Non-Crushing Vascular Clamps",
+    "stem": "During an open femoral embolectomy, a vascular surgeon needs temporary proximal and distal control of the healthy common femoral artery before arteriotomy without fracturing intimal plaques or causing endothelial thrombosis, while the assistant simultaneously controls small subcutaneous capillary bleeders in the groin incision. Which instrument pair accurately serves these two roles?",
+    "options": [
+      "Kocher toothed clamp for the femoral artery; Satinsky clamp for subcutaneous bleeders",
+      "Pean heavy crushing forceps for the femoral artery; Bulldog clamp for subcutaneous bleeders",
+      "Kelly haemostat for the femoral artery; DeBakey bowel clamp for subcutaneous bleeders",
+      "Crile artery forceps for the femoral artery; right-angle Mixter clamp for subcutaneous bleeders",
+      "Bulldog or DeBakey vascular clamp for the femoral artery; Halsted mosquito forceps for bleeders"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Kocher forceps have heavy crushing serrations and a sharp 1x2 interlocking tooth that severely lacerates arterial walls; Satinsky clamps are tangential vascular clamps, not for small bleeders.",
+      "Incorrect: Pean clamps are large crushing haemostats intended for thick tissue pedicles and would crush arterial endothelium.",
+      "Incorrect: Kelly haemostats are crushing clamps that cause intimal injury and thrombosis if placed across an intact artery prior to restoration of flow.",
+      "Incorrect: Crile forceps crush tissue across their full serrated jaw length, risking arterial wall damage and subsequent thrombosis.",
+      "Correct: Non-crushing vascular clamps (such as Bulldog or DeBakey/Satinsky clamps) occlude blood flow atraumatically via fine longitudinal/atraumatic jaws, whereas delicate Halsted mosquito haemostats crush and occlude tiny subcutaneous bleeders prior to ligation or diathermy."
+    ],
+    "clinicalPearl": "Distinguish non-crushing clamps (Bulldog, Satinsky, vascular and bowel clamps—preserve blood supply/endothelium) from crushing haemostats ordered smallest to largest: Mosquito → Crile (full-jaw serrations) → Kelly (distal half serrated) → Pean.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Clamps are divided into crushing haemostats (mosquito, Crile, Kelly, Pean) for bleeders/pedicles and non-crushing clamps (vascular, Bulldog, bowel clamps) to temporarily occlude vessels without intimal injury."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_04",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Self-Retaining vs Hand-Held Abdominal Retractors",
+    "stem": "A surgeon with a single assistant is performing an open midline laparotomy for sigmoid colectomy and needs continuous, hands-free lateral retraction of both abdominal wound edges plus downward pelvic exposure so the assistant's hands remain free to assist with dissection. Which retractor from the major laparotomy set provides this self-retaining abdominal exposure?",
+    "options": [
+      "Deaver broad curved retractor",
+      "Balfour self-retaining retractor",
+      "Army-Navy double-ended retractor",
+      "Harrington sweetheart retractor",
+      "Senn double-ended hand retractor"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The Deaver retractor is a large, smooth, curved hand-held retractor requiring continuous manual holding by an assistant to retract deep viscera such as the liver.",
+      "Correct: The Balfour retractor (like the table-mounted Bookwalter) is a self-retaining abdominal retractor with ratcheted lateral blades and a detachable central bladder blade that maintains continuous hands-free laparotomy exposure.",
+      "Incorrect: Army-Navy retractors are small hand-held retractors used for superficial skin and subcutaneous wound edges rather than self-retaining laparotomy exposure.",
+      "Incorrect: The Harrington ('sweetheart') retractor is a hand-held deep visceral retractor with a heart-shaped lip used manually to retract the liver or bowel.",
+      "Incorrect: The Senn retractor is a fine double-ended hand-held retractor (claw rake on one end, flat blade on the other) for superficial soft-tissue retraction."
+    ],
+    "clinicalPearl": "Know self-retaining retractors (Balfour and Bookwalter for abdominal laparotomy; Weitlaner, Gelpi, and Cerebellar for narrow/superficial wounds) versus hand-held retractors (Senn, Army-Navy, Richardson, Malleable, Deaver, Harrington).",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Retractors are classified into hand-held types (Senn, Army-Navy, Richardson, Malleable, Deaver, Harrington) and self-retaining types (Weitlaner, Gelpi, Cerebellar, Balfour, Bookwalter)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_05",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Surgical Suction Cannulae (Poole vs Yankauer vs Frazier)",
+    "stem": "During an emergency laparotomy for a perforated duodenal ulcer with two litres of bilious fluid and warm saline washout pooling in the paracolic gutters and pouch of Douglas, the surgeon requests a suction tip that rapidly evacuates deep abdominal fluid collections without sucking in or traumatising adjacent small bowel loops and omentum. Which suction cannula is specifically engineered for this task?",
+    "options": [
+      "Yankauer rigid tonsillar suction tip",
+      "Frazier angled micro-suction cannula",
+      "Baron fine ear suction tube",
+      "Poole multi-perforated sump cannula",
+      "Single-bore wide-mouth metal catheter"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The Yankauer suction tip has a rigid curved wide single/side-slotted tip optimised for oropharyngeal, tonsillar, and superficial wound suction, and readily draws in omentum or serosa in deep peritoneal pools.",
+      "Incorrect: The Frazier cannula is a narrow, delicate angled tube with a thumb relief vent designed for neurosurgery, ENT, and precise micro-field suction rather than large-volume peritoneal lavage.",
+      "Incorrect: The Baron suction tube is an ultra-fine otologic micro-suction cannula used under an operating microscope for middle-ear surgery.",
+      "Correct: The Poole abdominal suction cannula features a detachable outer perforated sleeve with multiple side holes surrounding the inner suction core, allowing rapid evacuation of large abdominal/pelvic fluid pools without sucking bowel or omentum into a single orifice.",
+      "Incorrect: An unguarded single-bore suction catheter concentrates negative pressure at one opening, causing serosal haematoma, mucosal invagination, and recurrent lumen occlusion."
+    ],
+    "clinicalPearl": "Match suction tip to cavity: Poole (multi-hole outer sheath) for large intra-abdominal fluid pools; Yankauer for oropharynx/surface fields; Frazier (thin angled + thumb vent) for neuro/ENT/fine dissection; always flush lumens with sterile distilled water, not saline.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Surgical suctions serve distinct fields: Poole cannula for large abdominal fluid cavities without bowel trauma, Yankauer for throat/surface suction, and Frazier for fine neuro/ENT fields."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_06",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Grasping Forceps Selection & Instrument Care",
+    "stem": "During an open aortobifemoral bypass, the surgeon needs thumb tissue forceps with fine longitudinal rib grooves to hold the delicate iliac arterial wall without crushing intima, while an assistant uses heavy ring-handled forceps with transverse serrations and a sharp interlocking 1x2 tip tooth to retract tough overlying fascia. Which instrument pair matches these two functions?",
+    "options": [
+      "DeBakey thumb forceps for the iliac artery; Kocher forceps for tough fascia",
+      "Kocher forceps for the iliac artery; Adson plain forceps for tough fascia",
+      "Russian broad-tipped forceps for the iliac artery; Babcock forceps for tough fascia",
+      "Ferris-Smith heavy toothed forceps for the iliac artery; DeBakey forceps for tough fascia",
+      "Allis toothed forceps for the iliac artery; sponge-holding stick for tough fascia"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: DeBakey atraumatic thumb forceps have fine longitudinal parallel ribs that grip vascular adventitia and bowel wall securely without crushing, whereas Kocher forceps have heavy transverse serrations and a 1x2 tip tooth reserved for tough fascia, fibrous tissue, or thyroid pedicles.",
+      "Incorrect: Applying toothed Kocher forceps to an artery lacerates the vessel wall, while delicate plain Adson forceps slip off dense fascia.",
+      "Incorrect: Russian forceps have broad circular serrated tips for bulky tissue or wound closure (too coarse for vascular adventitia), and atraumatic Babcock loops slip on dense flat fascia.",
+      "Incorrect: Ferris-Smith forceps have heavy teeth for thick skin/orthopaedic soft tissue and would tear a fragile arterial wall.",
+      "Incorrect: Allis forceps have sharp inward teeth designed for tough fascia/rectus sheath that puncture blood vessels, while sponge sticks hold gauze swabs rather than retracting fascia."
+    ],
+    "clinicalPearl": "Use DeBakey forceps for vessels/bowel and Kocher forceps for tough fibrous tissue/pedicles; intraoperatively, wipe/soak stainless-steel instruments in sterile DISTILLED WATER—never normal saline, as saline and dried blood cause corrosion and pitting.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Grasping forceps are matched to tissue fragility (DeBakey atraumatic for delicate vessels/bowel vs Kocher toothed for tough fibrous tissue), and instruments must be cleaned with sterile distilled water rather than saline."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_07",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Allis Tissue Forceps on Rectus Sheath & Tough Fascia",
+    "stem": "During closure of a transverse Pfannenstiel abdominal incision, the surgeon needs ring-handled grasping forceps to elevate and approximate the dense, slippery edges of the anterior rectus sheath under moderate tension before placing continuous absorbable sutures. Which instrument from the procedural tray is specifically designed to grip tough structures such as rectus sheath and fascia without slipping?",
+    "options": [
+      "Babcock atraumatic loop forceps",
+      "Lister sinus forceps",
+      "DeBakey vascular forceps",
+      "Allis tissue forceps",
+      "Rampley sponge-holding forceps"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Babcock forceps have smooth non-toothed fenestrated jaws designed for delicate tubular organs (appendix, ureter, fallopian tube) and slip off dense rectus sheath under tension.",
+      "Incorrect: Sinus forceps are non-ratcheted blunt-tipped instruments used to open abscess cavities and break down deep loculi via Hilton's method.",
+      "Incorrect: DeBakey thumb forceps lack a ratchet lock and are designed for atraumatic handling of vessels and bowel rather than holding tough rectus sheath under sustained tension.",
+      "Correct: Allis tissue forceps possess fine inward-pointing interlocking teeth along a ratcheted blade tip, giving a firm non-slip grip specifically suited for tough fibrous structures like rectus sheath, fascia, or excised skin/tumour capsules.",
+      "Incorrect: Sponge-holding forceps have broad oval fenestrated tips meant for antiseptic swabbing or gently holding soft vascular tissue rather than gripping dense fascial edges."
+    ],
+    "clinicalPearl": "Allis forceps = tough fibrous structures (rectus sheath, fascia, fibrous capsule) because their sharp inward teeth crush delicate tissues; switch to Babcock forceps for tubular viscera (appendix, ureter, fallopian tube).",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_proc",
+      "guideTitle": "Surgical Instruments & Procedures Guide",
+      "keyPoint": "Allis forceps are specifically used for grasping tough structures such as the rectus sheath or fascia during abdominal operations like laparotomy, LSCS, and abdominal hysterectomy."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_08",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Doyen's Retractor for Bladder Protection in Pelvic Surgery",
+    "stem": "During an open lower abdominal pelvic laparotomy, the surgeon enters the prevesical space of Retzius and needs to displace the urinary bladder inferiorly behind the pubic symphysis while shielding its thin muscular wall from accidental diathermy or scalpel injury during deep pelvic dissection. Which retractor is specifically designed with a broad, smooth curved blade for this role?",
+    "options": [
+      "Volkmann sharp four-pronged rake retractor",
+      "Doyen's broad curved bladder retractor",
+      "Kocher heavy toothed grasping forceps",
+      "Cusco's bivalve self-retaining speculum",
+      "Langenbeck narrow right-angle retractor"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Volkmann rake retractors feature sharp claw prongs intended for superficial skin or tough subcutaneous edges and risk perforating the thin bladder wall.",
+      "Correct: Doyen's retractor has a wide, smooth-edged, deeply curved right-angle blade engineered specifically to retract and protect the urinary bladder during pelvic laparotomy, abdominal hysterectomy, and LSCS.",
+      "Incorrect: Kocher forceps are crushing toothed clamps used for pedicles and fascia, never for retracting a hollow viscus like the bladder.",
+      "Incorrect: Cusco's bivalve speculum is a transvaginal viewing instrument for inspecting the cervix and vaginal walls, not an abdominal bladder retractor.",
+      "Incorrect: Narrow Langenbeck retractors lack the broad shielding curvature required to keep the full bladder dome safely out of a deep pelvic operative field."
+    ],
+    "clinicalPearl": "Doyen's retractor = broad smooth curved blade inserted over a moist pack to retract and shield the urinary bladder during pelvic laparotomy, abdominal hysterectomy, and caesarean section.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_proc",
+      "guideTitle": "Surgical Instruments & Procedures Guide",
+      "keyPoint": "Doyen's retractor uses a smooth edge and wide curvature to retract and protect the urinary bladder during abdominal and pelvic operations such as laparotomy, hysterectomy, and LSCS."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_09",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Round-Bodied vs Cutting Needle Pairing in Layered Repair",
+    "stem": "A surgical trainee is repairing a deep contaminated perineal and abdominal wall laceration in three anatomical layers—starting with deep mucosa and vascular muscular layers before closing the tough outer keratinised skin. Which needle geometry pairing best minimises soft-tissue tearing internally while penetrating dense dermis cleanly at the surface?",
+    "options": [
+      "Cutting needle for deep mucosa and muscle; round-bodied needle for outer keratinised skin",
+      "Trocar-point heavy needle for deep mucosa; blunt liver needle for outer keratinised skin",
+      "Round-bodied needle for all three layers including dense keratinised skin closure",
+      "Cutting needle for all three layers to ensure rapid passage through deep vascular muscle",
+      "Round-bodied needle for deep mucosa and muscle; cutting needle for outer keratinised skin"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Using a sharp cutting needle in vascular muscle or thin mucosa slices across tissue fibres and vessels, causing bleeding and suture cut-out, whereas a round-bodied needle cannot easily pierce tough keratinised skin.",
+      "Incorrect: Blunt needles cannot penetrate intact epidermis, and trocar-point needles cause excessive trauma in delicate mucosal layers.",
+      "Incorrect: Tapered round-bodied needles lack a sharp cutting edge and bend or traumatise dense dermis when forced through tough skin.",
+      "Incorrect: Passing cutting needles through deep vascular musculature increases intramuscular haematoma and tears friable mucosal edges.",
+      "Correct: Layered repair pairs a tapered round-bodied needle for delicate mucosa and deep muscle (gently separating fibres without slicing vessels) with a sharp cutting needle for tough keratinised skin."
+    ],
+    "clinicalPearl": "Needle pairing rule in layered closure: always suture deep mucosa, bowel, vessels, and muscle with a round-bodied (tapered) needle, and switch to a cutting/reverse-cutting needle only when closing tough skin or dense fascia.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_proc",
+      "guideTitle": "Surgical Instruments & Procedures Guide",
+      "keyPoint": "Layered wound repair sutures deep mucosa and muscle layers first using a round-bodied needle, followed by skin closure using a cutting needle."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_10",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Sponge-Holding Forceps vs Sharp-Toothed Forceps on Friable Tissues",
+    "stem": "While performing an emergency procedure involving congested, oedematous tissue (such as inspecting a bruised soft-tissue pedicle or grasping a pregnant cervix/friable mucosal fold) and swabbing the operative field with povidone-iodine gauze, why are Rampley's sponge-holding forceps chosen over multi-toothed grasping forceps such as Vulsellum or Kocher's forceps?",
+    "options": [
+      "Sponge-holding forceps contain sharp 3x4 interlocking teeth that pierce tissue deeply to stop arterial oozing",
+      "Sponge-holding forceps are lighter self-retaining retractors designed to hold abdominal wall incisions apart",
+      "Sponge-holding forceps have smooth fenestrated serrated tips that avoid lacerating friable, engorged tissue",
+      "Sponge-holding forceps feature a single curved cutting blade for excising necrotic tissue from wound margins",
+      "Sponge-holding forceps are non-ratcheted thumb forceps used solely for removing deep surgical drains"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Multi-toothed Vulsellum forceps have sharp 3–4 teeth that lacerate engorged vascular tissues and trigger heavy bleeding; sponge-holding forceps are completely toothless.",
+      "Incorrect: Sponge-holding forceps are ring-handled grasping instruments, not self-retaining wound retractors.",
+      "Correct: Rampley's sponge-holding forceps have smooth, oval-fenestrated, horizontally serrated tips without sharp teeth, allowing secure holding of antiseptic swabs or gentle gripping of soft, vascular, oedematous tissues without tearing.",
+      "Incorrect: Sponge-holding forceps are blunt grasping clamps with no cutting edge.",
+      "Incorrect: Sponge-holding forceps possess full ring handles and a locking ratchet mechanism rather than spring-action thumb blades."
+    ],
+    "clinicalPearl": "Avoid sharp-toothed forceps (Vulsellum, Kocher, Allis) on vascular, oedematous, or gravid tissues where teeth cause tearing and brisk bleeding—use toothless fenestrated sponge-holding forceps instead.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_proc",
+      "guideTitle": "Surgical Instruments & Procedures Guide",
+      "keyPoint": "Sharp multi-toothed forceps cause lacerations and bleeding in soft vascular tissues, so blunt fenestrated sponge-holding forceps are used instead for atraumatic holding and antiseptic swabbing."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_11",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Instrument Sterilisation (Autoclave) vs Chemical Disinfection (Cidex)",
+    "stem": "A casualty theatre nurse must reprocess two sets of reusable equipment between surgical cases: a stainless-steel wound toilet and suturing packet, and a heat-sensitive flexible fibre-optic endoscope with delicate optical lenses and rubber seals. Which reprocessing pairing destroys all microorganisms including bacterial spores on the metal tray while safely disinfecting the endoscope?",
+    "options": [
+      "Pressurised steam autoclaving for stainless-steel instruments; 2% glutaraldehyde (Cidex) immersion for the endoscope",
+      "70% isopropyl alcohol wiping for stainless-steel instruments; boiling water immersion for the endoscope",
+      "4% chlorhexidine scrubbing for stainless-steel instruments; pressurised steam autoclaving for the endoscope",
+      "1% aqueous povidone-iodine soaking for stainless-steel instruments; dry heat oven at 160°C for the endoscope",
+      "2% glutaraldehyde soaking for stainless-steel instruments for 2 minutes; soap and water wash for the endoscope"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Pressurised steam autoclaving (e.g., 121°C or 134°C) achieves complete sterilisation including resistant bacterial spores on heat-stable stainless steel, whereas chemical high-level disinfection/sterilant immersion in 2% glutaraldehyde (Cidex, followed by sterile water rinse) protects heat-sensitive optical endoscopes.",
+      "Incorrect: Neither 70% alcohol nor boiling water achieves reliable sterilisation against bacterial spores, and boiling damages fibre-optic endoscope seals and lenses.",
+      "Incorrect: Chlorhexidine is an antiseptic for skin/hands rather than a sporicidal sterilant, and steam autoclaving destroys heat-sensitive flexible endoscopes.",
+      "Incorrect: Povidone-iodine is a skin antiseptic rather than an instrument sterilant, and 160°C dry heat melts flexible endoscope optics and sheathing.",
+      "Incorrect: Brief 2-minute glutaraldehyde contact is inadequate for sterilisation, and soap-and-water cleaning alone only removes visible debris without eliminating pathogens on internal lumen scopes."
+    ],
+    "clinicalPearl": "Decontamination ladder: Cleaning (soap/water) → Disinfection (70% alcohol, chlorhexidine, povidone-iodine; 2% glutaraldehyde/Cidex for heat-sensitive scopes) → Sterilisation (steam autoclave, ethylene oxide, gamma radiation—kills spores, TB, and viruses).",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "Stainless-steel casualty instrument packets undergo pressurised steam autoclaving for full sterilisation, whereas heat-sensitive scopes require chemical high-level disinfection such as 2% glutaraldehyde (Cidex)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_12",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Suture Needle Point Geometry (Reverse Cutting vs Tapered)",
+    "stem": "A casualty medical officer is closing a deep, high-tension laceration across the tough dermis of the scalp and forehead using 4-0 monofilament nylon after earlier assisting with a small-bowel anastomosis. Why is a reverse-cutting needle specifically selected over a conventional cutting or round-body needle for closing tough dermal skin?",
+    "options": [
+      "Its circular tapered shaft separates collagen fibres gently without creating any lateral micro-incision",
+      "Its blunted rounded tip prevents inadvertent perforation of delicate superficial dermal capillary plexuses",
+      "Its third cutting edge sits on the inner concave curve, pulling toward the wound margin",
+      "Its third cutting edge sits on the outer convex curve, leaving a flat inner base",
+      "Its flattened square shaft permits direct finger passage through dermis without a needle holder"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A circular tapered shaft describes a round-body needle used for soft bowel or vascular tissue; it struggles to penetrate dense dermal skin cleanly.",
+      "Incorrect: Blunt-point needles are designed for friable solid organs (liver, kidney) to avoid vessel injury and cannot pierce tough skin.",
+      "Incorrect: Placing the third cutting edge on the inner concave surface describes a conventional cutting needle, which tends to cut upward through the wound edge when tension is applied.",
+      "Correct: A reverse-cutting needle has a triangular cross-section with its flat surface facing the inner concave side and its third cutting edge on the outer convex aspect—providing clean skin penetration with much greater strength against suture cut-out.",
+      "Incorrect: Surgical needles must always be handled with needle holders rather than fingers to avoid needlestick injury and loss of control."
+    ],
+    "clinicalPearl": "Suture needle geometry: Reverse-cutting = cutting edge on outer convex curve (flat inner base prevents tearing through tough skin/fascia); Conventional cutting = cutting edge on inner concave curve; Round-body = bowel/vessels.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "Reverse-cutting needles place their third cutting edge on the outer convex surface to penetrate tough skin cleanly while resisting upward cut-out through the wound margin."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_13",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Casualty Venous Cutdown (CTD) & Skin-Grafting Packets",
+    "stem": "In the casualty minor theatre, a surgical officer prepares sterile instrument trays for two different procedures: an emergency great saphenous venous cutdown (CTD) in a patient with collapsed peripheral veins, and a split-thickness skin graft harvest for a degloved leg defect. Which pair of signature instruments differentiates these two casualty packets?",
+    "options": [
+      "Sinus abscess forceps in the CTD packet; Doyen mouth gag in skin-grafting packet",
+      "Mastoid retractor and McIndoe scissors in CTD packet; Humby knife in skin-grafting packet",
+      "Babcock tubular forceps in the CTD packet; Balfour retractor in skin-grafting packet",
+      "Morris abdominal retractors in the CTD packet; Jobson-Horne probe in skin-grafting packet",
+      "Killian nasal speculum in the CTD packet; Zerny retractors in skin-grafting packet"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Sinus forceps belong to the incision and drainage (I&D) packet, while the Doyen mouth gag belongs to the ENT instrument set.",
+      "Correct: The casualty CTD (cutdown) packet specifically provides a Mastoid self-retaining retractor, McIndoe dissecting scissors, and fine mosquito/tooth forceps, whereas the Skin Grafting packet uniquely contains a Humby skin-grafting knife and two wooden boards.",
+      "Incorrect: Babcock forceps are found in appendicectomy and laparotomy trays, and the Balfour is a major abdominal self-retaining retractor.",
+      "Incorrect: Morris retractors belong to the laparotomy packet, and the Jobson-Horne probe belongs to the ENT packet.",
+      "Incorrect: Killian nasal speculum belongs to the ENT tray, while Zerny retractors belong to herniotomy, appendicectomy, and minor packets."
+    ],
+    "clinicalPearl": "Know Kelaniya casualty tray signatures: CTD packet = No. 3 BP + Mastoid self-retaining retractor + McIndoe scissors; Skin Grafting packet = Humby knife + 2 wooden boards; I&D packet = No. 3 BP + Sinus forceps.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "The casualty CTD (cutdown) packet includes a Mastoid retractor and McIndoe scissors, while the Skin Grafting packet uniquely includes a Humby knife and two wooden boards."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_14",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Casualty ENT, Herniotomy & Laparotomy Tray Instruments",
+    "stem": "A house officer is rotating through the casualty ENT room and emergency theatre and must identify instruments across three separate standard casualty packets: the ENT packet, the herniotomy packet, and the laparotomy packet. Which instrument-to-packet assignment from the Sri Lankan casualty instrument manual is completely accurate?",
+    "options": [
+      "Morris retractors in the ENT packet; Killian nasal speculum in the herniotomy packet",
+      "Humby knife in the ENT packet; Babcock forceps in the herniotomy packet",
+      "Jobson-Horne probe in the herniotomy packet; Doyen mouth gag in the laparotomy packet",
+      "Sinus forceps in the laparotomy packet; Ferguson mouth gag in the herniotomy packet",
+      "Killian speculum and Jobson-Horne probe in the ENT packet; Zerny retractors in the herniotomy packet"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Morris retractors are large abdominal retractors reserved for the laparotomy packet, whereas the Killian nasal speculum belongs to the ENT packet.",
+      "Incorrect: The Humby knife belongs exclusively to the skin-grafting packet, and Babcock forceps are included in appendicectomy and laparotomy trays rather than herniotomy trays.",
+      "Incorrect: Both the Jobson-Horne ear probe and the Doyen mouth gag belong to the casualty ENT packet rather than herniotomy or laparotomy trays.",
+      "Incorrect: Sinus forceps are specific to the I&D packet, and the Ferguson mouth gag belongs to the ENT packet.",
+      "Correct: The casualty ENT packet contains the Killian nasal speculum, Jobson-Horne probe, Doyen/Ferguson mouth gags, and ear speculum; the herniotomy packet contains Zerny retractors and Moynihan tissue forceps; and the laparotomy packet contains Morris retractors, Babcock, and long Allis forceps."
+    ],
+    "clinicalPearl": "Casualty packet map: ENT = Killian nasal speculum, Doyen/Ferguson mouth gags, Jobson-Horne probe; Herniotomy/Appendicectomy = Zerny retractors + Moynihan tissue forceps (+ Babcock/sump sucker in appendicectomy); Laparotomy = Morris retractors + long Allis.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "The casualty ENT tray contains Killian nasal speculum, Doyen/Ferguson mouth gags, and Jobson-Horne probe; herniotomy trays use Zerny retractors; and laparotomy trays include Morris retractors."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_15",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "WHO Checklist Sign In: Blood Loss Threshold & Team Safety",
+    "stem": "A 6-year-old boy weighing 20 kg is wheeled into the operating theatre for major abdominal tumour resection, and the anaesthetist conducts the 'Sign In' phase before induction of anaesthesia using the Sri Lanka Ministry of Health Surgical Safety Checklist (Health 1251). Which anticipated blood loss threshold mandates pre-induction confirmation of adequate IV access and fluids, alongside which team-safety infection check?",
+    "options": [
+      "Risk of >1,000 mL blood loss (>15 mL/kg in children); screening solely for wound Candida colonisation",
+      "Risk of >250 mL blood loss (>3 mL/kg in children); checking routine urinalysis and stool cultures",
+      "Risk of >500 mL blood loss (>7 mL/kg in children); checking team infection risks like Hepatitis B/MRSA",
+      "Risk of >1,500 mL blood loss (>20 mL/kg in children); checking preoperative fasting serum amylase levels",
+      "Risk of >100 mL blood loss (>2 mL/kg in children); verifying post-operative DVT compression stockings"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Waiting until >1,000 mL or >15 mL/kg underestimates paediatric circulating blood volume (~70–80 mL/kg), and the team-safety item targets bloodborne/resistant pathogens like Hepatitis B and MRSA.",
+      "Incorrect: The official Sri Lanka Health 1251 threshold is >500 mL (>7 mL/kg in children), not >250 mL, and stool culture is not part of Sign In.",
+      "Correct: Before induction of anaesthesia ('Sign In'), Health 1251 explicitly checks whether blood loss risk exceeds 500 mL (or >7 mL/kg in children—140 mL in a 20 kg child) so adequate IV access and fluids are planned, alongside allergies, difficult airway/aspiration risk, anaesthesia machine/pulse oximeter checks, and Hepatitis B/MRSA team safety risks.",
+      "Incorrect: 1,500 mL is the massive haemothorax thoracotomy threshold, far too high for pre-induction IV access planning.",
+      "Incorrect: DVT prophylaxis is verified during 'Time Out' before skin incision, and 100 mL is not the Sign In haemorrhage threshold."
+    ],
+    "clinicalPearl": "Health 1251 Sign In (before induction): check patient ID/site/consent, site marking, anaesthesia machine/pulse oximeter/defibrillator/drugs, allergy, difficult airway/aspiration plan, blood loss risk >500 mL (>7 mL/kg in children), and Hep B/MRSA risk.",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "During Sign In (before induction of anaesthesia), the Sri Lanka MoH Health 1251 checklist confirms IV access/fluids for blood loss risk >500 mL (>7 mL/kg in children) and checks for team infection risks such as Hepatitis B and MRSA."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_16",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "WHO Checklist Time Out: Team Briefing & Critical Events",
+    "stem": "The patient is anaesthetised, prepped, and draped for an elective laparoscopic cholecystectomy. Before the surgeon makes the first skin incision, the team pauses for 'Time Out' using the Sri Lanka Ministry of Health Surgical Safety Checklist (Health 1251). Alongside team introductions by name and role and the SSI bundle, which set of essential verifications is performed specifically at this pause?",
+    "options": [
+      "DVT prophylaxis, blood cross-matched vs grouped and saved, essential imaging displayed, and anticipated critical events",
+      "Completion of sponge, needle, and instrument counts, specimen labelling, and 24-hour postoperative BHT orders",
+      "Verification of ward bowel preparation, patient written consent signature, and defibrillator battery check",
+      "Confirmation of post-anaesthesia level of consciousness, attached vascular lines, and recovery ward bed allocation",
+      "Testing pulse oximeter probe waveform, confirming patient allergies, and checking difficult airway equipment"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: At Time Out (before skin incision), Health 1251 requires team introductions by name and role, reconfirmation of ID/procedure/site, DVT prophylaxis, blood cross-matched or grouped & saved, essential imaging displayed/reviewed, the 4-part SSI bundle, and three-way anticipated critical events (surgeon positioning/steps/special instruments, anaesthetist concerns, and nursing instrument sterility/equipment checks).",
+      "Incorrect: Instrument/sponge/needle counts, specimen labelling, and the 24-hour management plan on the BHT occur at 'Sign Out' before the patient leaves theatre.",
+      "Incorrect: Ward preparation, consent verification, and defibrillator/anaesthesia machine checks belong to 'Sign In' prior to induction of anaesthesia.",
+      "Incorrect: Level of consciousness, vital signs, and attached lines/splints are recorded on the BHT and verified at 'Sign Out' after surgery.",
+      "Incorrect: Pulse oximeter, allergies, and difficult airway/aspiration readiness are pre-induction checks during 'Sign In'."
+    ],
+    "clinicalPearl": "Time Out (before incision) belongs to ALL three teams: Surgeon (positioning, critical steps, special instruments), Anaesthetist (patient-specific concerns), and Nursing (sterility & equipment)—plus DVT prophylaxis, blood G&S/cross-match, imaging, and SSI bundle.",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "Time Out before surgical intervention verifies team introductions, DVT prophylaxis, blood status (cross-matched vs grouped & saved), essential imaging display, SSI bundle, and surgeon/anaesthetist/nursing critical events."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_17",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "SSI Bundle: Preoperative Hair Removal & Normothermia",
+    "stem": "A 56-year-old man with well-controlled diabetes mellitus is prepared on the surgical ward for an elective inguinal hernia repair with prosthetic mesh. When implementing the Sri Lanka Ministry of Health Surgical Safety Checklist Surgical Site Infection (SSI) bundle, which preoperative hair-removal and temperature-control protocol best reduces wound infection risk?",
+    "options": [
+      "Shave the groin thoroughly with a safety razor the evening before surgery and infuse cold room-temperature IV fluids",
+      "Leave body hair unclipped unless it obstructs the incision; if required, shave with a disposable razor immediately post-induction",
+      "Apply depilatory razor shaving 24 hours before theatre and leave the patient uncovered during induction",
+      "Avoid shaving with a razor; if hair removal is necessary, use electric clippers immediately preoperatively and actively warm the patient",
+      "Perform dry blade shaving on the ward morning and withhold prophylactic antibiotics until skin closure"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Shaving with a blade razor causes microscopic epidermal abrasions that rapidly colonise with skin flora and markedly raise SSI rates, while hypothermia impairs neutrophil oxidative killing.",
+      "Incorrect: Even immediate shaving with a blade razor creates micro-trauma; guidelines mandate electric clippers when hair must be removed.",
+      "Incorrect: Razor shaving 24 hours beforehand allows bacterial proliferation within micro-cuts, and hypothermia increases wound infection and coagulopathy.",
+      "Correct: Hair should only be removed if it interferes with the surgical site, using electric clippers just before surgery rather than a razor, paired with active patient warming (normothermia), pre-incision IV antibiotic prophylaxis, and perioperative glycaemic control.",
+      "Incorrect: Dry razor shaving damages the skin barrier, and prophylactic antibiotics must be given IV within 60 minutes prior to incision rather than after closure."
+    ],
+    "clinicalPearl": "Under the Sri Lanka SSI bundle, NEVER shave with a razor (causes micro-abrasions & bacterial overgrowth)—clip only if necessary with electric clippers just before theatre, maintain active normothermia, control blood glucose, and give IV antibiotics within 60 min pre-incision.",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "The Health 1251 SSI bundle pairs antibiotic prophylaxis, active patient warming, and glycaemic control with safe hair removal (electric clippers immediately pre-op rather than razor shaving)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_18",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "WHO Checklist Sign Out: Nurse Counts & BHT Documentation",
+    "stem": "At the conclusion of an emergency laparotomy and before the patient leaves the operating theatre, the team executes the 'Sign Out' column of the Sri Lanka Ministry of Health Surgical Safety Checklist (Health 1251). After the scrub nurse verbally confirms procedure name, correct instrument/sponge/needle counts, specimen labelling, and equipment issues, which mandatory documentation set must be confirmed as recorded on the Bed Head Ticket (BHT)?",
+    "options": [
+      "Preoperative ASA grade, MRSA nasal swab result, outpatient clinic date, and consent witness signature",
+      "Level of consciousness, vital signs, attached splints/prosthesis/vascular lines, operative notes, and 24-hour management plan",
+      "Blood cross-match batch numbers, ward bowel-prep chart, hair-clipper serial log, and surgical site skin-mark check",
+      "Pre-induction fasting hours, allergy bracelet verification, difficult airway score, and chest X-ray film number",
+      "Antibiotic vial expiry date, surgeon's scrub duration, total anaesthetic gas volume, and nursing shift roster"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: ASA grading, MRSA screening, and consent verification are preoperative preparations reviewed before induction rather than the Sign Out BHT handover items.",
+      "Correct: Health 1251 'Sign Out' requires confirming five items on the BHT before patient transfer: (1) level of consciousness, (2) vital signs, (3) splints/prosthesis/vascular lines attached, (4) operative notes and significant events, and (5) management guide for the next 24 hours.",
+      "Incorrect: Blood status, bowel prep, hair removal, and site marking are checked preoperatively or at Time Out, not as the five Sign Out BHT documentation items.",
+      "Incorrect: Fasting hours, allergies, and difficult airway assessment are pre-induction ('Sign In') safety checks.",
+      "Incorrect: Theatre logs and staff rosters are administrative records rather than the clinical BHT handover criteria on Health 1251."
+    ],
+    "clinicalPearl": "Health 1251 Sign Out two-part rule: Nurse verbally confirms procedure name + counts + specimen labels/forms + equipment problems; team confirms 5 BHT entries—consciousness, vitals, lines/splints/prosthesis, op notes, and next 24-hour management guide.",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "Before leaving theatre ('Sign Out'), Health 1251 mandates nurse verbal count/specimen confirmation plus BHT recording of consciousness, vitals, lines/splints/prosthesis, op notes, and a 24-hour management guide."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_19",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Colles' Fracture Manipulation & Charnley Slab Positioning",
+    "stem": "A 66-year-old woman sustains a classic extra-articular Colles' fracture of the distal radius after falling onto an outstretched hand. Following successful disimpaction and closed manipulation under anaesthesia, the orthopaedic trainee applies a Colles' Plaster of Paris backslab (Charnley slab). Which wrist and forearm position plus cast boundary properly maintains reduction while preserving finger and elbow mobility?",
+    "options": [
+      "Wrist in full dorsiflexion and radial deviation, forearm fully supinated, extending past the finger PIP joints",
+      "Wrist in neutral extension, forearm mid-prone, extending from the finger tips to above the elbow joint",
+      "Wrist in 45° palmar flexion and radial deviation, enclosing the thumb CMC joint and elbow crease",
+      "Wrist in full extension and ulnar deviation, forearm fully supinated, ending at the mid-forearm",
+      "Wrist in slight palmar flexion and ulnar deviation, forearm pronated, stopping at the palmar crease/MCP heads"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Wrist dorsiflexion and radial deviation reproduce the original Colles' dinner-fork deformity rather than reversing it, and extending plaster past the MCPs causes stiff clawing.",
+      "Incorrect: Neutral wrist extension fails to counteract dorsal tilt, and immobilising across the finger tips and above the elbow unnecessarily stiffens unaffected joints.",
+      "Incorrect: Extreme palmar flexion (>20°) elevates carpal tunnel pressure causing acute median nerve compression, radial deviation loses radial length, and enclosing the thumb CMC/elbow impairs hand/elbow function.",
+      "Incorrect: Wrist extension and forearm supination are used for volarly displaced Smith's fractures, not dorsally displaced Colles' fractures.",
+      "Correct: Closed reduction of a Colles' fracture reverses the deforming forces by disimpacting and placing the wrist in slight palmar flexion, ulnar deviation, and forearm pronation; the Charnley slab ends distally at the palmar crease (not incorporating MCP heads or thumb CMC joint) and proximally below the elbow crease."
+    ],
+    "clinicalPearl": "Colles' Charnley slab: pronation + ulnar deviation + slight palmar flexion (never extreme flexion—risks median nerve compression); leave MCP heads, thumb CMC joint, and elbow free, and elevate in a sling above heart level.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "After Colles' reduction, immobilise the wrist in slight palmar flexion, ulnar deviation, and pronation with the plaster stopping proximal to the metacarpal heads/palmar crease, sparing the thumb CMC joint and elbow."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_20",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Smith's Fracture Displacement, Backslab & T-Plate ORIF",
+    "stem": "A 25-year-old motorcyclist falls onto his flexed wrist and presents with painful deformity and ecchymosis. Wrist radiographs show an extra-articular transverse fracture within 2.5 cm of the distal radial articular surface with volar (anterior) displacement of the distal fragment. What is the diagnosis, and which backslab position or surgical fixation is indicated?",
+    "options": [
+      "Colles' fracture; backslab in palmar flexion and pronation or percutaneous K-wires",
+      "Volar Barton's fracture; dorsal buttress plating with forearm kept in neutral rotation",
+      "Smith's fracture; backslab in wrist dorsiflexion and full supination, or volar T-plate",
+      "Galeazzi fracture-dislocation; above-elbow cast in pronation without open surgical fixation",
+      "Chauffeur's radial styloid fracture; scaphoid cast incorporating the thumb IP joint"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Colles' fracture features dorsal displacement ('dinner-fork deformity') and is immobilised in slight palmar flexion and pronation, opposite to volar displacement.",
+      "Incorrect: Barton's fracture is strictly intra-articular (vertical/curved fracture line entering the radiocarpal joint with intact dorsal cortex), whereas this fracture is extra-articular.",
+      "Correct: A Smith's ('reversed Colles'') fracture is an extra-articular transverse distal radius fracture within 2.5 cm of the articular surface with volar displacement; closed reduction requires wrist dorsiflexion and full forearm supination, though ORIF with a volar T-plate is increasingly favoured in young adults for anatomical reduction and early mobilisation.",
+      "Incorrect: Galeazzi fracture-dislocation involves the distal radial shaft paired with dislocation of the distal radioulnar joint (DRUJ).",
+      "Incorrect: A Chauffeur's fracture is an intra-articular oblique fracture of the radial styloid process rather than a transverse volar-displaced metaphyseal fracture."
+    ],
+    "clinicalPearl": "Compare the three distal radius fractures: Colles' = extra-articular dorsal displacement (palmar flex + pronate); Smith's = extra-articular volar displacement (dorsiflex + full supination, or volar T-plate ORIF); Barton's = intra-articular rim fracture-subluxation.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Smith's fracture is an extra-articular transverse distal radius fracture (<2.5 cm from joint) with volar displacement, managed with dorsiflexed/supinated backslab or volar T-plate ORIF."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_21",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Haematoma Block & Acute Post-POP Vascular Insufficiency",
+    "stem": "A 74-year-old woman with severe COPD undergoes closed reduction of a displaced Colles' fracture under a haematoma block (evacuating the fracture haematoma and infiltrating 15 mL of 1% lignocaine) followed by application of a circumferential Plaster of Paris cast. Six hours later, she develops severe escalating pain, absent active finger movements, and sluggish capillary refill exceeding 4 seconds. What is the immediate priority action?",
+    "options": [
+      "Immediately split and spread the entire circumferential POP cast and wool padding down to skin",
+      "Administer intravenous morphine 10 mg and review fingertip perfusion again in 4 hours",
+      "Place the forearm in a dependent position below heart level to improve arterial inflow",
+      "Apply ice packs directly over the plaster cast and reassure the patient that swelling is expected",
+      "Schedule an elective outpatient CT angiogram of the brachial artery for the following morning"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Undue escalating pain, absent finger movements, and impaired capillary refill constitute the classic triad of acute vascular insufficiency/compartment compression inside a tight circumferential POP cast; immediate splitting of BOTH the rigid plaster and all underlying wool padding down to skin with limb elevation is mandatory.",
+      "Incorrect: Masking ischaemic pain with opioids while delaying cast release results in irreversible ischaemic necrosis and Volkmann contracture within hours.",
+      "Incorrect: Dependant positioning worsens venous congestion and tissue oedema inside a tight cast; after releasing the cast, the limb should be elevated to heart level.",
+      "Incorrect: Ice cannot relieve mechanical circumferential constriction from rigid plaster and cotton wool around a swelling limb.",
+      "Incorrect: Delaying until the next morning for angiography causes permanent neuromuscular loss; clinical cast splitting must occur immediately at the bedside."
+    ],
+    "clinicalPearl": "After haematoma block (evacuate haematoma + 15 mL 1% lignocaine) and POP application, always monitor the acute vascular insufficiency triad: undue pain, absent finger movements, and impaired capillary refill—split plaster AND wool down to skin immediately.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Acute post-POP vascular insufficiency presents with undue pain, absent finger movements, and impaired capillary refill, requiring immediate splitting of the tight cast."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_22",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Acute Compartment Syndrome: Earliest Sign & Urgent Fasciotomy",
+    "stem": "A 29-year-old man with a closed mid-shaft tibial fracture following a motorcycle collision develops severe, escalating deep leg pain unresponsive to intravenous morphine 5 hours post-injury. On examination, his anterior calf is tense and woody, and gentle passive plantarflexion of the great toe elicits agonising pain, although his dorsalis pedis pulse remains strongly palpable. Which finding establishes the urgent clinical diagnosis, and what is the definitive treatment?",
+    "options": [
+      "Absent dorsalis pedis pulse is required before diagnosis; start heparin infusion and elevate the leg high",
+      "Deep calf tenderness confirms simple contusion; apply a firm compression bandage and ice",
+      "Paraesthesia alone confirms neuropraxia; await urgent nerve conduction studies before intervening",
+      "Pain out of proportion aggravated by passive muscle stretch; perform immediate surgical fasciotomy",
+      "Capillary refill under 2 seconds excludes ischaemia; apply a full below-knee POP cast"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Pulselessness is a very LATE sign of compartment syndrome (compartments can necrose at pressures well below systolic arterial pressure); waiting for pulse loss causes permanent limb necrosis, and excessive high elevation reduces arteriolar perfusion gradient.",
+      "Incorrect: Compression bandaging increases intracompartmental pressure and accelerates myonecrosis.",
+      "Incorrect: Waiting for electrophysiological tests wastes critical hours during irreversible muscle ischaemia (critical threshold ~4–6 hours).",
+      "Correct: Pain out of proportion to the injury—especially pain provoked by passive stretching of muscles traversing the affected compartment—is the earliest and most sensitive clinical hallmark of acute compartment syndrome despite intact distal pulses; immediate multi-compartment surgical fasciotomy is mandatory.",
+      "Incorrect: Intact distal pulses and brisk capillary refill do NOT exclude compartment syndrome, and enclosing a swelling limb in a circumferential cast worsens compartmental tamponade."
+    ],
+    "clinicalPearl": "Never wait for pulselessness or pallor to diagnose compartment syndrome—severe pain out of proportion + pain on passive stretch of compartment muscles are the earliest clinical signs, mandating cast/dressing removal and urgent surgical fasciotomy.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Acute compartment/vascular compression in limb fractures requires immediate relief of external constriction and urgent surgical decompression before irreversible neurovascular ischaemia occurs."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_23",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Open (Compound) Fracture Initial Management & Debridement",
+    "stem": "A 33-year-old pedestrian presents after a road traffic accident with a Gustilo-Anderson grade IIIA open tibial shaft fracture featuring a 12 cm contaminated laceration, exposed cortical bone, and road grit, though pedal pulses and sensation are intact. Following ATLS primary survey, distal neurovascular documentation, photography, and covering the wound with saline-soaked sterile gauze, what is the immediate priority management?",
+    "options": [
+      "Close the contaminated skin laceration tightly with interrupted 2-0 nylon on the casualty ward before splinting",
+      "Administer broad-spectrum IV antibiotics and tetanus prophylaxis promptly, followed by urgent surgical wound excision and washout",
+      "Probe and irrigate the deep fracture site in the emergency bay using concentrated hydrogen peroxide and povidone-iodine",
+      "Apply a tight circumferential above-knee POP cast immediately and schedule elective debridement in 48 hours",
+      "Commence oral cephalexin alone and wait for wound swab culture sensitivities prior to theatre"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Primary tight closure of a contaminated open fracture wound traps anaerobic bacteria and devitalised tissue, precipitating gas gangrene and deep osteomyelitis.",
+      "Correct: Open fractures are surgical emergencies requiring prompt broad-spectrum IV antibiotics (e.g., co-amoxiclav/cefuroxime ± gentamicin) and tetanus prophylaxis, sterile saline-soaked dressing + splintage, and urgent operative wound excision/debridement with copious normal saline irrigation and fracture stabilisation.",
+      "Incorrect: Repeated ward probing introduces nosocomial flora, and cytotoxic antiseptics like hydrogen peroxide damage viable periosteum and muscle.",
+      "Incorrect: Circumferential casting obstructs wound inspection and risks compartment syndrome, while delaying debridement beyond 4–6 hours raises infection rates sharply.",
+      "Incorrect: Oral antibiotics and delaying for swab cultures are wholly inadequate in high-energy open fractures with devitalised soft tissue."
+    ],
+    "clinicalPearl": "Open fracture protocol: ATLS + document neurovascular status → photograph & cover once with sterile saline-soaked gauze (do NOT re-peek or close tightly on ward) → prompt IV antibiotics + tetanus prophylaxis → splint → urgent theatre wound excision/lavage + stabilisation.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Open (compound) fractures are acute surgical emergencies requiring prompt IV antibiotics, tetanus prophylaxis, sterile coverage, and urgent surgical wound excision and debridement."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_24",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "ICD Underwater Seal Troubleshooting, Clamping Hazard & Removal",
+    "stem": "A 27-year-old man has a 28 Fr intercostal chest drain connected to an underwater seal bottle for a large primary spontaneous pneumothorax. On day 2, the fluid column swings briskly with breathing and bubbles intermittently during coughing, confirming a persistent air leak. As porters prepare to wheel him to radiology, which transfer rule prevents fatal deterioration, and during which respiratory manoeuvre is a chest drain later removed?",
+    "options": [
+      "Double-clamp the drain during transport; remove later during rapid deep inspiration with open wound packing",
+      "Elevate the underwater seal bottle onto the patient's chest during transfer; remove at end-expiration",
+      "Disconnect the tubing from the bottle briefly during trolley transfer; remove while coughing forcefully",
+      "Clamp the drain and tape the bottle upright; remove at peak mid-expiration without occluding the tract",
+      "Keep the drain unclamped with the bottle below chest level; remove at end-inspiration or Valsalva manoeuvre"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Clamping a chest drain that is actively bubbling traps escaping intrapleural air and rapidly precipitates life-threatening tension pneumothorax.",
+      "Incorrect: Raising the underwater seal bottle to or above chest level allows contaminated bottle fluid and air to siphon back into the pleural space.",
+      "Incorrect: Disconnecting the tube from the underwater seal opens the pleural cavity directly to atmospheric pressure, causing immediate lung collapse.",
+      "Incorrect: Clamping an actively bubbling drain causes tension pneumothorax, and leaving the tract unoccluded during inspiration sucks atmospheric air into the chest.",
+      "Correct: An actively bubbling drain must NEVER be clamped, and the underwater seal bottle must remain strictly below chest level throughout transfer; later, once air leak ceases and lung re-expansion is confirmed, the drain is swiftly withdrawn during end-inspiration or a Valsalva manoeuvre (positive intrathoracic pressure) while tying the suture/sealing with an occlusive dressing."
+    ],
+    "clinicalPearl": "ICD golden ward rules: respiratory swinging (tidaling) = patent tube; bubbling = active air leak → NEVER clamp a bubbling drain (risk of tension pneumothorax), keep bottle below chest level, and remove at end-inspiration/Valsalva.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Monitor daily chest drain bubbling, fluid level, and swinging; never clamp an actively leaking drain, keep the underwater seal below chest level, and prevent post-removal pneumothorax via controlled breath-hold removal."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_25",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Foley Catheter Balloon Inflation Safety & Closed Drainage",
+    "stem": "A 69-year-old man with benign prostatic hyperplasia presents with painful acute urinary retention. After sterile preparation and instilling 2% lignocaine gel into the urethra for 5 minutes, a house officer advances a 16 Fr silicone Foley catheter partially until mild resistance is felt, with no urine yet draining from the lumen. Which mandatory safety step must occur before inflating the retention balloon, and with what solution?",
+    "options": [
+      "Inflate immediately with 10 mL of air to dilate the prostatic urethra and stimulate urine flow",
+      "Instill 20 mL of 0.9% normal saline into the balloon channel first and withdraw slightly until resistance is felt",
+      "Advance fully to the Y-bifurcation and confirm free urine flow first, then inflate with 10 mL sterile water",
+      "Inject 30 mL of povidone-iodine into the balloon port while elevating the collection bag above the bed",
+      "Advance halfway up the shaft, inflate with 10 mL sterile saline, and rest the collection bag on the floor"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Inflating the balloon before confirming intravesical urine flow risks catastrophic rupture of the posterior urethra, and sterile water rather than air is used for inflation.",
+      "Incorrect: Normal saline can crystallise inside the inflation lumen and prevent subsequent balloon deflation, and inflating prior to urine drainage risks urethral trauma.",
+      "Correct: Always insert a Foley catheter all the way to its Y-bifurcation (hub) and confirm free urine flow (proof of intravesical tip position) BEFORE inflating the balloon with 10 mL of sterile water; keep the closed drainage bag below bladder level and off the floor to prevent CAUTI.",
+      "Incorrect: Antiseptic iodine must never be injected into the balloon, and raising the drainage bag above bladder height causes retrograde reflux and catheter-associated UTI.",
+      "Incorrect: Stopping halfway risks prostatic urethral balloon inflation and rupture, saline can crystallise, and resting the bag on the floor violates infection control."
+    ],
+    "clinicalPearl": "Foley safety checklist: insert ALL the way to the Y-bifurcation + confirm urine flow BEFORE inflating balloon with 10 mL sterile water (prevents posterior urethral rupture), reduce prepuce afterwards, and keep bag below bladder off the floor.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Confirm intravesical placement via free urine flow after full insertion to the catheter hub before inflating the balloon with 10 mL sterile water, maintaining closed drainage below bladder level."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_26",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Nasogastric Tube Re-Verification Triggers & Safety Hazards",
+    "stem": "A 64-year-old man recovering from a stroke has a 14 Fr (green) Ryle's nasogastric tube in situ for enteral nutrition, previously confirmed on chest radiograph. Before his afternoon feed, he experiences a vigorous paroxysm of coughing followed by transient oxygen desaturation to 89%, although the adhesive tape mark at the nostril remains unchanged. What is the safest immediate action before resuming enteral feeding?",
+    "options": [
+      "Withhold feeding and reconfirm gastric position via aspirate pH testing (<=5.5) before giving any feed",
+      "Proceed with the scheduled bolus feed immediately because the external nostril tape mark has not moved",
+      "Inject 20 mL of air rapidly while auscultating the epigastrium to confirm a gushing sound and start feeding",
+      "Thread a sterile metal guidewire down the in-situ NG tube to stiffen and re-advance it deeper by 5 cm",
+      "Flush the tube forcefully with 100 mL of tap water to clear mucus before infusing liquid formula"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: NG tube position can dislodge internally into the oesophagus or airway despite intact external tape; position must be re-verified immediately after initial placement, BEFORE EVERY FEED, and following coughing, vomiting, retching, or unexplained desaturation via aspirate pH testing (<=5.5; or CXR if inconclusive).",
+      "Incorrect: Relying solely on external tape markings misses internal pharyngeal or bronchial coiling after severe coughing and risks fatal aspiration pneumonia.",
+      "Incorrect: Air-insufflation auscultation ('whoosh test') cannot reliably distinguish bronchial from gastric placement and must not authorise feeding.",
+      "Incorrect: Never insert or re-thread a guidewire while an NG tube is inside the patient, as the rigid wire can exit side-holes and perforate the oesophagus or bronchus.",
+      "Incorrect: Infusing 100 mL of water into a potentially misplaced bronchial tube causes severe drowning/aspiration pneumonitis."
+    ],
+    "clinicalPearl": "Re-verify Ryle's NG position BEFORE every feed AND after vomiting, coughing, or SpO2 drop (never trust tape marks or air whoosh alone); remember guidewires must NEVER be inserted in situ, and avoid nasal NG in basal skull/severe facial trauma or oesophageal stricture.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "NG tube position must be reconfirmed before each feed and after vomiting, coughing, or decreased oxygen saturation, and a guidewire must never be inserted while the tube is inside the patient."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_27",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Post-Operative Biliary T-Tube Monitoring & Cholangiogram",
+    "stem": "A 52-year-old woman undergoes open common bile duct (CBD) exploration and stone extraction with placement of a T-tube connected to a free-draining bile bag. By postoperative day 7, her wound is healing well, bile output has tapered to <150 mL/day, her stools are pigmented, and her liver enzymes are normalising. Which investigation is mandatory before clamping trials and final T-tube removal around days 7–10?",
+    "options": [
+      "Bedside ultrasound of the right upper quadrant alone without contrast injection",
+      "Immediate traction withdrawal of the T-tube on day 7 followed by oral ursodeoxycholic acid",
+      "Serum amylase measurement and clamping the T-tube continuously for 72 hours without imaging",
+      "T-tube cholangiogram confirming distal CBD patency, free duodenal flow, and no retained stones or leak",
+      "Urgent diagnostic ERCP and sphincterotomy prior to every routine T-tube withdrawal"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Transabdominal ultrasound cannot reliably exclude small distal CBD calculi or confirm smooth contrast flow across the ampulla of Vater without biliary tract leakage.",
+      "Incorrect: Removing a T-tube prematurely (before 7–10 days tract maturation) or without proving distal patency risks catastrophic bile peritonitis.",
+      "Incorrect: Blind clamping without cholangiography risks biliary sepsis, severe pain, and bile leakage around the choledochotomy if a residual distal stone obstructs flow.",
+      "Correct: Around postoperative days 7–10 (once a fibrous tract has formed), a T-tube cholangiogram is performed under low pressure to confirm unobstructed distal CBD patency, free contrast entry into the duodenum, no retained calculi, and no extravasation prior to graduated clamping and safe removal.",
+      "Incorrect: ERCP is reserved for therapeutic extraction if the T-tube cholangiogram reveals a retained stone—it is not required routinely when distal flow is normal."
+    ],
+    "clinicalPearl": "T-tube removal checklist: wait 7–10 days for fibrous tract formation → perform T-tube cholangiogram (confirm free duodenal runoff, zero filling defects, zero contrast leak) → trial clamping 24 h (no pain/fever/jaundice/leak) → smooth steady withdrawal.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Surgical drainage tubes must remain patent and unobstructed, and biliary T-tubes require a day 7–10 T-tube cholangiogram confirming distal CBD patency and absence of retained stones or leakage before clamping and removal."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_28",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Preoperative Warfarin Bridging & Cardiac Drug Continuation",
+    "stem": "A 63-year-old man with a mechanical mitral valve prosthesis and chronic hypertension is scheduled for an elective open right hemicolectomy. His daily medications include warfarin (INR 2.9), enalapril, and atenolol. According to surgical preoperative preparation guidelines, which perioperative medication and anticoagulation bridging protocol best balances thromboembolic and haemorrhagic risks?",
+    "options": [
+      "Continue warfarin uninterrupted up to surgery and withhold atenolol on the morning of operation",
+      "Stop warfarin 72+ hours preoperatively (target INR <1.5) while bridging with heparin, and continue atenolol on surgery morning",
+      "Stop warfarin 12 hours before surgery without bridging and substitute prophylactic aspirin 75 mg daily",
+      "Continue warfarin until the night before surgery, administer IV vitamin K at induction, and omit all cardiac drugs",
+      "Stop warfarin 14 days preoperatively without heparin bridging and withhold antihypertensives for 72 hours"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Operating with an INR of 2.9 risks massive intraoperative haemorrhage, while stopping beta-blockers like atenolol abruptly risks rebound tachycardia and perioperative myocardial ischaemia.",
+      "Correct: For high thromboembolic risk (such as a mechanical mitral valve), warfarin is stopped at least 72 hours (typically 3–5 days) prior to surgery until INR <1.5 while bridging with therapeutic heparin (stopping IV UFH 4–6 h or LMWH 12 h preoperatively); essential cardiac drugs like beta-blockers are continued on the day of surgery.",
+      "Incorrect: Stopping warfarin only 12 hours pre-op leaves therapeutic anticoagulation active during incision, and aspirin alone does not protect a mechanical mitral valve from catastrophic valve thrombosis.",
+      "Incorrect: Reversing warfarin acutely with high-dose vitamin K causes prolonged warfarin resistance postoperatively and risks valve thrombosis, while cardiac beta-blockers should be continued.",
+      "Incorrect: Leaving a mechanical mitral valve un-bridged off warfarin for 14 days carries an unacceptably high risk of fatal prosthetic valve thrombosis and embolic stroke."
+    ],
+    "clinicalPearl": "Warfarin bridging rule: stop warfarin 72+ h (3–5 days) pre-op (target INR <1.5) and bridge high-risk patients (mechanical mitral valve, recent VTE) with heparin—stop IV UFH 4–6 h or LMWH 12 h before knife-to-skin; continue cardiac/epilepsy/asthma drugs.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Warfarin should be stopped at least 72 hours before surgery and bridged with heparin (UFH stopped 4–6 hours or LMWH 12 hours preoperatively), while cardiac and antihypertensive medications are continued."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_29",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "ASA Physical Status Grading & Perioperative Steroid Cover",
+    "stem": "A 55-year-old woman taking oral prednisolone 15 mg daily for 4 years for severe rheumatoid arthritis and poorly controlled COPD that limits her walking to flat ground (unable to climb stairs without dyspnoea, though stable at rest) is scheduled for an elective open cholecystectomy. Which ASA physical status grade and perioperative steroid plan apply?",
+    "options": [
+      "ASA 2; withhold morning prednisolone until oral diet resumes postoperatively",
+      "ASA 4; omit oral steroids 48 hours preoperatively to enhance surgical wound healing",
+      "ASA 1; give a single oral dose of prednisolone 5 mg on the evening after surgery",
+      "ASA 3; administer intravenous hydrocortisone at induction and continue parenteral cover postoperatively",
+      "ASA 5; switch prednisolone to oral fludrocortisone 24 hours prior to induction"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: ASA 2 refers to mild systemic disease without functional limitation; limiting dyspnoea on exertion classifies as ASA 3, and withholding chronic steroids precipitates acute postoperative Addisonian crisis.",
+      "Incorrect: ASA 4 denotes severe systemic disease that is a constant threat to life at rest, and abruptly stopping chronic corticosteroids risks refractory intraoperative shock.",
+      "Incorrect: ASA 1 applies strictly to completely healthy individuals with no systemic comorbidity.",
+      "Correct: Severe systemic disease that limits physical activity (functional limitation without constant immediate threat to life) corresponds to ASA Grade 3; chronic exogenous steroid suppression of the HPA axis mandates stress-dose intravenous hydrocortisone (typically 100 mg at induction followed by 6–8 hourly doses before tapering) to prevent acute adrenal crisis.",
+      "Incorrect: ASA 5 describes a moribund patient not expected to survive 24 hours without surgery, and fludrocortisone lacks adequate glucocorticoid stress activity."
+    ],
+    "clinicalPearl": "Know ASA 1–5 (1 = healthy, 2 = mild disease no limit, 3 = severe disease limiting activity, 4 = constant threat to life, 5 = moribund); patients on chronic steroids (>5–10 mg prednisolone/day) need IV hydrocortisone at induction to prevent refractory adrenal crisis.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Preoperative risk stratification uses ASA classification (ASA 3 = severe systemic disease limiting physical activity) alongside perioperative optimisation of chronic medical therapies to prevent acute decompensation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_30",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Post-Thyroidectomy Tension Neck Haematoma & Bedside Release",
+    "stem": "Three hours after a total thyroidectomy for a large multinodular goitre, a 46-year-old woman develops sudden restlessness, severe neck fullness, dysphagia, and high-pitched inspiratory stridor with SpO2 falling to 87%. On inspection, the anterior neck incision is tense, bulging, and discoloured beneath closed skin clips. While urgent senior surgical and anaesthetic help are summoned, what is the immediate life-saving bedside intervention?",
+    "options": [
+      "Administer nebulised adrenaline and intravenous hydrocortisone while observing closely for 30 minutes",
+      "Check urgent serum ionised calcium and infuse 10% calcium gluconate slowly over 10 minutes",
+      "Immediately remove skin clips/sutures and open deep strap-muscle sutures at bedside to evacuate clot",
+      "Apply a tight circumferential pressure bandage over the neck dressing to tamponade arterial bleeding",
+      "Insert a large-bore nasogastric tube immediately to decompress gastric distension and prevent vomiting"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Nebulised adrenaline and steroids will not relieve mechanical tracheal and venous compression caused by an expanding arterial neck haematoma.",
+      "Incorrect: Post-thyroidectomy hypocalcaemia typically presents 24–72 hours post-op with paraesthesia, Chvostek's/Trousseau's signs, or carpopedal spasm rather than acute 3-hour tense neck swelling.",
+      "Correct: Acute stridor with a tense expanding neck wound post-thyroidectomy indicates a life-threatening tension haematoma compressing venous return and causing severe laryngeal oedema; immediately release skin clips/sutures AND deep strap-muscle sutures at the bedside (SCOOP protocol) before transfer to theatre for definitive haemostasis.",
+      "Incorrect: Tight external neck compression worsens airway compression and precipitates rapid asphyxiation.",
+      "Incorrect: Passing an NG tube stimulates gagging and spikes venous pressure, worsening haematoma expansion without relieving airway obstruction."
+    ],
+    "clinicalPearl": "Post-thyroidectomy stridor + tense neck swelling = TENSION HAEMATOMA: keep a clip/suture cutter at the bedside and immediately open BOTH skin and deep strap-muscle sutures (SCOOP) BEFORE attempting difficult intubation or theatre transfer.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Post-thyroidectomy stridor from an expanding neck haematoma requires immediate bedside suture removal alongside ABC airway support, urgent senior/anaesthetic alerting, and return to theatre."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_c_31",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Central Venous Catheter Air Embolism & Durant's Manoeuvre",
+    "stem": "During flushing of a right internal jugular central venous catheter in a patient sitting upright at 60 degrees, the three-way tap accidentally disconnects from the lumen, accompanied by an audible sucking sound. Seconds later, the patient gasps, becomes hypotensive (BP 70/40 mmHg) and tachycardic, and auscultation reveals a loud 'mill-wheel' precordial murmur. After immediately occluding the catheter hub and giving 100% high-flow oxygen, which immediate positioning manoeuvre is indicated?",
+    "options": [
+      "Elevate the head of the bed to 90 degrees upright to allow air to rise out of the pulmonary arteries",
+      "Place the patient supine with legs flat and perform vigorous external chest thumps",
+      "Position the patient in the right lateral decubitus and head-up reverse Trendelenburg posture",
+      "Place the patient prone with neck hyperextended prior to immediate pericardiocentesis",
+      "Place the patient in the left lateral decubitus and head-down Trendelenburg posture (Durant's manoeuvre)"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Upright positioning accelerates negative central venous pressure, drawing further air inward and driving embolised air straight into the pulmonary outflow tract and cerebral venous sinuses.",
+      "Incorrect: Lying flat supine fails to trap the buoyant air bolus away from the right ventricular outflow tract.",
+      "Incorrect: Right lateral and head-up positioning floats the air bubble directly upward into the pulmonary valve and outflow tract, worsening obstructive shock.",
+      "Incorrect: Prone positioning complicates airway/resuscitation access, and pericardiocentesis does not treat intraventricular venous air lock.",
+      "Correct: Venous air embolism causes obstructive shock via an air lock in the right ventricular outflow tract ('mill-wheel' murmur); after clamping the catheter and giving 100% oxygen, placing the patient left-side down and head-down (Durant's manoeuvre) floats the air bubble into the right ventricular apex/atrium away from the pulmonary valve, allowing catheter aspiration."
+    ],
+    "clinicalPearl": "Prevent CVC air embolism by inserting/removing lines in Trendelenburg (head-down) during Valsalva/expiration; if 'mill-wheel' murmur + sudden shock occur, clamp hub + give 100% O2 + Durant's manoeuvre (LEFT lateral decubitus + head-down).",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Venous air embolism is a critical immediate complication of central venous catheterisation/disconnection requiring immediate lumen occlusion, 100% oxygen, and Durant's left-lateral head-down positioning."
+    },
+    "sourceStation": null
+  }
+]

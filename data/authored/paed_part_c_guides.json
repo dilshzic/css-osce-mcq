@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "paed_guide_c_01",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Paediatric UTI Ultrasound Timing (NICE vs Sri Lanka)",
+    "stem": "A 4-month-old boy recovers completely within 48 hours of starting antibiotics for his first uncomplicated Escherichia coli urinary tract infection (UTI). On the same ward, a 10-month-old girl presents with an atypical UTI characterised by poor urine flow, septicaemia, and a non-E. coli pathogen. According to NICE imaging guidelines in the Paediatric Radiology guide, when should an ultrasound scan of the kidneys, ureters, and bladder (USS-KUB) be arranged for each child?",
+    "options": [
+      "Within 6 weeks for the 4-month-old typical UTI; during acute illness for the 10-month-old atypical UTI",
+      "During acute illness for the 4-month-old typical UTI; within 6 weeks for the 10-month-old atypical UTI",
+      "No ultrasound needed for the 4-month-old typical UTI; within 6 weeks for the 10-month-old atypical UTI",
+      "Within 6 weeks for both children regardless of whether the UTI presentation is typical or atypical",
+      "Only after a second recurrence in both children because first-episode UTIs never warrant renal ultrasound"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Under NICE guidelines, infants <6 months with typical uncomplicated first UTI undergo USS-KUB within 6 weeks (or acutely only if atypical/recurrent), whereas children >6 months with atypical UTI require USS-KUB during the acute illness (and within 6 weeks for recurrent UTI).",
+      "Incorrect: Acute-illness ultrasound in infants <6 months is reserved for atypical or recurrent UTI; an uncomplicated first UTI responding within 48 hours is scanned within 6 weeks, while >6-month atypical UTI needs urgent acute scanning.",
+      "Incorrect: All infants <6 months with a UTI require USS-KUB (within 6 weeks if typical), and atypical UTI at >6 months mandates urgent ultrasound during the acute illness rather than waiting 6 weeks.",
+      "Incorrect: Waiting 6 weeks in an atypical UTI (septicaemia, poor stream, abdominal mass, or non-E. coli organism) risks missing acute obstruction or renal abscess requiring urgent intervention.",
+      "Incorrect: NICE guidelines mandate USS-KUB in all <6-month UTIs and in >6-month atypical/recurrent UTIs; moreover, in Sri Lanka all children with a first episode of upper UTI undergo USS-KUB."
+    ],
+    "clinicalPearl": "NICE paediatric UTI USS-KUB rule: <6 months = acute USS if atypical/recurrent, within 6 weeks for all others; >6 months = acute USS if atypical, within 6 weeks if recurrent. In Sri Lanka, ALL first-episode upper UTIs receive USS-KUB.",
+    "guideCitation": {
+      "guideId": "guide_paed_rad",
+      "guideTitle": "Guide for Paediatric Radiology, GUT & Bronchoscopy",
+      "keyPoint": "NICE UTI USS-KUB timing separates <6m (acute if atypical/recurrent; <=6w for all others) from >6m (acute if atypical; <=6w if recurrent), while Sri Lanka scans all first upper UTIs."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_02",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Posterior Urethral Valves & MCUG Diagnosis",
+    "stem": "A 5-week-old male neonate presents with urosepsis, dribbling poor urinary stream, and a palpable suprapubic mass. Urgent USS-KUB demonstrates bilateral hydroureteronephrosis and a markedly thickened, trabeculated bladder wall with high post-void residual volume. Which gold-standard radiological investigation confirms the underlying anatomical obstruction, and what is the definitive surgical treatment?",
+    "options": [
+      "Intravenous urogram (IVU); open bilateral cutaneous ureterostomies",
+      "Tc-99m DMSA cortical scan; prophylactic oral trimethoprim alone",
+      "Antegrade nephrostogram; open extravesical ureteric reimplantation",
+      "Micturating cystourethrogram (MCUG); endoscopic valve ablation",
+      "Computed tomography (CT-KUB); percutaneous nephrolithotomy (PCNL)"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: IVU carries radiation and contrast nephrotoxicity risks in neonates with poor renal function and poorly outlines posterior urethral valves during voiding; open ureterostomies are not routine first-line when endoscopic ablation is feasible.",
+      "Incorrect: Static DMSA detects parenchymal scarring or acute pyelonephritis rather than urethral anatomy, and antibiotics alone cannot relieve mechanical bladder outlet obstruction.",
+      "Incorrect: Antegrade pyelography maps upper tract obstruction via percutaneous calyceal puncture rather than imaging the male posterior urethra during voiding.",
+      "Correct: Micturating cystourethrogram (MCUG/VCUG) is the gold-standard imaging modality for diagnosing posterior urethral valves (PUV) and secondary VUR; after bladder drainage, UTI control, and electrolyte correction, endoscopic valve ablation provides definitive relief.",
+      "Incorrect: Non-contrast CT-KUB evaluates urinary calculi in older patients and delivers high ionising radiation without demonstrating dynamic urethral outlet obstruction."
+    ],
+    "clinicalPearl": "In a male infant with poor urinary stream, palpable bladder, and bilateral hydronephrosis, suspect Posterior Urethral Valves: confirm by MCUG (VCUG), stabilise with catheter drainage + sepsis/electrolyte correction, then perform endoscopic valve ablation.",
+    "guideCitation": {
+      "guideId": "guide_paed_rad",
+      "guideTitle": "Guide for Paediatric Radiology, GUT & Bronchoscopy",
+      "keyPoint": "MCUG is the gold-standard modality for posterior urethral valves and VUR; preoperative care includes bladder drainage, UTI control, and fluid/electrolyte correction prior to endoscopic ablation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_03",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Tc-99m DMSA Renal Scar Scan Timing",
+    "stem": "A 2-year-old girl has recovered from two recurrent episodes of culture-proven pyelonephritis, and her acute USS-KUB revealed asymmetric small right renal contours. The paediatrician plans nuclear medicine static scintigraphy to identify permanent cortical scarring and quantify split parenchymal uptake. Which radiopharmaceutical study should be ordered, and when after the acute infection should it be performed?",
+    "options": [
+      "Dynamic Tc-99m DTPA renogram performed 48 hours after starting antibiotics",
+      "Static Tc-99m DMSA scan performed 6 months after the acute infection",
+      "Micturating cystourethrogram performed 2 weeks after hospital discharge",
+      "Static Tc-99m DMSA scan performed within 7 days of initial presentation",
+      "Dynamic Tc-99m MAG3 scan performed 12 months after the acute episode"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Tc-99m DTPA is a dynamic glomerular filtration study used to assess excretory drainage and outflow obstruction rather than permanent cortical scarring.",
+      "Correct: Tc-99m DMSA binds selectively to proximal renal tubular cells (static imaging) to map renal parenchyma; to distinguish permanent cortical scarring from transient acute pyelonephritic defects, it is performed 6 months after the acute infection.",
+      "Incorrect: MCUG detects vesicoureteric reflux and urethral anatomy using fluoroscopic bladder contrast, not renal parenchymal scarring.",
+      "Incorrect: Scanning with DMSA during or within days of acute pyelonephritis reveals transient inflammatory photopaenic defects that may resolve completely, falsely mimicking permanent scarring.",
+      "Incorrect: Tc-99m MAG3 evaluates tubular secretion and dynamic outflow obstruction rather than high-resolution static cortical scar mapping."
+    ],
+    "clinicalPearl": "Tc-99m DMSA is a static proximal-tubular scan ordered 6 months post-UTI (in atypical, recurrent, or abnormal-USS cases) so transient acute pyelonephritis defects are not misread as permanent cortical scarring.",
+    "guideCitation": {
+      "guideId": "guide_paed_rad",
+      "guideTitle": "Guide for Paediatric Radiology, GUT & Bronchoscopy",
+      "keyPoint": "Tc-99m DMSA localises in proximal renal tubules for static parenchymal imaging and is performed 6 months after acute infection in atypical, recurrent, or USS-abnormal UTIs."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_04",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Dynamic Diuretic Renogram (DTPA/MAG3) in PUJ Obstruction",
+    "stem": "A 3-year-old boy with antenatally detected left hydronephrosis undergoes follow-up USS-KUB showing persistent left pelvicalyceal dilatation without ureteric dilatation, and a normal MCUG excluding vesicoureteric reflux. To distinguish functional non-obstructive dilatation from true pelvi-ureteric junction (PUJ) obstruction and determine differential renal function, which investigation is most appropriate?",
+    "options": [
+      "Retrograde urethrogram with water-soluble contrast at the navicular fossa",
+      "Repeat static Tc-99m DMSA scintigraphy after 6 months without diuretics",
+      "Plain abdominal KUB radiograph paired with fasting urine osmolality",
+      "Transabdominal Doppler ultrasound alone with post-void bladder residual",
+      "Dynamic Tc-99m DTPA or MAG3 diuretic renogram plus intravenous furosemide"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Retrograde urethrography evaluates anterior penile or bulbar urethral strictures and trauma, not upper urinary tract PUJ drainage.",
+      "Incorrect: Static DMSA measures cortical parenchyma and scarring but does not track dynamic radiotracer washout across the pelvi-ureteric junction.",
+      "Incorrect: Plain X-ray KUB identifies radio-opaque calculi and provides neither functional GFR splits nor dynamic drainage curves.",
+      "Incorrect: Ultrasound depicts anatomical pelvicalyceal dilatation but cannot reliably separate low-pressure non-obstructive hydronephrosis from high-grade mechanical PUJ obstruction.",
+      "Correct: A dynamic Tc-99m DTPA (glomerular filtration) or MAG3 (tubular secretion) diuretic ('Lasix') renogram with IV furosemide evaluates split excretory function and washout curves to confirm or exclude mechanical PUJ outflow obstruction."
+    ],
+    "clinicalPearl": "Know the nuclear scan split: DMSA = Static cortical Scarring (proximal tubules); DTPA / MAG3 + Lasix = Dynamic Drainage, GFR/differential function, and Outflow obstruction (e.g., PUJ obstruction).",
+    "guideCitation": {
+      "guideId": "guide_paed_rad",
+      "guideTitle": "Guide for Paediatric Radiology, GUT & Bronchoscopy",
+      "keyPoint": "Dynamic Tc-99m DTPA/MAG3 diuretic (Lasix) renography differentiates true outflow obstruction (e.g., PUJ obstruction) from non-obstructive hydronephrosis and quantifies differential renal function."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_05",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Rigid vs Flexible Paediatric Bronchoscopy",
+    "stem": "A 2-year-old boy presents with acute choking while eating peanuts followed by persistent unilateral wheeze and right-sided hyperinflation on chest radiography. In the adjacent bed, an 8-year-old boy with chronic unexplained right middle lobe infiltrates requires bronchoalveolar lavage (BAL) and distal subsegmental sampling. Which bronchoscopic pairing correctly matches each child's indication?",
+    "options": [
+      "Flexible bronchoscopy for the 2-year-old foreign body; rigid bronchoscopy for the 8-year-old BAL",
+      "Flexible bronchoscopy for both children because rigid instruments are contraindicated under 5 years",
+      "Rigid bronchoscopy for the 2-year-old foreign body; flexible bronchoscopy for the 8-year-old BAL",
+      "Rigid bronchoscopy for both children because flexible scopes cannot pass beyond the main carina",
+      "CT virtual bronchoscopy alone for the 2-year-old foreign body; rigid bronchoscopy for the 8-year-old BAL"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Rigid bronchoscopy is the procedure of choice for central/proximal airway foreign body extraction, whereas flexible bronchoscopy excels at exploring distal bronchi and obtaining BAL.",
+      "Incorrect: Rigid bronchoscopy is routinely performed in young children for airway foreign bodies, massive haemoptysis, and proximal tracheal lesions.",
+      "Correct: Rigid bronchoscopy provides superior central proximal airway control, ventilation, and instrumentation for foreign body extraction, whereas flexible bronchoscopy reaches deeper distal subsegmental airways for BAL, brushing, and transbronchial sampling.",
+      "Incorrect: Flexible bronchoscopes specifically navigate further into distal lobar and segmental bronchi than rigid bronchoscopes.",
+      "Incorrect: Virtual imaging cannot extract an aspirated peanut causing air-trapping, and BAL of distal pulmonary infiltrates is routinely performed via flexible bronchoscopy."
+    ],
+    "clinicalPearl": "Bronchoscopy rule: Rigid = proximal/central airway control, ventilation, foreign body extraction, massive bleeding, and stents; Flexible = distal subsegmental exploration, bronchoalveolar lavage (BAL), and mucosal brushings/biopsies.",
+    "guideCitation": {
+      "guideId": "guide_paed_rad",
+      "guideTitle": "Guide for Paediatric Radiology, GUT & Bronchoscopy",
+      "keyPoint": "Rigid bronchoscopy is preferred for proximal airway visualisation and foreign body extraction, whereas flexible bronchoscopy explores distal airways and performs diagnostic BAL."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_06",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Pull-to-Sit Head Control Progression",
+    "stem": "A paediatric trainee performs the pull-to-sit manoeuvre across three healthy term infants at routine clinic checks aged 6 weeks, 3 months, and 6 months. Which sequence accurately describes the expected axial neck-tone progression and indicates when persistent marked head lag becomes a warning sign?",
+    "options": [
+      "Complete head alignment at 6 weeks; mild lag at 3 months; lifts head early at 6 months; lag abnormal at 9 months",
+      "Absent head lag at birth; transient physiological lag at 3 months; alignment at 6 months; lag abnormal at 8 months",
+      "Complete forward chin tuck at 6 weeks; mild lag at 3 months; rigid extension at 6 months; lag abnormal at 12 months",
+      "Floppy total drop at 6 weeks; complete lag at 3 months; partial lag at 6 months; lag abnormal only after 7 months",
+      "Incomplete head lag at 6 weeks; no head lag by 3 months; braces forward at 6 months; persistent lag at >=4 months"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Healthy 6-week infants still exhibit some head lag as the head accompanies the trunk incompletely, while head control without lag is established by 3 months rather than 6 weeks.",
+      "Incorrect: Newborns and 6-week infants naturally show head lag that progressively resolves by 3 months; physiological head lag does not appear de novo at 3 months.",
+      "Incorrect: Active chin-tuck anticipation occurs around 5–6 months rather than 6 weeks, and persistent head lag beyond 4 months already warrants neurodevelopmental evaluation.",
+      "Incorrect: By 3 months of age, a healthy term infant should have no head lag on pull-to-sit, and any persistent lag beyond 4 months is abnormal.",
+      "Correct: At 6–8 weeks the head accompanies the body incompletely (partial lag), by 3 months neck-holding is achieved with no head lag on pull-to-sit, and by 6 months the infant braces forward/tucks chin; persistent marked head lag at or beyond 4 months is a red flag."
+    ],
+    "clinicalPearl": "Pull-to-sit timeline: partial head lag is expected at 6–8 weeks, disappears by 3 months (no head lag), and persistent marked head lag at or after 4 months is an early red flag for hypotonia or neurodevelopmental delay.",
+    "guideCitation": {
+      "guideId": "guide_paed_milestones",
+      "guideTitle": "Developmental Milestones Spotter Charts",
+      "keyPoint": "Pull-to-sit evaluates axial neck tone: partial head lag at 6–8 weeks resolves by 3 months of age, with persistent lag past 4 months indicating developmental delay."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_07",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "9-Month Infant Developmental Profile",
+    "stem": "A healthy 9-month-old term infant attends an MOH well-baby clinic for developmental surveillance. Which combination of newly expected gross motor, fine motor, hearing, and social milestones specifically corresponds to 9 months of age?",
+    "options": [
+      "Crawling, inferior pincer grasp, localises sound above/below ear, and stranger anxiety",
+      "Tripod sitting, palmar grasp, hand-to-hand object transfer, and laughing aloud at mirror image",
+      "Independent walking, mature pincer grasp, two meaningful words, and drinking from an open cup",
+      "Lifting chest 90° on forearms, midline hand play, 180° visual tracking, and cooing vowels",
+      "Walking backwards, circular crayon scribble, 3-brick tower, and naming one familiar body part"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: At 9 months, infants sit steadily, attempt crawling, use an early (inferior) pincer grasp and index-finger pointing, localise quiet distraction sounds above and below ear level, and show stranger anxiety and peek-a-boo play.",
+      "Incorrect: Tripod sitting, palmar grasp, hand-to-hand transfer, and smiling at a mirror image are classic 6-month milestones.",
+      "Incorrect: Mature pincer grasp, first meaningful words, and cruising/standing unsupported emerge around 12 months (independent walking 12–15 months).",
+      "Incorrect: Bearing weight on forearms at 90°, midline hand play, 180° tracking, and cooing characterise a 3-month-old infant.",
+      "Incorrect: Walking backwards, circular scribbling, stacking a 3-brick tower, and identifying a body part are 18-month toddler milestones."
+    ],
+    "clinicalPearl": "Classic 9-month OSCE cluster: steady sitting + crawling + inferior (immature) pincer grasp + index pointing + bisyllabic 'mama/dada' + stranger anxiety + peek-a-boo + sound localisation above/below ear level.",
+    "guideCitation": {
+      "guideId": "guide_paed_milestones",
+      "guideTitle": "Developmental Milestones Spotter Charts",
+      "keyPoint": "9-month milestone spotters highlight crawling, inferior pincer grasp, steady unsupported sitting, and stranger anxiety/peek-a-boo."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_08",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "6 vs 9 vs 12 Month Prehension & Posture",
+    "stem": "During a child health clinic comparison, three healthy term infants aged 6 months, 9 months, and 12 months are assessed for sitting posture and block/pellet grasp progression. Which option correctly aligns each developmental age with its expected gross and fine motor skills?",
+    "options": [
+      "6m: steady sitting & radial grasp; 9m: standing alone & mature pincer; 12m: cruising & palmar grasp",
+      "6m: tripod sitting & radial grasp; 9m: crawling & palmar grasp; 12m: walking alone & inferior pincer",
+      "6m: prone forearm prop & palmar grasp; 9m: tripod sitting & transfer; 12m: crawling & early pincer",
+      "6m: tripod sitting & palmar grasp; 9m: steady sitting & inferior pincer; 12m: standing alone & mature pincer",
+      "6m: steady sitting & inferior pincer; 9m: cruising & mature pincer; 12m: tripod sitting & scribbles"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Radial/early pincer grasp and steady unsupported sitting emerge around 8–9 months rather than 6 months, while mature pincer grasp develops by 12 months.",
+      "Incorrect: At 6 months the infant uses a palmar grasp (radial grasp is ~8 months), at 9 months uses an early/inferior pincer grasp, and at 12 months uses a mature pincer grasp.",
+      "Incorrect: Forearm weight-bearing in prone is a 3-month skill, tripod posture occurs at 6 months, and crawling occurs around 9 months.",
+      "Correct: Prehension and posture advance sequentially: 6 months = tripod posture (propped forward on hands) with palmar grasp/transfer; 9 months = steady sitting and crawling with inferior pincer grasp; 12 months = standing unsupported (walking held) with mature pincer grasp.",
+      "Incorrect: Tripod sitting precedes steady sitting (6m before 8–9m), and mature pincer grasp follows rather than precedes inferior pincer grasp."
+    ],
+    "clinicalPearl": "Memorise the 3-month jumps in grasp & posture: 3m = no head lag; 6m = tripod sitting + palmar grasp; 9m = steady sitting/crawling + inferior pincer grasp; 12m = standing alone/cruising + mature pincer grasp.",
+    "guideCitation": {
+      "guideId": "guide_paed_milestones",
+      "guideTitle": "Developmental Milestones Spotter Charts",
+      "keyPoint": "Sequential milestones progress from tripod posture/palmar grasp (6m) to crawling/inferior pincer grasp (9m) to standing unsupported/mature pincer grasp (12m)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_09",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "18-Month Toddler Developmental Milestones",
+    "stem": "An 18-month-old boy is evaluated at a paediatric clinic with wooden cubes, a picture book, and crayons. Which set of developmental skills accurately reflects expected performance across all domains at 18 months?",
+    "options": [
+      "Stacks 2 bricks, uses 2 words, makes to-and-fro lines, and shows persistent mouthing of toys",
+      "Stacks 3 bricks, turns 2–3 book pages at once, walks backwards, and uses 10 meaningful words",
+      "Stacks 6 bricks, turns 1 page at a time, jumps with both feet, and speaks 3-word sentences",
+      "Stacks 9 bricks, pedals a tricycle, copies a complete circle, and states full name and sex",
+      "Builds brick steps, hops on one leg, copies a square, and buttons clothes independently"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Stacking 2 bricks, to-and-fro scribbling, and 2–6 words correspond to 15 months, while mouthing of objects typically stops around 11 months.",
+      "Correct: At 18 months a child walks steadily and backwards, squats, builds a tower of 3 bricks, turns 2–3 book pages at a time, makes circular scribbles, speaks 6–20 words (~10 meaningful), points to body parts, and engages in symbolic play.",
+      "Incorrect: Building a 5–6 brick tower, turning single book pages, jumping, and speaking 2–3-word sentences are 2-year milestones.",
+      "Incorrect: A 9-brick tower, pedalling a tricycle, copying a circle, and stating full name/sex are expected at 3 years.",
+      "Incorrect: Building steps, hopping on one foot, copying a square, and managing buttons are 4-to-5-year milestones."
+    ],
+    "clinicalPearl": "18-month developmental snapshot: walks backwards/squats, tower of 3 bricks, turns 2–3 pages at once, circular scribble, ~10 meaningful words, points to body parts, and domestic symbolic play.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 18 months children walk backwards, squat, stack a 3-brick tower, turn 2–3 book pages at a time, speak 6–20 words (10 meaningful), and display symbolic play."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_10",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Preschool Developmental Progression (2–5 Years)",
+    "stem": "A 4-year-old girl attends a preschool developmental screening clinic. Which combination of stair-climbing, paper-work copying, and social play skills distinguishes an age-appropriate 4-year-old from a 3-year-old or 5-year-old?",
+    "options": [
+      "Climbs upstairs 2 feet/step, copies a vertical line, and plays exclusively in parallel beside peers",
+      "Climbs upstairs 1 foot/step & downstairs 2 feet/step, copies a circle, and refuses shared play",
+      "Climbs stairs 1 foot/step both up and down, copies a square, and plays cooperatively in groups",
+      "Skips on alternating feet, copies a triangle, bends to touch toes, and ties both shoelaces",
+      "Walks broad-based with support, builds a 2-brick tower, scribbles freely, and drinks via cup"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Climbing upstairs 2 feet per step, drawing a vertical/horizontal line, and parallel play are typical 2-year milestones.",
+      "Incorrect: Going upstairs 1 foot per step while descending 2 feet per step and copying a complete circle are classic 3-year milestones.",
+      "Correct: By 4 years a child alternates feet both upstairs and downstairs (1 foot/step), stands on one leg for a few moments, builds steps from bricks, copies a cross/square, tells stories, and plays cooperatively in a group.",
+      "Incorrect: Skipping, copying a triangle, touching toes without flexing knees, and tying shoelaces are 5-year school-readiness milestones.",
+      "Incorrect: Broad-based early walking and stacking 2 bricks belong to a 15-month toddler."
+    ],
+    "clinicalPearl": "Stair & shape ladder: 2y = up 2 feet/step + line + parallel play; 3y = up 1 foot/step, down 2 feet/step + circle + tricycle; 4y = down 1 foot/step + cross/square + cooperative play; 5y = skips + triangle + shoelaces.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 4 years children descend stairs alternating 1 foot/step, copy a square (cross at 3.5y; triangle at 5y), tell stories, and engage in cooperative group play."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_11",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Direct pMDI Inhalation Technique in Older Children",
+    "stem": "An 11-year-old boy with mild intermittent asthma demonstrates how he uses his pressurised metered-dose inhaler (pMDI) directly without a spacer before school football practice. Which inhalation sequence and breath-holding instruction optimises distal airway deposition?",
+    "options": [
+      "Exhale gently, seal lips without biting, actuate while inhaling rapidly, and exhale immediately",
+      "Inhale sharply before pressing the canister, bite the mouthpiece firmly, and hold breath 2 seconds",
+      "Hold the canister inverted, exhale forcefully into the mouthpiece, and inhale through the nose",
+      "Actuate two puffs rapidly into the mouth together, take shallow breaths, and rinse with milk",
+      "Exhale gently, seal lips firmly, inhale slowly and deeply while actuating, and hold breath >=10 s"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Rapid forceful inhalation with a pMDI causes high-velocity turbulent impaction on the posterior pharynx rather than distal bronchial deposition, and immediate exhalation prevents alveolar settling.",
+      "Incorrect: Biting the mouthpiece risks obstructing airflow, actuating after inhaling wastes medication in the mouth, and a 2-second hold is insufficient for gravitational aerosol sedimentation.",
+      "Incorrect: A pMDI must be held upright between index finger and thumb; exhaling into the actuator disperses moisture/propellant and nasal inhalation bypasses the mouthpiece.",
+      "Incorrect: Simultaneous double puffs increase oropharyngeal deposition and dosing inaccuracy, and shallow breaths fail to carry aerosol into small airways.",
+      "Correct: Per the Paediatric Inhalers guide, hold the pMDI upright, breathe out gently, seal lips around the mouthpiece without biting, tilt head slightly back, actuate once while breathing in slowly and deeply, and hold breath for >=10 seconds."
+    ],
+    "clinicalPearl": "Critical contrast: pMDI (with or without spacer) = SLOW, steady, deep inhalation + >=10-second breath hold; Dry Powder Inhaler (DPI) = QUICK, forceful inhalation to de-aggregate powder.",
+    "guideCitation": {
+      "guideId": "guide_paed_inhalers",
+      "guideTitle": "Guide for Paediatric Inhalers & Spacers",
+      "keyPoint": "Hold pMDI upright, exhale gently, seal lips without biting, actuate once while breathing in slowly and deeply, and hold breath for at least 10 seconds."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_12",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Multi-Puff Spacer Protocol & Weekly Cleaning",
+    "stem": "A 7-year-old girl with persistent asthma is prescribed two puffs of salbutamol 100 µg via a two-piece valved holding chamber (Zerostat VT) with mouthpiece during mild wheezing. Which administration interval and weekly spacer-care protocol maximise delivered dose and preserve the one-way valve?",
+    "options": [
+      "Actuate both puffs back-to-back without shaking; clean weekly in boiling water and wipe dry",
+      "Wait 10 minutes between puffs; sterilise daily in alcohol and dry over direct stove heat",
+      "Actuate one puff then wait 5 seconds; soak weekly in bleach without separating the halves",
+      "Actuate one puff, wait 1 min and re-shake MDI before second puff; wash weekly and air-dry",
+      "Remove the FlowGate valve before use; store the wet chamber inside a sealed polythene bag"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Multiple simultaneous puffs collide and deposit on chamber walls, while boiling warps plastic spacers and towel-wiping creates static charge that traps aerosol.",
+      "Incorrect: A 1-minute interval (not 10 minutes) suffices between puffs; alcohol and direct heat crack polycarbonate chambers and stiffen valves.",
+      "Incorrect: Five seconds is too short before re-shaking and actuating a second puff; chemical bleach damages valves and failing to separate halves leaves detergent residue.",
+      "Correct: Per Zerostat VT/Aeromate spacer instructions, actuate one puff per breathing cycle, wait 1 minute and re-shake the MDI before the second puff, and separate halves weekly to wash in lukewarm mild-detergent water and air-dry without wiping.",
+      "Incorrect: Removing the one-way FlowGate/petalled valve ruins aerosol retention and allows exhalation into the chamber, while storing wet promotes microbial growth."
+    ],
+    "clinicalPearl": "Spacer care & multi-puff rule: actuate 1 puff at a time, wait 1 minute and re-shake MDI before puff #2; disassemble weekly, wash in lukewarm mild-detergent water, rinse/shake off water, and AIR-DRY (never wipe dry!).",
+    "guideCitation": {
+      "guideId": "guide_paed_inhalers",
+      "guideTitle": "Guide for Paediatric Inhalers & Spacers",
+      "keyPoint": "Wait 1 minute and re-shake MDI between puffs into a valved holding chamber; wash separated halves weekly in lukewarm mild detergent and air-dry without towel-wiping."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_13",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Self-Inflating Bag-Valve-Mask (Ambu) Mechanics",
+    "stem": "During resuscitation of an apnoeic 2-year-old boy in the emergency department, a paediatric self-inflating bag-valve-mask (Ambu) device is prepared. Which statement accurately describes the roles of the patient valve, pressure-limiting valve, and oxygen reservoir bag?",
+    "options": [
+      "The patient valve vents exhaled CO2; the pressure-limiting valve stops barotrauma; the reservoir boosts FiO2 to 100%",
+      "The patient valve delivers 100% FiO2; the pressure-limiting valve blocks expiration; the reservoir prevents rebreathing",
+      "The patient valve limits peak pressure; the reservoir vents excess CO2; omitting the reservoir still yields 95% FiO2",
+      "The patient valve adds PEEP passively; the pressure-limiting valve replaces oxygen; the reservoir warms humidified gas",
+      "The pressure-limiting valve must stay clamped shut routinely; the patient valve connects directly to the O2 wall gauge"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: In a paediatric Ambu bag, the one-way patient valve directs expired gas out through the expiration port to prevent CO2 rebreathing, the pressure-limiting (pop-off) valve protects immature lungs from barotrauma, and an O2 reservoir bag with high-flow O2 raises FiO2 from ~40% to 90–100%.",
+      "Incorrect: The reservoir bag (not the patient valve) enables high-concentration oxygen delivery, and the pressure-limiting valve vents excessive inspiratory pressure rather than blocking expiration.",
+      "Incorrect: Without an attached oxygen reservoir bag, ambient room air dilutes inflowing oxygen so delivered FiO2 drops to roughly 40–50%, not 95%.",
+      "Incorrect: The patient valve is a non-rebreathing directional flap rather than a PEEP generator, and the reservoir stores supplemental oxygen rather than warming gas.",
+      "Incorrect: Routinely clamping the paediatric pressure-limiting valve risks severe barotrauma/pneumothorax (it is overridden only momentarily if stiff lungs require higher inflation pressures), and O2 tubing connects to the rear inlet port."
+    ],
+    "clinicalPearl": "Ambu bag anatomy: One-way patient valve prevents CO2 rebreathing; Pressure-limiting (pop-off) valve prevents barotrauma; Oxygen reservoir bag + 10–15 L/min O2 raises FiO2 from ~40% (room-air dilution) up to 90–100%.",
+    "guideCitation": {
+      "guideId": "guide_paed_inhalers",
+      "guideTitle": "Guide for Paediatric Inhalers & Spacers",
+      "keyPoint": "Paediatric Ambu bags comprise a face mask, one-way patient expiration valve, pressure-limiting valve, self-inflating bag, O2 inlet tube, and reservoir bag for high-FiO2 ventilation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_14",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Paediatric Hypovolaemic Shock Resuscitation Bolus",
+    "stem": "A 15-month-old boy weighing 10 kg is brought to the emergency unit with 3 days of profuse watery diarrhoea and vomiting. He is lethargic with sunken tearless eyes, very slow abdominal skin pinch (>3 s), cold mottled limbs, CRT 4 seconds, feeble pulses, heart rate 182 bpm, and BP 62/38 mmHg. What are the immediate intravenous fluid type and bolus volume?",
+    "options": [
+      "5% dextrose in water, 200 mL (20 mL/kg) rapid IV bolus",
+      "0.9% normal saline, 200 mL (20 mL/kg) rapid IV bolus",
+      "0.45% saline in 5% dextrose, 100 mL (10 mL/kg) over 4 hours",
+      "0.9% normal saline, 50 mL (5 mL/kg) slow infusion over 6 hours",
+      "WHO reduced-osmolarity ORS, 750 mL (75 mL/kg) via NG tube"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Electrolyte-free 5% dextrose rapidly leaves the intravascular space, fails to restore circulatory volume, and causes acute iatrogenic hyponatraemia and cerebral oedema.",
+      "Correct: Per the Paediatric Dehydration OSCE Guide, hypovolaemic shock is treated immediately via IV (or IO) access with an isotonic crystalloid—0.9% normal saline—at 20 mL/kg (200 mL for 10 kg), followed by immediate reassessment.",
+      "Incorrect: Hypotonic 0.45% saline is used for maintenance (not acute shock resuscitation), and infusing 10 mL/kg over 4 hours is dangerously inadequate in decompensated shock.",
+      "Incorrect: A 5 mL/kg slow infusion over 6 hours fails to reverse impending hypovolaemic cardiac arrest in a child with hypotension and CRT 4 seconds.",
+      "Incorrect: Oral or nasogastric ORS (Plan B 75 mL/kg over 4 hours) is contraindicated in lethargic/shocked children due to aspiration risk and delayed circulatory restoration."
+    ],
+    "clinicalPearl": "Paediatric non-SAM hypovolaemic shock resuscitation: immediate IV/IO 0.9% normal saline (or Hartmann's/Ringer's lactate) 20 mL/kg rapid bolus, then reassess perfusion and repeat up to 40–60 mL/kg if needed.",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "Hypovolaemic shock in children is resuscitated with an immediate IV 20 mL/kg bolus of 0.9% normal saline followed by clinical reassessment."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_15",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Holliday-Segar Maintenance & Deficit Fluid Rate",
+    "stem": "A 3-year-old child weighing 14 kg with moderate (5%) dehydration from persistent non-bilious vomiting cannot retain oral rehydration solution and has normal peripheral perfusion without shock. Using the ward protocol of 24-hour Holliday-Segar maintenance (100/50/20 mL/kg) divided over 24 hours PLUS assumed fluid deficit (% × 10 × kg) corrected over 5 hours, what hourly IV infusion rate is required during the 5-hour deficit correction period?",
+    "options": [
+      "50 mL/h maintenance plus 70 mL/h deficit replacement (total 120 mL/h)",
+      "70 mL/h maintenance plus 140 mL/h deficit replacement (total 210 mL/h)",
+      "50 mL/h maintenance plus 140 mL/h deficit replacement (total 190 mL/h)",
+      "100 mL/h maintenance plus 140 mL/h deficit replacement (total 240 mL/h)",
+      "50 mL/h maintenance plus 280 mL/h deficit replacement (total 330 mL/h)"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: 70 mL/h reflects only half the true 5% deficit over 5 hours (350 mL instead of 700 mL, which is 2.5% rather than 5% dehydration).",
+      "Incorrect: 24-hour Holliday-Segar maintenance for 14 kg is (10 × 100) + (4 × 50) = 1,200 mL/day = 50 mL/h, not 70 mL/h.",
+      "Correct: For 14 kg, Holliday-Segar maintenance = (10 × 100) + (4 × 50) = 1,200 mL/24h = 50 mL/h; 5% deficit = 5 × 10 × 14 = 700 mL, which replaced over 5 hours adds 140 mL/h, giving a combined hourly infusion rate of 190 mL/h.",
+      "Incorrect: 100 mL/h doubles the true maintenance requirement for a 14 kg child.",
+      "Incorrect: 280 mL/h corresponds to replacing a 10% deficit (1,400 mL) over 5 hours rather than a 5% deficit (700 mL)."
+    ],
+    "clinicalPearl": "Deficit fluid formula: Deficit (mL) = % dehydration × 10 × weight (kg), divided over 4–6 hours and ADDED onto hourly Holliday-Segar maintenance (100 mL/kg first 10 kg + 50 mL/kg next 10 kg + 20 mL/kg above 20 kg per 24h).",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "Correct fluid deficit (% × 10 × body weight in kg) over 4–6 hours while adding hourly Holliday-Segar maintenance (100/50/20 mL/kg/24h)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_16",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Paediatric Burns Parkland + Maintenance Resuscitation",
+    "stem": "A 3-year-old boy weighing 15 kg arrives immediately after sustaining deep partial-thickness boiling-water scalds covering 20% total body surface area (TBSA). Applying the paediatric burn resuscitation protocol (Parkland formula plus paediatric 4/2/1 maintenance), what are the exact resuscitation fluid volumes, maintenance fluid composition, and target hourly urine output?",
+    "options": [
+      "600 mL Lactated Ringer's over 24h; omit dextrose fluids; target urine output >=0.5 mL/kg/hr",
+      "1,200 mL 5% dextrose over 24h (half in 12h); no Ringers; target urine output 0.5–1.0 mL/kg/hr",
+      "1,200 mL Lactated Ringer's over 24h (half in 16h); add 0.9% NaCl alone; target >=2.5 mL/kg/hr",
+      "2,400 mL Lactated Ringer's in first 8h; add 50% dextrose boluses; target >=0.5 mL/kg/hr",
+      "1,200 mL Lactated Ringer's (600 mL in 8h) plus 50 mL/h D5W/iso-P; target 1.0–1.5 mL/kg/hr"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Parkland gives 4 mL × 15 kg × 20 = 1,200 mL over 24h (600 mL in first 8h, not 24h), children require dextrose maintenance due to limited hepatic glycogen, and paediatric target UOP is 1.0–1.5 mL/kg/hr.",
+      "Incorrect: Dextrose-only solutions cannot replace burn-wound isotonic plasma losses (which require Lactated Ringer's), and Parkland splits 24h fluid into first 8 hours and next 16 hours from the time of burn.",
+      "Incorrect: Half of the 24h Parkland volume is infused in the FIRST 8 hours (not 16 hours), and young children require dextrose-containing maintenance fluids to prevent hypoglycaemia.",
+      "Incorrect: 2,400 mL in 8 hours doubles the calculated 24h Parkland total and risks severe pulmonary and burn-wound oedema.",
+      "Correct: Parkland calculates 4 × 15 × 20 = 1,200 mL Lactated Ringer's over 24h (600 mL over first 8h, 600 mL over next 16h) PLUS 4/2/1 maintenance (50 mL/h of D5W/iso-P for limited infant hepatic glycogen stores), titrated to UOP 1.0–1.5 mL/kg/hr."
+    ],
+    "clinicalPearl": "Unlike adults, paediatric burn resuscitation adds dextrose maintenance (D5W/iso-P at 4/2/1 mL/kg/h) onto the Parkland Lactated Ringer's formula (4 mL × kg × %TBSA; 50% in first 8h) and targets higher urine output (1.0–1.5 mL/kg/hr).",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "Paediatric burns require Parkland Lactated Ringer's (4 mL × kg × %TBSA; half in first 8h) PLUS 4/2/1 D5W/iso-P maintenance, targeting urine output 1.0–1.5 mL/kg/hr."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_17",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "BSPED Paediatric DKA Protocol & Glucose <14 mmol/L",
+    "stem": "A 9-year-old boy weighing 30 kg is admitted with moderate diabetic ketoacidosis (venous pH 7.12, blood glucose 27 mmol/L, serum K+ 4.1 mmol/L, satisfactory urine output). Under the BSPED paediatric DKA protocol, 0.9% saline (with KCl 20 mmol per 500 mL) and soluble IV insulin (0.1 unit/kg/h) are started. Six hours later, his blood glucose falls to 12.8 mmol/L while metabolic acidosis persists. What is the correct adjustment?",
+    "options": [
+      "Stop the insulin infusion completely and switch fluids to 5% dextrose in water alone",
+      "Halve the insulin rate to 0.05 unit/kg/h and continue plain 0.9% saline without dextrose",
+      "Give an immediate IV sodium bicarbonate bolus and switch to subcutaneous basal insulin",
+      "Change IV fluid to 0.9% saline + 5% dextrose without reducing the insulin infusion rate",
+      "Discontinue intravenous potassium chloride and double the soluble insulin infusion rate"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Stopping IV insulin before ketoacidosis resolves triggers rebound lipolysis and worsening DKA, while electrolyte-free D5W increases cerebral oedema risk.",
+      "Incorrect: Under the BSPED protocol highlighted in the guide, when blood glucose drops <14 mmol/L, dextrose is added to 0.9% saline while maintaining the insulin dose rather than omitting dextrose.",
+      "Incorrect: Routine IV bicarbonate increases risk of cerebral oedema and paradoxical CNS acidosis in paediatric DKA, and subcutaneous insulin is deferred until acidosis resolves and oral intake resumes.",
+      "Correct: Under the BSPED DKA protocol, once blood glucose falls below 14 mmol/L, switch the infusion fluid to 0.9% saline + 5% dextrose (with KCl 20 mmol/500 mL) and DO NOT reduce the soluble insulin dose (0.1 unit/kg/h) so ketogenesis stays suppressed.",
+      "Incorrect: Continuing insulin drives potassium intracellularly and worsens hypokalaemia if KCl is stopped, while doubling insulin precipitates life-threatening hypoglycaemia and hypokalaemia."
+    ],
+    "clinicalPearl": "BSPED DKA rules: rehydrate evenly over 48h with 0.9% saline + KCl 20 mmol/500 mL (once voiding); run IV soluble insulin 0.1 U/kg/h; when blood glucose <14 mmol/L, switch to 0.9% saline + 5% dextrose and DO NOT reduce insulin.",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "Under BSPED DKA guidelines, use 0.9% saline with KCl 20 mmol/500 mL and IV soluble insulin 0.1 unit/kg/h; when glucose <14 mmol/L switch to 0.9% saline + 5% dextrose without reducing insulin."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_18",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Nutritional Rickets Biochemistry & Hypocalcaemic Seizures",
+    "stem": "A 13-month-old dark-skinned boy who remains predominantly breastfed with poor weaning solids and minimal sunlight exposure presents with an afebrile generalised tonic-clonic seizure. Examination reveals frontal bossing, widened wrists, Harrison's sulcus, and costochondral beading (rachitic rosary), with normal liver and renal function. Which serum biochemical profile confirms nutritional vitamin D deficiency rickets?",
+    "options": [
+      "Low calcium, low phosphate, raised ALP, raised PTH, and low 25(OH) vitamin D",
+      "Low calcium, high phosphate, normal ALP, low PTH, and normal 25(OH) vitamin D",
+      "High calcium, low phosphate, normal ALP, high PTH, and raised 25(OH) vitamin D",
+      "Normal calcium, normal phosphate, low ALP, low PTH, and low 1,25(OH)2 vitamin D",
+      "Low calcium, high phosphate, raised ALP, normal PTH, and high 25(OH) vitamin D"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Vitamin D deficiency impairs intestinal Ca/PO4 absorption, causing low/low-normal calcium (manifesting as hypocalcaemic seizures in severe infants), compensatory secondary hyperparathyroidism (raised PTH) driving renal phosphate wasting (low phosphate), raised ALP, and low 25(OH) vitamin D.",
+      "Incorrect: Hypocalcaemia with hyperphosphataemia and low PTH defines primary hypoparathyroidism rather than vitamin D deficiency rickets.",
+      "Incorrect: Hypercalcaemia with hypophosphataemia and high PTH characterises primary hyperparathyroidism rather than nutritional rickets.",
+      "Incorrect: Low serum alkaline phosphatase (ALP) is a hallmark of hypophosphatasia, whereas active rickets markedly elevates osteoblastic ALP.",
+      "Incorrect: Chronic kidney disease causes phosphate retention (high phosphate) and low 1,25-dihydroxyvitamin D, whereas nutritional rickets lowers both 25(OH)D and serum phosphate via secondary hyperparathyroidism."
+    ],
+    "clinicalPearl": "Classic nutritional rickets lab pattern: Low/normal Ca (causing infant seizures or tetany) + Low PO4 + Markedly Raised ALP + Raised PTH + Low 25(OH) Vitamin D; risk factors include dark skin, low sunlight, prolonged exclusive breastfeeding, and high-phytate cereals.",
+    "guideCitation": {
+      "guideId": "guide_paed_rickets",
+      "guideTitle": "Guide for Rickets & Intussusception (Paediatrics)",
+      "keyPoint": "Nutritional vitamin D deficiency rickets presents with hypocalcaemic seizures, bony deformities, low Ca/PO4, raised ALP and PTH, and low 25(OH)D."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_19",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Healing Rickets Radiology & Dietary Management",
+    "stem": "A 15-month-old girl with confirmed active nutritional rickets (osteopenic long bones with metaphyseal cupping, splaying, and fraying) commences oral calcium and vitamin D (3,000 IU/day), moderate sunlight exposure, and reduced phytate-rich cereals. Four weeks later, repeat wrist radiography and blood tests are reviewed. Which finding confirms radiographic and biochemical healing rather than persistent active rickets or scurvy?",
+    "options": [
+      "Disappearance of the distal ulnar epiphysis alongside rising parathyroid hormone",
+      "Dense zone of provisional calcification at the metaphyseal margin with falling serum ALP",
+      "Trummerfeld subepiphyseal radiolucent band with Pelkan spurs and Wimberger ring sign",
+      "Progressive widening of the epiphyseal growth plate with worsening cortical thinning",
+      "Elevated serum phosphate accompanied by a further surge in alkaline phosphatase"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Loss of ossification centres and rising PTH indicate worsening vitamin D/calcium depletion rather than treatment response.",
+      "Correct: Within 2–4 weeks of starting vitamin D (3,000 IU/day) and calcium, osteoid mineralises, producing a dense radiopaque line at the zone of provisional calcification along the metaphysis while PTH and ALP begin to normalise.",
+      "Incorrect: The Trummerfeld radiolucent zone, Pelkan metaphyseal spurs, Wimberger epiphyseal ring, and Fraenkel white line are classic radiographic signs of infantile scurvy (vitamin C deficiency), not healing rickets.",
+      "Incorrect: Persistent metaphyseal widening and osteopenia indicate untreated or refractory rickets (e.g., malabsorption, non-adherence, or vitamin D-dependent/hypophosphataemic rickets).",
+      "Incorrect: Serum ALP declines steadily as osteoblasts complete mineralisation during rickets healing rather than surging further."
+    ],
+    "clinicalPearl": "Active rickets shows metaphyseal cupping, splaying, and fraying; healing rickets shows a new dense zone of provisional calcification at the metaphysis + falling ALP (do not confuse with scurvy's Fraenkel line, Pelkan spurs, and Trummerfeld zone).",
+    "guideCitation": {
+      "guideId": "guide_paed_rickets",
+      "guideTitle": "Guide for Rickets & Intussusception (Paediatrics)",
+      "keyPoint": "Treat nutritional rickets with 3,000 IU/day vitamin D, calcium, moderate sunlight, and reduced phytates; healing is tracked by metaphyseal recalcification and declining ALP."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_20",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Intussusception Enema Contraindications & Surgery",
+    "stem": "A 9-month-old boy with 36 hours of intermittent screaming, bilious vomiting, and 'red currant jelly' stool has ultrasound-confirmed ileocolic intussusception. On reassessment, he is febrile (39.1°C), tachycardic (172 bpm), and hypotensive with a distended, diffusely guarded abdomen, absent bowel sounds, and free subdiaphragmatic air on erect radiography. Which management plan is mandatory?",
+    "options": [
+      "Immediate hydrostatic saline enema reduction under bedside ultrasound guidance",
+      "Urgent pneumatic air-enema insufflation at 120 mmHg in the radiology suite",
+      "IV resuscitation, broad-spectrum antibiotics, NG decompression, and urgent surgery",
+      "Diagnostic barium contrast enema followed by delayed elective laparoscopic reduction",
+      "Oral reduced-osmolarity ORS trial with serial 6-hourly abdominal examination"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Hydrostatic enema is strictly contraindicated in the presence of peritonitis, bowel perforation, or uncompensated shock because high intraluminal pressure forces faecal contamination into the peritoneal cavity.",
+      "Incorrect: Pneumatic air enema is the preferred non-operative reduction for stable, uncomplicated intussusception, but is absolutely contraindicated when free air or peritonitis indicates bowel necrosis/perforation.",
+      "Correct: Bowel wall strangulation progresses from venous ischaemia to infarction and perforation; generalised peritonitis, free intraperitoneal air, or refractory shock contraindicates enema reduction and demands resuscitation, antibiotics, NG decompression, and emergency surgical laparotomy.",
+      "Incorrect: Barium enema carries high risk of fatal chemical/bacterial peritonitis in suspected perforation and delaying surgery worsens septic mortality.",
+      "Incorrect: Oral fluids are contraindicated in mechanical intestinal obstruction with bilious vomiting and peritonitis."
+    ],
+    "clinicalPearl": "Pneumatic/hydrostatic enema is first-line ONLY for stable, uncomplicated intussusception; ANY sign of peritonitis, perforation (free air), or refractory shock is an absolute contraindication requiring immediate laparotomy.",
+    "guideCitation": {
+      "guideId": "guide_paed_rickets",
+      "guideTitle": "Guide for Rickets & Intussusception (Paediatrics)",
+      "keyPoint": "Sustained wall pressure in intussusception causes ischaemia, infarction, and perforation; peritonitis or perforation contraindicates non-operative enema reduction and mandates emergency surgery."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_21",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "WHO Plan A Home ORS Volumes & 24-Hour Rule",
+    "stem": "A 16-month-old girl with acute watery diarrhoea and no clinical signs of dehydration is discharged home on WHO Plan A after her mother mixes one 20.5 g packet of WHO reduced-osmolarity ORS into 1 litre of clean drinking water. Which home counselling instruction regarding volume per loose stool, diet, and solution storage is correct?",
+    "options": [
+      "Offer 250–300 mL per stool, withhold all solid foods, and refrigerate remaining ORS for 72 hours",
+      "Offer 10–20 mL per stool, stop breastfeeding temporarily, and boil the prepared ORS before each sip",
+      "Offer 200–300 mL per stool, give only carbonated drinks between feeds, and discard ORS after 6 hours",
+      "Offer 50–100 mL per stool, continue breastfeeding and solids, and discard unused ORS after 24 hours",
+      "Offer 50–100 mL per stool, switch to diluted fruit squash, and keep prepared ORS for 48 hours"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: 250–300 mL per stool suits adults/large children rather than a 16-month-old (<2y needs 50–100 mL/stool), withholding solids worsens malnutrition/villous recovery, and ORS must not be kept beyond 24 hours.",
+      "Incorrect: 10–20 mL/stool is inadequate to match diarrhoeal losses, breastfeeding must continue throughout diarrhoea, and boiling reconstituted ORS alters electrolyte concentration.",
+      "Incorrect: High-sugar carbonated sodas cause osmotic diarrhoea, and the WHO home ORS discard window is 24 hours (not 6 hours).",
+      "Correct: Under Plan A, children <2 years receive 50–100 mL of ORS after each loose stool (100–200 mL if >=2 years) alongside continued breast milk/fluids and solids, and any unused ORS solution must be discarded after 24 hours and freshly remade.",
+      "Incorrect: Sugary squashes increase luminal osmolarity and stool output, and prepared ORS degrades/contaminates past 24 hours."
+    ],
+    "clinicalPearl": "Home ORS Plan A numbers: <2 years = 50–100 mL per loose stool (>=2y = 100–200 mL); continue breastfeeding + solids; mix 1 packet in 1 L clean drinking water; discard after 24 hours.",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "Mix 1 ORS packet in 1 L clean drinking water, continue breast milk and solids, give frequent small amounts after stools, and discard unused ORS after 24 hours."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_22",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "ORS Vomiting Technique & SGLT1 Mechanism",
+    "stem": "A 10-month-old infant with acute viral gastroenteritis and mild dehydration vomits shortly after her mother feeds ORS rapidly from a large cup. How should the mother adjust administration after vomiting, and what physiological mechanism allows ORS to remain absorbed despite rotaviral enterocyte damage?",
+    "options": [
+      "Wait 10 minutes then give 1–2 teaspoons every 2–3 minutes; glucose-coupled Na+ co-transport stays intact",
+      "Stop ORS permanently and give antiemetics; active chloride secretion reverses during fasting",
+      "Give 60 mL immediately via syringe; passive lipid diffusion carries glucose across tight junctions",
+      "Wait 2 hours then offer plain boiled water; Na+/K+-ATPase pumps only function without glucose",
+      "Administer double-strength ORS every minute; hyperosmolar glucose draws intestinal water inward"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per the ORS guide, if a child vomits, wait 10 minutes and restart slowly at 1–2 teaspoons every 2–3 minutes; ORS works because sodium-glucose co-transport (SGLT1) on intestinal enterocytes remains intact despite viral epithelial injury.",
+      "Incorrect: A single vomit from rapid drinking is not an indication to abandon ORS, and routine antiemetics carry adverse effects in infants.",
+      "Incorrect: Rapidly syringing 60 mL triggers recurrent emesis and aspiration, and water absorption follows osmotic gradients created by active Na+/glucose transport rather than lipid diffusion.",
+      "Incorrect: Waiting 2 hours delays rehydration unnecessarily, and plain water lacks the equimolar sodium and glucose required to drive SGLT1-mediated absorption.",
+      "Incorrect: Concentrated/hyperosmolar ORS pulls water into the bowel lumen, worsening osmotic diarrhoea and risking hypernatraemia."
+    ],
+    "clinicalPearl": "ORS vomiting rule: pause for 10 minutes, then resume 1–2 teaspoons every 2–3 minutes (<2 years). Equimolar glucose + Na+ (75 mmol/L each) exploits intact SGLT1 co-transport even in viral gastroenteritis.",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "Sodium-glucose co-transport persists in viral enteritis; after vomiting, wait 10 minutes and give 1–2 teaspoons of ORS every 2–3 minutes."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_23",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Contraindications to ORT & Transition to IV Fluids",
+    "stem": "A 2-year-old boy initially started on Plan B oral rehydration therapy for acute diarrhoea becomes progressively drowsy, develops marked abdominal distension with absent bowel sounds, and has intractable vomiting with high-output stooling. Which set of indications in the Paediatric ORS guide mandates discontinuing oral rehydration in favour of intravenous hydration?",
+    "options": [
+      "Mild thirst, two watery stools per hour, and transient crying when drinking from a spoon",
+      "Low-grade fever (38.0°C), mild perianal erythema, and refusal of solid cereal feeds",
+      "Absence of visible tears while alert, intact bowel sounds, and one isolated vomit",
+      "Concomitant breast milk intake, age under 2 years, and negative stool reducing substances",
+      "Altered sensorium, paralytic ileus, severe persistent vomiting, and high stool losses"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Mild thirst and moderate stool frequency in an alert child are classic indications to continue oral rehydration therapy rather than switch to IV fluids.",
+      "Incorrect: Low-grade fever and mild nappy erythema do not impair intestinal absorption or airway safety during oral rehydration.",
+      "Incorrect: Alert children with active bowel sounds and isolated vomiting respond well to slow spoon-fed ORS after a 10-minute pause.",
+      "Incorrect: Breastfeeding is encouraged alongside ORS, children <2 years are routinely managed with ORS, and negative reducing substances simply exclude carbohydrate malabsorption.",
+      "Correct: Per the ORS guide, limitations/indications to switch from ORT to IV fluids include altered mental status (aspiration risk), abdominal/paralytic ileus, intestinal malabsorption (e.g., short gut), persistent severe vomiting, and excessive stool output outpacing oral intake."
+    ],
+    "clinicalPearl": "When ORT fails or is unsafe -> switch to IV fluids: (1) Altered consciousness/aspiration risk, (2) Paralytic ileus, (3) Severe persistent vomiting, (4) High purging rate exceeding oral intake, or (5) Short gut/malabsorption.",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "ORS is contraindicated or transitioned to IV hydration in altered mental status, abdominal ileus, severe persistent vomiting, intestinal malabsorption, or overwhelming stool losses."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_24",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Vaccine Cold-Chain Shake Test Protocol",
+    "stem": "A clinic's Freeze-tag indicator alarms (<0°C for >60 minutes) inside a refrigerator holding Pentavalent (DTP-HepB-Hib), tetanus toxoid, and Hepatitis B vials, though the suspect vials appear liquid and homogeneous. Before deciding whether the batch can be salvaged, how should the SLMA/WHO Shake Test be performed and interpreted?",
+    "options": [
+      "Shake test vial alone for 5 seconds; discard only if foam fails to form at the meniscus",
+      "Freeze a same-batch control solid (-10°C, >=10h), thaw, shake both 10–15s; discard if test settles >= control",
+      "Centrifuge the suspect vial for 10 minutes; use only if the supernatant turns completely clear immediately",
+      "Perform the Shake Test on frozen solid vials and also on reconstituted freeze-dried BCG and MMR vials",
+      "Heat a control vial to 37°C until VVM darkens, shake gently, and discard if test settles slower than control"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: A suspect vial cannot be reliably judged without comparing its sedimentation rate side-by-side against a deliberately frozen-and-thawed matched control vial.",
+      "Correct: Freeze a control vial of the exact same vaccine, batch, and manufacturer at -10°C for >=10 hours and thaw it; shake control and test vials vigorously together for 10–15 seconds, rest upright, and discard the batch if the test vial sediments as fast as or faster than the frozen control.",
+      "Incorrect: Centrifugation is never part of the WHO/SLMA Shake Test, and rapid settling/clear supernatant indicates adjuvant clumping from freeze damage.",
+      "Incorrect: Vials found actually frozen solid or failing to produce a homogeneous solution on shaking must be discarded immediately WITHOUT a Shake Test; furthermore, freeze-dried BCG/MMR are not tested via Shake Test.",
+      "Incorrect: Heating tests VVM heat exposure (VVM cannot detect freezing!), and slow sedimentation (remaining turbid longer than the frozen control) actually indicates the test vial was NOT freeze-damaged."
+    ],
+    "clinicalPearl": "Shake Test rule for aluminium-adjuvanted/freeze-sensitive vaccines (DTP, DT, aTd, TT, HepB): Never test a vial found frozen solid (discard immediately); otherwise compare sedimentation vs a deliberately frozen-thawed same-batch control—if test settles as fast as or faster than control -> DISCARD.",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "Compare suspect adsorbed/liquid vials against a deliberately frozen-and-thawed matched control after 10–15s vigorous shaking; discard if sedimentation rate is similar to or faster than control."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_25",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Live Vaccine Spacing & Immunocompromised/Pregnancy Rules",
+    "stem": "A healthy 14-month-old boy whose 12-month Live Japanese Encephalitis (JE) dose was delayed received a private-sector live varicella vaccine 10 days ago. At the same clinic, his 32-year-old mother is 18 weeks pregnant, and his 7-year-old sister is undergoing intensive chemotherapy for acute lymphoblastic leukaemia. Which SLMA immunisation rule correctly applies to these three family members?",
+    "options": [
+      "Give Live JE today; give the pregnant mother MMR safely; give the boy oral OPV booster",
+      "Wait 7 days for Live JE; give the mother varicella vaccine; vaccinate siblings with OPV",
+      "Space Live JE >=4 weeks after varicella; avoid live vaccines in pregnancy/chemo; avoid household OPV",
+      "Delay Live JE by 6 months; restart the boy's whole EPI schedule; give inactivated influenza at 4w gaps",
+      "Give Live JE after 2 weeks if separate arms; give BCG to the sister now; terminate if MMR given in pregnancy"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Injecting two parenteral live vaccines 10 days apart blunts seroconversion, live MMR is contraindicated during pregnancy, and OPV sheds neurovirulent poliovirus into immunocompromised households.",
+      "Incorrect: Non-simultaneous parenteral live vaccines need a minimum 4-week (not 7-day) gap, live varicella is contraindicated in pregnancy, and OPV must NOT be given to household contacts of immunocompromised patients.",
+      "Correct: Per SLMA guidelines, non-simultaneous parenteral live vaccines must be spaced by >=4 weeks (no gap needed between live and inactivated); live vaccines are contraindicated in pregnancy and active chemotherapy (defer >=3 months post-chemo remission); household contacts must receive IPV instead of OPV (while MMR/varicella/rotavirus are permitted).",
+      "Incorrect: The mandatory gap between separate parenteral live vaccines is 4 weeks (not 6 months), lapsed schedules are never restarted, and inactivated vaccines require no 4-week spacing from live vaccines.",
+      "Incorrect: Separate sites permit SAME-DAY co-administration (not 2 weeks apart), BCG is contraindicated during chemotherapy, and inadvertent MMR in pregnancy is NOT an indication for termination."
+    ],
+    "clinicalPearl": "Live vaccine rules: (1) Same day at separate sites OR space >=4 weeks apart (no gap needed for live + inactivated); (2) Contraindicated in pregnancy and severe immunosuppression; (3) Avoid OPV in household contacts of immunocompromised patients (use IPV).",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "Space non-simultaneous injectable live vaccines >=4 weeks apart; avoid live vaccines in pregnancy and active chemotherapy; avoid OPV in household contacts of immunocompromised persons."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_26",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "WHO/SLMA Multi-Dose Open-Vial Policy (6h vs 28d)",
+    "stem": "At the close of a 4-hour morning MOH immunisation session conducted with strict aseptic technique at +4°C and intact Vaccine Vial Monitors (stage 1), partially used multi-dose vials remain of OPV, DTP, Hepatitis B, reconstituted BCG, and reconstituted MMR. Under the SLMA/WHO Open-Vial Policy, how should these opened vials be handled?",
+    "options": [
+      "Retain all five opened vials in the main refrigerator compartment for up to 28 days",
+      "Discard all five opened vials immediately at session end because no opened vial may be reused",
+      "Discard reconstituted BCG/MMR <=6h or session end; store liquid OPV, DTP, Hep B <=28 days",
+      "Retain reconstituted BCG and MMR for 28 days; discard liquid OPV, DTP, and Hep B at 6 hours",
+      "Store opened BCG and MMR in the freezer at -20°C and reuse liquid OPV/DTP within 48 hours"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Reconstituted freeze-dried vaccines (BCG, measles, MMR, yellow fever) lack preservatives/stability after reconstitution and carry high bacterial contamination/toxic shock risk if kept past 6 hours.",
+      "Incorrect: Liquid multi-dose vials (OPV, DPT, TT, DT, aTd, Hep B, liquid Hib) meeting expiry, cold chain, sterile handling, and VVM criteria can safely be reused for up to 28 days to minimise wastage.",
+      "Correct: Per SLMA Chapter 36 Open-Vial Policy, reconstituted freeze-dried vaccines (BCG, measles, MMR, yellow fever, freeze-dried Hib) must be discarded 6 hours post-reconstitution or at session end (whichever is earlier), whereas liquid OPV, DPT, TT, DT, aTd, and Hep B meeting cold-chain/VVM/sterile criteria may be kept in a marked box for up to 28 days.",
+      "Incorrect: The storage durations are inverted: liquid multi-dose vials last up to 28 days, whereas reconstituted freeze-dried vaccines must be discarded after 6 hours or at session end.",
+      "Incorrect: Reconstituted live vaccines must never be frozen or stored beyond session end, and liquid OPV/DTP remain valid for 28 days rather than 48 hours."
+    ],
+    "clinicalPearl": "Open-Vial Policy split: Reconstituted freeze-dried (BCG, MMR, Yellow Fever) = discard at 6 hours or end of session (whichever is earlier); Liquid multi-dose (OPV, DPT, TT, DT, aTd, Hep B) = usable up to 28 days if cold chain (+2–8°C), expiry, sterility, and VVM intact.",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "Opened liquid multi-dose vials (OPV, DPT, TT, DT, aTd, Hep B) may be used up to 28 days under cold-chain/VVM/sterile conditions; reconstituted BCG/MMR must be discarded at <=6 hours or session end."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_27",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Sri Lanka School NIP: HPV (Grade 6) & aTd (Grade 7)",
+    "stem": "During a Sri Lankan School Medical Inspection (SMI) clinic, a 10-year-old girl in Grade 6 and an 11-year-old boy in Grade 7 attend for routine National Immunisation Programme (NIP) school-age vaccinations. Which schedule accurately states the vaccine, target group, dosing interval, and administration route for each grade?",
+    "options": [
+      "Grade 6 females: HPV 2 doses (0, 6m) IM deltoid; Grade 7 all students: aTd single dose IM deltoid",
+      "Grade 6 all students: HPV 3 doses (0, 1, 6m) SC; Grade 7 females only: DT single dose IM",
+      "Grade 6 females: HPV single dose IM thigh; Grade 7 all students: whole-cell DTwP booster IM",
+      "Grade 6 females: MMR booster SC deltoid; Grade 7 all students: Tdap 2 doses 4 weeks apart IM",
+      "Grade 6 all students: Live JE booster SC; Grade 7 females only: HPV 2 doses (0, 6m) IM deltoid"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Sri Lanka's NIP administers HPV (2 doses of 0.5 mL IM deltoid at 0 and >=6 months) to Grade 6 girls (10 years), and aTd (adult tetanus-reduced diphtheria toxoid, 0.5 mL IM deltoid) to all Grade 7 students (11 years, 6th tetanus-diphtheria dose).",
+      "Incorrect: Under the national programme HPV is funded for Grade 6 females on a 2-dose IM schedule (3 doses apply only from age >=15y or in immunocompromised individuals), and Grade 7 students receive reduced-antigen aTd rather than full-strength paediatric DT.",
+      "Incorrect: HPV requires 2 doses 6 months apart into the deltoid (not a single thigh dose), and whole-cell pertussis (DTwP) is not given >=7 years due to severe reactogenicity.",
+      "Incorrect: The 2nd MMR dose is scheduled at 3 years (not Grade 6), and Grade 7 NIP uses single-dose aTd rather than 2-dose Tdap.",
+      "Incorrect: Live JE is given as a single dose at 12 months, and HPV is delivered in Grade 6 (10 years) rather than Grade 7."
+    ],
+    "clinicalPearl": "Sri Lanka school NIP milestones: 5y (school entry) = OPV + DT; 10y (Grade 6 girls) = HPV (2 doses, 0 & 6m, IM deltoid; seat teen to prevent syncope); 11y (Grade 7 all) = aTd (reduced diphtheria antigen prevents adult/adolescent reactogenicity).",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Sri Lanka NIP gives HPV (2 doses 6 months apart IM deltoid) to Grade 6 girls (10y) and aTd (6th tetanus-diphtheria dose IM deltoid) in Grade 7 (11y)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_28",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "Live JE vs Inactivated Vero-Cell JE Schedules",
+    "stem": "A healthy 12-month-old boy presents to an MOH clinic for routine Japanese Encephalitis (JE) immunisation under the Sri Lankan NIP. At the same clinic, a 2-year-old boy with severe congenital cellular immunodeficiency requires alternative JE protection. Which regimen correctly matches each child's vaccine type, dose, and route?",
+    "options": [
+      "Healthy 12m: Live JE 0.5 mL IM (3 doses); Immunodeficient 2y: Live JE 0.25 mL SC single dose",
+      "Healthy 12m: Live JE 0.5 mL SC single dose; Immunodeficient 2y: Inactivated Vero-cell JE 0.25 mL IM ×2",
+      "Healthy 12m: Mouse-brain JE 0.5 mL SC ×3; Immunodeficient 2y: Live JE 0.5 mL ID single dose",
+      "Healthy 12m: Inactivated JE 0.5 mL SC at 12m & 18m; Immunodeficient 2y: No JE vaccine may ever be given",
+      "Healthy 12m: Live JE 0.1 mL ID single dose; Immunodeficient 2y: Inactivated Vero-cell JE 1.0 mL SC ×2"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: NIP Live JE (SA 14-14-2) is a single 0.5 mL SC dose, and live attenuated viral vaccines are strictly contraindicated in severe congenital immunodeficiency.",
+      "Correct: In Sri Lanka's NIP, healthy infants receive a single 0.5 mL subcutaneous (SC) dose of Live JE (SA 14-14-2) at 12 months; where live vaccine is contraindicated (immunodeficiency, malignancy, or pregnancy), inactivated Vero-cell JE is given IM as 2 doses 4 weeks apart (0.25 mL if <3 years, 0.5 mL if >=3 years).",
+      "Incorrect: Inactivated mouse-brain JE vaccines are no longer used in Sri Lanka's routine EPI, and Live JE is never administered intradermally or to immunodeficient children.",
+      "Incorrect: Routine NIP children receive Live JE at 12 months, and immunocompromised children CAN safely receive inactivated Vero-cell JE.",
+      "Incorrect: Intradermal 0.1 mL dosing applies to fractional IPV (and BCG at birth/0.05 mL), not Live JE (0.5 mL SC), and Vero-cell JE is given IM at 0.25 mL (<3y) rather than 1.0 mL SC."
+    ],
+    "clinicalPearl": "Sri Lanka JE rule: routine NIP = single 0.5 mL SC dose of Live JE (SA 14-14-2) at 12 months; if live JE is contraindicated (immunodeficiency, malignancy, or pregnancy; note convulsions within 1y contraindicate both live and inactivated JE), use Inactivated Vero-cell JE IM (2 doses 4w apart: 0.25 mL <3y, 0.5 mL >=3y).",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Live attenuated JE is given as a single 0.5 mL SC dose at 12 months in Sri Lanka's NIP; inactivated Vero-cell JE (0.25 mL <3y, 0.5 mL >=3y IM, 2 doses 4w apart) is used if live JE is contraindicated."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_29",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Moderate",
+    "topic": "BCG Non-Scar Revaccination & AEFI Reporting",
+    "stem": "During a Sri Lankan public health clinic review, two children who received birth BCG lack a visible left deltoid scar: Child A is 18 months old, and Child B is 7 years old. Separately, a 3-month-old infant presents with a fluctuant suppurative BCG axillary lymphadenitis and injection-site abscess. Which revaccination and AEFI notification actions follow national NIP guidelines?",
+    "options": [
+      "Repeat BCG for Child A without TST; perform Mantoux first in Child B; notify BCGitis via Form 1",
+      "Do Mantoux first in Child A; repeat BCG without TST in Child B; withhold reporting unless hospitalised",
+      "No repeat BCG for Child A or B since 10% lack scars; aspirate lymph node and notify only police",
+      "Repeat BCG in both Child A and B directly at 0.05 mL IM; delay AEFI reporting until 6-month audit",
+      "Administer BCG only if IGRA negative in Child A; repeat BCG in Child B directly; excise node urgently"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Under Sri Lanka's NIP, children aged 6 months to 5 years without a BCG scar receive a repeat BCG dose without a tuberculin skin test (0.1 mL ID if >1y), whereas children >5 years undergo Mantoux (TST) first and receive BCG only if negative; BCG lymphadenitis and injection-site abscesses must be recorded in the CHDR and notified on AEFI Notification Form 1 to MOH/Regional Epidemiologist/Epidemiology Unit.",
+      "Incorrect: The Mantoux screening requirement applies to scar-negative children >5 years (not 6m–5y), and local events such as BCG lymphadenitis and injection-site abscess are mandatory notifiable AEFIs even without hospitalisation.",
+      "Incorrect: Although ~10–12% of vaccinees do not form a scar despite successful vaccination, Sri Lanka's NIP still mandates revaccination between 6 months and 5 years without TST (and post-TST if >5y), and AEFI reporting goes to public health authorities rather than police.",
+      "Incorrect: BCG is strictly intradermal (never IM, 0.05 mL <1y and 0.1 mL >=1y), and AEFI reporting must not be deferred to a semi-annual audit.",
+      "Incorrect: Routine IGRA is unnecessary at 18 months (repeat directly), children >5y require Mantoux first, and routine surgical excision of BCGitis shows no clear benefit over conservative/targeted care."
+    ],
+    "clinicalPearl": "BCG scar & AEFI rules in Sri Lanka: No scar at 6m–5y -> repeat BCG directly (no Mantoux); >5y -> Mantoux first, give BCG if negative. Record BCG lymphadenitis/injection abscesses in the CHDR and notify MOH, Regional Epidemiologist, and Epidemiology Unit on AEFI Form 1.",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Sri Lanka NIP repeats BCG without TST in scar-negative children aged 6m–5y (Mantoux first if >5y) and mandates AEFI notification of BCG lymphadenitis and injection-site abscesses."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_30",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Dengue Febrile Phase Monitoring (Chart I) & Critical Transition",
+    "stem": "A 6-year-old girl weighing 20 kg is admitted on day 3 of serologically confirmed dengue fever. She is alert with warm peripheries, CRT <2 seconds, BP 100/66 mmHg, haematocrit 36%, and platelet count 112 × 10^9/L, and is tolerating oral fluids well without abdominal pain or vomiting. According to Sri Lanka MoH Dengue Monitoring Charts, how frequently should she be monitored now, and which change mandates moving from Chart I to hourly Chart II?",
+    "options": [
+      "Monitor 12-hourly on Chart I; escalate to Chart II only after hypotension develops",
+      "Monitor 24-hourly outpatient; start routine 0.9% saline at 10 mL/kg/h prophylactically",
+      "Monitor 15-minutely on Chart III now; give Dextran-40 bolus if platelets fall <120 × 10^9/L",
+      "Monitor 3–6h on Chart I; escalate to Chart II if HCT rises >=20% or platelets <100 × 10^9/L",
+      "Monitor 3–6 hourly on Chart I; escalate to Chart II only when urine output reaches 1.5 mL/kg/hr"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: 12-hourly monitoring is far too infrequent to catch rapid critical-phase onset, and waiting for overt hypotension delays plasma-leakage management until decompensated shock.",
+      "Incorrect: High-rate prophylactic IV saline (10 mL/kg/h) before critical-phase onset causes severe iatrogenic fluid overload once capillary leakage begins.",
+      "Incorrect: 15-minute Chart III monitoring and Dextran-40 boluses are reserved for peak plasma leakage or established dengue shock, not stable day-3 febrile-phase dengue.",
+      "Correct: Febrile-phase dengue patients are monitored every 3–6 hours on Chart I (recording HCT, oral/IV input, HR, BP, pulse pressure, CRFT, extremity warmth, RR, UOP, and platelets); onset of plasma leakage (platelets dropping <100 × 10^9/L, HCT rising >=20%, warning signs, or USS fluid) requires immediate transition to hourly Chart II and M+5% quota calculation.",
+      "Incorrect: A urine output of 1.5 mL/kg/hr indicates adequate hydration rather than critical-phase leakage (oliguria <0.5 mL/kg/hr is the red flag)."
+    ],
+    "clinicalPearl": "Know the 3 Sri Lanka MoH Dengue Monitoring Charts: Chart I (Febrile phase) = 3–6 hourly; Chart II (Critical phase 48h, M+5% quota) = hourly; Chart III (Peak leakage / Shock) = every 15 minutes.",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Monitor febrile-phase dengue 3–6 hourly on Chart I and transition immediately to hourly Chart II monitoring (with M+5% fluid quota) at critical-phase plasma leakage onset."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_31",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Occult Haemorrhage in DHF Critical Phase",
+    "stem": "An 8-year-old boy (ideal body weight 25 kg) at the 26th hour of the DHF critical phase develops worsening tachycardia (148 bpm), restlessness, cold clammy extremities, CRT 4 seconds, and narrow pulse pressure (16 mmHg) despite receiving 0.9% saline and two Dextran-40 boluses. Although there is no visible epistaxis or haematemesis, repeat capillary haematocrit has unexpectedly dropped from 46% to 32%. What is the immediate diagnosis and definitive treatment?",
+    "options": [
+      "Bacterial secondary sepsis; switch fluids to 5% dextrose in 0.45% saline alone",
+      "Resolution of plasma leakage (reabsorption phase); infuse IV frusemide 1 mg/kg bolus",
+      "Progressive haemoconcentration; escalate to a third Dextran-40 bolus at 10 mL/kg/h",
+      "Fluid-overload pulmonary oedema; stop all IV fluids and start nebulised salbutamol",
+      "Concealed internal haemorrhage; urgently transfuse packed red cells or whole blood"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Hypotonic 0.45% saline does not restore intravascular oxygen-carrying capacity or circulating red-cell volume in acute internal dengue haemorrhage.",
+      "Incorrect: Reabsorption phase recovery produces bradycardia, wide pulse pressure, warm extremities, and brisk diuresis—not cold clammy shock with CRT 4 seconds; giving frusemide here would be fatal.",
+      "Incorrect: Plasma leakage causes haematocrit to RISE, whereas an unexpected drop in PCV during persistent shock indicates red-cell loss from bleeding rather than further haemoconcentration.",
+      "Incorrect: Withholding volume resuscitation and blood transfusion in occult haemorrhagic shock rapidly leads to irreversible cardiovascular collapse.",
+      "Correct: A falling haematocrit (46% to 32%) paired with persistent/worsening hypovolaemic shock in the DHF critical phase is the hallmark of concealed (occult) internal haemorrhage (often GI), necessitating urgent cross-matched Packed Red Cells (PRC) or Whole Blood (WB) per Chart III."
+    ],
+    "clinicalPearl": "Golden DHF rule on Chart III: Shock + RISING PCV = Plasma leakage (give crystalloid -> colloid); Shock + FALLING PCV = Concealed internal bleeding (check Hb/cross-match and transfuse Packed Red Cells or Whole Blood immediately!).",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Chart III includes Packed Red Cells / Whole Blood (PRC/WB) for occult or overt haemorrhage, indicated when persistent dengue shock is accompanied by a falling PCV/haematocrit."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_32",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Advanced",
+    "topic": "Paediatric BP Percentiles & Compensated Dengue Shock",
+    "stem": "An 8-year-old boy whose height is on the 50th percentile is in the DHF critical phase (Chart II reference 50th-centile BP for age/sex/height is 99/59 mmHg). His latest observations show BP 88/70 mmHg, heart rate 138 bpm, cool fingertips, and CRT 3 seconds. A junior trainee regards the BP as safe because systolic pressure exceeds 70 mmHg. What is the accurate haemodynamic interpretation?",
+    "options": [
+      "Stage I hypertension requiring no fluid adjustment because diastolic pressure exceeds the 50th centile",
+      "Normal physiological recovery because systolic BP remains above the adult shock threshold of 80 mmHg",
+      "Compensated dengue shock evidenced by narrow pulse pressure (18 mmHg) below normal centile norms",
+      "Reabsorption-phase hypervolaemia caused by excessive 0.9% saline infusion requiring loop diuretics",
+      "Pure measurement error because paediatric BP interpretation depends solely on weight rather than height"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Although diastolic pressure rises from compensatory peripheral vasoconstriction (70 mmHg vs 50th centile 59 mmHg), systolic BP has fallen and pulse pressure is critically narrowed—this is shock, not hypertension.",
+      "Incorrect: Children maintain systolic pressure through intense vasoconstriction until late decompensated collapse; relying on an absolute cutoff like 70–80 mmHg misses early paediatric shock.",
+      "Correct: Paediatric BP must be interpreted against age-, sex-, and height-percentile charts (99/59 mmHg median here); his systolic BP has dropped while diastolic vasoconstriction narrowed the pulse pressure to 18 mmHg (<=20 mmHg), defining compensated dengue shock requiring urgent resuscitation.",
+      "Incorrect: Reabsorption hypervolaemia manifests with widening pulse pressure, bounding pulses, and warm extremities rather than cool extremities, CRT 3s, and narrow pulse pressure.",
+      "Incorrect: Paediatric normative blood pressure tables in the Dengue guide are explicitly indexed by age, sex, and height percentile (not weight)."
+    ],
+    "clinicalPearl": "Never diagnose paediatric normotension from a single systolic number: index BP to age, sex, and height percentile, and calculate pulse pressure—a pulse pressure <=20 mmHg with cool extremities/prolonged CRT defines compensated dengue shock.",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Paediatric blood pressure norms depend on age, sex, and height percentile; narrowing pulse pressure (<=20 mmHg) with tachycardia and prolonged CRFT signals compensated DHF shock."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_c_33",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "CSS Guide Protocol",
+    "sourceType": "guide",
+    "imagePath": null,
+    "difficulty": "Core",
+    "topic": "Infantile Scabies Management & Contact Treatment",
+    "stem": "A 4-month-old infant presents with intensely itchy papulovesicular lesions, excoriations, and tiny burrows involving the palms, soles, trunk, face, and scalp that worsen at night. His 4-year-old sister and parents report similar nocturnal pruritus in their finger webs and wrists. Which management plan is safest and most effective?",
+    "options": [
+      "25% benzyl benzoate lotion applied head-to-toe including scalp in the infant only",
+      "5% permethrin cream applied head-to-toe (including face/scalp) for all household members",
+      "Single-dose oral ivermectin for the 4-month-old infant while observing asymptomatic parents",
+      "Potent topical betamethasone cream twice daily to suppress pruritus and burrows",
+      "10% sulphur ointment to the infant's palms only without washing household bedlinen"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Benzyl benzoate is irritant/neurotoxic in young infants and must only be applied below the neck in older children/adults; failing to treat family contacts guarantees immediate reinfestation.",
+      "Correct: First-line therapy for infantile scabies is 5% permethrin cream applied head-to-toe (uniquely including the face and scalp in babies, sparing eyes/mouth) left for 8–12h (repeated in 7 days), alongside simultaneous treatment of ALL household contacts and hot-laundering/sun-drying bedding.",
+      "Incorrect: Oral ivermectin is not routinely recommended in infants weighing <15 kg, and leaving household contacts untreated leads to ping-pong reinfection.",
+      "Incorrect: Potent topical corticosteroids mask inflammatory lesions ('scabies incognito') while allowing mites to proliferate uncontrollably.",
+      "Incorrect: Spot-treating only the palms misses widespread mites across the scalp, trunk, and folds, and neglecting fomites/contacts fails eradication."
+    ],
+    "clinicalPearl": "Scabies in babies vs older children: infants commonly get lesions on the FACE, SCALP, PALMS, and SOLES—apply 5% permethrin cream head-to-toe (benzyl benzoate & malathion are below neck only!) and treat ALL household contacts simultaneously.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Paediatric scabies requires 5% permethrin cream (including face and scalp in infants, unlike benzyl benzoate/malathion) and simultaneous treatment of all household contacts."
+    },
+    "sourceStation": null
+  }
+]

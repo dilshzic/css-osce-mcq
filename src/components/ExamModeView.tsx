@@ -157,7 +157,7 @@ export const ExamModeView: React.FC<ExamModeViewProps> = ({
               value={qCount}
               onChange={(e) => setQCount(Number(e.target.value))}
             >
-              {[10, 20, 30, 40, 60].map((n) => (
+              {[10, 20, 30, 40, 60, 120].map((n) => (
                 <option key={n} value={n}>
                   {n} Questions
                 </option>

@@ -98,12 +98,16 @@ def main():
     part_files = [
         AUTHORED_DIR / "med_part_a.json",
         AUTHORED_DIR / "med_part_b.json",
+        AUTHORED_DIR / "med_part_c_guides.json",
         AUTHORED_DIR / "surg_part_a.json",
         AUTHORED_DIR / "surg_part_b.json",
+        AUTHORED_DIR / "surg_part_c_guides.json",
         AUTHORED_DIR / "gynobs_part_a.json",
         AUTHORED_DIR / "gynobs_part_b.json",
+        AUTHORED_DIR / "gynobs_part_c_guides.json",
         AUTHORED_DIR / "paed_part_a.json",
         AUTHORED_DIR / "paed_part_b.json",
+        AUTHORED_DIR / "paed_part_c_guides.json",
     ]
     missing = [str(p) for p in part_files if not p.exists()]
     if missing:
@@ -111,6 +115,7 @@ def main():
 
     all_questions = []
     seen_ids = set()
+    seen_stems = set()
     seen_stations = set()
 
     for pf in part_files:
@@ -119,6 +124,9 @@ def main():
         for q in chunk:
             assert q["id"] not in seen_ids, f"Global duplicate id: {q['id']}"
             seen_ids.add(q["id"])
+            norm_stem = " ".join(q["stem"].strip().lower().split())
+            assert norm_stem not in seen_stems, f"Global duplicate stem in {q['id']}"
+            seen_stems.add(norm_stem)
             q["domainClean"] = clean_domain(q["domain"])
             # Extract compact batch group ("Batch 20", ..., "CSS Guide")
             bm = re.match(r"^(Batch\s+\d+|B32/33)", q["batch"])
@@ -162,8 +170,11 @@ def main():
         q["number"] = idx
         gc = q["guideCitation"]
         ginfo = guide_map.get(gc["guideId"])
-        if ginfo:
-            gc["guideUrl"] = ginfo["url"]
+        assert ginfo is not None, f"Unknown guideId {gc['guideId']} in {q['id']}"
+        assert gc["guideTitle"] == ginfo["title"], (
+            f"Guide title mismatch in {q['id']}: {gc['guideTitle']!r} != {ginfo['title']!r}"
+        )
+        gc["guideUrl"] = ginfo["url"]
         guide_counts[gc["guideId"]] += 1
         domains_by_spec[q["specialty"]][q["domainClean"]] += 1
         batch_counts[q["batchGroup"]] += 1
@@ -173,8 +184,12 @@ def main():
             assert (REPO_ROOT / "public" / q["imagePath"]).exists(), f"Missing {q['imagePath']}"
         letter_dist[q["correctIndex"]] += 1
 
+    for s in SPECIALTY_ORDER:
+        assert spec_counts[s] == 120, f"Expected 120 SBAs for {s}, got {spec_counts[s]}"
+
     for g in guides:
         g["questionCount"] = guide_counts[g["id"]]
+        assert g["questionCount"] >= 1, f"Guide {g['id']} has 0 questions"
 
     metadata = {
         "totalQuestions": len(all_questions),
