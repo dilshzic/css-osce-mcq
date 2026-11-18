@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "med_001_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_001.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cardiomegaly on Chest X-Ray",
+    "stem": "A 56-year-old man presents with progressive exertional dyspnoea, orthopnoea, and ankle swelling over 6 months. His erect posteroanterior chest radiograph is shown. Which primary radiological abnormality is demonstrated, and which condition is a recognised underlying cause?",
+    "options": [
+      "Hilar lymphadenopathy; pulmonary sarcoidosis",
+      "Left lower lobe collapse; endobronchial tumour",
+      "Pulmonary hyperinflation; severe emphysema",
+      "Marked cardiomegaly; dilated cardiomyopathy",
+      "Mediastinal widening; thoracic aortic aneurysm"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Bilateral hilar lymphadenopathy appears as lobulated hilar fullness rather than global enlargement of the cardiopericardial silhouette.",
+      "Incorrect: Left lower lobe collapse produces a triangular retrocardiac opacity with ipsilateral tracheal or mediastinal shift and reduced left lung volume, rather than an enlarged cardiac shadow.",
+      "Incorrect: Pulmonary hyperinflation in COPD flattens the hemidiaphragms and elongates a narrow, vertical ('tubular') heart rather than causing cardiac enlargement.",
+      "Correct: The erect PA chest radiograph shows a cardiothoracic ratio greater than 0.50 (cardiomegaly), for which dilated cardiomyopathy, valvular heart disease, hypertensive heart disease, ischaemic heart disease, and pericardial effusion are classic causes.",
+      "Incorrect: The abnormality involves enlargement of the cardiac silhouette itself rather than the superior mediastinal vascular shadow typical of an ascending or arch aortic aneurysm."
+    ],
+    "clinicalPearl": "In CSS chest X-ray stations, always confirm the film is an erect PA inspiratory view before calling cardiomegaly (cardiothoracic ratio > 0.50), as AP projection magnifies the heart shadow by ~15–20%.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Cardiomegaly (CTR > 0.50 on PA CXR) caused by dilated cardiomyopathy, valvular disease, ischaemic/hypertensive heart disease, or pericardial effusion."
+    },
+    "sourceStation": {
+      "id": "med_001",
+      "title": "Cardiomegaly on Chest X-Ray",
+      "originalPrompt": "Q.1\nA.) What is the major abnormality seen in this CXR?\nB.) List 3 causes.",
+      "verifiedAnswer": "Abnormality: Cardiomegaly. Causes: Dilated cardiomyopathy, Pericardial effusion, Valvular heart disease (e.g., mitral/aortic regurgitation), Hypertensive heart disease, Ischaemic heart disease.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "med_002_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Med Q2",
+    "imagePath": "images/med/med_002.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Yellow Oleander Poisoning & Cardiac Glycoside Toxicity",
+    "stem": "A 22-year-old man is brought to the Emergency Treatment Unit 4 hours after intentionally ingesting crushed yellow oleander (Thevetia peruviana) seeds. Three ECG traces (A, B, and C) are shown. Which trace and electrophysiological mechanism best represent the classic cardiac toxicity of this poisoning?",
+    "options": [
+      "Trace A; Na⁺/K⁺-ATPase inhibition causing bradyarrhythmia and AV block",
+      "Trace B; beta-1 adrenergic stimulation causing sustained supraventricular tachycardia",
+      "Trace C; fast sodium-channel blockade causing sinus tachycardia and ST depression",
+      "Trace C; muscarinic receptor antagonism causing rapid atrial conduction",
+      "Trace B; potassium-channel blockade causing monomorphic ventricular tachycardia"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Yellow oleander seeds contain cardiac glycosides that inhibit Na⁺/K⁺-ATPase and increase vagal tone, classically producing sinus bradycardia, junctional escape rhythms, and variable or complete AV heart block as seen in Trace A.",
+      "Incorrect: Trace B shows a rapid tachyarrhythmia; yellow oleander does not stimulate beta-1 receptors and typically suppresses SA/AV nodal conduction.",
+      "Incorrect: Trace C shows a rapid narrow-complex rhythm with ST depression; although tricyclic antidepressants block fast sodium channels, cardiac glycosides cause AV nodal block and bradycardia rather than muscarinic tachycardia.",
+      "Incorrect: Antimuscarinic toxicity causes sinus tachycardia, whereas yellow oleander increases parasympathetic vagal tone at the SA and AV nodes.",
+      "Incorrect: Trace B is not characteristic of early oleander AV block, and cardiac glycosides do not act primarily via potassium-channel blockade to cause monomorphic VT."
+    ],
+    "clinicalPearl": "Yellow oleander (kaneru) is a high-yield Sri Lankan toxicology emergency: monitor serum K⁺ closely alongside continuous ECG, as hyperkalaemia correlates strongly with severe AV block and mortality.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Yellow oleander (kaneru) cardiac glycosides inhibit Na+/K+-ATPase, producing bradycardia, AV nodal block, and hyperkalaemia."
+    },
+    "sourceStation": {
+      "id": "med_002",
+      "title": "Yellow Oleander Poisoning — ECG Selection",
+      "originalPrompt": "Q.2\nA patient was brought to the ward with yellow oleander poisoning. Three ECG traces (A, B, C) are shown. What is the most likely ECG trace from him?",
+      "verifiedAnswer": "Trace A (Bradyarrhythmia / AV nodal conduction block). Cardiac glycosides in yellow oleander inhibit Na⁺/K⁺-ATPase, classically causing sinus bradycardia, variable/complete AV heart block, and junctional escape rhythms (with hyperkalaemia).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "med_003_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_003.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Acute Anteroseptal ST-Elevation Myocardial Infarction",
+    "stem": "A 58-year-old man with hypertension and type 2 diabetes presents to the Emergency Treatment Unit with crushing central chest pain radiating to the left arm and diaphoresis for 90 minutes. His 12-lead ECG is shown. What is the most likely diagnosis?",
+    "options": [
+      "Acute viral pericarditis with widespread repolarisation changes",
+      "Acute massive pulmonary embolism with right ventricular strain",
+      "Acute anteroseptal ST-elevation myocardial infarction",
+      "Isolated posterior wall myocardial infarction",
+      "Benign early repolarisation variant in precordial leads"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Acute pericarditis causes diffuse upward-concave ST elevation across multiple territories without reciprocal ST depression (except in aVR/V1) and often shows PR-segment depression.",
+      "Incorrect: Pulmonary embolism typically produces sinus tachycardia, S1Q3T3, right axis deviation, or anterior T-wave inversion (V1–V4) rather than convex territorial ST elevation.",
+      "Correct: The ECG shows marked convex ST-segment elevation in contiguous leads V1–V3 (with V4) accompanied by reciprocal ST depression in leads III and aVF, diagnostic of acute anteroseptal STEMI.",
+      "Incorrect: Isolated posterior MI presents with horizontal ST depression and tall R waves in V1–V2 (mirror image of posterior ST elevation) rather than prominent anterior ST elevation.",
+      "Incorrect: Benign early repolarisation features J-point notching and concave ST elevation mostly in V2–V5 in young healthy individuals without reciprocal inferior ST depression."
+    ],
+    "clinicalPearl": "Look for reciprocal ST-segment depression in the inferior leads (II, III, aVF) to rapidly distinguish true anteroseptal STEMI from mimics such as pericarditis or early repolarisation, and initiate urgent reperfusion (primary PCI or thrombolysis).",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Anteroseptal STEMI shows contiguous ST elevation in V1–V4 with reciprocal ST depression confirming acute coronary occlusion."
+    },
+    "sourceStation": {
+      "id": "med_003",
+      "title": "Acute ST-Elevation Myocardial Infarction (STEMI) ECG",
+      "originalPrompt": "02. An ECG strip is given.\nWhat is the diagnosis?",
+      "verifiedAnswer": "ST-Elevation Myocardial Infarction (STEMI). Look for convex ST-segment elevation in contiguous territorial leads with reciprocal ST depression.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_004_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Med Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Erythema Marginatum in Acute Rheumatic Fever",
+    "stem": "A 12-year-old boy presents 3 weeks after an untreated streptococcal pharyngitis with fever, migratory large-joint polyarthritis, and a new apical pansystolic murmur. Trunk examination shows transient, non-pruritic pink annular patches with raised serpiginous borders and central clearing. Which skin sign is present, and what condition does it indicate?",
+    "options": [
+      "Erythema multiforme; herpes simplex virus infection",
+      "Erythema nodosum; primary pulmonary tuberculosis",
+      "Janeway lesions; acute staphylococcal infective endocarditis",
+      "Erythema chronicum migrans; disseminated Lyme borreliosis",
+      "Erythema marginatum; acute rheumatic fever"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Erythema multiforme produces characteristic fixed 'target' (iris) lesions predominantly on the distal extremities and mucosa rather than transient serpiginous trunk rings.",
+      "Incorrect: Erythema nodosum presents as tender, violaceous subcutaneous nodules typically on the anterior shins rather than painless, spreading annular patches on the trunk.",
+      "Incorrect: Janeway lesions are painless haemorrhagic macules on the palms and soles seen in infective endocarditis, not annular serpiginous truncal patches.",
+      "Incorrect: Erythema migrans is typically a solitary expanding 'bull's-eye' plaque at a tick-bite site rather than multiple evanescent rings following streptococcal pharyngitis with carditis.",
+      "Correct: Erythema marginatum consists of evanescent pink rings with central clearing over the trunk and proximal limbs and is a Jones major diagnostic criterion for acute rheumatic fever (here accompanied by carditis and polyarthritis)."
+    ],
+    "clinicalPearl": "In Sri Lanka, chronic rheumatic heart disease remains a leading cause of acquired valvular disease; remember the five Jones major criteria (pancarditis, migratory polyarthritis, Sydenham chorea, erythema marginatum, and subcutaneous nodules) and 3-weekly IM benzathine penicillin prophylaxis.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Acute rheumatic fever/carditis requires secondary prophylaxis with 3-weekly IM benzathine penicillin to prevent chronic valvular heart disease."
+    },
+    "sourceStation": {
+      "id": "med_004",
+      "title": "Erythema Marginatum (Acute Rheumatic Fever)",
+      "originalPrompt": "03. Photograph of the chest with reddened round large annular patches (erythema marginatum).\nWhat is the diagnosis?  [Chest photo omitted in 2013 archive files]",
+      "verifiedAnswer": "Erythema marginatum — a Jones major criterion seen in Acute Rheumatic Fever / Rheumatic Heart Disease (alongside migratory polyarthritis, pancarditis, subcutaneous nodules, and Sydenham chorea).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_005_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Med Q3",
+    "imagePath": "images/med/med_005.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Ventricular Fibrillation & Cardiac Arrest Management",
+    "stem": "A 70-year-old man collapses in the Emergency Treatment Unit, becoming unconscious and apnoeic with an absent carotid pulse. The continuous cardiac monitor strip obtained immediately is shown. Which rhythm is present, and what is the most appropriate initial management?",
+    "options": [
+      "Asystole; immediate intravenous adrenaline 1 mg and chest compressions without shock",
+      "Monomorphic ventricular tachycardia; carotid sinus massage and intravenous adenosine",
+      "Polymorphic ventricular tachycardia with pulse; intravenous magnesium sulphate bolus",
+      "Atrial fibrillation with rapid response; urgent synchronised cardioversion at 50 J",
+      "Ventricular fibrillation; immediate high-quality CPR and unsynchronised DC shock"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Asystole shows an isoelectric flat line and is non-shockable, whereas this trace displays coarse chaotic electrical activity requiring immediate defibrillation.",
+      "Incorrect: Monomorphic VT shows uniform wide QRS complexes, and vagal manoeuvres or adenosine are indicated only in stable regular supraventricular tachycardias, never in pulseless arrest.",
+      "Incorrect: The patient is unconscious with an absent carotid pulse (cardiac arrest), so magnesium monotherapy without immediate defibrillation and CPR is inappropriate.",
+      "Incorrect: Atrial fibrillation preserves narrow QRS complexes with irregular R-R intervals and a palpable pulse, unlike this pulseless arrest trace.",
+      "Correct: The strip demonstrates chaotic, irregular fibrillatory waves of varying amplitude with no identifiable QRS complexes (ventricular fibrillation), a shockable arrest rhythm treated with immediate CPR and unsynchronised DC defibrillation."
+    ],
+    "clinicalPearl": "VF and pulseless VT are shockable arrest rhythms: deliver immediate unsynchronised biphasic DC shock (150–200 J) with minimal interruptions to 30:2 chest compressions, checking the carotid pulse only when organised rhythm returns.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Pulseless arrest with VF requires immediate 30:2 chest compressions and unsynchronised DC defibrillation after confirming absent carotid pulse."
+    },
+    "sourceStation": {
+      "id": "med_005",
+      "title": "Ventricular Fibrillation & Cardiac Arrest Management",
+      "originalPrompt": "3. A 70-year-old male patient admitted to the ETU unconscious and with absent carotid pulse. ECG strip shown.\n1. What is the condition? (6 marks)\n2. Write two initial management steps you take. (4 marks)",
+      "verifiedAnswer": "(1) Ventricular fibrillation (VF cardiac arrest). (2) Initial steps: Immediate Cardiopulmonary Resuscitation (CPR — chest compressions + airway/ventilation) and unsynchronised DC defibrillation (biphasic 150–200 J; note Drive key mentions 100 J).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_006_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_006.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Acute Anterior STEMI & Culprit Vessel Localisation",
+    "stem": "A 62-year-old man develops sudden severe retrosternal chest pain and cold sweats. His 12-lead ECG is shown. Which combination of ECG abnormalities and likely culprit coronary artery best accounts for these findings?",
+    "options": [
+      "Horizontal ST depression with tall R waves in V1–V2; left circumflex artery",
+      "Inferior lead ST elevation with reciprocal V1–V3 depression; right coronary artery",
+      "Widespread concave ST elevation with PR depression; acute pericardial inflammation",
+      "Diffuse J-point notching in lateral leads; physiological early repolarisation",
+      "Precordial ST elevation with hyperacute T waves; left anterior descending artery"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Posterior infarction causes anterior ST depression in V1–V2 rather than anterior ST elevation.",
+      "Incorrect: Inferior STEMI produces ST elevation in leads II, III, and aVF, whereas here lead III exhibits mild reciprocal ST depression and the primary elevation is anterior.",
+      "Incorrect: Pericarditis produces diffuse upward-concave ST elevation with PR depression rather than towering anterior ST elevation with hyperacute T waves.",
+      "Incorrect: Early repolarisation does not produce towering convex anterior ST elevation with hyperacute T waves in an acute chest pain presentation.",
+      "Correct: The ECG shows marked convex ST-segment elevation across the precordial leads (V2–V5, extending laterally to V6/I/aVL) with tall hyperacute T waves, diagnostic of acute anterior STEMI caused by left anterior descending (LAD) artery occlusion."
+    ],
+    "clinicalPearl": "Hyperacute (tall, broad-based, symmetrical) T waves with precordial ST elevation represent the earliest hyperacute phase of anterior STEMI and mandate immediate cath-lab activation or thrombolysis without waiting for troponin elevation.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Precordial ST elevation across V1–V5 with hyperacute T waves localises an acute anterior STEMI to the LAD territory."
+    },
+    "sourceStation": {
+      "id": "med_006",
+      "title": "Acute Anterior STEMI ECG (V1–V5)",
+      "originalPrompt": "04) Regarding the following ECG:\na) State 2 abnormalities you find.\nb) What is the most probable diagnosis?",
+      "verifiedAnswer": "(a) Abnormalities: ST-segment elevation in leads V1–V5 (precordial leads) and hyperacute/tall T waves (normal sinus rhythm ~75 bpm). (b) Diagnosis: Acute Anterior ST-Elevation Myocardial Infarction (Anterior STEMI).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_007_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Med Q5",
+    "imagePath": "images/med/med_007.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Asymptomatic Trifascicular Conduction Delay Management",
+    "stem": "A 25-year-old bank executive undergoes a routine pre-employment check-up and is completely asymptomatic, reporting no syncope, presyncope, or exertional dyspnoea. His 12-lead ECG is shown, and his transthoracic echocardiogram and baseline blood tests are entirely normal. What is the most appropriate clinical advice and follow-up plan?",
+    "options": [
+      "Commence empirical intravenous amiodarone infusion followed by electrophysiological ablation",
+      "Reassure given the normal echocardiogram, arrange 24-hour Holter monitoring, and educate on syncope red flags",
+      "Initiate regular oral beta-blocker therapy to slow atrial conduction and prevent escape rhythms",
+      "Admit immediately for emergency temporary transvenous pacing and permanent pacemaker insertion",
+      "Start oral atropine prophylaxis and advise against all driving and strenuous activity indefinitely"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Amiodarone slows AV nodal conduction and worsens bradyarrhythmias, and catheter ablation has no role in infra-nodal conduction delay.",
+      "Correct: In an asymptomatic young adult with first-degree AV block plus bifascicular block (RBBB + LAFB = trifascicular delay) and a normal echocardiogram, immediate pacing is not indicated; arrange 24-hour Holter monitoring/cardiology follow-up to rule out intermittent high-grade AV block and counsel on syncope or dizziness red flags.",
+      "Incorrect: Beta-blockers further depress SA and AV nodal conduction and are contraindicated in patients with existing bradycardia and conduction block.",
+      "Incorrect: Permanent pacing is reserved for symptomatic bradyarrhythmias, alternating bundle branch block, or documented Mobitz II/third-degree AV block rather than asymptomatic chronic trifascicular delay.",
+      "Incorrect: Chronic oral atropine is ineffective and toxic for distal His-Purkinje conduction delay, and permanent driving bans are unwarranted without syncope or high-grade block."
+    ],
+    "clinicalPearl": "RBBB + left anterior fascicular block constitutes bifascicular block; adding a prolonged PR interval (>200 ms) is called trifascicular delay—always ask about syncope/presyncope and obtain a Holter monitor before considering pacing.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "Asymptomatic trifascicular conduction delay (1st-degree AV block + RBBB + LAFB) with normal echo warrants Holter monitoring and red-flag counselling rather than immediate pacing."
+    },
+    "sourceStation": {
+      "id": "med_007",
+      "title": "Bifascicular / Trifascicular Block with Sinus Bradycardia (Routine Executive ECG)",
+      "originalPrompt": "05) 25-year-old bank executive who underwent routine check-up shows the following ECG pattern (RBBB with 1st-degree heart block, sinus bradycardia). His echo and all other investigations were normal.\n1) What is the diagnosis?\n2) How would you advise him?",
+      "verifiedAnswer": "(1) Diagnosis: Sinus bradycardia with trifascicular conduction delay (1st-degree AV block + Right Bundle Branch Block + Left Anterior Fascicular Block = bifascicular block + prolonged PR). (2) Advice: Reassure that in an asymptomatic young adult with a normal echocardiogram and normal baseline tests, isolated/asymptomatic conduction variants rarely need immediate intervention; advise 24-hour Holter ECG monitoring / cardiology follow-up to exclude intermittent high-grade AV block and educate on red-flag symptoms (syncope, presyncope, dizziness, exertional dyspnoea) requiring urgent review.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_008_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_008.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Sinus Bradycardia ECG & Reversible Causes",
+    "stem": "An asymptomatic 64-year-old man taking antihypertensive and glaucoma medications is noted to have a regular radial pulse of 44 bpm. His ECG rhythm strip is shown. Which rhythm is demonstrated, and which medication is a classic reversible cause?",
+    "options": [
+      "Complete (third-degree) AV block; loop diuretic therapy",
+      "Idioventricular escape rhythm; dihydropyridine calcium-channel blocker",
+      "Mobitz type I (Wenckebach) block; inhaled short-acting beta-2 agonist",
+      "Sinus bradycardia; systemic or topical beta-blocker therapy",
+      "Sinus arrest with junctional escape; angiotensin-converting enzyme inhibitor"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Complete heart block shows AV dissociation with independent atrial and ventricular rates, whereas here P waves and QRS complexes maintain a fixed 1:1 relationship.",
+      "Incorrect: Idioventricular escape rhythms exhibit wide QRS complexes without preceding conducted P waves, and dihydropyridines (e.g., amlodipine) cause reflex tachycardia rather than AV/SA slowing.",
+      "Incorrect: Mobitz type I displays progressive PR prolongation culminating in a dropped QRS, and beta-2 agonists cause tachycardia rather than bradycardia.",
+      "Correct: The strip shows a regular narrow-complex rhythm at ~43 bpm with an identical upright P wave preceding every QRS complex at a constant normal PR interval (sinus bradycardia); beta-blockers (including timolol eye drops for glaucoma), verapamil/diltiazem, and digoxin are classic iatrogenic causes.",
+      "Incorrect: Every QRS is preceded by a normal sinus P wave at a constant PR interval (excluding junctional escape), and ACE inhibitors do not depress SA node automaticity."
+    ],
+    "clinicalPearl": "In Sri Lankan outpatient clinics, always ask about glaucoma eye drops (topical timolol) alongside oral atenolol, carvedilol, verapamil, diltiazem, and digoxin when evaluating unexplained sinus bradycardia.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_slides",
+      "guideTitle": "ECG OSCE Guide (Slide Deck)",
+      "keyPoint": "Sinus bradycardia has 1:1 P-to-QRS conduction at <60 bpm; exclude drugs (beta-blockers, verapamil, digoxin), inferior MI, and hypothyroidism."
+    },
+    "sourceStation": {
+      "id": "med_008",
+      "title": "Sinus Bradycardia ECG",
+      "originalPrompt": "2) Identify the ECG:\n1) What is the diagnosis?\n2) List 2 causes for it.",
+      "verifiedAnswer": "(1) Sinus bradycardia (regular narrow-complex rhythm below 60 bpm with 1:1 normal P wave before every QRS). (2) Causes: Drugs (Beta-blockers, Verapamil/Diltiazem, Digoxin, Amiodarone), Inferior myocardial infarction (increased vagal tone / SA node ischaemia), Sick sinus syndrome, Hypothyroidism, Raised intracranial pressure (Cushing's reflex), Physiological (well-trained athletes / sleep), Electrolyte abnormalities (hyperkalaemia) / Hypothermia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_009_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_009.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cardiac Arrest Telemetry & Resuscitation Equipment",
+    "stem": "A 40-year-old man admitted with chest pain suddenly becomes unresponsive and stops breathing. His telemetry strip and two essential emergency trolley devices (A and B) are shown. Which option correctly identifies devices A and B along with their roles?",
+    "options": [
+      "A is an automated ECG recorder; B is a continuous positive airway pressure mask for sleep apnoea",
+      "A is an external pacemaker for asystole; B is a metered-dose spacer for acute bronchospasm",
+      "A is a transcutaneous monitor for pulse oximetry; B is a non-rebreather mask for spontaneous breathing",
+      "A is a defibrillator for synchronised pacing only; B is a Venturi mask for fixed FiO₂ delivery",
+      "A is a defibrillator for unsynchronised DC shock; B is a bag-valve-mask for positive-pressure ventilation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Device A is equipped with external defibrillator paddles for therapeutic shock delivery, and Device B is an Ambu bag-valve-mask rather than a home CPAP mask.",
+      "Incorrect: Transcutaneous pacing is ineffective in VF arrest, and Device B is a manual resuscitator bag rather than an inhaler spacer.",
+      "Incorrect: Device A with heavy metallic paddles is a manual defibrillator, not a pulse oximeter, and Device B actively delivers manual breaths rather than relying on spontaneous inspiration.",
+      "Incorrect: Ventricular fibrillation requires an unsynchronised shock (synchronised shocks fail to trigger when no distinct R waves exist), and Device B is an Ambu bag rather than a Venturi mask.",
+      "Correct: The ECG shows ventricular fibrillation; Device A is a manual defibrillator (delivering an unsynchronised DC shock to depolarise myocardium and monitoring ECG), and Device B is a self-inflating bag-valve-mask (Ambu bag) providing positive-pressure ventilation with supplemental O₂."
+    ],
+    "clinicalPearl": "On emergency trolley CSS stations, clearly state the distinction: use unsynchronised DC shock for VF/pulseless VT, synchronised cardioversion for unstable tachyarrhythmias with a pulse, and high-flow O₂ connected to the BVM reservoir.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Emergency trolley resuscitation relies on manual defibrillation (unsynchronised DC shock in VF) and bag-valve-mask (Ambu) positive-pressure ventilation."
+    },
+    "sourceStation": {
+      "id": "med_009",
+      "title": "Ventricular Fibrillation Arrest — Defibrillator & BVM",
+      "originalPrompt": "3. 40-year-old male admitted due to chest pain and suddenly became unresponsive and stopped breathing. His ECG and resuscitation equipment (A, B) are shown.\n3.1 What is the diagnosis?\n3.2 Identify A and B and state the purpose of each instrument.",
+      "verifiedAnswer": "(3.1) Ventricular fibrillation (cardiac arrest). (3.2) A: Automated/Manual Defibrillator — delivers controlled electrical shock (unsynchronised DC shock in VF/pVT) to depolarise myocardium and restore sinus rhythm; also monitors ECG. B: Bag-Valve-Mask (Self-inflating Ambu bag) — delivers positive-pressure ventilation (with high-flow O₂) in apnoeic or hypoventilating patients during resuscitation.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_010_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Med Q2",
+    "imagePath": "images/med/med_010.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Large Pericardial Effusion ('Water-Bottle' Heart) CXR",
+    "stem": "A 20-year-old man presents with progressively worsening shortness of breath, orthopnoea, and muffled heart sounds over 2 weeks. His posteroanterior chest radiograph is shown. What is the most probable diagnosis, and which bedside investigation confirms it?",
+    "options": [
+      "Acute cardiogenic pulmonary oedema; serial arterial blood gas analysis",
+      "Tetralogy of Fallot; cardiac catheterisation and angiography",
+      "Descending thoracic aortic dissection; chest CT angiography",
+      "Large pericardial effusion; urgent bedside 2D transthoracic echocardiography",
+      "Massive left-sided pleural effusion; diagnostic pleural aspiration"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Acute pulmonary oedema produces bilateral perihilar bat-wing alveolar infiltrates and Kerley B lines rather than clear, relatively oligaemic lung fields.",
+      "Incorrect: Tetralogy of Fallot characteristically produces a small 'boot-shaped' heart (coeur en sabot) with an upturned apex and pulmonary oligaemia rather than massive globular enlargement.",
+      "Incorrect: Thoracic aortic dissection widens the superior mediastinum and aortic knuckle rather than creating a symmetrical lower-mediastinal water-bottle silhouette.",
+      "Correct: The radiograph demonstrates a massive, symmetric globular ('water-bottle' / flask-shaped) cardiac silhouette with blunted chamber contours and relatively clear lung fields, typical of a large pericardial effusion; urgent bedside 2D echocardiography confirms fluid and evaluates for cardiac tamponade.",
+      "Incorrect: A large left pleural effusion causes homogeneous hemithoracic opacification with a rising lateral meniscus rather than a centrally positioned globular cardiac silhouette."
+    ],
+    "clinicalPearl": "Always assess a 'water-bottle' heart clinically for Beck's triad (hypotension, elevated JVP, muffled heart sounds) and pulsus paradoxus (>10 mmHg inspiratory SBP drop), indicating life-threatening cardiac tamponade requiring urgent pericardiocentesis.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Globular 'water-bottle' cardiomegaly with clear lung fields suggests a large pericardial effusion; confirm urgently with 2D echocardiography."
+    },
+    "sourceStation": {
+      "id": "med_010",
+      "title": "Massive Cardiomegaly / Pericardial Effusion ('Water-Bottle' Heart) CXR",
+      "originalPrompt": "02. A 20-year-old boy presents with shortness of breath for 2 weeks.\n1. List two abnormalities seen in the X-ray.\n2. What is the most probable diagnosis?",
+      "verifiedAnswer": "(1) CXR abnormalities: Markedly increased cardiothoracic ratio (globular/'water-bottle' cardiac silhouette) with loss of normal cardiac chamber contours and relatively oligaemic/clear lung fields. (2) Probable diagnosis: Large pericardial effusion (risk of cardiac tamponade; confirm urgently with bedside 2D echocardiography).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_011_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Med Q1",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Acute Pulmonary Oedema Auscultation Findings",
+    "stem": "A 45-year-old woman presents to the Emergency Treatment Unit with severe dyspnoea, orthopnoea, and an episode of breathlessness that woke her from sleep gasping for air. Which lung auscultation finding is most characteristic of her condition?",
+    "options": [
+      "Diffuse high-pitched inspiratory stridor loudest over the upper trachea",
+      "Globally diminished vesicular breath sounds with prolonged expiration",
+      "Localised bronchial breathing with whispering pectoriloquy at the left apex",
+      "Bilateral fine inspiratory crepitations predominantly at the lung bases",
+      "Unilateral absent breath sounds with stony dullness at the right base"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Inspiratory stridor indicates extrathoracic upper airway obstruction (e.g., croup, epiglottitis, or laryngeal oedema) rather than left heart failure.",
+      "Incorrect: Globally diminished breath sounds with prolonged expiration are typical of emphysema/COPD rather than acute cardiogenic pulmonary oedema.",
+      "Incorrect: Localised bronchial breathing with whispering pectoriloquy reflects lobar consolidation rather than bilateral alveolar pulmonary oedema.",
+      "Correct: Orthopnoea and paroxysmal nocturnal dyspnoea indicate left ventricular failure / acute cardiogenic pulmonary oedema, producing bilateral fine basal inspiratory crepitations (and occasionally expiratory wheeze, 'cardiac asthma', plus an S3 gallop).",
+      "Incorrect: Unilateral absent breath sounds with stony dullness indicate a large pleural effusion rather than acute left ventricular failure."
+    ],
+    "clinicalPearl": "Paroxysmal nocturnal dyspnoea ('waking up breathless 1–2 hours after falling asleep and needing to sit upright') is a hallmark symptom of left ventricular failure; manage acutely with sitting upright, oxygen, IV frusemide, and IV nitrates if normo/hypertensive.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Acute cardiogenic pulmonary oedema (LVF) presents with PND/orthopnoea and bilateral fine basal inspiratory crepitations."
+    },
+    "sourceStation": {
+      "id": "med_011",
+      "title": "Acute Pulmonary Oedema / Left Ventricular Failure Auscultation",
+      "originalPrompt": "1. 45-year-old woman presents with severe difficulty in breathing, complains of breathlessness at night and 1 episode of breathlessness that woke her up in the night.\nWhat are the abnormal findings likely to be found in the auscultation of lung fields?  [Text-only clinical vignette station]",
+      "verifiedAnswer": "Bilateral fine inspiratory crepitations (crackles) predominantly at the lung bases (extending upwards with severity), possible expiratory wheeze ('cardiac asthma'), and reduced breath sounds at bases if pleural effusion coexists (plus S3 gallop rhythm on cardiac auscultation).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_012_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Med Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right-Sided Pleural Effusion Signs",
+    "stem": "A 54-year-old man with chronic cough and weight loss has a posteroanterior chest radiograph showing homogeneous opacification of the right lower and mid zones with a concave upper meniscus and leftward tracheal shift. Which physical examination triad is expected over the affected right hemithorax?",
+    "options": [
+      "Impaired percussion note, pleural friction rub, and increased vocal resonance",
+      "Stony dull percussion note, coarse inspiratory crackles, and ipsilateral tracheal shift",
+      "Stony dull percussion note, absent breath sounds, and reduced vocal resonance",
+      "Hyperresonant percussion note, absent breath sounds, and increased vocal resonance",
+      "Dull percussion note, bronchial breathing, and increased tactile vocal fremitus"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Friction rubs and increased vocal resonance are not features over a large pleural effusion, which dampens sound transmission.",
+      "Incorrect: Large pleural effusions push the trachea and apex beat away from the affected side (contralateral shift); ipsilateral shift occurs in lung collapse or fibrosis.",
+      "Correct: A large right-sided pleural effusion produces reduced expansion, contralateral mediastinal shift (to the left), stony dullness to percussion, and absent/reduced breath sounds with diminished tactile vocal fremitus and vocal resonance.",
+      "Incorrect: Hyperresonance with absent breath sounds occurs in pneumothorax, not pleural effusion, and vocal resonance is reduced rather than increased.",
+      "Incorrect: Dullness (rather than stony dullness), bronchial breathing, and increased vocal fremitus characterise pulmonary consolidation with a patent bronchus, not fluid in the pleural space."
+    ],
+    "clinicalPearl": "Just above the upper border (meniscus) of a pleural effusion, compressed lung parenchyma may yield a strip of bronchial breathing and aegophony ('bleating goat' quality); aspiration should be performed under ultrasound guidance or in the safe triangle.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Pleural effusion produces stony dullness, reduced expansion, absent breath sounds, reduced TVF/VR, and contralateral mediastinal shift."
+    },
+    "sourceStation": {
+      "id": "med_012",
+      "title": "Right-Sided Pleural Effusion CXR & Signs",
+      "originalPrompt": "03. Photograph of chest X-ray showing right-sided opacification of lung fields.\nWhat is the radiological abnormality, and list 3 signs of this patient?  [CXR omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Abnormality: Right-sided pleural effusion. Signs: Reduced chest wall movement on right; trachea & apex beat shifted to left; reduced chest expansion and reduced tactile vocal fremitus on right; stony dullness to percussion; reduced/absent breath sounds and reduced vocal resonance (with bronchial breathing just above effusion level).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_013_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_013.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Tension Pneumothorax Immediate Management",
+    "stem": "A 28-year-old man develops sudden severe left-sided chest pain, marked tachypnoea, hypotension (BP 78/46 mmHg), and distended neck veins in the Emergency Treatment Unit. An erect chest radiograph obtained before specialist review is shown. What is the immediate life-saving intervention?",
+    "options": [
+      "Urgent endotracheal intubation followed by high-PEEP mechanical ventilation",
+      "Urgent contrast-enhanced CT thorax to exclude pulmonary thromboembolism first",
+      "Immediate intravenous frusemide 80 mg and non-invasive positive-pressure ventilation",
+      "Diagnostic needle pericardiocentesis via the left subxiphoid angle",
+      "Immediate wide-bore needle decompression in the left second intercostal space, midclavicular line"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Intubation and high PEEP without prior pleural decompression sharply increase intrathoracic pressure and worsen obstructive shock.",
+      "Incorrect: Delaying decompression for CT imaging in haemodynamic collapse from tension pneumothorax can rapidly cause cardiac arrest.",
+      "Incorrect: Positive-pressure ventilation worsens air trapping and accelerates cardiovascular collapse in an undrained tension pneumothorax.",
+      "Incorrect: The mediastinal shift and collapsed left lung indicate air under tension in the left pleural space rather than pericardial tamponade.",
+      "Correct: Left-sided tension pneumothorax causes obstructive shock via mediastinal compression of venous return; per the CSS CXR guide, perform immediate wide-bore needle decompression in the left 2nd intercostal space at the midclavicular line (or 4th/5th ICS anterior axillary line per ATLS), followed immediately by an intercostal chest drain with underwater seal."
+    ],
+    "clinicalPearl": "In real clinical practice, tension pneumothorax is a clinical diagnosis (hypotension, raised JVP, absent unilateral breath sounds, hyperresonance, contralateral tracheal shift)—never wait for a CXR before performing needle decompression!",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Tension pneumothorax requires immediate wide-bore needle decompression (2nd ICS midclavicular line) followed by an intercostal drain with underwater seal."
+    },
+    "sourceStation": {
+      "id": "med_013",
+      "title": "Left-Sided Massive / Tension Pneumothorax CXR",
+      "originalPrompt": "01. Photograph of an erect chest X-ray.\nWhat is the diagnosis?",
+      "verifiedAnswer": "Left-sided massive (tension) pneumothorax. Key features: radiolucent left hemithorax devoid of lung markings, visible visceral pleural edge, contralateral mediastinal shift to right, and flattened/depressed left hemidiaphragm.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_014_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_014.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Left Lingular Lobar Pneumonia & Silhouette Sign",
+    "stem": "A 34-year-old man presents with a 2-day history of high fever, chills, and productive cough. His posteroanterior chest radiograph is shown. Which lobe or segment is consolidated, and what physical sign is expected over that region?",
+    "options": [
+      "Right middle lobe; coarse basal crepitations with rightward tracheal deviation",
+      "Left lingula; dullness to percussion with bronchial breathing and increased vocal resonance",
+      "Left pleural cavity; absent breath sounds with tracheal shift to the left side",
+      "Left upper lobe apex; hyperresonance with globally diminished vesicular breath sounds",
+      "Left lower lobe; stony dullness with absent breath sounds and reduced tactile fremitus"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The opacity is in the left hemithorax obliterating the left cardiac border, not the right middle lobe.",
+      "Correct: The opacity obscures the left heart border while sparing the left hemidiaphragm (positive silhouette sign for the left lingula); lobar pneumonia produces dull percussion, increased tactile vocal fremitus, bronchial breathing, and increased vocal resonance.",
+      "Incorrect: A left-sided pleural effusion would cause leftward lung base meniscus and rightward (contralateral) tracheal shift rather than ipsilateral shift.",
+      "Incorrect: Apical consolidation spares the left heart border, and hyperresonance with diminished breath sounds indicates pneumothorax or emphysema rather than pneumonia.",
+      "Incorrect: Left lower lobe consolidation sits posteriorly behind the heart, leaving the left heart border crisp while obscuring the left hemidiaphragm, and consolidation does not cause stony dullness or absent breath sounds."
+    ],
+    "clinicalPearl": "Master Felson's silhouette sign for CXR OSCEs: obliteration of the right heart border = right middle lobe; obliteration of the left heart border = left lingula; obliteration of either hemidiaphragm = the corresponding lower lobe.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Left lingular consolidation obliterates the left heart border (silhouette sign) and causes dullness, bronchial breathing, and increased TVF/VR."
+    },
+    "sourceStation": {
+      "id": "med_014",
+      "title": "Left Lingula Lobar Pneumonia CXR & Examination Signs",
+      "originalPrompt": "05) Person presented with 2-day history of fever. X-ray given.\n1. What is the most likely diagnosis?\n2. State 3 physical signs you find in the respiratory system examination.",
+      "verifiedAnswer": "(1) Left lingular lobar pneumonia. (2) Signs: Reduced chest movement/expansion on left; increased tactile vocal fremitus; dullness to percussion over left mid-zone; bronchial breathing, increased vocal resonance, and coarse crepitations over affected zone.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_015_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q6",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Near-Drowning Non-Cardiogenic Pulmonary Oedema (ARDS)",
+    "stem": "A 29-year-old man is admitted to the intensive care unit following an accidental near-drowning episode. Examination reveals bilateral basal lung crepitations. On 100% inspired oxygen, his arterial blood gas shows PaO₂ 80 mmHg, and a bedside 2D echocardiogram is normal. What is the principal cause of his hypoxaemia, and which test confirms the pulmonary abnormality?",
+    "options": [
+      "Acute pulmonary thromboembolism causing dead-space ventilation; D-dimer assay",
+      "Anaerobic bacterial lung abscess causing alveolar destruction; sputum Gram stain",
+      "Diaphragmatic splinting from gastric distension; supine abdominal radiograph",
+      "Non-cardiogenic pulmonary oedema (ARDS) causing intrapulmonary shunting; chest radiograph",
+      "Acute left ventricular systolic failure causing pulmonary venous hypertension; serum BNP"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: While PE causes V/Q mismatch, hypoxaemia from dead-space mismatch usually responds partially to 100% O₂, unlike severe alveolar flooding/shunting after near-drowning.",
+      "Incorrect: Bacterial lung abscess develops subacutely over days to weeks and causes focal cavitation rather than acute bilateral basal crepitations immediately after submersion.",
+      "Incorrect: Gastric fluid distension does not account for bilateral basal crepitations and refractory shunting with a P/F ratio of 80 mmHg.",
+      "Correct: A PaO₂ of 80 mmHg on FiO₂ 1.0 yields a PaO₂/FiO₂ ratio of 80 mmHg (<100 mmHg = severe hypoxaemia refractory to oxygen due to intrapulmonary shunting) with a normal echocardiogram excluding LV failure, diagnostic of near-drowning ARDS; CXR confirms bilateral alveolar infiltrates.",
+      "Incorrect: The completely normal 2D echocardiogram effectively excludes acute cardiogenic left ventricular systolic dysfunction."
+    ],
+    "clinicalPearl": "Always calculate the PaO₂/FiO₂ ratio when interpreting an ICU ABG: PaO₂ 80 mmHg looks acceptable on paper, but on FiO₂ 1.0 (100% O₂) the P/F ratio is 80 mmHg—indicating severe ARDS and intrapulmonary right-to-left shunting.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Always factor FiO2 into ABG oxygenation (P/F ratio); refractory hypoxaemia on 100% O2 with normal echo indicates non-cardiogenic pulmonary oedema (ARDS)."
+    },
+    "sourceStation": {
+      "id": "med_015",
+      "title": "Near-Drowning Acute Pulmonary Oedema / ARDS",
+      "originalPrompt": "6. Patient admitted to the ICU due to incidental near-drowning. On examination, bilateral basal crepitations of lungs. ABG PaO2 80 mmHg with 100% O2. 2D echo normal.\n1. What is the significant cause for hypoxaemia?\n2. What is the investigation done to confirm it?  [Text-only station]",
+      "verifiedAnswer": "(1) Acute pulmonary oedema (non-cardiogenic / ARDS) due to fluid aspiration (severe intrapulmonary shunting / V/Q mismatch). (2) Investigation: Chest X-ray (CXR) showing bilateral alveolar infiltrates.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_016_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_016.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "COPD & Pulmonary Emphysema Lateral CXR",
+    "stem": "A 65-year-old chronic heavy smoker presents with progressive exertional dyspnoea and chronic productive cough. His lateral chest radiograph is shown. Which physical sign is most consistent with the underlying diagnosis?",
+    "options": [
+      "Obliteration of cardiac and hepatic dullness with diminished breath sounds",
+      "Coarse late-inspiratory Velcro crackles with digital clubbing and low lung volumes",
+      "Dullness over the right apex with high-pitched bronchial breath sounds",
+      "Stony dull percussion note at both lung bases with reduced vocal resonance",
+      "Displaced heaving apex beat with bilateral fine basal inspiratory crackles"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: The lateral CXR demonstrates hyperinflation with increased retrosternal airspace, an increased anteroposterior chest diameter (barrel chest), and flattened hemidiaphragms typical of COPD/emphysema, causing global hyperresonance and obliteration of cardiac and liver dullness.",
+      "Incorrect: Fine/Velcro inspiratory crackles, clubbing, and reduced lung volumes are characteristic of idiopathic pulmonary fibrosis (restrictive), not obstructive hyperinflation.",
+      "Incorrect: Apical dullness with bronchial breathing suggests upper lobe pneumonia rather than generalised emphysema.",
+      "Incorrect: Stony dullness at the bases indicates bilateral pleural effusions rather than emphysematous pulmonary hyperinflation.",
+      "Incorrect: Cardiomegaly and fine basal crackles reflect left ventricular failure, whereas emphysema produces a narrow vertical heart and diminished breath sounds."
+    ],
+    "clinicalPearl": "Classic CSS examination findings in emphysema include barrel-shaped chest, reduced cricosternal distance (<3 fingerbreadths), tracheal tug, loss of cardiac/liver dullness, and pursed-lip breathing (generating intrinsic PEEP to prevent airway collapse).",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "COPD/emphysema shows hyperinflation, flattened hemidiaphragms, and increased retrosternal space on lateral CXR, causing loss of cardiac/liver dullness."
+    },
+    "sourceStation": {
+      "id": "med_016",
+      "title": "COPD / Pulmonary Emphysema — Lateral CXR",
+      "originalPrompt": "1.\n• Give 3 physical signs which can be elicited in the patient of the given CXR.\n• What is the most likely diagnosis?",
+      "verifiedAnswer": "Diagnosis: COPD / Pulmonary emphysema. Physical signs: Barrel-shaped chest (increased AP:transverse diameter), pursed-lip breathing / accessory muscle use, reduced cricosternal distance, hyperresonant percussion note globally, obliteration of cardiac/liver dullness, diminished breath sounds with prolonged expiration, and coarse/end-expiratory wheeze.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_017_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Med Q7",
+    "imagePath": "images/med/med_017.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Pulmonary Aspergilloma (Mycetoma) CXR",
+    "stem": "A 66-year-old man with previously treated pulmonary tuberculosis presents with chronic cough, weight loss, recurrent haemoptysis, and fever for 2 months. Sputum Gram stain and AFB smears are negative. His chest radiograph is shown. What is the most likely diagnosis?",
+    "options": [
+      "Spontaneous tension pneumothorax with complete left lung collapse",
+      "Metastatic cannonball pulmonary deposits from renal cell carcinoma",
+      "Pulmonary aspergilloma colonising a pre-existing tuberculous cavity",
+      "Active miliary tuberculosis with haematogenous dissemination",
+      "Right upper lobe lobar pneumonia with parapneumonic effusion"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: A tension pneumothorax presents with a radiolucent hemithorax devoid of lung markings and contralateral mediastinal shift, neither of which is present.",
+      "Incorrect: Cannonball metastases are multiple smooth, rounded bilateral solid nodules of varying sizes, usually lower-zone predominant, without a crescentic air rim inside a cavity.",
+      "Correct: The chest radiograph reveals a rounded intracavitary opacity within a thick-walled left upper zone cavity capped by a superior crescent of air (Monad's / air-crescent sign), classic for an Aspergillus fumigatus fungal ball (mycetoma) colonising an old post-TB cavity.",
+      "Incorrect: Miliary TB shows uniform tiny (1–2 mm) millet-seed nodules throughout both lung fields rather than a solitary upper-zone fungal ball in a cavity.",
+      "Incorrect: The lesion is a well-demarcated left upper zone cavity with an intracavitary mass, not a right upper lobe homogeneous consolidation."
+    ],
+    "clinicalPearl": "An aspergilloma (mycetoma) is a saprophytic colonisation (unlike invasive or allergic bronchopulmonary aspergillosis) that moves to the dependent side on decubitus imaging and can cause life-threatening haemoptysis requiring bronchial artery embolisation or resection.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Well-defined upper-lobe post-TB cavity containing a mobile rounded opacity capped by an air crescent (Monad's sign) indicates pulmonary aspergilloma."
+    },
+    "sourceStation": {
+      "id": "med_017",
+      "title": "Pulmonary Aspergilloma (Mycetoma) CXR",
+      "originalPrompt": "7. 66-year-old man with a 2-year history of chronic cough, weight loss, and haemoptysis presents with fever for 2 months' duration. Sputum Gram stain does not reveal any bacteria.\nWhat is the diagnosis?",
+      "verifiedAnswer": "Pulmonary aspergilloma (fungal ball / mycetoma) colonising a pre-existing tuberculous cavity in the left upper zone.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_018_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Med Q9",
+    "imagePath": "images/med/med_018.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Central Cyanosis Assessment",
+    "stem": "During general examination of a 54-year-old man presenting with severe acute dyspnoea, the clinical appearance of the tongue and lips shown is noted. What is this physical sign, and what is its underlying mechanism?",
+    "options": [
+      "Peripheral cyanosis; local arteriolar vasoconstriction with normal arterial oxygenation",
+      "Addisonian hyperpigmentation; excess melanocyte-stimulating ACTH secretion",
+      "Primary polycythaemia; increased erythrocyte mass without reduced oxygen saturation",
+      "Carbon monoxide toxicity; cherry-red discolouration from carboxyhaemoglobin",
+      "Central cyanosis; systemic arterial hypoxaemia with elevated deoxyhaemoglobin"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Peripheral cyanosis affects cool acral extremities (fingers, toes, nose tip) due to sluggish peripheral flow while sparing the warm tongue and oral mucosa.",
+      "Incorrect: Addison disease causes patchy brownish-black melanin hyperpigmentation along buccal creases and gums rather than acute diffuse violaceous cyanosis.",
+      "Incorrect: Although polycythaemia lowers the threshold for cyanosis to become clinically visible, uncomplicated polycythaemia with normal arterial saturation causes plethora rather than central cyanosis.",
+      "Incorrect: Carbon monoxide produces carboxyhaemoglobin rather than bluish-purple cyanosis of the tongue.",
+      "Correct: Bluish-purple discolouration of a warm central mucous membrane (undersurface and dorsum of the tongue and lips) defines central cyanosis, caused by increased deoxyhaemoglobin in systemic arterial blood (typically >5 g/dL in capillaries) due to severe cardiopulmonary failure, right-to-left shunt, or methaemoglobinaemia."
+    ],
+    "clinicalPearl": "Always inspect the undersurface of the tongue in good natural light to verify central cyanosis; remember that severe anaemia (Hb <5 g/dL) may mask cyanosis despite profound hypoxaemia because absolute deoxyhaemoglobin cannot reach 5 g/dL.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Central cyanosis affects the warm tongue and mucosa (reflecting arterial hypoxaemia/right-to-left shunt), distinguishing it from peripheral cyanosis."
+    },
+    "sourceStation": {
+      "id": "med_018",
+      "title": "Central Cyanosis (Tongue)",
+      "originalPrompt": "9.1 What is the abnormality?\n9.2 State one (01) possible cause for this abnormality.",
+      "verifiedAnswer": "(9.1) Central cyanosis. (9.2) Causes: Severe respiratory failure / COPD / pulmonary oedema / pneumonia, Cyanotic congenital heart disease (right-to-left shunt, e.g., TOF, Eisenmenger), Methaemoglobinaemia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_019_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Med Q2",
+    "imagePath": "images/med/med_019.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right Upper Lobe Pneumonia CXR & Signs",
+    "stem": "A 45-year-old woman presents with high fever and productive cough for 3 days. Her posteroanterior chest radiograph is shown. Which diagnosis and expected examination finding over the right infraclavicular area are most accurate?",
+    "options": [
+      "Right upper lobe collapse; hyperresonant percussion note with leftward tracheal shift",
+      "Right upper lobe pneumonia; dull percussion note with bronchial breathing",
+      "Right-sided pleural effusion; stony dullness with absent vocal resonance",
+      "Right apical pulmonary abscess; amphoric breathing with normal tactile fremitus",
+      "Right tension pneumothorax; absent breath sounds with rightward apex shift"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Right upper lobe collapse causes volume loss with upward bowing of the minor fissure and ipsilateral (rightward) tracheal deviation, and percussion over collapsed lung is dull rather than hyperresonant.",
+      "Correct: The radiograph shows homogeneous consolidation in the right upper zone bounded sharply below by the horizontal (minor) fissure without volume loss, diagnostic of right upper lobe pneumonia; examination yields impaired/dull percussion, bronchial breath sounds, coarse crepitations, and increased vocal resonance.",
+      "Incorrect: Pleural effusion collects dependently in the lower hemithorax with a curved meniscus rather than stopping cleanly at the horizontal fissure.",
+      "Incorrect: A lung abscess appears as a thick-walled cavity containing a horizontal air-fluid level rather than uniform lobar consolidation.",
+      "Incorrect: Pneumothorax produces an air-filled lucent pleural space devoid of lung markings rather than a dense homogeneous upper-zone opacity."
+    ],
+    "clinicalPearl": "If right upper lobe consolidation displays a bulging, downward-convex minor fissure ('bulging fissure sign') in an alcoholic or diabetic patient, suspect Klebsiella pneumoniae and verify antibiotic coverage.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Right upper zone opacity bounded inferiorly by the horizontal fissure without volume loss indicates RUL lobar pneumonia with dullness and bronchial breathing."
+    },
+    "sourceStation": {
+      "id": "med_019",
+      "title": "Right Upper Lobe (RUL) Pneumonia CXR",
+      "originalPrompt": "2. A 45-year-old female presented to hospital with fever and productive cough for 3 days' duration. A chest X-ray was given.\n2.1 Write three (03) physical signs you would elicit in the respiratory system to find the cause.\n2.2 What is the most probable diagnosis?",
+      "verifiedAnswer": "(2.1) Physical signs: Reduced expansion over right upper chest; increased tactile vocal fremitus; dull percussion note over right infraclavicular/supraclavicular area; bronchial breathing, coarse crepitations, and increased vocal resonance. (2.2) Diagnosis: Right upper lobe (RUL) lobar pneumonia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_020_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Med Q2",
+    "imagePath": "images/med/med_020.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Lung Abscess Diagnosis & Management",
+    "stem": "A 48-year-old woman complains of swinging fever and foul-smelling purulent productive cough for 2 months. Her chest radiograph is shown. What is the radiological diagnosis, and what is the cornerstone of initial medical management?",
+    "options": [
+      "Right-sided hydropneumothorax; immediate intercostal tube drainage with underwater seal",
+      "Right middle lobe collapse; urgent fibreoptic bronchoscopy and chest physiotherapy alone",
+      "Right lung abscess; prolonged intravenous antibiotics covering anaerobes and Gram-positives",
+      "Ruptured pulmonary hydatid cyst; immediate surgical lobectomy without antibiotics",
+      "Pulmonary aspergilloma; oral itraconazole monotherapy without antibacterial agents"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: A hydropneumothorax spans the pleural cavity to the lateral chest wall with a long air-fluid level and visible pleural line rather than an intraparenchymal rounded thick-walled cavity.",
+      "Incorrect: Lobar collapse causes volume loss and fissure displacement rather than a cavitating air-fluid level, and requires investigation of obstruction rather than physiotherapy alone.",
+      "Correct: The chest radiograph reveals a thick-walled cavitating lesion in the right mid-zone containing a distinct horizontal air-fluid level surrounded by consolidation (lung abscess); initial treatment is prolonged empirical IV antibiotics covering anaerobes and Gram-positives (e.g., ampicillin-sulbactam or co-amoxiclav/clindamycin), tailored to cultures, with drainage reserved for failure.",
+      "Incorrect: Although ruptured hydatid cyst can mimic an air-fluid level ('water-lily sign' with floating membranes), a 2-month febrile purulent sputum course reflects a bacterial lung abscess requiring prompt antibiotic therapy first.",
+      "Incorrect: An aspergilloma presents as a solid rounded fungal ball inside an upper-lobe cavity with a crescent of air above it rather than a fluid-filled cavity with an air-fluid level."
+    ],
+    "clinicalPearl": "In Sri Lankan OSCEs for lung abscess, remember predisposing causes (aspiration in alcoholism/stroke, bronchial obstruction/CA, Staph aureus post-influenza, Klebsiella) and ensure empirical anaerobic coverage (ampicillin-sulbactam or co-amoxiclav + metronidazole).",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Thick-walled intrapulmonary cavity with a horizontal air-fluid level indicates lung abscess; treat initially with IV antibiotics covering anaerobes and S. aureus."
+    },
+    "sourceStation": {
+      "id": "med_020",
+      "title": "Right Lung Abscess CXR & Management",
+      "originalPrompt": "Question 02\n48-year-old woman complains of fever and productive cough for a duration of 2 months.\n2.1 What are the X-ray findings in this patient? (5 marks)\n2.2 What are the treatment options for this patient? (5 marks)",
+      "verifiedAnswer": "(2.1) Right lung abscess (fluid-filled cavity with an air-fluid level). (2.2) Management: (1) Empirical IV antibiotics covering anaerobes & Gram-positives (e.g., IV Ampicillin-sulbactam 3 g 6-hourly, or IV Moxifloxacin / Levofloxacin + oral Metronidazole if penicillin-allergic), tailored to sputum/aspirate culture & ABST; (2) Percutaneous transthoracic or transbronchoscopic catheter drainage if failing medical therapy; (3) Surgical resection (lobectomy) if refractory/complicated.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_021_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_021.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right Lower Lobe Consolidation Localisation",
+    "stem": "A 50-year-old man presents with fever, pleuritic chest pain, and productive cough for 5 days. His erect posteroanterior chest radiograph is shown. Which radiological abnormality is demonstrated?",
+    "options": [
+      "Large right-sided tension pneumothorax collapsing the right lung",
+      "Right lower lobe consolidation obscuring the right hemidiaphragm",
+      "Left lingular consolidation obscuring the left cardiac border",
+      "Right upper lobe collapse elevating the horizontal fissure",
+      "Right middle lobe consolidation obliterating the right heart border"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Pneumothorax causes hyperlucency devoid of lung markings rather than basal airspace consolidation.",
+      "Correct: The right lower zone displays patchy airspace opacity obscuring the contour of the right hemidiaphragm while leaving the upper zones clear, characteristic of right lower lobe consolidation (pneumonia).",
+      "Incorrect: The opacity is on the right side of the chest, whereas the left cardiac border and left lung field remain well aerated.",
+      "Incorrect: Right upper lobe collapse elevates the minor fissure toward the right apex and shifts the trachea ipsilaterally; the right upper zone is completely clear here.",
+      "Incorrect: Right middle lobe consolidation characteristically obliterates the right heart border while preserving the outline of the right hemidiaphragm."
+    ],
+    "clinicalPearl": "Always look carefully at both hemidiaphragmatic domes and cardiac borders on PA CXRs: loss of the right hemidiaphragm localises consolidation to the right lower lobe rather than the middle lobe.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Right lower zone opacity obscuring the right hemidiaphragm localises consolidation to the right lower lobe."
+    },
+    "sourceStation": {
+      "id": "med_021",
+      "title": "Right Lower Lobe Consolidation (Pneumonia) CXR",
+      "originalPrompt": "02. This is a Chest X-ray of a 50-year-old male having fever for 5 days.\nWhat is the radiological diagnosis?",
+      "verifiedAnswer": "Right lower lobe (RLL) consolidation suggestive of pneumonia.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_022_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_022.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Peak Expiratory Flow Meter Identification & Indications",
+    "stem": "The handheld respiratory device shown is routinely kept in medical clinics and emergency treatment units. Which instrument is this, and what is a primary clinical indication for its use?",
+    "options": [
+      "Incentive spirometer; preventing postoperative basal atelectasis following laparotomy",
+      "Portable capnograph; measuring end-tidal carbon dioxide after endotracheal intubation",
+      "Peak expiratory flow meter; diagnosing asthma variability and grading acute exacerbations",
+      "Large-volume spacer chamber; trapping oversized aerosol droplets to prevent thrush",
+      "Dry powder inhaler; delivering daily inhaled corticosteroid maintenance therapy"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: An incentive spirometer uses floating balls or pistons during slow maximal inspiration to expand alveoli postoperatively, whereas a PEFM measures forced maximal expiration.",
+      "Incorrect: Capnography measures exhaled CO₂ waveform and partial pressure rather than peak expiratory airflow rate.",
+      "Correct: The instrument shown is a mini-Wright Peak Expiratory Flow Meter (scale 60–800 L/min), used to diagnose asthma (diurnal PEF variability >20% or bronchodilator reversibility), monitor control, and objectively grade acute asthma exacerbation severity.",
+      "Incorrect: A spacer is a hollow holding chamber attached to a pressurised metered-dose inhaler rather than a spring-loaded flow meter.",
+      "Incorrect: Dry powder inhalers (e.g., Turbuhaler, Diskus) are breath-actuated medication delivery devices rather than calibrated L/min airflow gauges."
+    ],
+    "clinicalPearl": "Remember British/Sri Lankan acute asthma PEF thresholds: 50–75% predicted/best = moderate exacerbation; 33–50% = acute severe asthma; <33% = life-threatening asthma.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Peak expiratory flow meters measure maximal expiratory airflow (L/min) to diagnose diurnal asthma variability (>20%) and grade acute exacerbation severity."
+    },
+    "sourceStation": {
+      "id": "med_022",
+      "title": "Peak Expiratory Flow Meter (Wright PEFM)",
+      "originalPrompt": "04.\n1. Identify this instrument.\n2. Write two indications for using this instrument.",
+      "verifiedAnswer": "(1) Peak Expiratory Flow Meter (PEFM). (2) Indications: (a) Diagnosis of bronchial asthma (demonstrating diurnal PEF variability > 20% or bronchodilator reversibility); (b) Objective monitoring of asthma control, response to therapy, and grading severity of acute asthma exacerbations (predicted/personal best %).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_023_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Med Q2",
+    "imagePath": "images/med/med_023.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Peak Expiratory Flow Rate Measurement & Interpretation",
+    "stem": "A 24-year-old woman with episodic nocturnal wheezing is asked to record twice-daily measurements using the colour-zoned device shown. Which measurement technique and diagnostic criterion are correct?",
+    "options": [
+      "Record the highest of three maximal forced expiratory blows; diurnal variability >20% supports asthma",
+      "Stand upright, flex the neck fully, and take one gentle puff; diurnal dip <5% confirms asthma",
+      "Exhale steadily over 6 seconds with nose clipped; a value >80% predicted excludes asthma",
+      "Record the mean of three slow vital capacity exhalations; FEV₁/FVC <0.70 confirms asthma",
+      "Inhale sharply through the mouthpiece against resistance; a 12% fall confirms emphysema"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Using the Peak Expiratory Flow Meter, the patient takes a full inspiration, seals lips tightly around the mouthpiece with the cursor reset to zero, and blows out as hard and fast as possible; the best of three attempts is recorded, and diurnal variability >20% ('morning dipping') supports bronchial asthma.",
+      "Incorrect: Flexing the neck narrows upper airway calibre and reduces flow, a gentle blow underestimates PEF, and normal diurnal variation is small (<10%), whereas >20% indicates asthma.",
+      "Incorrect: Because asthma is characterised by variable airflow obstruction, a normal inter-ictal PEF >80% predicted does not exclude asthma.",
+      "Incorrect: PEFM measures peak forced expiratory flow rate (best of three efforts), not slow vital capacity or spirometric FEV₁/FVC ratio.",
+      "Incorrect: PEFM requires forceful expiration after full inspiration (TLC), not sharp inhalation (which is used for dry powder inhalers)."
+    ],
+    "clinicalPearl": "In OSCE demonstrations of the Peak Flow Meter, never forget the 5 marking steps: reset pointer to zero, hold horizontally without blocking the slot, maximal inspiration, tight lip seal with short forceful blast, and take the highest of 3 readings.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "PEFR requires resetting the pointer to zero, maximal inspiration, and a short forceful blast; record the best of 3 tries and look for >20% diurnal variability."
+    },
+    "sourceStation": {
+      "id": "med_023",
+      "title": "Peak Expiratory Flow Meter — Identification & Uses",
+      "originalPrompt": "2. Identify & write down the uses of the equipment given below.",
+      "verifiedAnswer": "Peak Expiratory Flow Meter. Used to measure Peak Expiratory Flow Rate (PEFR) for diagnosing bronchial asthma (diurnal variability/reversibility), monitoring disease control and occupational asthma, assessing acute asthma exacerbation severity, and evaluating response to bronchodilator/steroid treatment.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_024_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_024.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right Lower Lobe Consolidation Respiratory Signs",
+    "stem": "A 44-year-old man presents with dyspnoea and high fever for 5 days. His posteroanterior chest radiograph is shown. Which set of physical signs is most likely to be elicited over the posterior right lung base?",
+    "options": [
+      "Stony dull percussion note, reduced tactile vocal fremitus, and absent breath sounds",
+      "Dull percussion note, leftward tracheal deviation, and decreased vocal resonance",
+      "Dull percussion note, increased tactile vocal fremitus, and whispering pectoriloquy",
+      "Resonant percussion note, bilaterally equal chest movement, and normal vesicular sounds",
+      "Hyperresonant percussion note, absent tactile vocal fremitus, and diminished breath sounds"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Stony dullness, reduced TVF, and absent breath sounds characterise a pleural effusion rather than parenchymal consolidation.",
+      "Incorrect: Consolidation does not shift the trachea contralaterally and increases rather than decreases vocal resonance.",
+      "Correct: The radiograph shows right lower lobe consolidation; consolidated lung with a patent bronchus conducts high-frequency vibrations efficiently, producing impaired/dull percussion, increased tactile vocal fremitus, bronchial breathing, coarse crepitations, and increased vocal resonance / whispering pectoriloquy.",
+      "Incorrect: Normal vesicular sounds and full resonance would be expected over healthy aerated lung rather than an extensive right basal consolidation.",
+      "Incorrect: Hyperresonance and absent TVF occur in pneumothorax rather than lobar consolidation."
+    ],
+    "clinicalPearl": "Remember why consolidation gives bronchial breathing and whispering pectoriloquy while effusion does not: fluid-filled alveoli around a patent bronchus act as a solid acoustic bridge, whereas pleural fluid interposes an acoustic barrier.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Consolidation with a patent bronchus yields dullness (not stony), increased TVF, bronchial breathing, coarse crackles, and whispering pectoriloquy."
+    },
+    "sourceStation": {
+      "id": "med_024",
+      "title": "Right Lower Lobe Consolidation CXR — Respiratory Signs",
+      "originalPrompt": "2. A patient presented with difficulty in breathing. He had fever for 5 days.\nList 4 physical signs you could elicit in respiratory system examination of this patient.",
+      "verifiedAnswer": "(1) Inspection: Reduced chest movement on right lower hemithorax. (2) Palpation: Reduced lung expansion on right; increased tactile vocal fremitus over right base; central trachea. (3) Percussion: Dullness over right lower zone. (4) Auscultation: Bronchial breath sounds, coarse crepitations, and increased vocal resonance (or whispering pectoriloquy) over right base.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_025_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Med Q3",
+    "imagePath": "images/med/med_025.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Pulse Oximeter Parameters & Clinical Limitations",
+    "stem": "The bedside monitoring device shown is applied to a patient's index finger in the Emergency Treatment Unit. Which pair of clinical parameters does this device measure, and which condition causes a falsely normal saturation reading despite tissue hypoxia?",
+    "options": [
+      "Arterial partial pressure of oxygen and respiratory rate; acute bronchial asthma",
+      "Central venous oxygen saturation and blood pressure; hypovolaemic shock",
+      "Peripheral arterial oxygen saturation and blood pH; diabetic ketoacidosis",
+      "Peripheral arterial oxygen saturation and pulse rate; carbon monoxide poisoning",
+      "End-tidal carbon dioxide and pulse rate; chronic obstructive pulmonary disease"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Pulse oximetry measures percentage haemoglobin saturation (SpO₂), not arterial partial pressure of oxygen (PaO₂, which requires an ABG) or respiratory rate.",
+      "Incorrect: Central venous oxygen saturation (ScvO₂) requires a central venous blood gas sample, and oximetry does not measure arterial blood pressure.",
+      "Incorrect: Blood pH cannot be measured non-invasively by finger spectrophotometry.",
+      "Correct: A pulse oximeter measures peripheral arterial oxygen saturation (SpO₂, %) and pulse rate (bpm); in carbon monoxide poisoning, carboxyhaemoglobin absorbs red light similarly to oxyhaemoglobin, producing a falsely reassuring SpO₂ despite severe functional hypoxaemia.",
+      "Incorrect: End-tidal CO₂ is measured via exhaled gas capnography rather than a fingertip photoplethysmograph."
+    ],
+    "clinicalPearl": "Key pulse oximetry pitfalls for CSS vivas: carboxyhaemoglobin reads falsely normal, methaemoglobinaemia trends SpO₂ toward ~85%, and poor perfusion, cold peripheries, movement, or dark nail polish degrade the pulsatile signal.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Pulse oximetry estimates SpO2 and pulse rate, cannot measure PaCO2/pH, and reads falsely normal in carbon monoxide poisoning."
+    },
+    "sourceStation": {
+      "id": "med_025",
+      "title": "Pulse Oximeter",
+      "originalPrompt": "3.1 Identify the device.\n3.2 List two parameters you could measure using this.",
+      "verifiedAnswer": "(3.1) Pulse oximeter. (3.2) Parameters: Peripheral arterial oxygen saturation (SpO₂, %) and pulse rate (heart rate, bpm) (plus plethysmographic perfusion index/waveform on clinical monitors).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_026_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_026.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Complete Left Oculomotor (CN III) Nerve Palsy",
+    "stem": "A 56-year-old woman presents with sudden severe headache and drooping of her left upper eyelid. Examination at rest (b) and with the left upper eyelid manually lifted (a) is shown. What is the cranial nerve lesion, and which urgent life-threatening cause must be excluded immediately?",
+    "options": [
+      "Complete left oculomotor (CN III) palsy; posterior communicating artery aneurysm",
+      "Left Horner syndrome; apical bronchial carcinoma invading the stellate ganglion",
+      "Left abducens (CN VI) palsy; idiopathic intracranial hypertension",
+      "Left trochlear (CN IV) palsy; dorsal midbrain lacunar infarction",
+      "Complete left oculomotor (CN III) palsy; diabetic microvascular mononeuropathy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Lifting the completely ptotic left eyelid reveals a 'down-and-out' eye (unopposed lateral rectus and superior oblique) plus a dilated left pupil (mydriasis from parasympathetic Edinger-Westphal fibre involvement); a painful pupil-involving ('surgical') CN III palsy is a posterior communicating (PCom) artery aneurysm until proven otherwise by urgent CTA/MRA.",
+      "Incorrect: Horner syndrome causes partial ptosis (1–2 mm) and miosis (constricted pupil) rather than complete ptosis, exotropia, and mydriasis.",
+      "Incorrect: Left CN VI palsy causes failure of abduction (esotropia) without ptosis or mydriasis.",
+      "Incorrect: Trochlear nerve palsy causes vertical/torsional diplopia and hypertropia worsened on downward medial gaze without complete ptosis or mydriasis.",
+      "Incorrect: Microvascular ischaemia from diabetes or hypertension affects the central vasa nervorum while sparing the superficial pial-supplied parasympathetic fibres, typically presenting as a pupil-sparing ('medical') CN III palsy."
+    ],
+    "clinicalPearl": "Rule of the pupil in CN III palsy: parasympathetic pupillomotor fibres travel superficially in the dorsomedial nerve—external compression (PCom aneurysm, uncal herniation) involves the pupil ('surgical third'), whereas microvascular ischaemia usually spares it.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Complete pupil-involving CN III palsy (ptosis, down-and-out globe, mydriasis) demands urgent neuroimaging to rule out a PCom aneurysm or uncal herniation."
+    },
+    "sourceStation": {
+      "id": "med_026",
+      "title": "Complete Left 3rd Cranial Nerve (Oculomotor) Palsy",
+      "originalPrompt": "Q.4\nA.) What is the lesion?\nB.) Give 3 causes.",
+      "verifiedAnswer": "(A) Complete left 3rd cranial nerve (oculomotor) palsy ('complete' because parasympathetic pupillary fibres are also involved → mydriasis, alongside lateral/downward deviation and ptosis). (B) Causes: Posterior communicating artery (PCom) aneurysm (surgical cause — pupil-involving!), Uncal herniation, Cavernous sinus thrombosis/tumour, Basal meningitis, Microvascular ischaemia (DM/HTN — usually pupil-sparing).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "med_027_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_027.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Babinski Sign & Lower Limb UMN Physical Signs",
+    "stem": "A 60-year-old man presents with progressive bilateral leg weakness and urinary urgency over 3 weeks. Eliciting the plantar response on his right foot demonstrates the finding shown in the right panel. Which combination of additional physical signs is expected in the same lower limb?",
+    "options": [
+      "Clasp-knife spasticity, exaggerated deep tendon reflexes, and ankle clonus",
+      "Flaccid hypotonia, absent deep tendon reflexes, and prominent fasciculations",
+      "Hypotonia, pendular knee jerk, and intention tremor on heel-shin testing",
+      "Severe distal sensory ataxia, absent ankle jerks, and pes cavus deformity",
+      "Lead-pipe rigidity, pill-rolling resting tremor, and normal plantar responses"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: An extensor plantar response (upgoing great toe with fanning of the other toes) indicates a corticospinal upper motor neuron (UMN) tract lesion, accompanied by pyramidal weakness, clasp-knife spasticity, hyperreflexia, ankle/patellar clonus, and absent superficial abdominal reflexes.",
+      "Incorrect: Flaccidity, areflexia, and fasciculations are lower motor neuron (LMN) signs rather than UMN pyramidal tract signs.",
+      "Incorrect: Hypotonia, pendular reflexes, and dysmetria/intention tremor indicate ipsilateral cerebellar hemisphere dysfunction.",
+      "Incorrect: Absent ankle jerks and distal sensory ataxia indicate a peripheral neuropathy or dorsal column/LMN disorder rather than an isolated UMN lesion.",
+      "Incorrect: Lead-pipe rigidity and resting tremor represent extrapyramidal nigrostriatal dysfunction rather than a corticospinal lesion."
+    ],
+    "clinicalPearl": "Remember the physiological exceptions where an extensor plantar response does NOT indicate UMN pathology: infants under 1 year (incomplete corticospinal myelination), deep sleep, general anaesthesia, post-ictal state, and profound hypoglycaemia.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Corticospinal (UMN) tract lesions produce an extensor plantar response alongside clasp-knife spasticity, hyperreflexia, clonus, and pyramidal weakness."
+    },
+    "sourceStation": {
+      "id": "med_027",
+      "title": "Babinski Sign (Extensor Plantar Response)",
+      "originalPrompt": "01. Photograph demonstrating eliciting the plantar response (Babinski sign).\nWhat is this sign, 2 conditions with a positive sign, and 3 other physical signs of that patient's lower limb?",
+      "verifiedAnswer": "Sign: Positive Babinski sign (extensor plantar response) indicating Upper Motor Neuron (UMN) lesion. Conditions: Stroke (CVA), Spinal cord injury/compression, Multiple sclerosis (also physiological in infants below 1 year, deep sleep, general anaesthesia, severe hypoglycaemia). Other lower limb UMN signs: Muscle weakness (pyramidal pattern), Spasticity (clasp-knife hypertonia), Exaggerated deep tendon reflexes (hyperreflexia), Ankle/patellar clonus, Absent superficial abdominal reflexes.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_028_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Med Q4",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Bell's Palsy vs Ramsay Hunt & LMN CN VII Aetiology",
+    "stem": "A 32-year-old woman awakens with acute-onset paralysis of both the upper and lower left face, incomplete left eye closure, and reduced taste over the anterior two-thirds of the tongue on the left. Otoscopy shows a normal tympanic membrane and pinna with no vesicles. What is the most likely diagnosis and underlying cause?",
+    "options": [
+      "Left upper motor neuron facial palsy; acute right internal capsule lacunar infarct",
+      "Left Ramsay Hunt syndrome; reactivation of varicella-zoster virus in the pinna",
+      "Left trigeminal motor neuropathy; demyelination within the cavernous sinus",
+      "Left Bell's palsy; reactivation of herpes simplex virus type 1 in the geniculate ganglion",
+      "Ocular myasthenia gravis; autoantibodies blocking postsynaptic nicotinic receptors"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: An upper motor neuron facial palsy spares the ipsilateral forehead due to bilateral cortical innervation and does not abolish anterior-tongue taste via the chorda tympani.",
+      "Incorrect: Ramsay Hunt syndrome (herpes zoster oticus) presents with painful vesicular eruptions in the external auditory canal, pinna, or soft palate alongside severe otalgia.",
+      "Incorrect: Trigeminal (CN V3) motor neuropathy weakens mastication muscles (masseter/temporalis) rather than muscles of facial expression or taste.",
+      "Correct: Acute unilateral LMN facial nerve palsy (involving forehead and taste via chorda tympani) without external ear vesicles or focal CNS signs is idiopathic Bell's palsy, classically triggered by HSV-1 reactivation causing inflammatory swelling of CN VII within the bony facial canal.",
+      "Incorrect: Myasthenia gravis causes fatigable ocular/bulbar weakness without sensory taste impairment and typically spares deep facial nerve reflexes."
+    ],
+    "clinicalPearl": "Always examine the external auditory canal, tympanic membrane, and parotid gland in every patient with LMN facial palsy to avoid missing Ramsay Hunt syndrome (needs aciclovir + steroids) or a parotid malignancy.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Idiopathic LMN CN VII palsy (Bell's palsy, linked to HSV-1) affects the entire ipsilateral half of the face and must be distinguished from Ramsay Hunt (ear vesicles) and UMN lesions (forehead-sparing)."
+    },
+    "sourceStation": {
+      "id": "med_028",
+      "title": "Left Facial Nerve Palsy (Bell's Palsy)",
+      "originalPrompt": "04. Photograph of a woman's face showing facial asymmetry (left facial nerve palsy).\nWhat is the diagnosis, and 2 most likely reasons?  [Patient photo omitted in 2013 archive files]",
+      "verifiedAnswer": "Left-sided LMN facial nerve palsy (Bell's palsy). Causes: Herpes simplex virus (HSV-1) reactivation (idiopathic Bell's palsy), Herpes zoster oticus (Ramsay Hunt syndrome), Skull base fracture/trauma, Parotid gland tumour/surgery, Sarcoidosis, Lyme disease, HIV.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_029_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_029.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Left LMN Facial Nerve Palsy & Bell's Phenomenon",
+    "stem": "A 26-year-old man attends the neurology clinic and is asked to close both eyes tightly and show his teeth, producing the appearance shown. What is the diagnosis, and what accounts for the appearance of his left eye?",
+    "options": [
+      "Right lower motor neuron CN VII palsy; unopposed contraction of the left orbicularis oris",
+      "Left lower motor neuron CN VII palsy; paralysis of orbicularis oculi exposing physiological Bell's phenomenon",
+      "Left oculomotor (CN III) palsy; paralysis of the inferior rectus muscle causing upward gaze",
+      "Left upper motor neuron CN VII palsy; preserved bilateral cortical drive to the left eyelid",
+      "Right upper motor neuron CN VII palsy; selective sparing of the lower facial musculature"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The right eye closes firmly and the mouth is drawn toward the intact right side, proving the right facial nerve is normal and the left side is paralysed.",
+      "Correct: Incomplete left eyelid closure allows the normal physiological upward rolling of the globe on attempted lid closure (Bell's phenomenon) to become visible, while unopposed intact right facial muscles pull the mouth toward the right—classic for left LMN CN VII palsy.",
+      "Incorrect: CN III palsy causes ptosis (drooping) and downward-outward globe deviation rather than lagophthalmos with mouth deviation.",
+      "Incorrect: In an upper motor neuron lesion, upper facial muscles (orbicularis oculi and frontalis) are largely spared due to bilateral corticobulbar projections.",
+      "Incorrect: UMN lesions affect the contralateral *lower* face while sparing the upper face, and here the left eye fails to close while the mouth pulls right."
+    ],
+    "clinicalPearl": "Bell's phenomenon (upward and outward rotation of the eyeball during attempted eye closure) is a normal protective reflex that only becomes visible when orbicularis oculi is paralysed in an LMN CN VII palsy.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Left LMN CN VII palsy causes incomplete left eye closure (exposing Bell's phenomenon) and unopposed pull of the mouth toward the intact right side."
+    },
+    "sourceStation": {
+      "id": "med_029",
+      "title": "Left LMN Facial Nerve Palsy (Bell's Palsy)",
+      "originalPrompt": "2. A 26-year-old patient came to the neurology clinic. Doctor asked him to close his eyes and to say 'eee'.\n1) What is your diagnosis? (10 marks)",
+      "verifiedAnswer": "Left-sided lower motor neuron (LMN) facial nerve palsy (Bell's palsy) — paralysis of left orbicularis oculi (incomplete eye closure) and left facial expression muscles causing unopposed pull of mouth to the normal right side.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_030_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_030.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Ulnar Claw Hand & Ulnar Paradox",
+    "stem": "A 38-year-old woman presents with the resting hand posture shown following a deep anterior laceration at the medial wrist. Which nerve lesion causes this abnormality, and why is the finger deformity more pronounced here than after an injury at the elbow?",
+    "options": [
+      "Proximal radial nerve lesion; unopposed forearm flexors pull the ring and little fingers down",
+      "Distal median nerve lesion; lateral two lumbricals are paralysed with preserved flexor pollicis longus",
+      "Upper brachial plexus (C5–C6) lesion; unopposed pronators flex the medial interphalangeal joints",
+      "Proximal ulnar nerve lesion; flexor digitorum superficialis to the 4th and 5th digits is paralysed",
+      "Distal ulnar nerve lesion; flexor digitorum profundus to the 4th and 5th digits remains intact"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Radial nerve lesions produce wrist drop and finger drop at the MCP joints rather than MCP hyperextension with selective 4th–5th IP flexion.",
+      "Incorrect: A distal median nerve lesion causes thenar wasting ('ape hand') and clawing/inability to flex the lateral digits on attempted fist ('hand of benediction'), not resting ring-and-little-finger clawing.",
+      "Incorrect: Upper trunk (C5–C6) lesions produce Erb's palsy ('waiter's tip' shoulder adduction/internal rotation and forearm pronation), whereas lower trunk (C8–T1) causes total claw hand (Klumpke's palsy).",
+      "Incorrect: A proximal ulnar lesion at the elbow additionally paralyses the medial half of FDP, resulting in *less* prominent clawing at the IP joints, and FDS is innervated by the median nerve.",
+      "Correct: A distal ulnar nerve lesion (at the wrist/Guyon's canal) paralyses the medial two lumbricals and interossei—causing MCP hyperextension via extensor digitorum—while sparing the proximal branches to flexor digitorum profundus (FDP) of the ring and little fingers, which pulls the IP joints into marked flexion ('ulnar paradox')."
+    ],
+    "clinicalPearl": "The 'ulnar paradox' is a favourite Kelaniya CSS viva question: the more distal the ulnar nerve injury (wrist), the worse the clawing, because the medial half of flexor digitorum profundus (innervated in the forearm) remains intact to flex the DIP/PIP joints.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Distal ulnar nerve palsy produces worse clawing than a proximal elbow lesion ('ulnar paradox') because forearm innervation of medial FDP is preserved."
+    },
+    "sourceStation": {
+      "id": "med_030",
+      "title": "Ulnar Claw Hand",
+      "originalPrompt": "01)\na) What is the diagnosis?",
+      "verifiedAnswer": "Ulnar claw hand — due to lower (distal) ulnar nerve lesion (below elbow, e.g., Guyon's canal/wrist), causing paralysis of medial two lumbricals and interossei while flexor digitorum profundus (FDP) to ring & little fingers remains intact ('ulnar paradox').",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_031_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_031.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Complete Right Ptosis & Levator Palpebrae Paralysis",
+    "stem": "An elderly man is asked to look straight ahead during a cranial nerve examination, showing the unilateral eyelid finding on the right. Which muscle paralysis produces this complete eyelid droop, and what is the most consistent cranial nerve lesion?",
+    "options": [
+      "Frontalis; left upper motor neuron facial (CN VII) nerve lesion",
+      "Levator palpebrae superioris; right oculomotor (CN III) nerve palsy",
+      "Superior tarsal (Müller's) muscle; right oculosympathetic Horner syndrome",
+      "Superior oblique; right trochlear (CN IV) nerve palsy",
+      "Orbicularis oculi; right lower motor neuron facial (CN VII) nerve palsy"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Frontalis elevates the eyebrow and assists eyelid elevation only weakly; UMN CN VII palsy spares the upper face and never causes complete unilateral ptosis.",
+      "Correct: Complete ptosis (eyelid completely obscuring the pupil) results from paralysis of the striated levator palpebrae superioris, which is innervated by the oculomotor nerve (CN III).",
+      "Incorrect: Sympathetic denervation of the smooth-muscle superior tarsal (Müller's) muscle in Horner syndrome produces only mild partial ptosis (1–2 mm) accompanied by miosis and anhidrosis.",
+      "Incorrect: The trochlear nerve innervates only the superior oblique extraocular muscle and does not elevate the upper eyelid.",
+      "Incorrect: Orbicularis oculi closes the eyelids; its paralysis in CN VII palsy causes lagophthalmos (inability to close the eye) rather than ptosis."
+    ],
+    "clinicalPearl": "Always distinguish complete ptosis (CN III palsy—levator palpebrae superioris), partial ptosis with miosis (Horner syndrome—Müller's muscle), and variable fatigable ptosis (myasthenia gravis) during neurological spotter stations.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Complete ptosis reflects levator palpebrae superioris paralysis (CN III), whereas Horner syndrome causes partial ptosis (1–2 mm) from Müller's muscle denervation."
+    },
+    "sourceStation": {
+      "id": "med_031",
+      "title": "Right Complete Ptosis (Oculomotor Nerve Palsy)",
+      "originalPrompt": "03) Asked the patient to look straight (unilateral complete right ptosis shown).\n1) What is the most likely diagnosis?\n2) What is the cause for the above condition?",
+      "verifiedAnswer": "(1) Complete right ptosis — most consistent with Right Oculomotor (CN III) nerve palsy (complete levator palpebrae superioris paralysis; vs partial ptosis in Horner's syndrome or fatigable ptosis in myasthenia gravis). (2) Causes: CN III palsy (PCom aneurysm, microvascular diabetes/hypertension, cavernous sinus lesion, midbrain stroke), Congenital/aponeurotic ptosis, Myasthenia gravis, Trauma.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_032_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_032.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Left Hypoglossal (CN XII) Nerve Palsy",
+    "stem": "A 58-year-old man presents with mild dysarthria. When asked to protrude his tongue straight forward, the appearance shown is observed. Which cranial nerve and side are affected, and why does the tongue deviate in this direction?",
+    "options": [
+      "Left vagus (CN X) nerve; unopposed action of the intact right palatoglossus muscle",
+      "Right hypoglossal (CN XII) nerve; ipsilateral atrophy shortening the right tongue border",
+      "Right hypoglossal (CN XII) nerve; unopposed pull of the intact left styloglossus muscle",
+      "Left trigeminal mandibular (CN V3) branch; unopposed action of the right lateral pterygoid",
+      "Left hypoglossal (CN XII) nerve; unopposed push of the intact right genioglossus muscle"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: CN X palsy causes palatal droop and uvular deviation away from the paralysed side, not tongue protrusion deviation.",
+      "Incorrect: On protrusion, the tongue points toward the paralysed side (here the patient's left, not right).",
+      "Incorrect: The patient's tongue deviates to the patient's left (viewer's right), indicating a left-sided lesion rather than a right-sided one.",
+      "Incorrect: CN V3 lesions cause the opened *jaw* to deviate toward the weak side via unopposed contralateral lateral pterygoid, whereas tongue protrusion tests CN XII.",
+      "Correct: The protruded tongue deviates toward the patient's left side (viewer's right) with subtle left-sided wasting/furrowing; because each genioglossus pushes the tongue forward and contralaterally, a left LMN CN XII lesion allows the intact right genioglossus to push the tongue tip toward the paralysed left side."
+    ],
+    "clinicalPearl": "Remember the universal rule for CSS cranial nerve exams: 'The tongue licks the lesion' (CN XII deviates toward the weak side), whereas 'the uvula flees the lesion' (CN X deviates away toward the intact side).",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "In LMN hypoglossal (CN XII) palsy, the protruded tongue deviates toward the paralysed side (with ipsilateral atrophy/fasciculation) due to the intact contralateral genioglossus."
+    },
+    "sourceStation": {
+      "id": "med_032",
+      "title": "Hypoglossal Nerve (CN XII) Palsy",
+      "originalPrompt": "1)\n• State the clinical sign you can see.\n• What is the cause for that?",
+      "verifiedAnswer": "Sign: Tongue deviation to the side of the lesion (Left CN XII palsy in PDF variant; Right CN XII palsy in 2018 PPTX variant) due to unopposed action of the contralateral genioglossus muscle. Causes: Brainstem stroke (medial medullary syndrome), Skull-base tumour/fracture (hypoglossal canal), Trauma/iatrogenic injury (carotid endarterectomy, neck dissection), Motor neuron disease (ALS), Syringobulbia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_033_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_033.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right LMN Facial Nerve Palsy Localisation",
+    "stem": "A 40-year-old man is examined in the neurology clinic. He is asked first to bare his teeth (A) and then to raise his eyebrows and wrinkle his forehead (B), as shown. Which nerve and anatomical level are affected?",
+    "options": [
+      "Right facial nerve (CN VII); lower motor neuron lesion",
+      "Left facial nerve (CN VII); upper motor neuron lesion",
+      "Right trigeminal nerve (CN V); motor division lesion",
+      "Left facial nerve (CN VII); lower motor neuron lesion",
+      "Right facial nerve (CN VII); upper motor neuron lesion"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: In panel A, the mouth pulls toward the intact left side while the right nasolabial fold is flattened; in panel B, the right forehead fails to wrinkle alongside the left—indicating involvement of both upper and lower right facial musculature from a right LMN CN VII lesion.",
+      "Incorrect: A left UMN lesion would weaken only the left lower face while preserving forehead wrinkling bilaterally.",
+      "Incorrect: CN V innervates the muscles of mastication and facial sensation, not facial expression or frontalis wrinkling.",
+      "Incorrect: The left side of the face contracts normally on smiling and wrinkles robustly on forehead elevation, proving the left facial nerve is intact.",
+      "Incorrect: An upper motor neuron lesion of the right face (left hemisphere stroke) would spare the right forehead because upper facial nuclei receive bilateral cortical input."
+    ],
+    "clinicalPearl": "Always test forehead wrinkling (frontalis) and tight eye closure (orbicularis oculi) in facial asymmetry: forehead involvement localises the lesion to an LMN facial palsy (Bell's palsy, pontine nucleus, or CPA tumour), whereas forehead sparing indicates a contralateral UMN lesion.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Forehead involvement (loss of wrinkling) alongside lower facial paralysis distinguishes an ipsilateral LMN CN VII lesion from a contralateral UMN lesion."
+    },
+    "sourceStation": {
+      "id": "med_033",
+      "title": "Right-Sided LMN Facial Nerve Palsy",
+      "originalPrompt": "2. This man was first told to grimace and then to wrinkle his forehead.\n• What is the nerve affected?\n• Which side is affected?",
+      "verifiedAnswer": "Right facial nerve (CN VII) — Lower Motor Neuron (LMN) lesion (forehead involvement distinguishes LMN from UMN facial palsy).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_034_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Med Q8",
+    "imagePath": "images/med/med_034.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Right Abducens (CN VI) Nerve Palsy",
+    "stem": "A 62-year-old patient with hypertension and binocular horizontal diplopia is asked to look toward the right side, demonstrating the eye positions shown. Which cranial nerve and extraocular muscle are paralysed?",
+    "options": [
+      "Right oculomotor (CN III) nerve; right medial rectus muscle",
+      "Left oculomotor (CN III) nerve; left medial rectus muscle",
+      "Left abducens (CN VI) nerve; left lateral rectus muscle",
+      "Right trochlear (CN IV) nerve; right superior oblique muscle",
+      "Right abducens (CN VI) nerve; right lateral rectus muscle"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Right CN III palsy causes impaired adduction, elevation, depression, ptosis, and/or mydriasis rather than isolated failure of abduction.",
+      "Incorrect: The patient's left eye (viewer's right) adducts cleanly toward the medial canthus, proving left CN III medial rectus function is intact.",
+      "Incorrect: Left CN VI palsy impairs leftward abduction of the left eye, whereas here rightward abduction of the right eye is impaired.",
+      "Incorrect: Right CN IV palsy impairs intorsion and downward gaze in adduction (reading/descending stairs) rather than horizontal abduction.",
+      "Correct: On attempted rightward gaze (toward the viewer's left), the left eye adducts fully via the intact left medial rectus while the right eye fails to abduct laterally, diagnostic of right abducens (CN VI) palsy affecting the right lateral rectus muscle."
+    ],
+    "clinicalPearl": "In CN VI palsy, horizontal diplopia is worst when looking toward the paralysed side and for distant objects; remember 'LR6 SO4 all others 3' and always inspect the fundus for papilloedema (false localising sign in raised ICP).",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Failure of right eye abduction on rightward gaze indicates right abducens (CN VI) palsy (lateral rectus paralysis)."
+    },
+    "sourceStation": {
+      "id": "med_034",
+      "title": "Right Abducens (CN VI) Nerve Palsy",
+      "originalPrompt": "8. Patient was asked to look to the right side.\nWhat is the diagnosis?",
+      "verifiedAnswer": "Right abducens (6th cranial) nerve palsy — paralysis of the right lateral rectus muscle causing failure of right eye abduction on rightward gaze (and horizontal diplopia worst on looking right).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_035_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Med Q5",
+    "imagePath": "images/med/med_035.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Acute Bell's Palsy Diagnosis & First-Line Management",
+    "stem": "A 30-year-old man presents within 24 hours of developing acute facial asymmetry and is photographed while attempting to close his eyes and bare his teeth. Otoscopy is normal without vesicles, and limb power is full. What is the diagnosis and optimal initial management?",
+    "options": [
+      "Left upper motor neuron facial palsy; immediate non-contrast CT brain and aspirin loading",
+      "Left Bell's palsy; oral prednisolone within 72 hours plus lubricating eye drops and nocturnal taping",
+      "Right Bell's palsy; urgent surgical decompression of the right stylomastoid foramen",
+      "Left Ramsay Hunt syndrome; oral aciclovir monotherapy without systemic corticosteroids",
+      "Left parotid gland carcinoma; immediate fine-needle aspiration and radical parotidectomy"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Incomplete closure of the left eye indicates LMN involvement rather than a forehead-sparing UMN stroke.",
+      "Correct: The photograph shows incomplete left eyelid closure and asymmetrical mouth pull to the right, indicating left LMN facial palsy (Bell's palsy); oral prednisolone started within 72 hours significantly improves complete recovery, and artificial tears with nocturnal taping prevent exposure keratitis.",
+      "Incorrect: The paralysed side is the left (not right), and surgical decompression is not indicated for acute uncomplicated Bell's palsy.",
+      "Incorrect: Normal otoscopy without ear vesicles rules out Ramsay Hunt syndrome, and corticosteroid therapy is the primary evidence-based treatment for Bell's palsy.",
+      "Incorrect: Acute 24-hour onset without a parotid mass points to idiopathic Bell's palsy rather than parotid malignancy (though parotid palpation should always be performed)."
+    ],
+    "clinicalPearl": "For CSS management marks on Bell's palsy, never omit eye protection (daytime methylcellulose drops, nocturnal ointment and eye taping/patching) to prevent corneal ulceration alongside early oral prednisolone.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Acute left LMN CN VII palsy (Bell's palsy) requires oral corticosteroids within 72 hours and corneal protection (lubrication + nocturnal taping)."
+    },
+    "sourceStation": {
+      "id": "med_035",
+      "title": "Left LMN Facial Nerve Palsy (Bell's Palsy)",
+      "originalPrompt": "5. Patient was asked to show teeth and close his eyes.\nWhat is the diagnosis?",
+      "verifiedAnswer": "Left-sided lower motor neuron (LMN) facial nerve (CN VII) palsy / Bell's palsy.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_036_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_036.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Left Vagus Nerve (CN X) Palsy",
+    "stem": "A 55-year-old man with hoarseness and nasal regurgitation of liquids is asked to open his mouth and say 'Aah', revealing the oropharyngeal appearance shown. Which cranial nerve is affected, and what explains the direction of uvular deviation?",
+    "options": [
+      "Right glossopharyngeal (CN IX) nerve; asymmetrical sensory afferent gag impairment",
+      "Left spinal accessory (CN XI) nerve; weakness of the ipsilateral stylopharyngeus muscle",
+      "Right vagus (CN X) nerve; unopposed upward pull of the paralysed right palatal arch",
+      "Left vagus (CN X) nerve; unopposed elevation by the intact right levator veli palatini",
+      "Left hypoglossal (CN XII) nerve; ipsilateral loss of genioglossus pharyngeal tension"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: CN IX supplies sensory afferents of the gag reflex and stylopharyngeus, whereas motor elevation of the soft palate (except tensor veli palatini) is mediated by CN X.",
+      "Incorrect: The spinal component of CN XI supplies sternocleidomastoid and trapezius; palatal motor elevation depends on CN X.",
+      "Incorrect: The palate elevates robustly on the patient's right side (viewer's left) and the uvula is drawn toward that intact right side, indicating a left-sided lesion.",
+      "Correct: On phonation, the left soft palate arch fails to elevate (droops) and the uvula is pulled toward the intact right side (viewer's left) by unopposed contraction of the right levator veli palatini, diagnostic of left vagus (CN X) nerve palsy.",
+      "Incorrect: CN XII supplies intrinsic and extrinsic tongue muscles and does not elevate the soft palate or move the uvula."
+    ],
+    "clinicalPearl": "Assess CN X comprehensively in CSS stations: check soft palate elevation ('Aah'), gag reflex (afferent CN IX, efferent CN X), voice quality (hoarseness from recurrent laryngeal nerve palsy), and bovine cough.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "In CN X palsy, the soft palate droops on the affected side and the uvula deviates toward the intact contralateral side on saying 'Aah'."
+    },
+    "sourceStation": {
+      "id": "med_036",
+      "title": "Left Vagus Nerve (CN X) Palsy",
+      "originalPrompt": "Question 03\nA patient was asked to open his mouth and say 'Aah'.\n3.1 What is the diagnosis? (5 marks)\n3.2 What is the nerve affected? (5 marks)",
+      "verifiedAnswer": "(3.1) Left vagus nerve palsy. (3.2) Left Vagus nerve (CN X) — palate fails to elevate on the paralysed left side and uvula is pulled towards the intact right side.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_037_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_037.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Ocular Myasthenia Gravis (Simpson's Test)",
+    "stem": "A 28-year-old man complains of fluctuating double vision and drooping eyelids that worsen toward the evening. The top photograph shows his eyes at baseline, and the bottom photograph was taken after 3 minutes of sustained upward gaze. What is the diagnosis, and which confirmatory work-up is most appropriate?",
+    "options": [
+      "Lambert-Eaton myasthenic syndrome; anti-VGCC antibodies and improvement on sustained gaze",
+      "Thyroid-associated ophthalmopathy; suppressed serum TSH and elevated TRAb antibodies",
+      "Chronic progressive external ophthalmoplegia; single-dose edrophonium without imaging",
+      "Myasthenia gravis; anti-AChR antibodies, repetitive nerve stimulation, and CT thorax",
+      "Bilateral oculomotor nerve palsy; urgent cerebral angiography for bilateral aneurysms"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Lambert-Eaton syndrome shows facilitation (transient strengthening) with repeated effort, spares extraocular muscles more often than MG, and causes autonomic features and hyporeflexia.",
+      "Incorrect: Thyroid eye disease typically produces lid retraction and proptosis rather than fatigable ptosis worsening on sustained gaze.",
+      "Incorrect: Mitochondrial CPEO presents with symmetric, slowly progressive non-fatigable external ophthalmoplegia and does not characteristically show fatigable Simpson's sign.",
+      "Correct: Progressive worsening of ptosis during sustained upward gaze demonstrates fatigable neuromuscular junction transmission (positive Simpson's test), diagnostic of myasthenia gravis; confirm with anti-AChR (or anti-MuSK) antibodies, decremental response on repetitive nerve stimulation / single-fibre EMG, and CT thorax to exclude thymoma.",
+      "Incorrect: Bilateral CN III palsies produce fixed ptosis with pupillary/extraocular paralysis rather than fatigable ptosis elicited by prolonged upward gaze."
+    ],
+    "clinicalPearl": "Alongside Simpson's test (fatigable ptosis on sustained upward gaze), remember the bedside ice-pack test for MG: cooling inhibits acetylcholinesterase at the neuromuscular junction, temporarily improving ptosis by >=2 mm.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Fatigable ptosis provoked by 3 minutes of upward gaze (positive Simpson's test) indicates myasthenia gravis; exclude thymoma with CT thorax."
+    },
+    "sourceStation": {
+      "id": "med_037",
+      "title": "Ocular Myasthenia Gravis (Simpson's Test)",
+      "originalPrompt": "03. The patient is asked to look upward for 3 minutes, and the doctor observes this sign.\n• What is the diagnosis?",
+      "verifiedAnswer": "Myasthenia gravis (ocular/generalised) — fatigable ptosis elicited by prolonged upward gaze (positive Simpson's test). Confirm with anti-AChR / anti-MuSK antibodies, repetitive nerve stimulation (decremental response), single-fibre EMG, and CT thorax (thymoma).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_038_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Med Q3",
+    "imagePath": "images/med/med_038.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Left Abducens Nerve Palsy & False Localising Sign",
+    "stem": "A 34-year-old woman with morning headaches, papilloedema, and horizontal diplopia is asked to look laterally to her left, as shown. What is the precise cranial nerve lesion, and why can raised intracranial pressure produce it?",
+    "options": [
+      "Left trochlear (CN IV) palsy; compression of its dorsal midbrain exit within the ambient cistern",
+      "Right abducens (CN VI) palsy; cavernous sinus congestion selectively impairs ipsilateral abduction",
+      "Left abducens (CN VI) palsy; caudal brainstem shift stretches the nerve over the petrous ridge",
+      "Right oculomotor (CN III) palsy; uncal herniation compresses the nerve against the tentorium",
+      "Left internuclear ophthalmoplegia; demyelination of the right medial longitudinal fasciculus"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Trochlear nerve palsy affects the superior oblique muscle and vertical/torsional movement rather than horizontal abduction.",
+      "Incorrect: Leftward gaze tests the left lateral rectus (left CN VI) and right medial rectus; the left eye fails to abduct here.",
+      "Correct: On leftward gaze (toward the viewer's right), the right eye adducts fully while the left eye fails to abduct laterally, indicating left CN VI palsy; because CN VI has a long intracranial course tethered at Dorello's canal, raised ICP pushes the brainstem downward and stretches it over the petrous temporal ridge (classic false localising sign).",
+      "Incorrect: The right eye adducts normally toward the nose on leftward gaze, showing intact right medial rectus (CN III) function.",
+      "Incorrect: In left INO, the *left* eye fails to adduct on rightward gaze with abducting nystagmus of the right eye, which is the opposite of impaired left abduction."
+    ],
+    "clinicalPearl": "In raised ICP (e.g., idiopathic intracranial hypertension or space-occupying lesion), unilateral or bilateral CN VI palsy acts as a 'false localising sign'—always perform fundoscopy for papilloedema before attributing diplopia to a focal pontine lesion.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Left eye abduction failure on leftward gaze indicates left CN VI palsy; raised ICP stretches CN VI over the petrous ridge as a false localising sign."
+    },
+    "sourceStation": {
+      "id": "med_038",
+      "title": "Left Abducens (CN VI) Nerve Palsy on Leftward Gaze",
+      "originalPrompt": "3. Identify the condition precisely.",
+      "verifiedAnswer": "Left abducens (6th cranial) nerve palsy (demonstrated on leftward gaze: intact right medial rectus adducts fully while paralysed left lateral rectus fails to abduct the left eye; secondary over-adduction of right eye follows Hering's law).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_039_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_039.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Retro-Orbital Swelling & Cavernous Sinus Cranial Nerves",
+    "stem": "A 19-year-old man presents with high fever, severe unilateral retro-orbital pain, proptosis, and the acute periorbital swelling shown, raising concern for orbital apex and cavernous sinus extension. Assessment of which group of cranial nerves is essential to detect compressive or thrombotic involvement?",
+    "options": [
+      "Trochlear (CN IV), abducens (CN VI), facial (CN VII), spinal accessory (CN XI), and hypoglossal (CN XII)",
+      "Oculomotor (CN III), trochlear (CN IV), mandibular V3 (CN V), abducens (CN VI), and facial (CN VII)",
+      "Optic (CN II), oculomotor (CN III), trochlear (CN IV), trigeminal V1–V2 (CN V), and abducens (CN VI)",
+      "Olfactory (CN I), optic (CN II), oculomotor (CN III), facial (CN VII), and vestibulocochlear (CN VIII)",
+      "Optic (CN II), trigeminal V1–V3 (CN V), glossopharyngeal (CN IX), vagus (CN X), and hypoglossal (CN XII)"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: CN VII, XI, and XII are not contents of the cavernous sinus or retro-orbital space.",
+      "Incorrect: The mandibular division (CN V3) exits via foramen ovale without entering the cavernous sinus, and CN VII does not traverse the orbit.",
+      "Correct: Retro-orbital and cavernous sinus / orbital apex pathology threatens CN II (optic canal — visual acuity/RAPD) as well as the nerves traversing the cavernous sinus and superior orbital fissure: CN III, CN IV, CN V1 (ophthalmic), CN V2 (maxillary, lateral cavernous wall), and CN VI.",
+      "Incorrect: CN I (cribriform plate), CN VII, and CN VIII (internal acoustic meatus) do not pass through the orbital apex or cavernous sinus.",
+      "Incorrect: CN V3, IX, X, and XII lie outside the orbital apex and cavernous sinus (lower cranial nerves exit via the jugular foramen and hypoglossal canal)."
+    ],
+    "clinicalPearl": "Cavernous sinus thrombosis classically follows mid-facial/periorbital sepsis ('danger triangle' via valveless facial-ophthalmic veins): CN VI is often affected earliest (lying freely inside the sinus next to the internal carotid artery) before CN III, IV, V1, and V2.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Retro-orbital and cavernous sinus lesions endanger CN II (orbital apex) alongside CN III, IV, V1, V2, and VI."
+    },
+    "sourceStation": {
+      "id": "med_039",
+      "title": "Retro-Orbital Swelling / Cavernous Sinus Cranial Nerves",
+      "originalPrompt": "4. List cranial nerves that could be damaged by the retro-orbital swelling shown below.",
+      "verifiedAnswer": "Optic nerve (CN II) (vision loss/RAPD via orbital apex) and Cavernous sinus / Superior orbital fissure cranial nerves: Oculomotor (CN III), Trochlear (CN IV), Trigeminal ophthalmic & maxillary divisions (CN V1 & V2), and Abducens (CN VI).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_040_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_040.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Graves' Disease Diagnosis & Confirmation",
+    "stem": "A 30-year-old woman presents with palpitations, weight loss, heat intolerance, and the ocular appearance shown in the left panel (compared with post-treatment appearance on the right). What is the most likely diagnosis, and which first-line laboratory profile confirms it?",
+    "options": [
+      "Ocular myasthenia gravis; normal TSH with positive anti-acetylcholine receptor antibodies",
+      "Graves' disease; suppressed serum TSH with elevated free T4 and positive TRAb",
+      "Central pituitary hypothyroidism; suppressed serum TSH with low free T4",
+      "Subacute viral thyroiditis; markedly elevated serum TSH with high radioiodine uptake",
+      "Hashimoto's thyroiditis; elevated serum TSH with low free T4 and anti-TPO antibodies"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Myasthenia gravis causes ptosis rather than bilateral exophthalmos and lid retraction, and does not cause heat intolerance or weight loss.",
+      "Correct: Bilateral exophthalmos (proptosis) with lid retraction and scleral show alongside hyperthyroid symptoms is pathognomonic for Graves' disease, confirmed biochemically by suppressed TSH, elevated free T4/total T3, and positive TSH-receptor antibodies (TRAb).",
+      "Incorrect: Central hypothyroidism produces low free T4 alongside low/inappropriately normal TSH and does not cause proptosis or thyrotoxicosis.",
+      "Incorrect: Subacute (de Quervain) thyroiditis causes painful tender goitre, suppressed TSH during the early phase, and *low* radioiodine uptake without true Graves' orbitopathy.",
+      "Incorrect: Hashimoto's thyroiditis typically causes primary hypothyroidism (high TSH, low free T4) rather than hyperthyroidism with Graves' orbitopathy."
+    ],
+    "clinicalPearl": "Remember the three classic extrathyroidal autoimmune manifestations unique to Graves' disease (absent in toxic multinodular goitre): Graves' orbitopathy (exophthalmos, lid lag/retraction), pretibial myxoedema, and thyroid acropachy.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Graves' disease presents with bilateral exophthalmos/lid retraction and is confirmed by suppressed TSH, elevated free T4/T3, and positive TRAb."
+    },
+    "sourceStation": {
+      "id": "med_040",
+      "title": "Graves' Disease (Hyperthyroidism)",
+      "originalPrompt": "05. Photograph of the face of a patient (Graves' disease).\nState the diagnosis and 2 investigations to confirm the diagnosis.",
+      "verifiedAnswer": "Graves' disease (Hyperthyroidism). Investigations: Serum TSH (suppressed/low) and Free T4 / Total T3 & T4 (elevated); TSH-receptor antibodies (TRAb) / TPO antibodies; Radioiodine uptake scan / Thyroid ultrasound.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_guide_a_01",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.1 CARDIOLOGY & ECG INTERPRETATION (11 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Acute Pericarditis vs STEMI ECG Differentiation",
+    "stem": "A 29-year-old man presents with sharp central chest pain that worsens on deep inspiration and lying flat, and eases when leaning forward. His 12-lead ECG shows widespread upward-concave ST-segment elevation across precordial and limb leads without reciprocal ST depression. Which additional ECG feature strongly supports acute pericarditis over an acute myocardial infarction?",
+    "options": [
+      "Diffuse PR-segment depression accompanied by PR-segment elevation in lead aVR",
+      "Deep symmetrical T-wave inversions with markedly prolonged QTc interval",
+      "Convex tombstone ST-segment elevation strictly confined to leads V1–V4",
+      "Tall broad R waves and horizontal ST-segment depression in leads V1–V2",
+      "Pathological Q waves in leads II, III, and aVF with ST depression in lead aVL"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per the ECG Reference Guide, acute pericarditis classically causes diffuse concave ST-segment elevation, no reciprocal ST depression, and PR-segment depression across most leads with reciprocal PR-segment elevation in lead aVR.",
+      "Incorrect: Deep symmetrical T-wave inversions with QTc prolongation (Wellens/ischaemic or Takotsubo pattern) point to myocardial ischaemia or stress cardiomyopathy rather than pericarditis.",
+      "Incorrect: Regional convex ST elevation confined to V1–V4 indicates acute anteroseptal STEMI rather than generalised pericardial inflammation.",
+      "Incorrect: Tall R waves with horizontal ST depression in V1–V2 represent acute posterior STEMI.",
+      "Incorrect: Inferior pathological Q waves with reciprocal ST depression in aVL reflect acute or established inferior myocardial infarction."
+    ],
+    "clinicalPearl": "Per the Kelaniya ECG Reference Guide, up to 43% of true STEMIs can show subtle concave STE early on—so always check for PR-segment depression, absence of reciprocal ST depression, and serial ECGs at 5–10 minute intervals when in doubt.",
+    "guideCitation": {
+      "guideId": "guide_med_ecg_ref",
+      "guideTitle": "ECG Reference & Emergencies Guide",
+      "keyPoint": "Acute pericarditis causes diffuse concave ST elevation, PR depression (PR elevation in aVR), and no reciprocal ST depression."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_a_02",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Asbestos-Related Interstitial Lung Disease & Spirometry",
+    "stem": "A 54-year-old man who worked in an asbestos roofing-sheet factory for 18 years presents with progressively worsening exertional dyspnoea. Chest radiography demonstrates bilateral calcified pleural plaques and diaphragmatic calcifications, and HRCT reveals basal honeycombing. Which spirometric pattern and malignancy risk are characteristic of his condition?",
+    "options": [
+      "Reduced FEV₁ and FVC with normal or elevated FEV₁/FVC ratio; malignant mesothelioma",
+      "Isolated reduction in peak expiratory flow with normal lung volumes; mediastinal thymoma",
+      "Reduced FEV₁ with normal FVC and FEV₁/FVC ratio below 0.70; small cell carcinoma",
+      "Increased total lung capacity with elevated DLCO; pulmonary chondroid hamartoma",
+      "Marked bronchodilator reversibility above 12% in FEV₁; bronchial carcinoid tumour"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Per the CSS CXR Guide (Item 7), asbestosis causes restrictive lung physiology—reduction of both FEV₁ and FVC so the FEV₁/FVC ratio remains normal or >=70%—along with basal honeycombing, pleural/diaphragmatic calcifications, and high risk of malignant mesothelioma (as well as bronchogenic carcinoma).",
+      "Incorrect: Asbestosis reduces total lung volumes (TLC, FVC, FEV₁) and is linked to mesothelioma and lung carcinoma, not thymoma.",
+      "Incorrect: An FEV₁/FVC ratio <0.70 defines obstructive lung disease (such as COPD/asthma) rather than restrictive interstitial fibrosis.",
+      "Incorrect: Interstitial lung disease reduces total lung capacity and *lowers* (not elevates) DLCO, and hamartomas present as solitary nodules with 'popcorn' calcification.",
+      "Incorrect: Bronchodilator reversibility >12% and >200 mL characterises bronchial asthma rather than asbestos-related pulmonary fibrosis."
+    ],
+    "clinicalPearl": "In Sri Lankan CXR OSCEs, remember the classic occupational pairing: asbestos sheet factory -> diaphragmatic calcifications + pleural plaques + lower-zone honeycombing + restrictive spirometry (FEV₁/FVC >=70%) + mesothelioma risk (whereas silicosis gives upper-zone fibrosis and 'eggshell' hilar nodes).",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Asbestosis produces pleural/diaphragmatic calcifications, basal honeycombing, restrictive spirometry (FEV1/FVC >=70%), and mesothelioma risk."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_a_03",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Serial ABG Interpretation in Acute Asthma Exhaustion",
+    "stem": "A 25-year-old woman with acute severe asthma arrives alert and tachypnoeic with an initial ABG showing pH 7.48, PaCO₂ 30 mmHg, PaO₂ 68 mmHg, and HCO₃⁻ 24 mmol/L. Despite nebulised bronchodilators and oxygen, a repeat ABG 1 hour later shows pH 7.33, PaCO₂ 45 mmHg, PaO₂ 80 mmHg, and HCO₃⁻ 24 mmol/L, with reduced wheezing and drowsiness. How should this PaCO₂ trend be interpreted?",
+    "options": [
+      "Onset of respiratory muscle exhaustion indicating life-threatening asthma requiring urgent ICU review",
+      "Inadvertent arterialisation of a venous sample with no change in ventilatory status",
+      "Renal compensation for acute hyperventilation confirming resolution of bronchospasm",
+      "Normalisation of ventilation confirming a favourable response to nebulised beta-2 agonist therapy",
+      "Primary metabolic alkalosis precipitated by repeated systemic corticosteroid administration"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: As highlighted in the CSS Blood Gas Analysis Guide, acutely breathless asthmatics initially hyperventilate and blow off CO₂ (PaCO₂ 30 mmHg, respiratory alkalosis). A rising PaCO₂ trend into the 'normal' or mildly elevated range (45 mmHg, pH 7.33) accompanied by a silent chest/drowsiness signifies respiratory muscle exhaustion and impending arrest.",
+      "Incorrect: Venous sampling does not explain clinical deterioration (drowsiness and reduced breath sounds/silent chest) alongside acute hypercapnic acidaemia.",
+      "Incorrect: Renal compensation lowers HCO₃⁻ slowly over days rather than elevating PaCO₂ over 1 hour.",
+      "Incorrect: Interpreting a 'normal' PaCO₂ of 45 mmHg in an exhausted asthmatic as reassuring improvement is a classic fatal error.",
+      "Incorrect: The pH has fallen from 7.48 to acidaemic 7.33 due to rising PaCO₂ (respiratory acidosis), not metabolic alkalosis."
+    ],
+    "clinicalPearl": "Never be falsely reassured by a 'normal' PaCO₂ (35–45 mmHg) in an acute severe asthma attack—compare serial blood gases! A rising PaCO₂ + silent chest + exhaustion = life-threatening asthma requiring IV magnesium/aminophylline and urgent ICU/anaesthetic alert.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "In acute severe asthma, a rising trend in PaCO2 (even into the 'normal' range) indicates ventilatory muscle exhaustion and life-threatening asthma."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_a_04",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "High Anion Gap Metabolic Acidosis & ABG Analysis",
+    "stem": "A 25-year-old woman is admitted drowsy after 3 days of polyuria, thirst, and dysuria. On room air, her ABG shows pH 7.20, PaCO₂ 24 mmHg, PaO₂ 100 mmHg, HCO₃⁻ 10 mmol/L, and base excess −18 mmol/L; serum Na⁺ is 136 mmol/L, K⁺ 4.8 mmol/L, and Cl⁻ 100 mmol/L. Which acid-base disturbance is present, and what drives the anion gap?",
+    "options": [
+      "Normal anion gap metabolic acidosis with respiratory compensation; renal bicarbonate wasting",
+      "Primary respiratory alkalosis with renal compensation; sepsis-driven hyperventilation",
+      "High anion gap metabolic acidosis with respiratory compensation; accumulation of ketoacids",
+      "Mixed metabolic and respiratory acidosis; alveolar hypoventilation with chloride retention",
+      "Uncompensated metabolic acidosis with normal anion gap; gastrointestinal bicarbonate loss"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: In normal anion gap (hyperchloraemic) acidosis, serum chloride rises proportionally as HCO₃⁻ falls so the anion gap remains normal (~10–14 mmol/L with K⁺), unlike the markedly elevated gap here.",
+      "Incorrect: The arterial pH is severely acidaemic (7.20), whereas primary respiratory alkalosis produces alkalaemia (pH >7.45).",
+      "Correct: A low pH (7.20), low HCO₃⁻ (10 mmol/L), and markedly negative base excess (−18 mmol/L) define primary metabolic acidosis; PaCO₂ has fallen appropriately to 24 mmHg via Kussmaul hyperventilation (Winter's formula: 1.5 × 10 + 8 = 23 ± 2 mmHg), and the anion gap (Na⁺ + K⁺) − (Cl⁻ + HCO₃⁻) = 30.8 mmol/L is elevated by unmeasured ketoacids in DKA.",
+      "Incorrect: PaCO₂ is appropriately suppressed to 24 mmHg (hyperventilation), ruling out concomitant respiratory acidosis.",
+      "Incorrect: Compensatory hyperventilation has lowered PaCO₂ to 24 mmHg, and the calculated anion gap is substantially elevated rather than normal."
+    ],
+    "clinicalPearl": "Per the Kelaniya ABG Guide, base excess and standard HCO₃⁻ quantify the metabolic component independently of acute PaCO₂ changes, while the anion gap (Na⁺ + K⁺) − (Cl⁻ + HCO₃⁻) separates keto/lactic acidosis from hyperchloraemic diarrhoea/RTA.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "High anion gap metabolic acidosis reduces HCO3- via addition of unmeasured anions (e.g. ketoacids, lactate), whereas normal anion gap acidosis raises Cl-."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_a_05",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Glasgow Coma Scale Scoring & Head Injury Severity",
+    "stem": "A 42-year-old motorcyclist is brought to the Emergency Treatment Unit after a road traffic collision. On examination, he opens his eyes only to firm nail-bed pressure, produces incomprehensible groaning sounds without intelligible words, and demonstrates abnormal slow flexion of both elbows across his chest to painful stimulation. What is his total GCS score and head injury classification?",
+    "options": [
+      "GCS 7/15 (E1 V3 M3); moderate head injury",
+      "GCS 7/15 (E2 V2 M3); severe head injury",
+      "GCS 9/15 (E3 V2 M4); moderate head injury",
+      "GCS 8/15 (E2 V2 M4); severe head injury",
+      "GCS 6/15 (E2 V2 M2); severe head injury"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: E1 is no eye opening at all and V3 is inappropriate words; furthermore, a total GCS of 7 is classified as severe (<=8), not moderate (9–12).",
+      "Correct: Per the CSS GCS Guide, eye opening to peripheral pain scores E2, incomprehensible sounds score V2, and abnormal flexion (decorticate posturing) scores M3, giving a total of 7/15; a GCS of 8 or less defines coma and severe head injury.",
+      "Incorrect: E3 represents eye opening to verbal command rather than to pain (E2), and M4 represents withdrawal rather than abnormal flexion.",
+      "Incorrect: M4 represents normal purposeful withdrawal away from a painful stimulus rather than stereotyped abnormal decorticate flexion (M3).",
+      "Incorrect: M2 represents abnormal extension (decerebrate posturing), whereas slow flexion of the elbows across the chest is M3."
+    ],
+    "clinicalPearl": "Key rules from the Kelaniya GCS OSCE Guide: never apply painful stimuli to the face when testing eye opening (use trapezius pinch or nail-bed pressure), record the best motor response across limbs, and remember 'GCS <= 8 = coma / severe head injury — consider intubation'.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "GCS classification: Severe <=8 (Coma), Moderate 9–12, Mild 13–15; abnormal flexion (decorticate) = M3 and eye opening to non-facial pain = E2."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_a_06",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Metered-Dose Inhaler & Spacer Device Technique and Care",
+    "stem": "A 46-year-old man with moderate persistent asthma is prescribed a beclomethasone dipropionate metered-dose inhaler (MDI) used with a large-volume plastic spacer. Which instruction regarding inhaler use and spacer maintenance is essential to maximise lung deposition and prevent local side effects?",
+    "options": [
+      "Inhale as fast and forcefully as possible as soon as the MDI canister is depressed into the spacer",
+      "Actuate two puffs together into the spacer chamber before taking one deep breath-hold",
+      "Place the disassembled spacer halves in direct midday sunlight weekly for rapid thermal sterilisation",
+      "Wipe the inside of the plastic chamber dry with a clean cloth after washing to clear static droplets",
+      "Clean with lukewarm water, air-dry in the shade without wiping the inside, and rinse mouth after use"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Fast, forceful inhalation is required for dry powder inhalers (DPIs) to de-aggregate powder; an MDI/spacer requires a slow, steady, deep inhalation followed by a 10-second breath-hold.",
+      "Incorrect: Actuating multiple puffs into a spacer simultaneously causes aerosol collision and rain-out inside the chamber, markedly reducing the delivered dose; always administer one puff at a time.",
+      "Incorrect: Drying a spacer in direct sunlight warps plastic components and degrades valve integrity; always air-dry in a shaded, ventilated area.",
+      "Incorrect: Rubbing or towel-drying the interior of a plastic spacer damages its antistatic property and creates static charge that attracts drug particles onto the walls instead of reaching the lungs.",
+      "Correct: Per the CSS Inhalers & Spacer Guide, washing the spacer every 2 weeks in lukewarm water (with mild detergent) and air-drying in the shade without rubbing the interior preserves its antistatic lining, while rinsing and gargling after steroid inhalation prevents oral candidiasis and dysphonia."
+    ],
+    "clinicalPearl": "High-yield CSS spacer viva points: spacers evaporate propellant to reduce particle size and trap large particles—slashing oropharyngeal candidiasis and dysphonia—provided you actuate 1 puff at a time and never rub the inside dry.",
+    "guideCitation": {
+      "guideId": "guide_med_inhalers",
+      "guideTitle": "Guide for Inhalers & Spacer Devices",
+      "keyPoint": "Wash plastic spacers in lukewarm water and air-dry in the shade without rubbing inside (preserves antistatic lining); actuate 1 puff at a time and rinse mouth after ICS."
+    },
+    "sourceStation": null
+  }
+]

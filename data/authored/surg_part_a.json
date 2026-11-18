@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "surg_001_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pneumoperitoneum & Perforated Peptic Ulcer",
+    "imagePath": null,
+    "stem": "A 52-year-old man with chronic knee osteoarthritis taking daily non-steroidal anti-inflammatory drugs presents with sudden-onset, severe generalised abdominal pain and board-like rigidity. An erect chest radiograph demonstrates a crescentic lucency beneath the right hemidiaphragm. What is the most likely underlying surgical cause of this radiological finding?",
+    "options": [
+      "Acute uncomplicated gallstone biliary colic",
+      "Perforated peptic ulcer (duodenal or gastric)",
+      "Acute interstitial oedematous pancreatitis",
+      "Simple adhesive small bowel obstruction",
+      "Right-sided subpulmonic pleural effusion"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Uncomplicated biliary colic causes episodic right upper quadrant pain without visceral perforation or free intraperitoneal gas.",
+      "Correct: Subdiaphragmatic free gas (pneumoperitoneum) on an erect chest radiograph is most commonly caused by a perforated duodenal or gastric ulcer, strongly linked to chronic NSAID use.",
+      "Incorrect: Acute pancreatitis typically causes epigastric pain radiating to the back and raised amylase, occasionally producing a sentinel loop rather than free subdiaphragmatic air.",
+      "Incorrect: Simple small bowel obstruction produces dilated loops and multiple air-fluid levels on abdominal X-ray, not free subphrenic gas unless complicated by perforation.",
+      "Incorrect: A subpulmonic pleural effusion causes apparent elevation of the hemidiaphragm above the lung base rather than a crescentic gas lucency beneath the diaphragm."
+    ],
+    "clinicalPearl": "An erect chest X-ray is the most sensitive plain radiograph for detecting pneumoperitoneum (as little as 1–2 mL of free gas); perforated peptic ulcer is the commonest cause.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Crescentic lucency under the right hemidiaphragm represents pneumoperitoneum, classically caused by a perforated peptic ulcer."
+    },
+    "sourceStation": {
+      "id": "surg_001",
+      "title": "Pneumoperitoneum (Right Subdiaphragmatic Air)",
+      "originalPrompt": "03. Photograph of an erect chest X-ray (right-sided subdiaphragmatic air collection marked by arrow).\nWhat is the abnormality shown by the arrow, and most possible cause?  [CXR omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Right-sided subdiaphragmatic air collection (pneumoperitoneum). Causes: Perforated duodenal/peptic ulcer (most common), Perforated diverticulum, Bowel malignancy perforation, Necrotising enterocolitis, Penetrating abdominal trauma, Subdiaphragmatic gas-forming abscess.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_002_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Mechanical Intestinal Obstruction",
+    "imagePath": "images/surg/surg_002.webp",
+    "stem": "A 66-year-old woman presents with a 2-day history of severe colicky abdominal pain, bilious vomiting, progressive abdominal bloating, and failure to pass flatus or stool. Her plain abdominal radiograph is shown. After initial intravenous resuscitation and nasogastric decompression, which imaging modality is most definitive for confirming the transition point, identifying the underlying cause, and assessing for bowel ischaemia?",
+    "options": [
+      "Oral barium follow-through meal study",
+      "Transabdominal pelvic ultrasonography alone",
+      "Flexible sigmoidoscopy without insufflation",
+      "Contrast-enhanced CT of the abdomen and pelvis",
+      "Tc-99m pertechnetate scintigraphy scan"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Oral barium is contraindicated in suspected acute complete or strangulated bowel obstruction due to risks of inspissation and barium peritonitis if perforation occurs.",
+      "Incorrect: Abdominal ultrasound is limited by overlying bowel gas in acute obstruction and cannot reliably delineate deep transition points across the entire bowel.",
+      "Incorrect: Endoscopy carries perforation risk in acute obstruction and does not evaluate extraluminal causes such as adhesions or closed-loop small bowel ischaemia.",
+      "Correct: Contrast-enhanced CT of the abdomen and pelvis is the gold standard after initial plain radiography to confirm mechanical bowel obstruction, locate the transition point, determine the cause (e.g., adhesions, hernia, tumour), and detect strangulation.",
+      "Incorrect: Tc-99m pertechnetate scanning detects ectopic gastric mucosa in Meckel's diverticulum rather than acute adult mechanical intestinal obstruction."
+    ],
+    "clinicalPearl": "Plain erect and supine abdominal X-rays screen for dilated loops and air-fluid levels, whereas contrast-enhanced CT abdomen/pelvis defines the exact transition point, cause (adhesions, hernia, tumour, volvulus), and ischaemia.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Initial obstruction care includes NBM, IV fluids, and Ryle's tube decompression, followed by contrast-enhanced CT abdomen/pelvis to pinpoint the transition site and exclude strangulation."
+    },
+    "sourceStation": {
+      "id": "surg_002",
+      "title": "Intestinal Obstruction",
+      "originalPrompt": "05. A 66-year-old female presents with severe abdominal pain, vomiting, bloating, and not passing gas or stool for 2 days.\nWhat is the diagnosis? How do you investigate to confirm the diagnosis? Give 3 reasons for this happening.",
+      "verifiedAnswer": "Bowel (intestinal) obstruction. Investigations: Erect & supine Abdominal X-ray (dilated bowel loops with multiple air-fluid levels), Contrast CT abdomen/pelvis (transition point & cause), Ultrasound / Endoscopy (once stabilised/selected). Causes: Strangulated hernia, Colorectal carcinoma, Adhesions, Volvulus (sigmoid/caecal), Faecal impaction, Ascaris lumbricoides bolus.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_003_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Bilateral Subphrenic Pneumoperitoneum",
+    "imagePath": "images/surg/surg_003.webp",
+    "stem": "A 48-year-old man presents to the casualty unit with sudden epigastric pain and generalised abdominal guarding. An erect chest radiograph is obtained as shown. What is the principal radiological diagnosis?",
+    "options": [
+      "Bilateral basal subpulmonic pleural effusions",
+      "Right-sided Chilaiditi colonic interposition",
+      "Bilateral subphrenic free air (pneumoperitoneum)",
+      "Bilateral apical tension pneumothoraces",
+      "Bilateral lower-lobe bullous emphysema"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Subpulmonic effusions appear as homogeneous fluid opacity flattening and mimicking a high hemidiaphragm rather than sharp crescentic air lucencies beneath both domes.",
+      "Incorrect: Chilaiditi sign is asymptomatic colonic interposition beneath the right hemidiaphragm only, identifiable by visible colonic haustral markings rather than smooth bilateral free gas.",
+      "Correct: Smooth crescentic air lucencies beneath both the right and left hemidiaphragms (distinct from the gastric bubble below the left dome) confirm bilateral subphrenic pneumoperitoneum from hollow viscus perforation.",
+      "Incorrect: Pneumothorax demonstrates air within the pleural space outlining a retracted visceral pleural edge without peripheral lung markings, rather than subdiaphragmatic gas.",
+      "Incorrect: Bullous emphysema produces thin-walled parenchymal air spaces above the diaphragm within the lung fields rather than crescentic subphrenic collections."
+    ],
+    "clinicalPearl": "Always check beneath both hemidiaphragms on an erect chest X-ray: free subphrenic gas appears as a crisp crescent outlining the diaphragm's inferior border, unlike haustrated bowel in Chilaiditi sign.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Gas under both hemidiaphragms indicates bilateral pneumoperitoneum from hollow viscus perforation and must be differentiated from hepatodiaphragmatic colonic interposition (Chilaiditi sign)."
+    },
+    "sourceStation": {
+      "id": "surg_003",
+      "title": "Bilateral Subphrenic Air Collection",
+      "originalPrompt": "01)\na) What is the radiological diagnosis?\nb) Causes for that.",
+      "verifiedAnswer": "(a) Bilateral subphrenic air collection (pneumoperitoneum). (b) Causes: Perforated duodenal/peptic ulcer (most common), Ruptured appendix, Perforated diverticulum, Bowel obstruction with perforation, Bowel cancer, Penetrating trauma, Toxic megacolon.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_004_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Rectosigmoid Adenocarcinoma Staging",
+    "imagePath": "images/surg/surg_004.webp",
+    "stem": "A 65-year-old man presents with altered bowel habits, fresh per-rectal bleeding, and tenesmus. Colonoscopy demonstrates the ulcerated lesion shown at the rectosigmoid junction, and biopsy confirms the commonest malignant histological subtype. Which combination of imaging studies is specifically required next for complete local and distant staging prior to definitive surgical planning?",
+    "options": [
+      "Contrast CT chest, abdomen, and pelvis with pelvic MRI",
+      "Erect chest radiograph and supine abdominal radiograph alone",
+      "Endoscopic retrograde cholangiopancreatography and MRCP",
+      "Double-contrast barium enema and Meckel's radioisotope scan",
+      "Ultrasound KUB with technetium-99m bone scintigraphy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Colorectal adenocarcinoma (accounting for >95% of cases) requires contrast-enhanced CT of the chest, abdomen, and pelvis for nodal/liver/lung staging plus MRI pelvis to define local rectal/mesorectal fascia invasion.",
+      "Incorrect: Plain radiographs cannot stage hepatic metastases, regional lymphadenopathy, or circumferential resection margin involvement.",
+      "Incorrect: ERCP and MRCP evaluate the biliary tree and pancreatic duct rather than local or distant staging of rectosigmoid carcinoma.",
+      "Incorrect: Barium enema offers only luminal contour imaging without nodal or distant staging, and Meckel's scanning is irrelevant to colorectal neoplasia.",
+      "Incorrect: Ultrasound KUB and bone scans do not evaluate mesorectal tumour depth or pulmonary and hepatic parenchymal metastases adequately."
+    ],
+    "clinicalPearl": "Colorectal adenocarcinoma staging combines CECT chest/abdomen/pelvis (distant liver/lung metastases) with pelvic MRI (local T-stage and mesorectal margin) plus baseline serum CEA for post-operative surveillance.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Preoperative staging of colorectal adenocarcinoma includes CECT chest/abdomen/pelvis and pelvic MRI alongside baseline CEA to guide surgery and post-operative recurrence monitoring."
+    },
+    "sourceStation": {
+      "id": "surg_004",
+      "title": "Rectosigmoid Adenocarcinoma (Colonoscopy)",
+      "originalPrompt": "01) 65-year-old male undergoing a colonoscopy shows the following appearance at the rectosigmoid junction.\n1) List three (3) symptoms you will see in this patient.\n2) What is the most probable histological diagnosis?\n3) List two specific investigations that you should do to decide on further management.",
+      "verifiedAnswer": "(1) Symptoms: Altered bowel habits (new-onset constipation/diarrhoea), Fresh per-rectal bleeding / blood mixed with stool, Tenesmus / feeling of incomplete evacuation, Unexplained weight loss / iron-deficiency anaemia. (2) Histology: Adenocarcinoma (colorectal adenocarcinoma). (3) Investigations: Contrast-enhanced CT (CECT) chest, abdomen & pelvis (distant/nodal staging) and MRI pelvis (local rectal/mesorectal staging) ± serum CEA baseline and endoscopic biopsy.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_005_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Erect CXR Pneumoperitoneum — Aetiology",
+    "imagePath": "images/surg/surg_005.webp",
+    "stem": "A 59-year-old man presents with acute peritonitis and hypotension; his erect chest radiograph is shown. Which pair of surgical pathologies represents the commonest non-traumatic causes of this radiological appearance?",
+    "options": [
+      "Acute uncomplicated cholecystitis and ureteric colic",
+      "Adhesive small bowel obstruction and paralytic ileus",
+      "Acute oedematous pancreatitis and mesenteric adenitis",
+      "Intramural duodenal haematoma and splenic infarction",
+      "Perforated peptic ulcer and perforated colon carcinoma"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Uncomplicated biliary and ureteric stone disease do not breach the gastrointestinal lumen to release free intraperitoneal air.",
+      "Incorrect: Simple mechanical obstruction or adynamic ileus distends intraluminal bowel gas without producing free subdiaphragmatic air unless perforation supervenes.",
+      "Incorrect: Acute oedematous pancreatitis and mesenteric adenitis cause retroperitoneal or peritoneal inflammation without hollow viscus perforation.",
+      "Incorrect: Intramural haematoma and splenic infarction remain confined to organ parenchyma or bowel wall without releasing intraluminal gas into the peritoneal cavity.",
+      "Correct: Free air under the diaphragm reflects gastrointestinal perforation, most frequently due to a perforated peptic (duodenal/gastric) ulcer or perforated colonic pathology (carcinoma, diverticulitis, or ruptured appendix)."
+    ],
+    "clinicalPearl": "Pneumoperitoneum in a patient with peritonism signals a surgical emergency—perforated peptic ulcer and colonic perforation (malignancy/diverticulitis) top the differential.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Free subdiaphragmatic gas signifies hollow viscus perforation, chiefly from perforated peptic ulcer disease or perforated colonic malignancy/diverticulitis."
+    },
+    "sourceStation": {
+      "id": "surg_005",
+      "title": "Pneumoperitoneum on Erect CXR",
+      "originalPrompt": "2)\n• What is the diagnosis?\n• Write 2 causes.",
+      "verifiedAnswer": "Air under the diaphragm (pneumoperitoneum). Causes: Perforated peptic (duodenal/gastric) ulcer, Bowel perforation (malignancy, diverticulitis, ruptured appendix), Trauma.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_006_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Surg Q9",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Prolapsed Thrombosed Haemorrhoid",
+    "imagePath": "images/surg/surg_006.webp",
+    "stem": "A 42-year-old man with chronic constipation presents to casualty with severe, unremitting anal pain and an irreducible, tense, dark-purple perianal mass with surface bleeding for 24 hours, as shown. What is the most likely diagnosis and the definitive surgical procedure indicated if severe pain or impending necrosis persists within 48–72 hours?",
+    "options": [
+      "Intersphincteric perianal abscess; loop colostomy formation",
+      "Full-thickness rectal prolapse; laparoscopic ventral rectopexy",
+      "Thrombosed prolapsed haemorrhoid; urgent haemorrhoidectomy",
+      "Chronic posterior anal fissure; botulinum toxin injection",
+      "Perianal squamous carcinoma; inguinal lymph node dissection"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: An abscess presents as a fluctuant, erythematous perianal swelling requiring simple incision and drainage rather than faecal diversion.",
+      "Incorrect: Full-thickness rectal prolapse shows concentric mucosal rings rather than an isolated engorged, thrombosed vascular cushion.",
+      "Correct: A tense, irreducible, purplish haemorrhoidal mass indicates an acute thrombosed/strangulated prolapsed haemorrhoid; within 48–72 hours of severe pain or gangrene, urgent surgical haemorrhoidectomy provides definitive relief.",
+      "Incorrect: Anal fissures present with tearing pain on defaecation and a sentinel skin tag rather than a large irreducible dark congested vascular mass.",
+      "Incorrect: Perianal squamous cell carcinoma develops slowly as an indurated ulcerating plaque rather than an acute 24-hour painful thrombosed swelling."
+    ],
+    "clinicalPearl": "Acute thrombosed prolapsed haemorrhoids presenting within 48–72 hours with severe pain or necrosis benefit from urgent haemorrhoidectomy; late (>72 h) resolving cases are managed conservatively with analgesia, sitz baths, and stool softeners.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Acute thrombosed prolapsed haemorrhoids require pain control and stool softeners, with urgent haemorrhoidectomy reserved for severe pain or strangulation within 48–72 hours."
+    },
+    "sourceStation": {
+      "id": "surg_006",
+      "title": "Prolapsed Thrombosed Haemorrhoid",
+      "originalPrompt": "09.\n9.1 What is the most likely cause?\n9.2 What is the most appropriate next step in the management?",
+      "verifiedAnswer": "(9.1) Thrombosed / strangulated prolapsed internal (or external) haemorrhoid. (9.2) Management: Analgesia, stool softeners, ice packs/warm sitz baths, and rest; if presenting acutely within 48–72 hours with severe pain/gangrene, perform urgent surgical haemorrhoidectomy (or clot evacuation under local anaesthesia for external thrombosed perianal haematoma).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_007_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Surg Q10",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Splenomegaly & Blood Film Findings",
+    "imagePath": "images/surg/surg_007.webp",
+    "stem": "An 18-year-old male undergoing diagnostic laparoscopy for left upper quadrant pain is found to have gross splenomegaly with surface nodularity and cystic changes, as shown. Which pair of peripheral blood smear findings would specifically reflect chronic haemolytic disease or functional hyposplenism in this patient?",
+    "options": [
+      "Auer rods and circulating myeloblasts",
+      "Howell-Jolly bodies and erythrocyte target cells",
+      "Hypersegmented neutrophils and macro-ovalocytes",
+      "Smudge cells and mature lymphocytosis",
+      "Rouleaux formation and circulating plasma cells"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Auer rods inside myeloblasts are pathognomonic for acute myeloid leukaemia rather than functional hyposplenism or haemolytic anaemia.",
+      "Correct: Target cells (seen in thalassaemia/haemoglobinopathies causing splenomegaly) and Howell-Jolly bodies (nuclear remnants cleared by a functioning spleen) classically appear on the blood film in haemolytic/hyposplenic states.",
+      "Incorrect: Hypersegmented neutrophils and macro-ovalocytes are characteristic of vitamin B12 or folate deficiency (megaloblastic anaemia).",
+      "Incorrect: Smudge (basket) cells with mature lymphocytosis are typical of chronic lymphocytic leukaemia.",
+      "Incorrect: Marked rouleaux formation with circulating plasma cells points toward multiple myeloma rather than splenic haemolytic or hyposplenic pathology."
+    ],
+    "clinicalPearl": "Always correlate surgical splenomegaly with the peripheral blood picture: target cells, reticulocytosis, and Howell-Jolly bodies signal underlying haemoglobinopathy or functional hyposplenism.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Splenomegaly and post-splenectomy states require peripheral blood film review for target cells, reticulocytes, and Howell-Jolly bodies reflecting haemolysis or hyposplenism."
+    },
+    "sourceStation": {
+      "id": "surg_007",
+      "title": "Splenomegaly / Splenic Cysts (Laparoscopy)",
+      "originalPrompt": "10. 18-year-old boy presented to hospital with abdominal pain; on investigations the left upper quadrant of the abdomen shows the following finding (laparoscopic view).\n10.1 What is the abnormal finding of the investigation?\n10.2 Mention 2 features of the blood picture of this patient.",
+      "verifiedAnswer": "(10.1) Gross splenomegaly (with splenic cysts/nodularity/infarcts). (10.2) Blood picture features (reflecting underlying haemolytic anaemia or hyposplenism): Target cells, Howell-Jolly bodies (if functional hyposplenism/post-splenectomy), Spherocytes / sickle cells / microcytic hypochromic cells, Reticulocytosis / polychromasia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_008_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Oesophageal Carcinoma Post-Corrosive Stricture",
+    "imagePath": null,
+    "stem": "A 52-year-old man presents with progressive dysphagia to solids and liquids. Upper GI endoscopy identifies a mid-oesophageal malignant lesion, and staging CT reveals distant metastases. Fifteen years ago he suffered accidental corrosive lye ingestion. Which histological type and pair of commonest visceral metastatic sites are expected?",
+    "options": [
+      "Adenocarcinoma; spleen and kidneys",
+      "Gastrointestinal stromal tumour; pancreas and pleura",
+      "Small cell carcinoma; myocardium and thyroid gland",
+      "Squamous cell carcinoma; liver and lungs",
+      "MALT lymphoma; brain and testes"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Oesophageal adenocarcinoma arises predominantly in the distal third from Barrett's oesophagus and gastro-oesophageal reflux rather than post-corrosive mid-oesophageal strictures.",
+      "Incorrect: GISTs are mesenchymal submucosal tumours unrelated to caustic stricture carcinogenesis and spread mainly to liver and peritoneum.",
+      "Incorrect: Primary oesophageal small cell carcinoma is rare and does not preferentially metastasise to myocardium and thyroid.",
+      "Correct: Prior corrosive lye ingestion confers up to a 1000-fold lifetime risk of mid-oesophageal squamous cell carcinoma, which spreads haematogenously most commonly to the liver and lungs.",
+      "Incorrect: Gastric MALT lymphoma is linked to Helicobacter pylori infection rather than caustic oesophageal strictures."
+    ],
+    "clinicalPearl": "A history of caustic ingestion decades earlier strongly predisposes to mid-oesophageal squamous cell carcinoma; always evaluate liver and lungs on staging CT.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Post-corrosive strictures predispose to mid-oesophageal squamous cell carcinoma, requiring staging imaging focused on the liver and lungs."
+    },
+    "sourceStation": {
+      "id": "surg_008",
+      "title": "Oesophageal Carcinoma Post-Corrosive Ingestion",
+      "originalPrompt": "5. A man presented with progressive dysphagia. He has a past history of corrosive ingestion 15 years back. His mother has breast carcinoma. He is on oral hypoglycaemics. UGIE showed a mid-oesophageal lesion; biopsy showed oesophageal carcinoma. CT scan showed distant metastases.\n5.1 Give 2 facts from history that would have contributed to oesophageal carcinoma.\n5.2 Give 2 histological types of oesophageal cancer.\n5.3 Give 2 most likely distant metastasis sites.  [Text-only station in original PPTX]",
+      "verifiedAnswer": "(5.1) Risk factors: Past corrosive ingestion (lye stricture — 1000-fold increased risk of SCC) and family history of malignancy (or male sex/metabolic syndrome/GERD in DM). (5.2) Histological types: Squamous cell carcinoma (SCC) (classic in mid-oesophagus & post-corrosive) and Adenocarcinoma. (5.3) Distant metastasis sites: Liver and Lungs (also non-regional lymph nodes, bone, adrenals).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_009_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Surg Q7",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Acute Upper Abdominal Pain Analgesia",
+    "imagePath": "images/surg/surg_009.webp",
+    "stem": "A 55-year-old man presents with acute, severe upper abdominal pain, as illustrated. While urgent ECG, serum amylase, and erect chest radiography are arranged to exclude perforated peptic ulcer, acute pancreatitis, acute cholecystitis, and inferior myocardial infarction, which analgesic regimen is safest and most effective for immediate relief?",
+    "options": [
+      "Titrated intravenous morphine with an antiemetic plus IV paracetamol",
+      "High-dose oral ibuprofen tablets combined with oral codeine phosphate",
+      "Intramuscular diclofenac bolus prior to renal and ulcer exclusion",
+      "Withholding all analgesia completely until diagnostic laparotomy finishes",
+      "Sublingual glyceryl trinitrate spray with loading oral aspirin tablets"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Early titrated IV morphine (2–5 mg with an antiemetic) combined with IV paracetamol (1 g) provides effective, safe analgesia in severe acute abdominal pain without masking true peritoneal signs or risking ulcer bleeding.",
+      "Incorrect: Oral medications are poorly absorbed in acute abdominal emergencies (especially with vomiting/ileus), and oral NSAIDs risk severe worsening if a perforated peptic ulcer is present.",
+      "Incorrect: Parenteral NSAIDs such as diclofenac should be avoided until peptic ulcer perforation, GI haemorrhage, and acute kidney injury have been ruled out.",
+      "Incorrect: Withholding analgesia is outdated and inhumane; titrated IV opioids facilitate physical examination without obscuring genuine peritonism.",
+      "Incorrect: Aspirin is hazardous if upper GI ulceration or perforation is present, and GTN does not address surgical causes of acute upper abdominal pain."
+    ],
+    "clinicalPearl": "Never withhold analgesia in acute abdomen: titrated IV morphine (with antiemetic) plus IV paracetamol is safe, whereas NSAIDs must wait until peptic ulcer and renal impairment are excluded.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Pain control follows the WHO analgesic ladder; NSAIDs are contraindicated when peptic ulcer risk or renal impairment is present, favouring titrated IV opioids and IV paracetamol."
+    },
+    "sourceStation": {
+      "id": "surg_009",
+      "title": "Acute Severe Upper Abdominal Pain & Analgesia",
+      "originalPrompt": "7. A 55-year-old male presented with acute, severe, upper abdominal pain.\n7.1 Give three (03) possible causes for this pain.\n7.2 Name two (02) drugs used for his pain relief with their routes of administration.",
+      "verifiedAnswer": "(7.1) Causes: Acute pancreatitis, Perforated peptic ulcer, Acute cholecystitis / biliary colic, Acute myocardial infarction (inferior), Ruptured AAA / Mesenteric ischaemia. (7.2) Analgesics & routes: (1) IV Morphine (titrated slowly, 2–5 mg IV with antiemetic) or IV/IM Pethidine / Fentanyl; (2) IV Paracetamol (1 g IV 6-hourly) or PR Diclofenac (100 mg suppository, only if renal function normal & no PUD/bleeding risk).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_010_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Ascending Colon Carcinoma Definitive Surgery",
+    "imagePath": "images/surg/surg_010.webp",
+    "stem": "A 50-year-old man presents with altered bowel habits and anaemia. Colonoscopy reveals the friable, polypoidal malignant tumour shown in the ascending colon, confirmed as adenocarcinoma on biopsy without distant metastases on staging CT. What is the definitive surgical resection of choice?",
+    "options": [
+      "Anterior resection with total mesorectal excision",
+      "Abdominoperineal resection with permanent end colostomy",
+      "Hartmann's procedure with descending end colostomy",
+      "Endoscopic mucosal resection without lymphadenectomy",
+      "Right hemicolectomy and primary ileocolic anastomosis"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Anterior resection removes mid/upper rectal and distal sigmoid tumours rather than right-sided ascending colon malignancies.",
+      "Incorrect: Abdominoperineal resection is indicated for very low rectal cancers involving the anal sphincter.",
+      "Incorrect: Hartmann's procedure resects the rectosigmoid colon and leaves a rectal stump, typically in emergency left-sided obstruction or perforation.",
+      "Incorrect: Endoscopic mucosal resection is reserved for superficial T1/dysplastic polyps and cannot provide adequate regional mesenteric lymph node clearance for invasive adenocarcinoma.",
+      "Correct: Curative surgical resection for ascending colon adenocarcinoma requires a right hemicolectomy (resecting terminal ileum, caecum, ascending colon, and proximal transverse colon along the ileocolic and right colic vessels) with ileocolic anastomosis."
+    ],
+    "clinicalPearl": "Colonic adenocarcinoma resections follow lymphatic and arterial supply: ascending colon tumours require right hemicolectomy with ileocolic/right colic pedicle ligation.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Resection of right-sided colonic adenocarcinoma (right hemicolectomy) requires bowel preparation or ERAS protocol, stoma counselling, and IV cefuroxime plus metronidazole at induction."
+    },
+    "sourceStation": {
+      "id": "surg_010",
+      "title": "Ascending Colon Adenocarcinoma (Colonoscopy)",
+      "originalPrompt": "Question 01\nA 50-year-old male presented with altered bowel habits and underwent a colonoscopy where a malignant tumour was detected in the ascending colon.\n1.1 List 3 features of the lesion which you would include in the endoscopy report. (6 marks)\n1.2 What is the most probable histological type of this lesion? (2 marks)\n1.3 What is definitive surgery in the management of this patient? (2 marks)",
+      "verifiedAnswer": "(1.1) Features: Polypoidal tumour protruding into lumen, light pink/friable appearance, irregular margin of attachment / surface ulceration. (1.2) Histology: Adenocarcinoma. (1.3) Definitive surgery: Right hemicolectomy.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_011_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Elective Splenectomy Preoperative Prophylaxis",
+    "imagePath": "images/surg/surg_011.webp",
+    "stem": "A 34-year-old woman with refractory immune thrombocytopenia is scheduled for elective surgical removal of the organ circled and labelled 'A' on the diagram. Which specific preoperative precaution must be completed at least 2 weeks before surgery to prevent overwhelming post-splenectomy sepsis?",
+    "options": [
+      "Fourteen-day course of oral metronidazole and ciprofloxacin",
+      "Preoperative radioiodine ablation of accessory parenchyma",
+      "Vaccination against pneumococcus, meningococcus, and Hib",
+      "Mechanical bowel preparation using four sachets of PEG",
+      "Intravenous vitamin K and fresh frozen plasma infusion"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Empirical preoperative broad-spectrum oral antibiotics do not confer long-term protection against encapsulated organisms post-splenectomy.",
+      "Incorrect: Radioiodine ablation applies to thyroid disorders, not splenic haematological surgery.",
+      "Correct: Vaccinating against encapsulated bacteria (Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae type b) at least 2 weeks prior to elective splenectomy maximises humoral immunity and prevents fatal overwhelming post-splenectomy sepsis.",
+      "Incorrect: Mechanical bowel preparation with PEG is specific to colorectal procedures and colonoscopy, not elective splenectomy.",
+      "Incorrect: Vitamin K and FFP correct coagulopathy rather than preventing post-splenectomy bacterial sepsis."
+    ],
+    "clinicalPearl": "Elective splenectomy mandates vaccination against encapsulated organisms (S. pneumoniae, N. meningitidis, H. influenzae type b) ≥2 weeks preoperatively, plus post-op antibiotic prophylaxis.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Elective splenectomy requires specific preoperative immunisation against encapsulated organisms at least 2 weeks before surgery to prevent overwhelming post-splenectomy sepsis."
+    },
+    "sourceStation": {
+      "id": "surg_011",
+      "title": "Elective Splenectomy — Complications & Pre-op Prophylaxis",
+      "originalPrompt": "Question 02\n2.1 What is the organ indicated by letter A? (2 marks)\n2.2 List 3 complications specific to elective removal of this organ. (6 marks)\n2.3 Name one preoperative precaution specific for this surgery. (2 marks)",
+      "verifiedAnswer": "(2.1) Spleen. (2.2) Complications: Overwhelming post-splenectomy sepsis (OPSS), Portal/splenic vein thrombosis, Subphrenic abscess, Reactionary haemorrhage/haematoma, Injury to pancreatic tail (acute pancreatitis / pancreatic fistula), Splenosis. (2.3) Pre-op precaution: Vaccinate against encapsulated organisms (Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae type b) at least 2 weeks before elective surgery (plus lifelong/prophylactic penicillin V as per protocol).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_012_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Chronic Calcific Pancreatitis",
+    "imagePath": "images/surg/surg_012.webp",
+    "stem": "A 40-year-old man with chronic alcohol misuse presents with recurrent severe epigastric pain radiating to the back and marked weight loss. His plain abdominal radiograph is shown. Which clinical triad most characteristically accompanies the diagnosis indicated by the arrows?",
+    "options": [
+      "Painless obstructive jaundice, pale stools, and palpable gallbladder",
+      "Chronic epigastric pain, malabsorptive steatorrhoea, and diabetes",
+      "Colicky abdominal pain, bilious vomiting, and absolute constipation",
+      "Right upper quadrant pain, spiking fever, and shaking rigors",
+      "Early satiety, projectile non-bilious vomiting, and succussion splash"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Painless jaundice with a palpable gallbladder (Courvoisier's law) suggests periampullary or pancreatic head carcinoma rather than chronic calcific pancreatitis.",
+      "Correct: Multiple speckled pancreatic calcifications across L1–L2 confirm chronic calcific pancreatitis, classically presenting with the triad of chronic pancreatic pain, exocrine insufficiency (steatorrhoea), and endocrine insufficiency (diabetes mellitus).",
+      "Incorrect: Colicky pain, bilious vomiting, and absolute constipation define mechanical intestinal obstruction.",
+      "Incorrect: Right upper quadrant pain, fever, and rigors form Charcot's triad of acute ascending cholangitis (with jaundice).",
+      "Incorrect: Non-bilious vomiting with a succussion splash points to gastric outlet obstruction rather than pancreatic parenchymal calcification."
+    ],
+    "clinicalPearl": "Pancreatic calcifications crossing the midline at L1–L2 on a plain X-ray are pathognomonic for chronic calcific pancreatitis—look for pain, steatorrhoea, and secondary brittle diabetes.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Chronic calcific pancreatitis causes endocrine insufficiency (diabetes mellitus) requiring preoperative HbA1c and glycaemic optimisation prior to surgical intervention."
+    },
+    "sourceStation": {
+      "id": "surg_012",
+      "title": "Chronic Calcific Pancreatitis — Abdominal X-Ray",
+      "originalPrompt": "05. A 40-year-old male presents with chronic abdominal pain and weight loss. The X-ray is shown.\n5.1 What is the abnormality shown by the arrows?\n5.2 State the condition.\n5.3 State three clinical features of this condition.",
+      "verifiedAnswer": "(5.1) Multiple pancreatic calcifications across the head, body, and tail (L1–L2). (5.2) Condition: Chronic calcific pancreatitis. (5.3) Clinical features: Chronic epigastric pain radiating to back (relieved by leaning forward), Steatorrhoea (exocrine pancreatic insufficiency), Diabetes mellitus (endocrine insufficiency / brittle DM), Significant weight loss/malnutrition.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_013_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN (13 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Oesophageal Candidiasis Post-Liver Transplant",
+    "imagePath": "images/surg/surg_013.webp",
+    "stem": "A 55-year-old man who underwent liver transplantation 3 years ago presents with dysphagia and odynophagia. Upper gastrointestinal endoscopy demonstrates the diffuse white mucosal plaques shown. Which causative organism and precipitating medication regimen best explain this presentation?",
+    "options": [
+      "Candida albicans; calcineurin inhibitors and corticosteroids",
+      "Helicobacter pylori; high-dose oral proton pump inhibitors",
+      "Clostridioides difficile; oral lactulose and rifaximin",
+      "Cytomegalovirus; loop diuretics and non-selective beta-blockers",
+      "Aspergillus fumigatus; ursodeoxycholic acid monotherapy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: White adherent oesophageal plaques in a solid-organ transplant recipient are classic for Candida albicans oesophagitis triggered by maintenance immunosuppression (tacrolimus/ciclosporin, mycophenolate, and corticosteroids).",
+      "Incorrect: Helicobacter pylori colonises gastric mucosa causing gastritis and peptic ulceration rather than white oesophageal plaques.",
+      "Incorrect: Clostridioides difficile causes pseudomembranous colitis in the colon rather than upper GI oesophageal plaques.",
+      "Incorrect: CMV oesophagitis produces deep punched-out linear ulcers rather than raised creamy plaques, and diuretics/beta-blockers do not cause opportunistic fungal infection.",
+      "Incorrect: Ursodeoxycholic acid is non-immunosuppressive and does not predispose to oesophageal candidiasis."
+    ],
+    "clinicalPearl": "Creamy white plaques coating the oesophagus in an immunocompromised transplant or steroid-treated patient signify oesophageal candidiasis, treated with systemic fluconazole.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Post-transplant immunosuppression (calcineurin inhibitors and corticosteroids) predisposes to opportunistic Candida albicans oesophagitis presenting as dysphagia on upper GI endoscopy."
+    },
+    "sourceStation": {
+      "id": "surg_013",
+      "title": "Oesophageal Candidiasis Post-Liver Transplant",
+      "originalPrompt": "4.1 A 55-year-old male presented with dysphagia a few years after liver transplantation. What is the likely organism that causes the condition found in the endoscopy below?\n4.2 What medication could have led to this?",
+      "verifiedAnswer": "(4.1) Organism: Candida albicans (oesophageal candidiasis). (4.2) Precipitating medications: Immunosuppressants (tacrolimus, ciclosporin, mycophenolate mofetil, azathioprine) and corticosteroids (prednisolone) required after liver transplantation (also broad-spectrum antibiotics).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_014_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Graves' Thyrotoxicosis Signs",
+    "imagePath": "images/surg/surg_014.webp",
+    "stem": "A 30-year-old woman presents with heat intolerance, palpitations, increased sweating, and weight loss despite an increased appetite. Her facial photograph is shown. Which additional physical examination finding specifically supports the autoimmune cause of her thyrotoxicosis rather than toxic multinodular goitre?",
+    "options": [
+      "Hard, fixed solitary thyroid nodule with cervical lymphadenopathy",
+      "Midline subhyoid cyst elevating on tongue protrusion",
+      "Asymmetrical nodular goitre with tracheal deviation and absent bruit",
+      "Diffuse smooth goitre with a systolic bruit and pretibial myxoedema",
+      "Bradycardia with hung-up ankle reflexes and periorbital puffiness"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A hard, fixed solitary nodule with lymphadenopathy suggests thyroid carcinoma rather than autoimmune Graves' disease.",
+      "Incorrect: A midline subhyoid lump moving on tongue protrusion describes a thyroglossal duct cyst, not Graves' thyrotoxicosis.",
+      "Incorrect: An asymmetrical nodular goitre without bruit or ophthalmopathy favours toxic multinodular goitre rather than Graves' disease.",
+      "Correct: Graves' disease is uniquely characterised by TSH-receptor autoantibodies causing ophthalmopathy (exophthalmos/lid retraction as shown), a diffuse vascular goitre with an audible bruit, and pretibial myxoedema.",
+      "Incorrect: Bradycardia, delayed-relaxation ankle jerks, and myxoedematous puffiness indicate hypothyroidism rather than thyrotoxicosis."
+    ],
+    "clinicalPearl": "Exophthalmos, pretibial myxoedema, and a diffuse goitre with an audible bruit distinguish autoimmune Graves' disease from other causes of thyrotoxicosis.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Patients with Graves' thyrotoxicosis require preoperative thyroid function testing and medical euthyroid optimisation before elective thyroidectomy."
+    },
+    "sourceStation": {
+      "id": "surg_014",
+      "title": "Graves' Thyrotoxicosis",
+      "originalPrompt": "Q.3\nA 30-year-old female with recent-onset increased sweating and weight loss despite increased appetite presents to you.\nA.) What is the diagnosis?\nB.) List 4 specific physical signs you would observe in this condition on her physical examination.",
+      "verifiedAnswer": "(A) Graves' disease / Thyrotoxicosis. (B) Physical signs: Fine resting tremor of outstretched hands, Warm sweaty palms, Resting tachycardia / atrial fibrillation, Diffuse smooth goitre with thyroid bruit, Exophthalmos, lid lag, and lid retraction, Pretibial myxoedema, Thyroid acropachy.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_015_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Thyroglossal Duct Cyst Workup",
+    "imagePath": "images/surg/surg_015.webp",
+    "stem": "A child presents with the painless, smooth midline neck swelling shown, located just below the hyoid bone, which moves upward on both swallowing and tongue protrusion. Before performing a Sistrunk excision, which imaging combination is essential to exclude an ectopic thyroid gland as the sole functioning thyroid tissue?",
+    "options": [
+      "Fine-needle aspiration cytology alone without neck imaging",
+      "Lateral soft-tissue radiograph of the cervical spine",
+      "Contrast-enhanced CT angiography of the aortic arch",
+      "Barium swallow with videofluoroscopic manometry",
+      "Ultrasound neck and Tc-99m radioisotope thyroid scan"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Cytology alone cannot confirm whether normal orthotopic thyroid lobes are present in the lower neck.",
+      "Incorrect: Plain cervical radiographs cannot reliably distinguish cystic remnants from functioning ectopic thyroid tissue.",
+      "Incorrect: CT angiography evaluates major vessels rather than thyroid embryological tissue distribution.",
+      "Incorrect: Barium swallow assesses oesophageal motility and lumen, not midline congenital neck cysts.",
+      "Correct: Ultrasound of the neck confirms a normal orthotopic thyroid gland in the lower neck, and a Tc-99m (or I-123) radioisotope scan verifies whether the midline mass is sole functioning ectopic thyroid tissue—preventing inadvertent lifelong hypothyroidism."
+    ],
+    "clinicalPearl": "Never excise a midline neck swelling moving with tongue protrusion without first confirming an orthotopic thyroid gland on ultrasound/radioisotope scan, lest you remove a lingual/ectopic thyroid.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Preoperative condition-specific assessment (ultrasound and thyroid imaging) confirms normal orthotopic thyroid tissue before excising a thyroglossal cyst."
+    },
+    "sourceStation": {
+      "id": "surg_015",
+      "title": "Thyroglossal Duct Cyst",
+      "originalPrompt": "02. Picture of a midline neck lump (thyroglossal cyst).\nWhat is the diagnosis? How do you differentiate it from an ectopic thyroid?",
+      "verifiedAnswer": "Thyroglossal cyst (clinically moves upward with both swallowing AND tongue protrusion). Differentiate from ectopic thyroid: By radiological imaging — Ultrasound neck (confirms presence of a normal orthotopic thyroid gland in the lower neck) and Radioisotope thyroid scan (Tc-99m / I-123) before excision (removing an ectopic thyroid if no normal gland exists causes lifelong hypothyroidism!).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_016_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Subclinical Hyperthyroidism",
+    "imagePath": null,
+    "stem": "During preoperative assessment for an elective cholecystectomy, a 58-year-old clinically euthyroid woman has thyroid function tests showing a suppressed serum TSH (<0.05 mIU/L) with serum free T3 and free T4 concentrations within the normal reference range. What is the most accurate biochemical diagnosis?",
+    "options": [
+      "Overt primary hyperthyroidism",
+      "Subclinical hyperthyroidism",
+      "Subclinical hypothyroidism",
+      "Secondary central hypothyroidism",
+      "Thyroid storm (thyrotoxic crisis)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Overt primary hyperthyroidism requires elevated free T4 and/or free T3 in addition to a suppressed TSH.",
+      "Correct: A suppressed serum TSH alongside normal circulating free T3 and free T4 defines subclinical hyperthyroidism.",
+      "Incorrect: Subclinical hypothyroidism is defined by an elevated TSH with normal free T4 and free T3.",
+      "Incorrect: Secondary (central) hypothyroidism features a low free T4 accompanied by a low or inappropriately normal TSH.",
+      "Incorrect: Thyroid storm is a life-threatening clinical decompensation with overt thyrotoxicosis rather than an asymptomatic euthyroid screening result."
+    ],
+    "clinicalPearl": "Suppressed TSH + normal free T3/T4 = subclinical hyperthyroidism; elevated TSH + normal free T4 = subclinical hypothyroidism.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Condition-specific preoperative thyroid function tests identify subclinical hyperthyroidism (low TSH with normal T3/T4) that warrants atrial fibrillation and anaesthetic risk review."
+    },
+    "sourceStation": {
+      "id": "surg_016",
+      "title": "Subclinical Hyperthyroidism",
+      "originalPrompt": "04. Thyroid function test result: TSH low, T3 and T4 normal.\nWhat is the diagnosis?  [Text-only station]",
+      "verifiedAnswer": "Subclinical hyperthyroidism.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_017_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Infected Epidermoid (Sebaceous) Cyst",
+    "imagePath": "images/surg/surg_017.webp",
+    "stem": "A 45-year-old man presents with a pre-existing, non-progressive lump on his lower neck that recently became painful, swollen, warm, and erythematous, as shown. Which two-stage management strategy is most appropriate?",
+    "options": [
+      "Immediate primary elliptical excision and tight subcuticular skin closure",
+      "Simple needle aspiration followed by intralesional corticosteroid injection",
+      "Antibiotics plus drainage if abscessed, then elective cyst wall excision",
+      "Warm compresses alone with permanent discharge and no future excision",
+      "Wide radical excision with 2 cm margins and ipsilateral lymphadenectomy"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Excising an acutely inflamed cyst risks wound dehiscence, infection spread, and incomplete removal of the friable cyst wall leading to recurrence.",
+      "Incorrect: Intralesional steroid injection is used for keloids or inflammatory dermatoses, not an acutely infected epidermoid abscess.",
+      "Correct: An infected sebaceous (epidermoid) cyst requires antibiotics (± incision and drainage if pus has formed), followed by definitive surgical excision of the entire cyst wall and punctum once acute inflammation resolves.",
+      "Incorrect: Leaving the intact epithelial lining behind guarantees recurrent infection once antibiotics stop.",
+      "Incorrect: Wide oncological excision and lymphadenectomy are unwarranted for a benign cutaneous epidermoid cyst."
+    ],
+    "clinicalPearl": "Never attempt definitive primary excision of an acutely infected sebaceous cyst; drain/treat infection first, then excise the entire capsule and punctum electively to prevent recurrence.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "Infected cysts undergo casualty incision and drainage (using the I&D packet with No. 3 BP handle and sinus forceps) followed by elective excision once inflammation settles."
+    },
+    "sourceStation": {
+      "id": "surg_017",
+      "title": "Infected Sebaceous (Epidermoid) Cyst",
+      "originalPrompt": "3. A 45-year-old man presented to the surgery clinic with a lump in neck/back. Patient complains that it is very painful and tender, and is non-progressive. On examination, it was red and warm (central punctum).\n1. What is your diagnosis?\n2. List 3 features of acute inflammation of this lump.\n3. What is the best treatment for this condition?",
+      "verifiedAnswer": "(1) Infected sebaceous (epidermoid) cyst. (2) Features of acute inflammation: Redness (rubor), Warmth (calor), Pain/tenderness (dolor), Swelling (tumor). (3) Treatment: Initial antibiotics ± incision & drainage if abscess formed; complete surgical excision (including cyst wall & punctum) once acute inflammation has settled to prevent recurrence.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_018_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Post-Thyroidectomy Hypocalcaemia (Trousseau's Sign)",
+    "imagePath": "images/surg/surg_018.webp",
+    "stem": "On the first postoperative day after a total thyroidectomy for Graves' disease, a 35-year-old woman develops circumoral numbness and tingling of her hands and feet. Inflating a blood pressure cuff on her upper arm above systolic pressure induces the hand posture shown. What is this sign and the responsible biochemical abnormality?",
+    "options": [
+      "Trousseau's sign; hypocalcaemia from hypoparathyroidism",
+      "Chvostek's sign; hyperkalaemia from tissue necrosis",
+      "Pemberton's sign; hypomagnesaemia with metabolic alkalosis",
+      "Froment's sign; acute ulnar nerve entrapment at the elbow",
+      "Phalen's sign; postoperative hypercalcaemic crisis"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Carpopedal spasm (wrist and MCP flexion, IP extension, thumb adduction) provoked by brachial artery cuff occlusion is Trousseau's sign, caused by acute post-thyroidectomy hypocalcaemia from parathyroid gland ischaemia or inadvertent excision.",
+      "Incorrect: Chvostek's sign is ipsilateral facial muscle twitching elicited by tapping the facial nerve anterior to the tragus, and hyperkalaemia does not cause carpopedal spasm.",
+      "Incorrect: Pemberton's sign is facial plethora and venous engorgement on arm elevation in retrosternal goitre causing thoracic inlet obstruction.",
+      "Incorrect: Froment's sign tests adductor pollicis weakness in ulnar neuropathy, not hypocalcaemic tetany.",
+      "Incorrect: Phalen's sign evaluates median nerve compression in carpal tunnel syndrome, not acute hypocalcaemia."
+    ],
+    "clinicalPearl": "Trousseau's sign (carpopedal spasm with BP cuff inflation) is more specific than Chvostek's sign for post-thyroidectomy hypocalcaemia; severe tetany or stridor requires immediate IV calcium gluconate.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Hypocalcaemia is a key early post-thyroidectomy complication presenting with circumoral paraesthesia, Trousseau's sign, and Chvostek's sign."
+    },
+    "sourceStation": {
+      "id": "surg_018",
+      "title": "Trousseau's Sign (Post-Thyroidectomy Hypocalcaemia)",
+      "originalPrompt": "4) A 35-year-old lady who underwent total thyroidectomy for Graves' disease developed circumoral numbness and tingling sensation over the hands and feet the following day. On examination, the following sign was elicited.\n1) What is the sign?\n2) Name one other sign to confirm the diagnosis of the above sign.\n3) What is the biochemical abnormality in this patient?",
+      "verifiedAnswer": "(1) Trousseau's sign (carpopedal spasm: flexion of wrist & MCP joints, extension of IP joints, thumb adduction). (2) Other sign: Chvostek's sign (ipsilateral facial muscle twitching on tapping facial nerve anterior to tragus). (3) Biochemical abnormality: Hypocalcaemia (secondary to transient/permanent hypoparathyroidism).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_019_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Breast Carcinoma Triple Assessment",
+    "imagePath": "images/surg/surg_019.webp",
+    "stem": "A 45-year-old woman presents with the left breast changes shown in the photograph, including nipple inversion and adjacent skin dimpling. As part of formal triple assessment, which initial radiological investigation is indicated alongside clinical examination and core needle biopsy?",
+    "options": [
+      "Contrast-enhanced CT thorax and upper abdomen",
+      "Whole-body FDG positron emission tomography (PET-CT)",
+      "Plain anteroposterior chest radiograph and thoracic views",
+      "Bilateral diagnostic mammography with breast ultrasound",
+      "Technetium-99m whole-body bone scintigraphy scan"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: CT thorax/abdomen is used for systemic staging after histological confirmation of invasive malignancy, not as the initial breast diagnostic study.",
+      "Incorrect: Whole-body PET-CT is reserved for complex staging or recurrence evaluation rather than first-line breast imaging.",
+      "Incorrect: Chest radiography cannot image breast parenchymal microcalcifications or mass architecture.",
+      "Correct: At age ≥40 years, bilateral diagnostic mammography (often paired with targeted breast ultrasound) is the initial gold-standard radiological arm of triple assessment for suspected breast carcinoma.",
+      "Incorrect: Bone scintigraphy screens for osseous metastases post-diagnosis rather than evaluating a primary breast lesion."
+    ],
+    "clinicalPearl": "Triple assessment = clinical exam + breast imaging (mammography ± ultrasound in ≥40 yrs; ultrasound alone in <35 yrs) + core biopsy/FNAC.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Diagnostic confirmation precedes surgical planning; women ≥40 with nipple retraction and skin tethering undergo bilateral mammography plus breast ultrasound within triple assessment."
+    },
+    "sourceStation": {
+      "id": "surg_019",
+      "title": "Left Breast Carcinoma (Nipple Retraction & Skin Dimpling)",
+      "originalPrompt": "1. 45-year-old female presented with left breast changes as shown.\n1.1 List 2 abnormal physical signs that can be seen.\n1.2 What is the most likely diagnosis?\n1.3 What is the most suitable initial radiological investigation?",
+      "verifiedAnswer": "(1.1) Abnormal signs: Left nipple retraction/inversion and skin dimpling / tethering (peau d'orange/asymmetry). (1.2) Diagnosis: Left breast carcinoma. (1.3) Initial radiology: Bilateral Mammography (gold standard at age ≥ 40; combine with Breast Ultrasound as part of Triple Assessment).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_020_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Goitre Clinical Confirmation & Initial Workup",
+    "imagePath": "images/surg/surg_020.webp",
+    "stem": "A woman presents with the large anterior neck swelling shown in the photograph. Which combination of bedside clinical sign and initial radiological plus tissue investigations appropriately confirms thyroid involvement and evaluates the mass?",
+    "options": [
+      "Moves upward on tongue protrusion; CT chest and open incisional biopsy",
+      "Remains fixed on swallowing; cervical spine X-ray and punch biopsy",
+      "Displays expansile pulsation; carotid angiography and bone marrow biopsy",
+      "Transilluminates brightly; barium swallow and excisional lymph node biopsy",
+      "Moves upward with swallowing only; thyroid ultrasound and targeted FNAC"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Upward movement on tongue protrusion indicates a thyroglossal duct cyst rather than a thyroid goitre, and open biopsy is avoided initially.",
+      "Incorrect: Thyroid swellings move upward with swallowing via the pretracheal fascia unless fixed by advanced anaplastic invasion; plain X-ray and punch skin biopsy are inappropriate.",
+      "Incorrect: Expansile pulsation points to carotid aneurysm/vascular pathology rather than goitre.",
+      "Incorrect: Brilliant transillumination is characteristic of cystic hygroma rather than solid/multinodular thyroid goitre.",
+      "Correct: Pretracheal fascial attachment causes a thyroid goitre to rise on swallowing while staying stationary on tongue protrusion; first-line evaluation pairs thyroid ultrasound with fine-needle aspiration cytology (FNAC)."
+    ],
+    "clinicalPearl": "Swallowing moves both thyroid goitres and thyroglossal cysts upward, whereas tongue protrusion specifically moves thyroglossal cysts; ultrasound + FNAC are first-line investigations for thyroid nodules.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Thyroid swellings are evaluated with condition-specific TFTs, neck ultrasound, and fine-needle aspiration cytology (FNAC) prior to surgical planning."
+    },
+    "sourceStation": {
+      "id": "surg_020",
+      "title": "Goitre — Examination & Initial Investigations",
+      "originalPrompt": "2. A lady as shown in the picture presents with a neck lump suspected to be goitre.\n• List 2 physical signs to elicit to confirm that this is a goitre.\n• Name the suitable initial investigation for: (1) Radiological, (2) Tissue diagnosis.",
+      "verifiedAnswer": "(3.1) Signs confirming goitre: (a) Moves upward on swallowing (due to pretracheal fascia attachment to larynx); (b) Non-mobile on tongue protrusion (differentiates from thyroglossal cyst); check ability to get below lower border (excludes retrosternal extension) and palpate from behind. (3.2) Investigations: Radiological = Thyroid Ultrasound (USS); Tissue diagnosis = Fine-Needle Aspiration Cytology (FNAC).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_021_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Surg Q14",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Non-Lactational Mastitis Follow-Up",
+    "imagePath": "images/surg/surg_021.webp",
+    "stem": "A 50-year-old non-lactating woman presents with fever and a tender, erythematous swelling of the right breast, as shown. Her symptoms settle after ultrasound-guided aspiration and oral co-amoxiclav. Which essential follow-up step must be scheduled once the acute inflammation resolves?",
+    "options": [
+      "Reassurance and discharge once skin erythema completely fades",
+      "Repeat clinical exam, diagnostic mammography, and core biopsy",
+      "Routine bilateral prophylactic simple mastectomy for duct ectasia",
+      "Empirical 6-month antituberculous therapy without tissue biopsy",
+      "Serial serum prolactin and CA-125 monitoring every 3 months"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Discharging a 50-year-old non-lactating woman without post-resolution imaging risks missing an underlying or inflammatory breast carcinoma masquerading as mastitis.",
+      "Correct: Non-lactational mastitis or breast abscess in women ≥40 years warrants post-resolution triple assessment—clinical re-examination, diagnostic mammography/ultrasound, and core biopsy of any residual mass or thickening—to exclude malignancy.",
+      "Incorrect: Mastectomy is never indicated prophylactically for uncomplicated resolved mastitis without proven cancer.",
+      "Incorrect: Tuberculous mastitis requires microbiological or histological proof before commencing antituberculous therapy.",
+      "Incorrect: Prolactin and CA-125 have no role in ruling out breast carcinoma after mastitis."
+    ],
+    "clinicalPearl": "In any non-lactating woman over 40 presenting with mastitis or breast abscess, always perform post-resolution triple assessment (mammography ± biopsy) to exclude inflammatory breast cancer.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Suspicious breast lesions require definitive tissue and radiological exclusion of malignancy prior to concluding benign follow-up."
+    },
+    "sourceStation": {
+      "id": "surg_021",
+      "title": "Acute Mastitis / Breast Abscess",
+      "originalPrompt": "14. 50-year-old female with right breast pain, tenderness, and fever.\n14.1 What is the clinical diagnosis?\n14.2 What is the probable treatment option given?\n14.3 Mention how to follow up this patient.",
+      "verifiedAnswer": "(14.1) Acute mastitis / Breast abscess (note: in a 50yo non-lactating woman, must exclude inflammatory breast carcinoma and periductal mastitis). (14.2) Treatment: Empirical anti-staphylococcal antibiotics (e.g., Flucloxacillin / Co-amoxiclav) + analgesics; if fluctuant/abscess on USS → USS-guided needle aspiration (or surgical incision & drainage) with pus culture. (14.3) Follow-up: Triple assessment after resolution — clinical breast re-examination + mammography/USS and core biopsy if any residual mass/thickening persists, to rule out underlying breast malignancy.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_022_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Surg Q15",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Total Thyroidectomy Embryological Remnants",
+    "imagePath": "images/surg/surg_022.webp",
+    "stem": "A 38-year-old woman undergoes total thyroidectomy for papillary thyroid carcinoma, yielding the specimen shown with a prominent midline superior projection arising from the isthmus. Leaving this embryological remnant behind during total thyroidectomy most significantly increases the risk of which postoperative problem?",
+    "options": [
+      "Immediate bilateral vocal cord paralysis from nerve trauma",
+      "Permanent hypocalcaemia from parathyroid gland infarction",
+      "Local tumour recurrence and impaired radioiodine ablation",
+      "Acute intraoperative carotid artery air embolism",
+      "Chylothorax from left-sided thoracic duct laceration"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Recurrent laryngeal nerve palsy results from dissection injury near the tracheo-oesophageal groove/Berry's ligament, not failure to excise the midline pyramidal lobe.",
+      "Incorrect: Hypoparathyroidism arises from devascularisation or removal of the posterior parathyroid glands rather than retaining an anterior pyramidal lobe.",
+      "Correct: Failure to excise the pyramidal lobe and thyroglossal tract remnant leaves functional thyroid tissue behind, increasing local recurrence in thyroid cancer (or Graves' relapse) and trapping postoperative radioiodine.",
+      "Incorrect: Air embolism is an anaesthetic/central-line or open major neck vein hazard unrelated to retained thyroid embryological remnants.",
+      "Incorrect: Thoracic duct injury is a complication of left-sided level IV lateral neck dissection rather than midline pyramidal lobe retention."
+    ],
+    "clinicalPearl": "Always inspect the superior border of the thyroid isthmus and trace up to the hyoid during total thyroidectomy to remove the pyramidal lobe and thyroglossal tract completely.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Incomplete removal of embryological thyroid remnants (pyramidal lobe/thyroglossal tract) risks local cancer recurrence, Graves' relapse, and avid uptake interfering with radioiodine ablation."
+    },
+    "sourceStation": {
+      "id": "surg_022",
+      "title": "Total Thyroidectomy Specimen — Embryological Remnants",
+      "originalPrompt": "15. Photograph of a total thyroidectomy specimen is given.\n15.1 Identify two (02) embryological remnants of the thyroid gland that are seen in this specimen.\n15.2 State two (02) complications that arise when these remnants are left behind during total thyroidectomy.",
+      "verifiedAnswer": "(15.1) Embryological remnants: Pyramidal lobe and Thyroglossal tract / duct remnant (or Zuckerkandl tubercle). (15.2) Complications if left behind: (a) Incomplete tumour clearance / local recurrence in differentiated thyroid cancer; (b) Recurrent hyperthyroidism (Graves' relapse); (c) Development of a thyroglossal cyst / fistula or remnant hypertrophy complicating radioiodine ablation.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_023_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Surg Q6",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Breast Abscess Initial Management",
+    "imagePath": "images/surg/surg_023.webp",
+    "stem": "A 45-year-old woman presents with a painful, warm, erythematous, and fluctuant breast lump for 4 days, as shown in the photograph. She is febrile (38.3°C) with intact overlying skin. What is the most appropriate immediate step in management?",
+    "options": [
+      "Breast ultrasound with guided needle aspiration and anti-staphylococcal antibiotics",
+      "Immediate wide open surgical incision under general anaesthesia without prior imaging",
+      "Oral fluconazole monotherapy combined with topical hydrocortisone cream twice daily",
+      "Urgent wide local excision of the breast lump and axillary lymph node clearance",
+      "Tight compression bandaging and fluid restriction without antimicrobial therapy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Breast ultrasound confirms a drainable abscess cavity and guides needle aspiration (sending pus for culture and sensitivities) alongside empirical anti-staphylococcal antibiotics (e.g., flucloxacillin or co-amoxiclav) and analgesia.",
+      "Incorrect: USS-guided aspiration is preferred first-line over open incision and drainage when overlying skin is healthy and intact, yielding superior cosmetic results; open I&D is reserved for skin necrosis or failed aspirations.",
+      "Incorrect: Acute puerperal and non-puerperal breast abscesses are bacterial (predominantly Staphylococcus aureus/anaerobes), not fungal, and topical steroids worsen infection.",
+      "Incorrect: Urgent cancer resection is inappropriate prior to treating acute suppurative infection and obtaining tissue diagnosis.",
+      "Incorrect: Compression without drainage and antibiotics risks worsening sepsis and mammary fistula formation."
+    ],
+    "clinicalPearl": "First-line management of an acute breast abscess with intact skin is ultrasound-guided needle aspiration (repeated if needed) plus anti-staphylococcal antibiotics—reserve open I&D for overlying skin necrosis.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Acute staphylococcal soft-tissue abscesses require appropriate anti-staphylococcal antibiotic therapy alongside targeted drainage and culture."
+    },
+    "sourceStation": {
+      "id": "surg_023",
+      "title": "Breast Abscess — Management & Follow-Up",
+      "originalPrompt": "6. 45-year-old female presented with a painful, erythematous, and swollen lump on her breast.\n6.1 What is the diagnosis?\n6.2 What is the most appropriate next step of management?\n6.3 How would you follow up this patient after the acute phase is settled?",
+      "verifiedAnswer": "(6.1) Breast abscess (or acute mastitis). (6.2) Next step: Ultrasound breast to confirm abscess cavity + USS-guided needle aspiration (send pus for culture/ABST) and start empirical anti-staphylococcal antibiotics (e.g., Flucloxacillin/Co-amoxiclav) + analgesia (I&D if skin necrotic or multiloculated). (6.3) Follow-up: Repeat clinical exam + mammography ± tissue biopsy (Triple assessment) once inflammation resolves, to exclude inflammatory/underlying breast carcinoma in a 45-year-old.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_024_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Surg Q8",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Sebaceous (Epidermoid) Cyst Characteristics",
+    "imagePath": "images/surg/surg_024.webp",
+    "stem": "A 45-year-old man presents with a painless, slow-growing lump on his upper back present for 2 years, as shown. On palpation, it is smooth, spherical, and tethered to the overlying skin. Which characteristic clinical sign and definitive treatment match this lesion?",
+    "options": [
+      "Positive slip sign; simple subcutaneous lipoma enucleation",
+      "Brilliant transillumination; percutaneous doxycycline sclerotherapy",
+      "Expansile pulsation; endovascular coil embolisation procedure",
+      "Central punctum; complete elliptical excision of intact cyst wall",
+      "Fluctuance across two planes; simple stab incision and expression"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The slip sign and free overlying skin mobility characterise a subcutaneous lipoma rather than a skin-tethered epidermoid cyst.",
+      "Incorrect: Sebaceous cysts contain thick keratinous material and do not transilluminate.",
+      "Incorrect: Expansile pulsation occurs in arterial aneurysms and arteriovenous malformations.",
+      "Correct: An epidermoid (sebaceous) cyst is anchored to the epidermis via a visible central punctum and requires complete surgical excision taking an elliptical skin island around the punctum with the entire cyst capsule intact.",
+      "Incorrect: Expressing cyst contents without removing the epithelial wall inevitably leads to cyst recurrence."
+    ],
+    "clinicalPearl": "Cannot pinch skin over a sebaceous cyst + central punctum = epidermoid cyst; always excise the entire wall via a skin ellipse to prevent recurrence.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "Uninfected sebaceous cysts are excised electively using a casualty excision-biopsy packet, removing an ellipse of skin around the central punctum and the intact cyst wall."
+    },
+    "sourceStation": {
+      "id": "surg_024",
+      "title": "Sebaceous Cyst on Back",
+      "originalPrompt": "8. This is a lump on the back of the chest of a 45-year-old man.\n8.1 What is the diagnosis?\n8.2 Write two (02) specific features you would observe in this lump.\n8.3 What is the definitive treatment?",
+      "verifiedAnswer": "(8.1) Sebaceous (epidermoid) cyst. (8.2) Specific features: Visible central punctum, tethered/attached to overlying skin (cannot pinch skin over it), smooth, spherical, fluctuant/doughy consistency. (8.3) Definitive treatment: Complete surgical excision under local anaesthesia, taking an ellipse of skin around the punctum and removing the entire cyst wall intact.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_025_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Surg Q17",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Bloody Nipple Discharge Causes & Workup",
+    "imagePath": "images/surg/surg_025.webp",
+    "stem": "A 48-year-old woman presents with spontaneous blood-stained nipple discharge, as shown in the photograph. Which triad of pathologies must be evaluated through formal triple assessment?",
+    "options": [
+      "Fibroadenoma, simple breast cyst, and Mondor's disease",
+      "Fat necrosis, galactocoele, and benign phyllodes tumour",
+      "Accessory breast tissue, lipoma, and Tietze's syndrome",
+      "Gynaecomastia, hidradenitis suppurativa, and epidermoid cyst",
+      "Intraductal papilloma, breast cancer/DCIS, and duct ectasia"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Fibroadenomas, simple cysts, and Mondor's superficial thrombophlebitis do not classically present with bloody nipple discharge.",
+      "Incorrect: Fat necrosis, galactocoele (milky fluid), and phyllodes tumour typically present as discrete breast masses rather than spontaneous bloody ductal discharge.",
+      "Incorrect: Costochondritis (Tietze's syndrome) and lipomas cause chest wall pain or subcutaneous lumps unrelated to lactiferous ducts.",
+      "Incorrect: Hidradenitis suppurativa affects apocrine skin folds rather than lactiferous ducts causing bloody nipple discharge.",
+      "Correct: Spontaneous bloody nipple discharge is most commonly caused by an intraductal papilloma, ductal carcinoma in situ (DCIS) or invasive breast carcinoma, and occasionally mammary duct ectasia—mandating complete triple assessment."
+    ],
+    "clinicalPearl": "Bloody nipple discharge is intraductal papilloma until proven otherwise, but underlying DCIS/invasive carcinoma (~10–20%) and duct ectasia must always be excluded via triple assessment.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Bloody nipple discharge requires triple assessment (clinical exam, mammography/breast ultrasound, and cytology or biopsy) to rule out underlying carcinoma before surgical planning."
+    },
+    "sourceStation": {
+      "id": "surg_025",
+      "title": "Bloody Multi-Duct Nipple Discharge",
+      "originalPrompt": "17. This is a picture of a nipple-areolar complex.\n17.1 What is the clinical condition shown in the picture?\n17.2 List 3 causes for this condition.\n17.3 What assessments are to be done in this condition?",
+      "verifiedAnswer": "(17.1) Bloody nipple discharge. (17.2) Causes: Intraductal papilloma (commonest cause of single-duct bloody discharge), Breast carcinoma / DCIS, Duct ectasia (may be blood-stained/multi-duct). (17.3) Assessments: Triple assessment (full breast/axillary exam, Diagnostic mammography + Breast USS, Nipple discharge cytology / core biopsy / microdochectomy or ductoscopy as indicated).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_026_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Surg Q20",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Thyroid Goitre & Thyrotoxic Hyperactivity Signs",
+    "imagePath": "images/surg/surg_026.webp",
+    "stem": "A 53-year-old woman presents with the anterior neck swelling shown alongside palpitations, nervousness, and weight loss. After confirming thyroid involvement by observing upward movement on swallowing water, which bedside physical signs specifically indicate thyrotoxicosis?",
+    "options": [
+      "Sinus bradycardia, dry coarse skin, and delayed ankle reflex relaxation",
+      "Resting tachycardia, fine hand tremor, warm moist palms, and lid lag",
+      "Carpopedal spasm, circumoral paraesthesia, and positive Chvostek's sign",
+      "Absent radial pulse, Horner's syndrome, and wasted small hand muscles",
+      "Isolated facial plethora on arm elevation with normal resting heart rate"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Bradycardia, dry skin, and slow-relaxing reflexes are classic features of hypothyroidism.",
+      "Correct: Sympathetic and metabolic hyperactivity in thyrotoxicosis produces resting tachycardia (or atrial fibrillation), fine resting hand tremor, warm moist palms, and lid lag/retraction.",
+      "Incorrect: Carpopedal spasm and Chvostek's sign indicate hypocalcaemia (e.g., post-thyroidectomy), not thyrotoxicosis.",
+      "Incorrect: Horner's syndrome with small-muscle hand wasting suggests Pancoast tumour or thoracic outlet compression rather than thyrotoxicosis.",
+      "Incorrect: Positive Pemberton's sign reflects mechanical thoracic inlet compression by a retrosternal goitre and can occur in a euthyroid patient."
+    ],
+    "clinicalPearl": "During thyroid exam: confirm deglutition mobility first, palpate from behind, percuss over the manubrium for retrosternal extension, and check palms, pulse, tremor, and eyes for thyrotoxic status.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Thyroid examination and preoperative assessment must confirm functional thyrotoxic signs (tachycardia, tremor, lid lag) so patients are rendered euthyroid before surgery."
+    },
+    "sourceStation": {
+      "id": "surg_026",
+      "title": "Thyroid Goitre & Thyrotoxic Signs",
+      "originalPrompt": "20. A 53-year-old lady presented at clinic with the following presentation.\n20.1 What is the organ that has been involved in this presentation?\n20.2 Mention how to confirm the involvement of the above organ in the clinic.\n20.3 Mention 3 clinical signs that explain her hyperactivity.",
+      "verifiedAnswer": "(20.1) Thyroid gland. (20.2) Confirmation: Ask patient to swallow water/saliva — the lump moves upwards with deglutition. (20.3) Signs of thyrotoxic hyperactivity: Resting tachycardia / atrial fibrillation, Fine resting tremor of outstretched hands, Warm moist palms / hyperhidrosis, Lid lag / lid retraction / exophthalmos, Brisk reflexes, Proximal muscle weakness.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_027_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paget's Disease of the Nipple",
+    "imagePath": "images/surg/surg_027.webp",
+    "stem": "A 55-year-old woman presents with a 4-month history of unilateral itching, erythematous scaling, and intermittent blood-stained discharge affecting the left nipple-areolar complex (illustrated) that failed to respond to topical corticosteroids. Which diagnostic pair of investigations is most definitive for confirming Paget's disease of the nipple and evaluating underlying malignancy?",
+    "options": [
+      "Superficial fungal skin scraping and empirical oral clotrimazole trial",
+      "Serum CA 15-3 measurement and plain anteroposterior chest radiograph",
+      "Full-thickness nipple-areolar biopsy and bilateral breast mammography",
+      "Bacterial swab of nipple discharge and repeat topical steroid course",
+      "Axillary lymph node ultrasound alone without nipple tissue sampling"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Treating refractory unilateral nipple changes as eczema or fungal dermatitis delays diagnosis of underlying breast malignancy.",
+      "Incorrect: CA 15-3 is neither sensitive nor specific for diagnosing primary breast cancer or Paget's disease.",
+      "Correct: Paget's disease of the nipple is almost always associated with underlying DCIS or invasive breast carcinoma; diagnosis requires a full-thickness wedge/punch biopsy of the nipple-areolar skin alongside bilateral diagnostic mammography (and breast USS/MRI).",
+      "Incorrect: Repeating topical steroids on a unilateral steroid-resistant nipple lesion misses a crucial red flag for breast malignancy.",
+      "Incorrect: Axillary imaging alone cannot establish histology of the primary nipple-areolar lesion or detect in-situ disease."
+    ],
+    "clinicalPearl": "Unilateral nipple 'eczema' failing topical steroids is Paget's disease of the nipple until biopsied—always perform a full-thickness nipple-areolar biopsy plus bilateral mammography.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Diagnostic confirmation precedes surgical therapy; refractory unilateral nipple lesions require full-thickness biopsy and bilateral mammography to detect underlying DCIS or invasive carcinoma."
+    },
+    "sourceStation": {
+      "id": "surg_027",
+      "title": "Paget's Disease of the Nipple",
+      "originalPrompt": "01. A 55-year-old woman presents with a breast condition in her left breast as shown in the picture.\n1.1 Explain the clinical symptoms/signs seen in the picture.\n1.2 List three red-flag signs.\n1.3 Mention two investigations.",
+      "verifiedAnswer": "(1.1) Clinical features: Eczematous, erythematous, scaling/crusting ulceration of the nipple-areolar complex (Paget's disease of the nipple, almost always associated with underlying DCIS or invasive ductal carcinoma). (1.2) Red flags: Unilateral chronic 'eczema' failing topical steroids, nipple destruction/inversion, bloody nipple discharge, palpable breast lump, axillary lymphadenopathy. (1.3) Investigations: Full-thickness wedge/punch biopsy of nipple-areolar skin + Bilateral Mammography (and Breast USS/MRI).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_028_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Large Goitre Retrosternal Extension Imaging",
+    "imagePath": "images/surg/surg_028.webp",
+    "stem": "A 62-year-old woman presents with the huge anterior neck swelling shown, whose inferior margin cannot be palpated above the manubrium sterni. Which imaging modality best defines the inferior mediastinal extent, vascular relationships, and degree of tracheal compression before surgery?",
+    "options": [
+      "Contrast CT of the neck and superior mediastinum",
+      "Technetium-99m thyroid scintigraphy scan alone",
+      "Lateral plain radiograph of the cervical spine",
+      "Contrast barium swallow fluoroscopy examination",
+      "Carotid artery duplex colour Doppler ultrasound"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: When the lower border of a large goitre extends behind the sternum (unable to get below it clinically), CT of the neck and superior mediastinum accurately maps retrosternal extension, tracheal narrowing/deviation, and great vessel displacement.",
+      "Incorrect: Radioisotope scintigraphy shows functional uptake only and lacks detailed cross-sectional anatomical resolution of mediastinal structures and airway calibre.",
+      "Incorrect: Plain lateral cervical views offer limited visualisation of the superior mediastinum due to overlapping bony shoulders and sternum.",
+      "Incorrect: Barium swallow demonstrates external oesophageal indentation only and cannot evaluate tracheal lumen or mediastinal vessels.",
+      "Incorrect: Carotid duplex assesses arterial stenosis rather than retrosternal thyroid goitre depth or tracheal compression."
+    ],
+    "clinicalPearl": "Inability to palpate below a goitre + dullness over the manubrium + positive Pemberton's sign = retrosternal extension; CT neck and thorax is the gold standard for preoperative surgical planning.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Mediastinal/retrosternal goitres require CT of the neck and superior mediastinum to delineate inferior thoracic extent and tracheal deviation prior to surgery."
+    },
+    "sourceStation": {
+      "id": "surg_028",
+      "title": "Large Goitre — Features & Extent Imaging",
+      "originalPrompt": "5.1 Write down two features of the patient that you can observe.\n5.2 What is the best imaging modality to identify the extent of the pathology of the above lesion?",
+      "verifiedAnswer": "(5.1) Features: Large midline/bilateral anterior neck swelling below thyroid cartilage, smooth/lobulated contour, asymmetrical enlargement (check if lower border is visible/palpable). (5.2) Best imaging for extent: Contrast-enhanced CT (or non-contrast CT) of neck and superior mediastinum (defines retrosternal/mediastinal extension, tracheal compression/deviation, and vascular displacement; Thyroid USS is initial exam).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_029_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Multinodular Goitre Compressive & Malignancy Red Flags",
+    "imagePath": "images/surg/surg_029.webp",
+    "stem": "A 55-year-old woman presents with the longstanding multinodular goitre shown. Which compressive symptom should raise the highest clinical suspicion for invasive thyroid malignancy infiltrating the recurrent laryngeal nerve rather than simple benign mass effect?",
+    "options": [
+      "Mild positional breathlessness when lying flat",
+      "Occasional dysphagia to dry solid food boluses",
+      "Facial plethora on raising both arms above the head",
+      "Progressive new-onset hoarseness of the voice",
+      "Visible fullness in the suprasternal notch on swallowing"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Positional dyspnoea commonly results from benign tracheal compression by an enlarging goitre.",
+      "Incorrect: Mild dysphagia to solids reflects mechanical oesophageal compression by a bulky benign multinodular goitre.",
+      "Incorrect: Pemberton's sign (facial plethora/engorged neck veins on arm elevation) reflects benign thoracic inlet crowding from retrosternal extension.",
+      "Correct: Progressive hoarseness in a patient with a goitre indicates recurrent laryngeal nerve palsy, which strongly raises suspicion for locally invasive thyroid carcinoma rather than benign compression.",
+      "Incorrect: Suprasternal fullness moving on swallowing is a standard anatomical sign of a cervical goitre without indicating nerve invasion."
+    ],
+    "clinicalPearl": "Benign multinodular goitres cause stridor/dyspnoea, dysphagia, and Pemberton's sign; new hoarseness means recurrent laryngeal nerve invasion until proven otherwise (perform flexible laryngoscopy).",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Pre- and post-operative thyroid assessment requires checking for hoarseness (recurrent laryngeal nerve injury/invasion) alongside stridor and airway compromise."
+    },
+    "sourceStation": {
+      "id": "surg_029",
+      "title": "Multinodular Goitre (MNG) — Compressive Symptoms & Imaging",
+      "originalPrompt": "1. A 55-year-old woman presented with a multinodular goitre.\n1.1 Write two compressive symptoms she could get.\n1.2 List two suitable imaging techniques that can be used for investigations.",
+      "verifiedAnswer": "(1.1) Compressive symptoms: Dyspnoea / stridor (tracheal compression), Dysphagia (oesophageal compression), Hoarseness (recurrent laryngeal nerve compression — suspect malignancy), Superior vena cava obstruction / Pemberton's sign (retrosternal extension). (1.2) Imaging techniques: Neck/Thyroid Ultrasound (USS), CT neck and chest (for retrosternal extension/tracheal narrowing), and Chest X-ray (thoracic inlet view).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_030_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.2 BREAST, THYROID & HEAD/NECK LUMPS (17 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Inflammatory Breast Carcinoma (Peau d'Orange)",
+    "imagePath": "images/surg/surg_030.webp",
+    "stem": "A 52-year-old woman presents with a rapidly enlarging, warm, erythematous breast over 6 weeks showing the pitted skin texture demonstrated in the photographs. What is the pathophysiological cause of the 'peau d'orange' appearance and the most likely diagnosis?",
+    "options": [
+      "Superficial thrombophlebitis of breast veins; Mondor's disease",
+      "Acute staphylococcal ductal infection; simple lactational mastitis",
+      "Subcutaneous adipocyte saponification; traumatic fat necrosis",
+      "Fibrous periductal retraction; benign mammary duct ectasia",
+      "Dermal lymphatic tumour emboli; inflammatory breast carcinoma"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Mondor's disease produces a tender cord-like superficial vein along the breast/chest wall rather than diffuse orange-peel skin oedema.",
+      "Incorrect: Simple mastitis causes erythema and tenderness without persistent woody dermal lymphatic tethering typical of locally advanced carcinoma.",
+      "Incorrect: Fat necrosis usually follows trauma or surgery, producing a firm irregular lump rather than diffuse dermal lymphatic engorgement.",
+      "Incorrect: Duct ectasia causes subareolar inflammation and slit-like nipple retraction rather than widespread dermal lymphatic oedema.",
+      "Correct: Peau d'orange occurs when carcinoma emboli obstruct subdermal lymphatics, producing cutaneous oedema with tethered sweat glands and hair follicles—a hallmark of inflammatory or locally advanced breast carcinoma."
+    ],
+    "clinicalPearl": "Peau d'orange + diffuse erythema without resolution on antibiotics = inflammatory breast carcinoma (T4d); obtain urgent skin punch + core biopsy before neoadjuvant chemotherapy.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Locally advanced/inflammatory breast carcinoma presenting with peau d'orange requires urgent tissue biopsy and staging prior to multimodality therapy."
+    },
+    "sourceStation": {
+      "id": "surg_030",
+      "title": "Inflammatory Breast Carcinoma / Peau d'Orange",
+      "originalPrompt": "5.1 Identify the condition.\n5.2 List three features you can see in the pictures.",
+      "verifiedAnswer": "(5.1) Locally advanced / Inflammatory breast carcinoma. (5.2) Features seen: Peau d'orange (oedema of breast skin with prominent hair follicles due to dermal lymphatic obstruction), Diffuse breast erythema & oedema, Nipple retraction/inversion / asymmetry / ulceration.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_031_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Glasgow Coma Scale Scoring & Severity",
+    "imagePath": "images/surg/surg_031.webp",
+    "stem": "A 28-year-old motorcyclist is admitted following a head injury. On neurological assessment using the scale shown, he opens his eyes only to painful nail-bed pressure, utters incomprehensible groaning sounds, and exhibits abnormal flexion (decorticate posturing) of the upper limbs to pain. What is his total score and brain injury classification?",
+    "options": [
+      "GCS 6/15 (Moderate brain injury)",
+      "GCS 7/15 (Severe brain injury)",
+      "GCS 8/15 (Moderate brain injury)",
+      "GCS 9/15 (Moderate brain injury)",
+      "GCS 10/15 (Severe brain injury)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: A score of 6 would correspond to E2 + V1 + M3 or E1 + V2 + M3; eye opening to pain scores 2, incomprehensible sounds 2, and decorticate flexion 3 (sum = 7).",
+      "Correct: Eye opening to pain (E2) + incomprehensible sounds (V2) + abnormal flexion/decorticate posturing (M3) totals GCS 7/15, classified as severe brain injury (GCS ≤8).",
+      "Incorrect: Not only is the sum 7 rather than 8, but any GCS ≤8 represents severe (not moderate) brain injury.",
+      "Incorrect: GCS 9/15 is moderate brain injury (9–12), whereas this patient's components sum to 7.",
+      "Incorrect: GCS 10/15 corresponds to moderate brain injury rather than severe, and overestimates this patient's score."
+    ],
+    "clinicalPearl": "Always record individual GCS components (E2 V2 M3 = 7/15): decorticate flexion = M3, decerebrate extension = M2, and total ≤8 defines severe head injury.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "GCS sums Eye (1–4), Verbal (1–5), and Motor (1–6); scores ≤8 classify severe head injury (coma), 9–12 moderate, and 13–15 mild."
+    },
+    "sourceStation": {
+      "id": "surg_031",
+      "title": "Glasgow Coma Scale (GCS) Interpretation",
+      "originalPrompt": "03. Glasgow Coma Scale table is given.\n• What is the above scale?\n• If score is 3, what is the clinical state of the patient?\n• What is the score for a fully conscious and ambulant patient?",
+      "verifiedAnswer": "Scale: Glasgow Coma Scale (GCS) (Eye opening 1–4, Verbal 1–5, Motor 1–6). Score 3: Deep coma (or brain-dead/unresponsive — minimum possible score is 3). Fully conscious ambulant patient: 15/15.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_032_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Glasgow Coma Scale Minimum & Maximum Scores",
+    "imagePath": "images/surg/surg_032.webp",
+    "stem": "During a surgical trauma round, a house officer evaluates a completely unresponsive patient (no eye opening, no verbal sounds, and no motor response to painful stimuli) alongside a fully conscious, oriented patient using the clinical scoring table shown. What is this scale and its exact minimum and maximum possible scores?",
+    "options": [
+      "AVPU Scale; minimum 0 and maximum 15",
+      "Modified Rankin Scale; minimum 0 and maximum 6",
+      "Glasgow Coma Scale; minimum 3 and maximum 15",
+      "Glasgow Coma Scale; minimum 0 and maximum 15",
+      "RASS Sedation Scale; minimum 3 and maximum 18"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: AVPU is a rapid four-letter categorical trauma screen (Alert, Voice, Pain, Unresponsive) rather than a 3–15 point numerical table.",
+      "Incorrect: The Modified Rankin Scale grades post-stroke functional disability from 0 to 6.",
+      "Correct: The table represents the Glasgow Coma Scale (GCS), where each domain (Eye, Verbal, Motor) has a floor of 1—meaning the lowest possible score (even in a clinically deceased patient) is 3 and the maximum is 15.",
+      "Incorrect: A common exam pitfall is selecting 0 as the minimum GCS score; because every subscale starts at 1 (E1+V1+M1), the minimum score is 3.",
+      "Incorrect: RASS ranges from −5 to +4 for ICU sedation monitoring, not 3 to 18."
+    ],
+    "clinicalPearl": "Classic OSCE viva trap: the lowest possible GCS score—even in a deceased person—is 3 (E1 + V1 + M1), never 0, while normal full consciousness is 15.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "Each GCS subscale has a minimum of 1 point, giving a strict range of 3 (deep coma/unresponsive) to 15 (fully conscious and oriented)."
+    },
+    "sourceStation": {
+      "id": "surg_032",
+      "title": "Glasgow Coma Scale — Minimum & Maximum Scores",
+      "originalPrompt": "4.\n1. What is this scale?\n2. What is the score that a dead person gets?\n3. Write the score which is for a fully conscious patient.",
+      "verifiedAnswer": "(1) Glasgow Coma Scale (GCS). (2) 3. (3) 15.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_033_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Burns Resuscitation — Rule of Nines & Parkland Formula",
+    "imagePath": "images/surg/surg_033.webp",
+    "stem": "A 60 kg adult male is admitted immediately after sustaining partial-thickness flame burns affecting the entire anterior trunk (18% TBSA) and one entire circumferential upper limb (9% TBSA), as illustrated. Using the Parkland formula, what volume and type of intravenous fluid should be infused over the first 8 hours from the time of injury?",
+    "options": [
+      "3,240 mL of Hartmann's (Ringer's lactate) solution",
+      "1,620 mL of 0.9% sodium chloride infusion",
+      "3,240 mL of 5% human albumin colloid solution",
+      "6,480 mL of Hartmann's (Ringer's lactate) solution",
+      "6,480 mL of 5% dextrose in water infusion"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Total 24-hour Parkland volume = 4 mL × 27% TBSA × 60 kg = 6,480 mL of Hartmann's (Ringer's lactate) solution; half (3,240 mL) is infused in the first 8 hours calculated from the time of burn, and the remaining half over the next 16 hours.",
+      "Incorrect: 1,620 mL represents only 25% of the calculated 24-hour requirement, risking hypovolaemic burn shock, and Hartmann's is preferred over 0.9% saline to avoid hyperchloraemic acidosis.",
+      "Incorrect: Colloids such as albumin are avoided during the initial resuscitation phase because burn-induced capillary permeability leak causes extravasation into the interstitium.",
+      "Incorrect: 6,480 mL is the entire 24-hour resuscitation volume, not the 8-hour half-volume; infusing all 6,480 mL in 8 hours risks severe fluid overload.",
+      "Incorrect: Dextrose water distributes throughout total body water rather than staying intravascularly and cannot resuscitate acute burn shock."
+    ],
+    "clinicalPearl": "Parkland formula: 4 mL × weight (kg) × %TBSA of Hartmann's in 24h; give 50% in the first 8 hours measured from the TIME OF BURN (not hospital arrival), titrating to urine output ≥0.5 mL/kg/h.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Burns fluid resuscitation follows the Parkland formula (4 mL × TBSA × weight in kg) using crystalloid (avoiding colloids initially due to increased capillary permeability)."
+    },
+    "sourceStation": {
+      "id": "surg_033",
+      "title": "Burns — Rule of Nines & Parkland Formula",
+      "originalPrompt": "03) 60 kg male presented with burns in anterior aspect of the thorax/trunk and the left upper limb, admitted to hospital (illustrated diagram).\na) Calculate the burn surface area.\nb) Calculate the fluid requirement.",
+      "verifiedAnswer": "(a) TBSA: Anterior trunk (18%) + Left upper limb (9%) = 27% (Note: Drive student key wrote 18 + 4.5 = 22.5% assuming anterior L upper limb only; state 27% for whole L upper limb vs 22.5% for anterior half only). (b) Parkland formula (first 24h): `4 mL × TBSA (%) × Weight (kg)` = `4 × 27 × 60 = 6,480 mL` (or `4 × 22.5 × 60 = 5,400 mL` if 22.5%) of Hartmann's / Ringer's lactate — give 50% in first 8 hours from time of burn and 50% over next 16 hours.",
+      "provenance": "[Drive Key + Verified]"
+    }
+  },
+  {
+    "id": "surg_034_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Extradural Haematoma (CT Brain & Management)",
+    "imagePath": "images/surg/surg_034.webp",
+    "stem": "A 26-year-old man sustains a blow to the right temple from a cricket ball, briefly loses consciousness, recovers fully for 4 hours, and then rapidly develops headache, vomiting, and left-sided hemiparesis. His non-contrast CT brain is shown. What is the characteristic radiological appearance and definitive treatment?",
+    "options": [
+      "Concave crescentic hyperdensity crossing sutures; intravenous mannitol alone",
+      "Bilateral basal ganglia haemorrhage; intravenous alteplase thrombolysis",
+      "Star-shaped cisternal hyperdensity; external ventricular drain monotherapy",
+      "Right biconvex hyperdense haematoma with midline shift; urgent craniotomy",
+      "Hypodense chronic subdural collection; elective burr-hole drainage in 2 weeks"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A concave crescent-shaped collection crossing suture lines describes an acute subdural haematoma (bridging veins) rather than this lentiform lesion.",
+      "Incorrect: Basal ganglia haemorrhage is a parenchymal hypertensive bleed, and thrombolysis would be catastrophic in intracranial trauma.",
+      "Incorrect: Hyperdensity filling the basal cisterns represents subarachnoid haemorrhage rather than a discrete extra-axial mass with lucid interval.",
+      "Correct: Arterial bleeding from the middle meningeal artery strips dura from bone—restricted by cranial sutures—producing a classic biconvex (lentiform) hyperdense extradural haematoma with leftward midline shift requiring urgent craniotomy and clot evacuation.",
+      "Incorrect: Chronic subdural haematomas are hypodense crescentic collections presenting subacutely in elderly patients rather than an acute post-traumatic hyperdense biconvex haematoma."
+    ],
+    "clinicalPearl": "Lucid interval + ipsilateral dilated pupil + contralateral hemiparesis + biconvex CT hyperdensity limited by sutures = extradural haematoma (middle meningeal artery); treat with emergency craniotomy.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Acute neurotrauma with a biconvex extra-axial haematoma and midline shift requires urgent ABC stabilisation and emergency neurosurgical craniotomy and evacuation."
+    },
+    "sourceStation": {
+      "id": "surg_034",
+      "title": "Right Temporoparietal Extradural Haematoma (CT Brain)",
+      "originalPrompt": "02) CT scan of a brain is given.\n1) List 2 abnormalities in this picture.\n2) Mention 1 symptom that could present in this patient.\n3) What is the definitive management?",
+      "verifiedAnswer": "(1) Abnormalities: Right biconvex (lentiform) hyperdense extra-axial haematoma (not crossing suture lines) and midline shift to the left with effacement of right lateral ventricle. (2) Symptoms: Lucid interval followed by rapidly deteriorating consciousness, headache, vomiting, contralateral (left) hemiparesis, ipsilateral (right) dilated pupil. (3) Definitive management: Urgent neurosurgical craniotomy and evacuation of haematoma (with clipping/coagulation of bleeding middle meningeal artery).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_035_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "GCS Airway Intubation Threshold",
+    "imagePath": "images/surg/surg_035.webp",
+    "stem": "A patient with blunt head trauma is being serially monitored in the resuscitation room using the neurological chart shown. At or below which total score is endotracheal intubation urgently indicated to protect the airway?",
+    "options": [
+      "Total score of 13 or less",
+      "Total score of 12 or less",
+      "Total score of 10 or less",
+      "Total score of 3 only",
+      "Total score of 8 or less"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: GCS 13–15 represents mild head injury where patients normally maintain protective airway reflexes.",
+      "Incorrect: GCS 9–12 indicates moderate head injury; intubation is not routinely dictated by score alone unless airway compromise or agitation threatens safety.",
+      "Incorrect: A score of 10 falls within moderate brain injury rather than the definitive coma threshold.",
+      "Incorrect: Waiting until a patient reaches GCS 3 (deep unresponsive coma) risks catastrophic aspiration and hypoxic secondary brain injury.",
+      "Correct: A Glasgow Coma Scale score of ≤8 defines coma/severe head injury ('less than 8, intubate' / ≤8 intubate) and mandates urgent endotracheal intubation for airway protection and controlled oxygenation."
+    ],
+    "clinicalPearl": "Remember ATLS airway rule for head trauma: GCS ≤8 requires definitive endotracheal intubation (with manual in-line cervical spine stabilisation) to prevent aspiration and secondary hypoxia.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "Head injury with a Glasgow Coma Scale score of 8 or less classifies severe brain injury (coma) and indicates urgent endotracheal intubation to secure the airway."
+    },
+    "sourceStation": {
+      "id": "surg_035",
+      "title": "Glasgow Coma Scale Chart & Intubation Threshold",
+      "originalPrompt": "05)\n1) Identify the chart.\n2) What do you assess by using this chart?\n3) At which score would you intubate the patient?",
+      "verifiedAnswer": "(1) Glasgow Coma Scale (GCS) chart. (2) Assesses: Level of consciousness objectively via Eye opening (E4), Verbal response (V5), and Motor response (M6). (3) Intubation threshold: GCS ≤ 8 ('eight, intubate' — to protect airway).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_036_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Cervical Spine Immobilisation & Neurogenic Shock",
+    "imagePath": "images/surg/surg_036.webp",
+    "stem": "A young woman involved in a high-speed road traffic collision arrives in the emergency unit under triple cervical spine immobilisation (rigid collar, lateral head blocks with straps, and rigid spinal board with log-roll precautions), as shown. Imaging confirms an acute cervical spinal cord injury. Which cardiovascular sign pair classically indicates neurogenic shock?",
+    "options": [
+      "Severe systolic hypertension with bounding peripheral pulses",
+      "Systemic hypotension with paradoxical bradycardia and warm skin",
+      "Hypotension with marked compensatory tachycardia and cold clammy skin",
+      "Hypotension with jugular venous distension and muffled heart sounds",
+      "Hypertension with bradycardia and wide pulse pressure (Cushing)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Neurogenic shock causes loss of sympathetic vasomotor tone resulting in hypotension, not hypertension.",
+      "Correct: High cervical or upper thoracic spinal cord disruption abolishes sympathetic outflow (causing vasodilation and warm, flushed skin) while leaving parasympathetic vagal tone unopposed—producing hypotension with paradoxical bradycardia.",
+      "Incorrect: Hypotension with tachycardia and cold clammy skin characterises hypovolaemic/haemorrhagic shock, which must still be excluded first in trauma.",
+      "Incorrect: Beck's triad (hypotension, elevated JVP, muffled heart sounds) defines obstructive shock from cardiac tamponade.",
+      "Incorrect: Cushing's triad (hypertension, bradycardia, irregular respiration) reflects raised intracranial pressure with brainstem herniation rather than spinal neurogenic shock."
+    ],
+    "clinicalPearl": "Hypotension + bradycardia + warm extremities in cervical spine trauma = neurogenic shock (loss of sympathetic tone); always exclude occult haemorrhage first before attributing shock solely to cord injury.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Cervical spine trauma requires triple immobilisation (hard collar, sandbags/head blocks, spinal board); neurogenic shock presents with hypotension and paradoxical bradycardia from lost sympathetic tone."
+    },
+    "sourceStation": {
+      "id": "surg_036",
+      "title": "Cervical Spine Triple Immobilisation & Neurogenic Shock",
+      "originalPrompt": "4. After a car accident a young female was admitted to the PCU as shown in this picture. Later she was diagnosed with cervical spinal injury.\n4.1 List 3 precautions that have been taken to protect the spinal cord.\n4.2 List 2 abnormal CVS signs that she may have developed.",
+      "verifiedAnswer": "(4.1) Spinal precautions (triple immobilisation): (a) Rigid cervical collar, (b) Lateral head blocks/sandbags + forehead/chin straps, (c) Flat rigid spinal board with log-roll technique for any movement. (4.2) Abnormal CVS signs (Neurogenic shock due to loss of sympathetic tone): Hypotension (vasodilation/warm extremities) accompanied by paradoxical bradycardia (unopposed vagal tone).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_037_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Surg Q11",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "ARDS Chest Radiograph Features",
+    "imagePath": "images/surg/surg_037.webp",
+    "stem": "A 46-year-old postoperative patient with severe intra-abdominal sepsis develops refractory hypoxaemia (PaO₂/FiO₂ < 200 mmHg) and progressive respiratory distress. His chest radiograph is shown. Which pair of radiological findings distinguishes this condition from acute cardiogenic pulmonary oedema?",
+    "options": [
+      "Unilateral lobar consolidation with air bronchograms and ipsilateral mediastinal shift",
+      "Enlarged cardiothoracic ratio with upper lobe venous diversion and Kerley B lines",
+      "Bilateral symmetrical diffuse alveolar infiltrates with a normal cardiothoracic ratio",
+      "Absent peripheral lung markings with a visible visceral pleural edge",
+      "Multiple well-circumscribed basal nodular opacities ('cannonball' pattern)"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Lobar consolidation with volume loss causes unilateral opacity and ipsilateral shift rather than symmetrical bilateral alveolar infiltrates.",
+      "Incorrect: Cardiomegaly, upper lobe diversion, and septal Kerley B lines are hallmarks of cardiogenic pulmonary oedema rather than non-cardiogenic ARDS.",
+      "Correct: Acute respiratory distress syndrome (ARDS) produces bilateral symmetrical diffuse alveolar infiltrates ('white-out') alongside a normal cardiothoracic ratio and absence of Kerley B lines, differentiating it from left ventricular failure.",
+      "Incorrect: Absent peripheral lung markings outside a visceral pleural line define pneumothorax.",
+      "Incorrect: Cannonball lesions are classic haematogenous pulmonary metastases (e.g., renal, thyroid, breast, colorectal, testicular carcinoma)."
+    ],
+    "clinicalPearl": "ARDS is non-cardiogenic pulmonary oedema (commonest trigger: sepsis): look for acute bilateral diffuse infiltrates on CXR with a normal heart size and PaO₂/FiO₂ ≤300 mmHg.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Unlike cardiogenic pulmonary oedema (cardiomegaly, bat-wing perihilar infiltrates, Kerley B lines), ARDS shows diffuse bilateral alveolar infiltrates with a normal cardiothoracic ratio."
+    },
+    "sourceStation": {
+      "id": "surg_037",
+      "title": "Acute Respiratory Distress Syndrome (ARDS) CXR",
+      "originalPrompt": "11. This is an X-ray image showing Acute Respiratory Distress Syndrome (ARDS).\n11.1 Name two (02) X-ray findings suggestive of the condition.\n11.2 List three (03) causes for ARDS.",
+      "verifiedAnswer": "(11.1) CXR findings: Bilateral symmetrical diffuse alveolar infiltrates ('white-out') and normal cardiothoracic ratio (no cardiomegaly / absence of Kerley B lines — non-cardiogenic). (11.2) Causes: Sepsis (commonest), Severe pneumonia / aspiration (near-drowning/gastric contents), Major polytrauma / fat embolism, Acute pancreatitis, Massive blood transfusion (TRALI).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_038_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Surg Q13",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "ABG Interpretation — Septic Shock & Metabolic Acidosis",
+    "imagePath": null,
+    "stem": "A 62-year-old man with diabetes mellitus and severe right lower-limb cellulitis is tachycardic (HR 140/min), hypotensive (BP 80/60 mmHg), and tachypnoeic (RR 40/min). Arterial blood gas shows pH 7.10, PaCO₂ 24 mmHg, and PaO₂ 68 mmHg. Which primary acid-base disturbance and physiological response explain these values?",
+    "options": [
+      "Partially compensated metabolic acidosis with Kussmaul hyperventilation",
+      "Primary uncompensated respiratory alkalosis caused by sepsis-driven tachypnoea",
+      "Primary acute respiratory acidosis with compensatory renal bicarbonate retention",
+      "Acute-on-chronic type 2 respiratory failure with metabolic alkalosis",
+      "Partially compensated metabolic alkalosis secondary to volume contraction"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Marked acidaemia (pH 7.10, normal 7.35–7.45) coupled with hypocapnia (PaCO₂ 24 mmHg, normal 35–45 mmHg) demonstrates a partially compensated severe metabolic acidosis (lactic acidosis from septic shock ± DKA) with compensatory Kussmaul hyperventilation blowing off CO₂.",
+      "Incorrect: A primary respiratory alkalosis would raise arterial pH above 7.45 rather than causing severe acidaemia (pH 7.10).",
+      "Incorrect: Primary respiratory acidosis is characterised by hypercapnia (elevated PaCO₂ >45 mmHg), whereas PaCO₂ here is markedly reduced at 24 mmHg.",
+      "Incorrect: Type 2 respiratory failure is defined by hypercapnia (PaCO₂ >45 mmHg) alongside hypoxaemia, opposite to this patient's hypocapnia.",
+      "Incorrect: Metabolic alkalosis elevates arterial pH above 7.45 rather than producing pH 7.10."
+    ],
+    "clinicalPearl": "Check pH direction first: pH <7.35 means primary acidosis; if PaCO₂ is simultaneously LOW (<35 mmHg), the primary disorder is metabolic acidosis with active respiratory compensation (Kussmaul breathing).",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "In acid-base interpretation, the direction of pH shift identifies the primary disorder; low pH with low PaCO₂ denotes partially compensated metabolic acidosis via hyperventilation."
+    },
+    "sourceStation": {
+      "id": "surg_038",
+      "title": "ABG — Septic Shock & Severe Metabolic Acidosis",
+      "originalPrompt": "13. Diabetes mellitus patient with hypertension and cellulitis on right leg.\nVitals: HR 140/min | BP 80/60 | RR 40/min\nArterial Blood Gas (ABG): pH 7.1 | PaCO2 24 mmHg | PaO2 68 mmHg\n13.1 List three (03) abnormalities seen in ABG.\n13.2 What is the cause for the aforementioned CO2 level?  [Text-only ABG station]",
+      "verifiedAnswer": "(13.1) Abnormalities: Severe acidaemia (pH 7.1), Hypocapnia (PaCO₂ 24 mmHg), and Hypoxaemia (PaO₂ 68 mmHg) — partially compensated severe metabolic acidosis (likely lactic acidosis from septic shock ± DKA). (13.2) Cause of low PaCO₂: Respiratory compensation via hyperventilation (RR 40/min, Kussmaul breathing) blowing off CO₂.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_guide_a_01",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide — Preoperative Preparation",
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Preoperative Drug Modification & Fasting Protocol",
+    "imagePath": null,
+    "stem": "A 68-year-old man with well-controlled type 2 diabetes mellitus (on oral metformin) and stable ischaemic heart disease is scheduled for an elective laparotomy. He currently takes clopidogrel and prophylactic subcutaneous low-molecular-weight heparin (LMWH). According to CSS preoperative preparation protocols, which medication and fasting plan is most appropriate?",
+    "options": [
+      "Continue clopidogrel until surgery, omit LMWH 2 hours preoperatively, give morning metformin, and fast 12 hours for water",
+      "Stop clopidogrel 24 hours before surgery, omit LMWH 48 hours preoperatively, and schedule the case last on the afternoon list",
+      "Replace clopidogrel with intravenous unfractionated heparin until incision, double morning metformin, and allow light breakfast 3 hours preoperatively",
+      "Stop clopidogrel 7 days before surgery, omit LMWH 12 hours preoperatively, omit morning oral hypoglycaemics, and fast 6h solids / 2h clear liquids",
+      "Stop clopidogrel 14 days before surgery, withhold all cardiac medications on surgery morning, and fast 8 hours for clear fluids"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Continuing clopidogrel risks major intraoperative bleeding, morning oral hypoglycaemics risk fasting hypoglycaemia (and metformin lactic acidosis), and 12-hour water fasting is excessive.",
+      "Incorrect: Stopping clopidogrel only 24 hours preoperatively leaves irreversible platelet inhibition active for days, and diabetic patients should be placed first on the operating list rather than last.",
+      "Incorrect: Doubling hypoglycaemics while fasting causes severe hypoglycaemia, and solid food within 6 hours increases pulmonary aspiration risk at induction.",
+      "Correct: Preoperative protocols require stopping clopidogrel ~7 days and LMWH 12 hours before surgery (UFH 6 hours), placing diabetic patients first on the list while omitting morning oral hypoglycaemics, and fasting 6 hours for solids and 2 hours for clear liquids.",
+      "Incorrect: Essential cardiac/antihypertensive medications should be continued on the day of surgery with a sip of water, and clear fluid fasting need only be 2 hours."
+    ],
+    "clinicalPearl": "Pre-op drug timing rules: stop clopidogrel ~7 days, warfarin 3–5 days (target INR <1.5), LMWH 12 h, and UFH 6 h prior; put diabetics first on the OT list, omit morning OHAs, and fast 6 h solids / 2 h clear liquids.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Preoperative preparation stops clopidogrel 7 days and LMWH 12 hours preoperatively, omits morning oral hypoglycaemics (scheduling first on list), and enforces 6h solid / 2h clear liquid fasting."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_a_02",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+    "batch": "CSS Guide — WHO Surgical Safety Checklist",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "WHO Surgical Safety Checklist & SSI Bundle",
+    "imagePath": null,
+    "stem": "Immediately before skin incision ('Time Out') during an elective colorectal resection using the Sri Lanka Ministry of Health WHO Surgical Safety Checklist, the team confirms completion of the Surgical Site Infection (SSI) bundle. Which four interventions comprise this SSI prevention bundle?",
+    "options": [
+      "Instrument count, sponge count, specimen labelling, and 24-hour postoperative BHT orders",
+      "Pulse oximetry, airway equipment, defibrillator, and written consent verification",
+      "Urinary catheter, nasogastric tube, mechanical bowel prep, and skin stapling",
+      "Blood cross-matching, central venous line, epidural, and DVT compression stockings",
+      "Prophylactic antibiotics, active patient warming, hair removal, and glycaemic control"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Instrument/sponge/needle counts, specimen labelling, and postoperative BHT management notes belong to the 'Sign Out' phase before the patient leaves theatre.",
+      "Incorrect: Equipment/pulse oximeter/defibrillator checks and consent confirmation are verified during 'Sign In' before induction of anaesthesia.",
+      "Incorrect: Catheters, NG tubes, and bowel preparation are procedural adjuncts rather than the four checklist SSI bundle elements.",
+      "Incorrect: Blood cross-matching and DVT prophylaxis are separate safety items on the Time Out checklist rather than the 4-component SSI bundle.",
+      "Correct: The Sri Lanka Ministry of Health Surgical Safety Checklist explicitly lists four SSI bundle measures before incision: antibiotic prophylaxis, patient warming, hair removal, and glycaemic control."
+    ],
+    "clinicalPearl": "Know the 3 WHO checklist pauses: Sign In (identity/consent/allergy/airway/>500 mL blood loss risk), Time Out (team intro, site marking, SSI bundle, DVT prophylaxis, imaging), and Sign Out (counts, specimen labels, BHT notes).",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "The Sri Lanka Ministry of Health Surgical Safety Checklist verifies a 4-element SSI bundle prior to surgical incision: antibiotic prophylaxis, patient warming, hair removal, and glycaemic control."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_a_03",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide — Casualty Protocols",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Casualty Incision & Drainage (I&D) Instrument Packet",
+    "imagePath": null,
+    "stem": "A house officer in the casualty minor theatre is preparing to perform incision and drainage (I&D) of a fluctuant subcutaneous gluteal abscess under local anaesthesia. Which pair of instruments from the standard casualty I&D packet is specifically used to incise the abscess roof and bluntly break down deep internal loculi?",
+    "options": [
+      "No. 4 Bard-Parker handle and Babcock tissue forceps",
+      "No. 3 Bard-Parker handle and Lister's sinus forceps",
+      "Humby skin-grafting knife and wooden boards",
+      "No. 4 Bard-Parker handle and McIndoe dissecting scissors",
+      "Zerny retractor and Moynihan bowel-holding forceps"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: No. 4 BP handles (taking #20–#24 blades) and atraumatic Babcock forceps belong to appendicectomy/laparotomy packets for handling tubular viscera such as the appendix, not abscess loculi.",
+      "Correct: The standard casualty I&D packet specifically contains a No. 3 Bard-Parker scalpel handle (fitting fine #11/#15 blades for stab incision) and sinus forceps (Lister's/Hilton's method to enter and break down loculi without injuring neurovascular structures).",
+      "Incorrect: The Humby knife and wooden boards belong exclusively to the casualty skin-grafting packet for split-thickness graft harvesting.",
+      "Incorrect: McIndoe scissors and No. 4 BP handles are included in fine-dissection/CTD or laparotomy trays rather than the standard I&D packet.",
+      "Incorrect: Zerny retractors and Moynihan forceps appear in herniotomy and appendicectomy packets rather than abscess I&D sets."
+    ],
+    "clinicalPearl": "Casualty tray essentials: I&D packet = No. 3 BP handle + sinus forceps + fine mosquito + small toothed forceps + sponge holder; Skin-grafting packet = Humby knife + wooden boards.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "The Casualty I&D packet provides a No. 3 BP scalpel handle (with #11/#15 blade) for incision and sinus forceps to safely break internal abscess loculations."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_a_04",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide — Chest Drain Protocol",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Intercostal Chest Drain Safe Triangle & Technique",
+    "imagePath": null,
+    "stem": "A 32-year-old trauma patient requires intercostal chest drain insertion within the 'safe triangle' for a large right haemopneumothorax. Where precisely should the skin incision, blunt dissection with curved Roberts artery forceps, and pleural entry be performed, and what immediate drainage volume mandates emergency thoracotomy?",
+    "options": [
+      "Lower border of the 4th rib; immediate drain output exceeding 500 mL",
+      "Second intercostal space midclavicular line using a sharp trocar; output exceeding 750 mL",
+      "Upper border of the 5th rib; immediate drain output exceeding 1,500 mL",
+      "Eighth intercostal space posterior axillary line; output exceeding 1,000 mL",
+      "Lower border of the 6th rib; immediate drain output exceeding 300 mL"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Dissecting along the inferior rib border risks lacerating the intercostal neurovascular bundle seated in the subcostal groove, and 500 mL is below the massive haemothorax thoracotomy threshold.",
+      "Incorrect: Sharp metal trocars carry high risk of lung, heart, or hepatic laceration and are contraindicated in standard chest tube placement; 2nd ICS midclavicular is for needle decompression.",
+      "Correct: Chest drains are sited in the safe triangle (anterior to mid-axillary line, lateral to pectoralis major, above nipple/5th ICS) along the upper border of the 5th rib via blunt Roberts forceps dissection; ≥1,500 mL immediate blood drain indicates massive haemothorax requiring emergency thoracotomy.",
+      "Incorrect: Entering at the 8th intercostal space risks penetrating the diaphragm, liver, or spleen.",
+      "Incorrect: Both the lower rib margin trajectory (neurovascular injury) and the 300 mL threshold are incorrect."
+    ],
+    "clinicalPearl": "IC tube golden rules: Safe triangle, UPPER border of 5th rib (avoid neurovascular bundle under rib above), blunt dissection with curved Roberts forceps (NO trocar), connect to underwater seal below chest level, and watch for swinging fluid column.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Insert chest drains within the safe triangle at the upper border of the 5th rib using blunt Roberts forceps dissection; immediate blood output >1,500 mL warrants thoracotomy."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_a_05",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide — NG Tube Protocol",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Nasogastric (Ryle's) Tube Landmarks & Contraindications",
+    "imagePath": null,
+    "stem": "A surgical house officer is preparing to insert a 16 Fr Ryle's nasogastric tube in a conscious patient for bowel decompression. Which surface landmark sequence determines the insertion length, which simple step stiffens a soft tube to reduce pharyngeal coiling, and in which trauma injury is nasal insertion strictly contraindicated?",
+    "options": [
+      "Philtrum to tragus to xiphisternum; chilling in fridge; base of skull fracture",
+      "Glabella to angle of mandible to umbilicus; warming in saline; cervical sprain",
+      "Nasal bridge to mastoid tip to costal margin; advancing a wire stylet in situ; nasal polyp",
+      "Upper incisor to sternal angle to iliac crest; boiling water soak; mandibular fracture",
+      "Thyroid cartilage to clavicle to umbilicus; inflating balloon cuff; Le Fort I fracture"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: NG insertion length equals the distance from the philtrum (or nose tip) to the tragus of the ear to the xiphisternum; chilling the tube in a refrigerator stiffens it to prevent coiling, and base of skull fracture is an absolute contraindication to nasal passage (risk of intracranial entry).",
+      "Incorrect: Warming softens the tube and increases coiling, while glabella-to-umbilicus vastly miscalculates gastric length.",
+      "Incorrect: A guidewire must never be inserted while the NG tube is inside the patient due to oesophageal or tracheobronchial perforation risk.",
+      "Incorrect: Measuring to the iliac crest leads to excessive duodenal coiling, and boiling damages PVC/silicone tubing.",
+      "Incorrect: Ryle's nasogastric tubes do not possess a retention balloon cuff, and thyroid-to-umbilicus is incorrect landmarking."
+    ],
+    "clinicalPearl": "NG insertion checklist: measure Philtrum → Tragus → Xiphisternum, chill tube before use (never insert guidewire in situ), slide along the FLOOR of the nose, avoid in base-of-skull fracture, and confirm via aspirate pH or CXR.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Measure NG tube length from philtrum to tragus to xiphisternum, stiffen by refrigerating before insertion, direct along the nasal floor, and avoid nasal passage in base-of-skull fractures."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_a_06",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+    "batch": "CSS Guide — Catheter Protocol",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Urinary Catheter Selection, Bladder Irrigation & Safety",
+    "imagePath": null,
+    "stem": "A 70-year-old uncircumcised man presents to casualty with gross haematuria and acute clot retention 3 days after transurethral resection of the prostate (TURP). After excluding urethral trauma and instilling intraurethral 2% lignocaine gel for 5 minutes using sterile non-touch technique, which catheter selection and mandatory post-insertion step are most appropriate?",
+    "options": [
+      "12 Fr Robinson catheter removed after draining 200 mL, leaving prepuce retracted",
+      "14 Fr two-way latex Foley catheter connected to a standard bag without bladder irrigation",
+      "20 Fr external condom sheath catheter strapped to the shaft without urethral entry",
+      "22 Fr three-way Foley for continuous bladder irrigation, then reducing the prepuce",
+      "24 Fr three-way Foley inflated with 30 mL air inside the prostatic urethra"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A straight Robinson catheter only empties urine once and leaves clots to re-obstruct; leaving the prepuce retracted risks painful paraphimosis.",
+      "Incorrect: Narrow two-way 14 Fr catheters clot off rapidly in gross haematuria and lack an irrigation inflow port.",
+      "Incorrect: Condom catheters only collect externally voided urine in incontinent males and cannot relieve acute clot retention.",
+      "Correct: Gross haematuria with clot retention requires a wide-bore (e.g., 22 Fr) 3-way Foley catheter permitting simultaneous continuous saline bladder irrigation (CBI) and drainage; the prepuce must always be reduced over the glans afterwards to prevent paraphimosis.",
+      "Incorrect: Foley balloons must be inflated with sterile water (never air) only after confirming urine drainage proves the tip sits safely inside the bladder, never in the prostatic urethra."
+    ],
+    "clinicalPearl": "Catheter sizing & safety: 14 Fr (green)/16 Fr (orange) 2-way for simple retention; 22 Fr 3-way for CBI in haematuria; silicone lasts ~3 months vs latex ~1 month; always check for blood at meatus first and reduce the foreskin afterwards to prevent paraphimosis.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Use a wide-bore 3-way Foley catheter (e.g., 22 Fr) for continuous bladder irrigation in haematuria/clot retention, inflate the balloon with sterile water in the bladder, and reduce the prepuce afterwards to prevent paraphimosis."
+    },
+    "sourceStation": null
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "totalQuestions": 358,
+  "osceStationQuestions": 310,
+  "guideProtocolQuestions": 48,
+  "visualImageQuestions": 256,
+  "totalGuides": 42,
+  "answerDistribution": {
+    "A": 72,
+    "B": 72,
+    "C": 72,
+    "D": 71,
+    "E": 71
+  },
+  "specialties": [
+    {
+      "id": "med",
+      "name": "Medicine",
+      "shortName": "Medicine",
+      "code": "MED",
+      "color": "#1557b0",
+      "docUrl": "https://docs.google.com/document/d/1xQOVblVgn0MtkaJQKI3T6UtVKfwZH4GqjWgkVQoe6Jk/edit",
+      "pdfUrl": "https://drive.google.com/file/d/1Ny2fx-UVn_py60KhXbj8OZ6vlhMg9FgA/view",
+      "count": 92,
+      "imageCount": 70,
+      "domains": [
+        {
+          "name": "1.1 CARDIOLOGY & ECG INTERPRETATION",
+          "count": 12
+        },
+        {
+          "name": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT",
+          "count": 18
+        },
+        {
+          "name": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS",
+          "count": 17
+        },
+        {
+          "name": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE",
+          "count": 13
+        },
+        {
+          "name": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE",
+          "count": 8
+        },
+        {
+          "name": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS",
+          "count": 16
+        },
+        {
+          "name": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "surg",
+      "name": "Surgery",
+      "shortName": "Surgery",
+      "code": "SURG",
+      "color": "#00695c",
+      "docUrl": "https://docs.google.com/document/d/1bvAysKjCqlB1Cvpg-j8KC7ZtVxGVcoYIQV-oUFaRfD4/edit",
+      "pdfUrl": "https://drive.google.com/file/d/1DLCgeoeJnVvd3g_Ys2yCfzTQVA5tAg0Y/view",
+      "count": 89,
+      "imageCount": 64,
+      "domains": [
+        {
+          "name": "2.1 GASTROINTESTINAL, HEPATOBILIARY & ACUTE ABDOMEN",
+          "count": 13
+        },
+        {
+          "name": "2.2 BREAST, THYROID & HEAD/NECK LUMPS",
+          "count": 17
+        },
+        {
+          "name": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE",
+          "count": 16
+        },
+        {
+          "name": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL",
+          "count": 5
+        },
+        {
+          "name": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS",
+          "count": 13
+        },
+        {
+          "name": "2.6 UROLOGY & RENAL IMAGING",
+          "count": 3
+        },
+        {
+          "name": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS",
+          "count": 16
+        },
+        {
+          "name": "Perioperative Preparation & Surgical Safety (CSS Guide)",
+          "count": 2
+        },
+        {
+          "name": "Surgical Tubes, Catheters & Casualty Protocols (CSS Guide)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "gynobs",
+      "name": "Gynaecology & Obstetrics",
+      "shortName": "Gyn & Obs",
+      "code": "GYN/OBS",
+      "color": "#9c1458",
+      "docUrl": "https://docs.google.com/document/d/181exRioGegCPHAdmxqf4Vv8jhWy82r9EInRgqR7j6Wg/edit",
+      "pdfUrl": "https://drive.google.com/file/d/1Pb9qmUzTyec0Xcr-JGLItzhLtIgE1626/view",
+      "count": 90,
+      "imageCount": 59,
+      "domains": [
+        {
+          "name": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION",
+          "count": 21
+        },
+        {
+          "name": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES",
+          "count": 8
+        },
+        {
+          "name": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS",
+          "count": 12
+        },
+        {
+          "name": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES",
+          "count": 17
+        },
+        {
+          "name": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT)",
+          "count": 9
+        },
+        {
+          "name": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY",
+          "count": 9
+        },
+        {
+          "name": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION",
+          "count": 8
+        },
+        {
+          "name": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "paed",
+      "name": "Paediatrics",
+      "shortName": "Paediatrics",
+      "code": "PAED",
+      "color": "#283593",
+      "docUrl": "https://docs.google.com/document/d/1M0EsousJkpuMwWTBmBpx-xx3guJvvO_Ciy_IEYtZ_ag/edit",
+      "pdfUrl": "https://drive.google.com/file/d/1IxwiDGy870ZeN6SdeW9thwEdVjCSGQ6W/view",
+      "count": 87,
+      "imageCount": 63,
+      "domains": [
+        {
+          "name": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION",
+          "count": 16
+        },
+        {
+          "name": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS",
+          "count": 16
+        },
+        {
+          "name": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS",
+          "count": 13
+        },
+        {
+          "name": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION",
+          "count": 9
+        },
+        {
+          "name": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI",
+          "count": 10
+        },
+        {
+          "name": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY",
+          "count": 12
+        },
+        {
+          "name": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT",
+          "count": 11
+        }
+      ]
+    }
+  ],
+  "batchGroups": [
+    {
+      "name": "B32/33",
+      "count": 17
+    },
+    {
+      "name": "Batch 20",
+      "count": 20
+    },
+    {
+      "name": "Batch 21",
+      "count": 20
+    },
+    {
+      "name": "Batch 22",
+      "count": 20
+    },
+    {
+      "name": "Batch 23",
+      "count": 20
+    },
+    {
+      "name": "Batch 25",
+      "count": 40
+    },
+    {
+      "name": "Batch 26",
+      "count": 20
+    },
+    {
+      "name": "Batch 28",
+      "count": 38
+    },
+    {
+      "name": "Batch 29",
+      "count": 40
+    },
+    {
+      "name": "Batch 30",
+      "count": 20
+    },
+    {
+      "name": "Batch 31",
+      "count": 20
+    },
+    {
+      "name": "Batch 32",
+      "count": 15
+    },
+    {
+      "name": "Batch 33",
+      "count": 20
+    },
+    {
+      "name": "CSS Guide",
+      "count": 48
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CSS OSCE Single Best Answer (SBA) MCQ Schema",
+  "type": "object",
+  "required": [
+    "id",
+    "specialty",
+    "specialtyName",
+    "domain",
+    "batch",
+    "sourceType",
+    "difficulty",
+    "topic",
+    "stem",
+    "options",
+    "correctIndex",
+    "optionRationales",
+    "clinicalPearl",
+    "guideCitation"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 4 },
+    "specialty": { "type": "string", "enum": ["med", "surg", "gynobs", "paed"] },
+    "specialtyName": { "type": "string" },
+    "domain": { "type": "string" },
+    "batch": { "type": "string" },
+    "sourceType": { "type": "string", "enum": ["osce", "guide"] },
+    "imagePath": { "type": ["string", "null"] },
+    "difficulty": { "type": "string", "enum": ["Core", "Moderate", "Advanced"] },
+    "topic": { "type": "string" },
+    "stem": { "type": "string", "minLength": 25 },
+    "options": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": { "type": "string", "minLength": 2 }
+    },
+    "correctIndex": { "type": "integer", "minimum": 0, "maximum": 4 },
+    "optionRationales": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": { "type": "string", "minLength": 15 }
+    },
+    "clinicalPearl": { "type": "string", "minLength": 15 },
+    "guideCitation": {
+      "type": "object",
+      "required": ["guideId", "guideTitle", "keyPoint"],
+      "properties": {
+        "guideId": { "type": "string" },
+        "guideTitle": { "type": "string" },
+        "keyPoint": { "type": "string" }
+      }
+    },
+    "sourceStation": {
+      "type": ["object", "null"],
+      "required": ["id", "title", "originalPrompt", "verifiedAnswer", "provenance"],
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "originalPrompt": { "type": "string" },
+        "verifiedAnswer": { "type": "string" },
+        "provenance": { "type": "string" }
+      }
+    }
+  }
+}

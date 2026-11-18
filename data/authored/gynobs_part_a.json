@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "gynobs_001_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gestational Dating (EDD & POA)",
+    "stem": "A 26-year-old primigravida with regular 28-day menstrual cycles attends the antenatal booking clinic on 21 September 2012. Her last menstrual period (LMP) began on 14 June 2012. Using Naegele's rule, what are her expected date of delivery (EDD) and current period of amenorrhoea (POA)?",
+    "options": [
+      "EDD 14 March 2013; POA 13 weeks + 4 days",
+      "EDD 21 February 2013; POA 14 weeks + 5 days",
+      "EDD 21 March 2013; POA 14 weeks + 1 day",
+      "EDD 28 March 2013; POA 13 weeks + 1 day",
+      "EDD 21 April 2013; POA 14 weeks + 3 days"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Applying Naegele's rule requires adding 7 days to the LMP day (14 + 7 = 21), not keeping the day unchanged at 14.",
+      "Incorrect: Subtracting 3 months from June yields March rather than February, and the elapsed interval from 14 June to 21 September is 99 days (14 weeks + 1 day), not 14 weeks + 5 days.",
+      "Correct: Adding 7 days and subtracting 3 months from 14 June 2012 (plus 1 year) gives an EDD of 21 March 2013, and 16 + 31 + 31 + 21 = 99 days equals 14 weeks + 1 day.",
+      "Incorrect: Adding 14 days to the LMP day is erroneous for a 28-day cycle, and 99 elapsed days divides to 14 weeks + 1 day rather than 13 weeks + 1 day.",
+      "Incorrect: Subtracting 3 months from June gives March rather than April, and the day remainder after 14 full weeks (98 days) is 1 day."
+    ],
+    "clinicalPearl": "Naegele's rule assumes a 28-day cycle (+7 days, -3 months, +1 year); adjust by adding or subtracting the difference if the cycle deviates from 28 days.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Naegele's rule: add 7 days and 9 months (or subtract 3 months and add 1 year) to the first day of LMP; POA counts completed weeks and days."
+    },
+    "sourceStation": {
+      "id": "gynobs_001",
+      "title": "EDD & POA Calculation (LMP 14 June 2012)",
+      "originalPrompt": "03. Last menstrual date of a pregnant mother is 14 June 2012 (exam date: 21 September 2012).\nCalculate her EDD and period of amenorrhoea (POA).  [Text-only calculation station]",
+      "verifiedAnswer": "EDD (Naegele's rule: +1 year − 3 months + 7 days) = 21 March 2013. POA (from 14 Jun 2012 to 21 Sep 2012 = 99 days) = 14 weeks + 1 day.",
+      "provenance": "[Drive Key + Completed]"
+    }
+  },
+  {
+    "id": "gynobs_002_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_002.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Symphysis-Fundal Height",
+    "stem": "During a third-trimester antenatal examination shown in the photograph, a clinician uses a non-elastic measuring tape along the midline of the gravid abdomen. Between which two anatomical landmarks (indicated by the outer arrows) should this measurement be taken?",
+    "options": [
+      "Upper border of the uterine fundus to upper border of the pubic symphysis",
+      "Lower border of the xiphisternum to upper border of the pubic symphysis",
+      "Upper border of the uterine fundus to lower border of the pubic symphysis",
+      "Midpoint of the umbilicus to superior margin of the inguinal ligament",
+      "Highest lateral uterine cornu to anterior superior iliac spine"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Symphysis-fundal height (SFH) is measured along the uterine midline from the highest point (upper border) of the uterine fundus to the upper border of the maternal pubic symphysis.",
+      "Incorrect: Measuring from the xiphisternum assesses xipho-pubic distance rather than actual uterine fundal growth.",
+      "Incorrect: The inferior border of the pubic symphysis cannot be palpated externally during abdominal examination and would artificially overestimate SFH.",
+      "Incorrect: The umbilicus and inguinal ligament are not used as reference points for SFH growth charting.",
+      "Incorrect: Oblique measurements from a lateral cornu to the iliac spine do not track longitudinal fetal growth."
+    ],
+    "clinicalPearl": "Always palpate down from the xiphisternum with the ulnar border of the left hand to find the true upper border of the uterine fundus before measuring to the upper border of the pubic symphysis.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Measure SFH along the uterine longitudinal axis from the upper border of the fundus to the upper border of the pubic symphysis."
+    },
+    "sourceStation": {
+      "id": "gynobs_002",
+      "title": "Symphysis-Fundal Height (SFH) Anatomical Landmarks",
+      "originalPrompt": "04. Line drawing of a fetus in a mother's womb with several dotted lines drawn across joining several points.\nWhat are the 2 points which show symphysis-fundal height?",
+      "verifiedAnswer": "Upper border of the uterine fundus (palpated from xiphisternum downwards with ulnar border of hand) to the upper border of the maternal pubic symphysis.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_003_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — ObGyn Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Antenatal Risk Stratification",
+    "stem": "On reviewing a pregnant woman's Sri Lankan H512 antenatal pregnancy record at her booking clinic visit, which finding mandates classification as a high-risk ('At-Risk') pregnancy requiring obstetrician-led shared care?",
+    "options": [
+      "Maternal age of 26 years with a booking BMI of 21.5 kg/m²",
+      "Second pregnancy with a 4-year inter-pregnancy birth interval",
+      "Blood group O Rh-positive with booking haemoglobin of 12.2 g/dL",
+      "Previous uncomplicated spontaneous vaginal birth of a 3.1 kg infant",
+      "Previous stillbirth with a booking maternal haemoglobin of 9.8 g/dL"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Age 26 years and normal BMI (18.5–24.9 kg/m²) represent low-risk maternal baseline characteristics.",
+      "Incorrect: A 4-year birth interval is optimal; short birth spacing (<2 years) is the recognised risk factor on the H512 card.",
+      "Incorrect: Rh-positive status and haemoglobin ≥ 11.0 g/dL are normal booking parameters.",
+      "Incorrect: A prior uncomplicated term vaginal delivery of an appropriate-weight baby lowers obstetric risk.",
+      "Correct: A bad obstetric history (previous stillbirth) and maternal anaemia (Hb < 11.0 g/dL) are key H512 high-risk flags requiring specialist surveillance and serial growth monitoring."
+    ],
+    "clinicalPearl": "Classic H512 high-risk flags include extremes of age (<20 or ≥35), grand multiparity, bad obstetric history, Rh-negative status, anaemia (Hb <11 g/dL), BMI extremes, and medical comorbidities.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "H512 antenatal cards stratify mothers into Red (At-Risk) care when bad obstetric history, anaemia, Rh-negative status, or medical disorders are present."
+    },
+    "sourceStation": {
+      "id": "gynobs_003",
+      "title": "Antenatal Pregnancy Record — High-Risk Factor Identification",
+      "originalPrompt": "05. A filled patient-held antenatal pregnancy record (H512) of a pregnant mother was given.\nList 5 risks of this mother.  [Record scan omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Standard H512 high-risk factors assessed on Sri Lankan antenatal cards: (1) Extremes of maternal age (below 20 or ≥ 35 years) or Grand multiparity (≥ 4–5); (2) Short birth spacing (below 2 years) or Bad obstetric history (recurrent miscarriage, previous stillbirth, previous Caesarean section); (3) Rh-negative blood group (isoimmunisation risk); (4) Pre-existing / gestational medical conditions (hypertension/PIH, diabetes/GDM, heart disease, anaemia Hb below 11 g/dL, proteinuria); (5) High BMI (≥ 25 / ≥ 30 kg/m²) or low BMI (below 18.5), consanguinity, or missed folic acid / late booking.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_004_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gestational Dating (EDD & POA)",
+    "stem": "A 29-year-old woman with regular 28-day menstrual cycles attends the antenatal clinic on 5 August 2013. Her last menstrual period began on 19 February 2013. Applying Naegele's rule, what are her expected date of delivery (EDD) and period of amenorrhoea (POA)?",
+    "options": [
+      "EDD 19 November 2013; POA 24 weeks + 2 days",
+      "EDD 26 November 2013; POA 23 weeks + 6 days",
+      "EDD 26 October 2013; POA 24 weeks + 4 days",
+      "EDD 12 November 2013; POA 23 weeks + 1 day",
+      "EDD 26 December 2013; POA 22 weeks + 5 days"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Failing to add 7 days keeps the date on the 19th rather than the 26th, and 167 elapsed days equals 23 weeks + 6 days rather than 24 weeks + 2 days.",
+      "Correct: Adding 7 days and 9 months to 19 February 2013 gives 26 November 2013, and counting from 19 February to 5 August 2013 totals 9 + 31 + 30 + 31 + 30 + 31 + 5 = 167 days (23 weeks + 6 days).",
+      "Incorrect: Nine calendar months from February reaches November, not October.",
+      "Incorrect: Subtracting 7 days instead of adding 7 days shifts the EDD wrongly to 12 November.",
+      "Incorrect: Adding 10 months reaches December rather than November, and underestimates the POA."
+    ],
+    "clinicalPearl": "When the LMP falls in February of a non-leap year, remember February has 28 days when counting exact days to calculate POA.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Naegele's rule adds 7 days and 9 calendar months to the first day of LMP; exact day counting converts to completed weeks + remainder days."
+    },
+    "sourceStation": {
+      "id": "gynobs_004",
+      "title": "EDD & POA Calculation (LMP 19 Feb 2013)",
+      "originalPrompt": "03. Last menstrual date of a pregnant mother is 19 Feb 2013 (reference clinic date: 5 Aug 2013).\nCalculate her EDD and period of amenorrhoea (POA).  [Text-only calculation station]",
+      "verifiedAnswer": "EDD: 26 November 2013 (19 Feb 2013 + 9 months + 7 days). POA (19 Feb → 5 Aug 2013 = 167 days) = 23 weeks + 6 days (~24 weeks).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_005_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — ObGyn Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Antenatal Screening & Rh Isoimmunisation",
+    "stem": "A 24-year-old Rhesus-negative primigravida attends her antenatal booking clinic at 10 weeks of gestation. In accordance with Sri Lankan (SLCOG) antenatal screening guidelines, when should her Indirect Coombs Test (Rhesus antibody screen) be checked during pregnancy?",
+    "options": [
+      "At 12 weeks and 20 weeks only, prior to the anomaly scan",
+      "At 20 weeks and 24 weeks only, followed by postnatal cord testing",
+      "At 28 weeks only, immediately after giving anti-D immunoglobulin",
+      "At the booking visit, 28 weeks, 32 weeks, and 36 weeks of gestation",
+      "At 36 weeks and 40 weeks only, unless antepartum haemorrhage occurs"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Omitting third-trimester antibody screening fails to detect sensitisation occurring later in pregnancy or before routine antenatal anti-D prophylaxis.",
+      "Incorrect: Screening at 20 and 24 weeks misses the critical 28-week pre-prophylaxis check and late third-trimester monitoring.",
+      "Incorrect: Indirect Coombs testing must be drawn before administering anti-D immunoglobulin because exogenous anti-D causes a positive antibody screen.",
+      "Correct: Per SLCOG guidelines for Rh-negative mothers, Indirect Coombs testing is performed at booking, 28 weeks (prior to routine anti-D), 32 weeks, and 36 weeks POA.",
+      "Incorrect: Delaying screening until 36 weeks misses the opportunity for routine antenatal anti-D prophylaxis at 28 weeks."
+    ],
+    "clinicalPearl": "Always draw maternal blood for the Indirect Coombs Test before administering routine antenatal anti-D immunoglobulin at 28 weeks so passive anti-D does not confound the assay.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Rh-negative mothers require Indirect Coombs testing at booking and 28 weeks (before anti-D prophylaxis), plus follow-up checks at 32 and 36 weeks."
+    },
+    "sourceStation": {
+      "id": "gynobs_005",
+      "title": "Timing of Antenatal Investigations, Dating Scan & Rh Antibodies",
+      "originalPrompt": "05. Antenatal screening timing:\na) When are the basic biochemical investigations done?\nb) When is the dating scan done?\nc) When are Rhesus antibodies of an Rh-negative primi mother checked?  [Text-only station]",
+      "verifiedAnswer": "(a) Basic biochemical & booking Ix (FBC, Blood group/Rh, VDRL, HIV, UFR, FBS): At the booking visit (≤ 12 weeks). (b) Dating ultrasound scan: 11–13+6 weeks (first trimester, ideally 10–13 weeks) via CRL to confirm viability, accurate GA, and chorionicity. (c) Rh antibody (Indirect Coombs Test): Booking visit, 28 weeks, 32 weeks, and 36 weeks POA (per SLCOG Rh guideline; check before routine anti-D at 28w).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_006_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — ObGyn Q1",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Antenatal Risk Stratification & PIH",
+    "stem": "A 32-year-old woman at 30 weeks of gestation presents with a pregnancy record showing blood group O Rh-negative, first-trimester vaginal bleeding, blood pressure 140/90 mmHg, urine protein +++, and a blood glucose level of 256 mg/dL. Which combination of conditions poses the most immediate combined maternal-fetal threat requiring urgent inpatient management?",
+    "options": [
+      "Pre-eclampsia and overt hyperglycaemia in pregnancy",
+      "Gestational thrombocytopenia and benign renal glucosuria",
+      "Subclinical hypothyroidism and white-coat hypertension",
+      "Asymptomatic bacteriuria and physiological haemodilution",
+      "Threatened miscarriage and obstetric cholestasis"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Hypertension (140/90 mmHg) after 20 weeks accompanied by +++ proteinuria defines pre-eclampsia, while a blood glucose of 256 mg/dL indicates overt/uncontrolled diabetes in pregnancy.",
+      "Incorrect: Significant +++ proteinuria with elevated BP is not explained by isolated thrombocytopenia, and 256 mg/dL blood glucose far exceeds benign glucosuria.",
+      "Incorrect: Neither hypothyroidism nor white-coat hypertension accounts for +++ proteinuria and severe hyperglycaemia.",
+      "Incorrect: Bacteriuria does not cause hypertension with +++ proteinuria or a blood glucose of 256 mg/dL.",
+      "Incorrect: At 30 weeks gestation, first-trimester bleeding is historical and does not explain acute proteinuric hypertension and severe hyperglycaemia."
+    ],
+    "clinicalPearl": "New-onset hypertension (≥140/90 mmHg) with significant proteinuria after 20 weeks warrants immediate inpatient pre-eclampsia evaluation; GDM/overt DM frequently coexists with PIH.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Hypertension (>140/90 mmHg) after 20 weeks plus significant proteinuria establishes pre-eclampsia; concurrent blood sugar ≥200 mg/dL signals overt hyperglycaemia."
+    },
+    "sourceStation": {
+      "id": "gynobs_006",
+      "title": "Pregnancy Record — 5 High-Risk Factors",
+      "originalPrompt": "1. Pregnancy record was given:\n• Blood group O negative\n• Bleeding PV in 1st trimester\n• Proteinuria +++\n• Blood sugar 256\n• Blood pressure 140/90 mmHg\nList 5 risk factors you can see in it.  [Text summary station in original PDF]",
+      "verifiedAnswer": "(1) Blood group O Rh-negative (risk of haemolytic disease of newborn / Rh isoimmunisation); (2) Bleeding PV in 1st trimester (threatened miscarriage / ectopic / molar); (3) Proteinuria +++; (4) Hyperglycaemia (blood sugar 256 mg/dL — overt/gestational diabetes); (5) Hypertension (BP 140/90 mmHg) (combined with +++ proteinuria → pre-eclampsia / chronic HTN with superimposed pre-eclampsia).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_007_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gestational Dating & Ultrasound",
+    "stem": "A pregnant woman with regular 28-day cycles attends the clinic on 26 August 2014 with an LMP of 5 May 2014. Applying Naegele's rule, what are her EDD and POA, and which ultrasound measurement provides the gold-standard confirmation of gestational age?",
+    "options": [
+      "EDD 5 February 2015; POA 15 weeks + 6 days; femur length",
+      "EDD 12 March 2015; POA 16 weeks + 4 days; abdominal circumference",
+      "EDD 19 February 2015; POA 15 weeks + 4 days; biparietal diameter",
+      "EDD 12 January 2015; POA 16 weeks + 5 days; gestational sac diameter",
+      "EDD 12 February 2015; POA 16 weeks + 1 day; first-trimester crown-rump length"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Adding 7 days gives 12 February, not 5 February, and femur length is a second/third-trimester biometry parameter rather than the gold-standard dating measurement.",
+      "Incorrect: Subtracting 3 months from May yields February rather than March, and abdominal circumference varies significantly with fetal nutrition.",
+      "Incorrect: Adding 14 days instead of 7 days shifts the EDD erroneously to 19 February.",
+      "Incorrect: Subtracting 4 months yields January instead of February.",
+      "Correct: Naegele's rule on 5 May 2014 (+7 days, -3 months, +1 year) gives 12 February 2015; elapsed time to 26 August (26 + 30 + 31 + 26 = 113 days) is 16 weeks + 1 day, and crown-rump length (11–13+6 weeks) is the gold standard for dating."
+    ],
+    "clinicalPearl": "First-trimester Crown-Rump Length (CRL) at 11–13+6 weeks is accurate to within ±5–7 days and supersedes LMP dating if a discrepancy exceeds 7 days.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Accurate gestational dating relies on Naegele's rule clinically and Crown-Rump Length (CRL) on ultrasound at 11–13+6 weeks."
+    },
+    "sourceStation": {
+      "id": "gynobs_007",
+      "title": "EDD, POA & Gestational Age Confirmation (LMP 5 May 2014)",
+      "originalPrompt": "3. A pregnant mother came to the clinic. Her LMP: 2014-May-5th. She had regular periods of 28-day cycles (clinic date: 26 Aug 2014).\n1. Calculate EDD.\n2. Calculate POA.\n3. How do you confirm the gestational age?  [Text-only calculation station]",
+      "verifiedAnswer": "(1) EDD: 12 February 2015 (2014-05-05 + 1 yr − 3 mo + 7 d). (2) POA (to 26 Aug 2014 = 113 days) = 16 weeks + 1 day. (3) Confirmation: First-trimester dating ultrasound scan (Crown-Rump Length, CRL at 11–13+6 weeks).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_008_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_008.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Antenatal Risk Stratification",
+    "stem": "Based on the Sri Lankan H512 antenatal pregnancy record shown in the image, which trio of documented maternal risk factors specifically predisposes to Rhesus isoimmunisation, fetal neural tube defects, and autosomal recessive congenital anomalies respectively?",
+    "options": [
+      "Grand multiparity, last child aged 1 year, and BMI 33 kg/m²",
+      "Pre-pregnancy screening done, rubella immunised, and nil allergies",
+      "Blood group B-negative, absence of periconceptional folic acid, and consanguinity",
+      "BMI 33 kg/m², clinic registration at 20 weeks POA, and no prior contraception",
+      "Rubella immunisation, short inter-pregnancy interval, and unknown LMP"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Grand multiparity and short birth spacing increase PPH and uterine rupture risks, while obesity raises GDM and PIH risk rather than Rh isoimmunisation or NTDs directly.",
+      "Incorrect: Having had pre-pregnancy screening, rubella immunity, and no drug allergies are reassuring rather than risk factors.",
+      "Correct: The card explicitly records Blood Group B- (Rh isoimmunisation risk), On folic acid: No (neural tube defect risk), and Consanguinity: Yes (autosomal recessive genetic disorder risk).",
+      "Incorrect: Registration at 20 weeks reflects late booking and BMI 33 kg/m² indicates obesity, neither of which explains Rh isoimmunisation or autosomal recessive inheritance.",
+      "Incorrect: Rubella immunity is protective, and unknown LMP impairs dating rather than causing isoimmunisation or recessive anomalies."
+    ],
+    "clinicalPearl": "On H512 card spotters, systematically scan top boxes (Blood group, BMI, Allergies), obstetric history (G/P, age of last child, LMP), and the Yes/No risk table (Consanguinity, Folic acid, Subfertility).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "H512 card risk assessment evaluates Rh-negative status, obesity (BMI ≥30), grand multiparity, short spacing (<2 years), consanguinity, and omitted folic acid."
+    },
+    "sourceStation": {
+      "id": "gynobs_008",
+      "title": "Antenatal Record — 5 Maternal Risk Factors",
+      "originalPrompt": "2) Refer to the antenatal report and identify 5 risk factors.",
+      "verifiedAnswer": "(1) Blood group B-negative (Rh-negative) — risk of Rh isoimmunisation/HDN; (2) High BMI (33 kg/m², Class I obesity) — GDM, PIH, macrosomia, labour/anaesthetic complications; (3) Consanguinity — autosomal recessive congenital anomalies; (4) No periconceptional folic acid — neural tube defects; (5) Grand multiparity (G6P5) with short inter-pregnancy interval (1 year) — PPH, uterine rupture, anaemia/growth restriction.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_009_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 25 (4th Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "High-Risk Antenatal Care",
+    "stem": "A 42-year-old multigravida at 32 weeks of gestation with chronic hypertension, prior pregnancy-induced hypertension, and a previous stillbirth presents with pallor (Hb 9.5 g/dL), urine albumin +, and a cardiac murmur. Which combination of urgent specialist evaluations is most critical in her management?",
+    "options": [
+      "Routine repeat oral glucose tolerance test and return to peripheral MOH care",
+      "Pre-eclampsia organ-screen with echocardiogram and targeted anaemia workup",
+      "Immediate external cephalic version and outpatient oral iron monotherapy",
+      "Elective induction of labour today without prior cardiac imaging",
+      "Expectant management until 40 weeks with fortnightly fundal height checks"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Discharging a mother with hypertension, proteinuria, a cardiac murmur, anaemia, and prior stillbirth to peripheral care risks maternal cardiac decompensation and eclampsia.",
+      "Correct: Chronic hypertension with previous PIH and new albuminuria requires urgent pre-eclampsia evaluation (BP profile, FBC, LFTs, renal function, fetal growth/Doppler), the murmur warrants echocardiography, and Hb 9.5 g/dL requires anaemia classification and correction.",
+      "Incorrect: ECV is irrelevant without malpresentation and contraindicated in hypertensive/high-risk compromise.",
+      "Incorrect: Immediate induction at 32 weeks without evaluating cardiac valve status or pre-eclampsia severity could precipitate pulmonary oedema and acute fetal prematurity morbidity.",
+      "Incorrect: Expectant care to 40 weeks ignores active maternal anaemia, possible superimposed pre-eclampsia, and structural heart disease."
+    ],
+    "clinicalPearl": "Pregnancy imposes a 30–50% increase in cardiac output peaking around 28–32 weeks; anaemia exacerbates cardiac workload in mothers with underlying valvular lesions.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Chronic hypertension with new proteinuria requires urgent investigation for superimposed pre-eclampsia (FBC, LFT, RFT, fetal Doppler) alongside targeted specialist workup of comorbidities."
+    },
+    "sourceStation": {
+      "id": "gynobs_009",
+      "title": "Antenatal Card High-Risk Assessment (Elderly Gravida + Cardiac Murmur)",
+      "originalPrompt": "03) Pregnancy record of a mother is given: Age 42 y, urine albumin +, previous stillbirth, previous PIH, Hb 9.5 g/dL, pale in 32 weeks, past Hx of HTN, T2 murmur +, booking visit at 16 weeks.\nList 5 risk factors in this mother.  [Text-summary station in original PPTX]",
+      "verifiedAnswer": "(1) Advanced maternal age (42 years); (2) Past history of hypertension & previous PIH with current albuminuria + (high risk of superimposed pre-eclampsia); (3) Previous stillbirth (bad obstetric history); (4) Maternal anaemia (Hb 9.5 g/dL); (5) Cardiac murmur + (suspected valvular/structural heart disease) — plus late booking at 16 weeks.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_010_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — ObGyn Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Gestational Dating (EDD & POA)",
+    "stem": "On 18 October 2018, a 24-year-old woman with irregular menstrual cycles attends the antenatal clinic carrying a first-trimester dating ultrasound report that establishes an expected date of delivery (EDD) of 22 January 2019. What is her correct period of gestation (POG/POA) on 18 October 2018?",
+    "options": [
+      "24 weeks + 5 days",
+      "25 weeks + 3 days",
+      "27 weeks + 4 days",
+      "26 weeks + 2 days",
+      "28 weeks + 1 day"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: 24 weeks + 5 days would leave 107 days until term, corresponding to an EDD in early February 2019.",
+      "Incorrect: 25 weeks + 3 days leaves 102 days to term, corresponding to an EDD around 28 January 2019.",
+      "Incorrect: 27 weeks + 4 days leaves only 87 days to term, placing the EDD on 13 January 2019.",
+      "Correct: From 18 October 2018 to 22 January 2019 is 13 + 30 + 31 + 22 = 96 days remaining before 40 weeks (280 days); 280 - 96 = 184 days, which equals 26 weeks + 2 days.",
+      "Incorrect: 28 weeks + 1 day leaves 83 days until term (EDD 9 January 2019)."
+    ],
+    "clinicalPearl": "When cycles are irregular and EDD is assigned by first-trimester scan, calculate POA backwards from 40 weeks (280 days) by subtracting the days remaining until the EDD.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "In women with irregular cycles, dating scan CRL determines EDD; POA equals 280 days minus the number of days remaining until EDD."
+    },
+    "sourceStation": {
+      "id": "gynobs_010",
+      "title": "EDD & Dating-Scan POA Calculation (18 Oct 2018)",
+      "originalPrompt": "2) Today is 18th October 2018.\n1. A 34-year-old woman came to the obstetrics clinic and mentioned her LMP as 18th July 2018. Calculate her expected date of delivery (EDD).\n2. A 24-year-old woman with an irregular menstrual cycle got the EDD as Jan 22nd 2019 (19/01/2019 in PPTX variant) from the dating scan. What is her POG/POA?  [Text-only calculation station]",
+      "verifiedAnswer": "(1) EDD: 25 April 2019 (18 Jul 2018 + 1 yr − 3 mo + 7 d; POA = 13w+1d). (2) POA from EDD 22 Jan 2019 on 18 Oct 2018: Remaining days to 40w term = 96 days (13w+5d) → POA = 26 weeks + 2 days (if EDD 19 Jan 2019 → remaining 93 days = 13w+2d → POA = 26 weeks + 5 days).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_011_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Booking Antenatal Visit",
+    "stem": "A 23-year-old woman presents at 11 weeks of amenorrhoea for her first antenatal booking visit. Which package represents the essential routine baseline investigations ordered at this booking appointment?",
+    "options": [
+      "Full blood count, ABO/Rh typing, VDRL, HIV serology, urine full report, and dating ultrasound",
+      "75 g oral glucose tolerance test, detailed anomaly ultrasound, and Indirect Coombs test only",
+      "Cardiotocograph, umbilical artery Doppler, and transvaginal cervical length measurement",
+      "Maternal serum alpha-fetoprotein, biophysical profile, and mid-luteal serum progesterone",
+      "Group B Streptococcus rectovaginal swab, chest radiograph, and amniotic fluid index"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Standard booking-visit investigations (≤12 weeks) include FBC (baseline Hb/platelets), ABO and Rh blood grouping, VDRL and HIV screening, urine analysis/culture, fasting/random glucose, and a dating ultrasound scan.",
+      "Incorrect: The routine anomaly scan is performed at 18–22 weeks and universal OGTT at 24–28 weeks (unless early GDM risk factors exist).",
+      "Incorrect: Cardiotocography and umbilical artery Doppler are third-trimester fetal surveillance tests inapplicable at 11 weeks.",
+      "Incorrect: Mid-luteal progesterone confirms ovulation in subfertility workups, and biophysical profile assesses third-trimester fetal wellbeing.",
+      "Incorrect: Routine chest radiography is avoided in pregnancy, and GBS screening is performed at 35–37 weeks where practised."
+    ],
+    "clinicalPearl": "Booking investigations establish baseline maternal haemoglobin, blood group/Rh status, asymptomatic bacteriuria, STI serology (VDRL/HIV), glycaemic risk, and accurate CRL dating.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Routine booking investigations (≤12 weeks) comprise FBC, ABO/Rh, VDRL, HIV, UFR/urine culture, blood glucose, and dating ultrasound."
+    },
+    "sourceStation": {
+      "id": "gynobs_011",
+      "title": "Booking Visit (11 Weeks) — Risk Factors & Investigations",
+      "originalPrompt": "3) Young female presents with 11 weeks of amenorrhoea for booking visit.\n1. Write 3 risk factors that you look for.\n2. Write 4 investigations that you would do on her.  [Text-only station]",
+      "verifiedAnswer": "(1) Risk factors: Maternal age (teenage below 18 or ≥ 35), Medical disorders (DM, chronic HTN, cardiac/renal disease, epilepsy), Past obstetric complications (previous CS, PPH, stillbirth, PIH), Consanguinity, Smoking/alcohol, High/low BMI. (2) Booking investigations: (a) Full Blood Count (FBC); (b) Blood group & Rhesus status; (c) VDRL (syphilis) & HIV / Hepatitis B serology; (d) Fasting / Random Blood Glucose & UFR / Urine culture + Dating Ultrasound Scan.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_012_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — ObGyn Q16",
+    "imagePath": "images/gynobs/gynobs_012.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Symphysis-Fundal Height",
+    "stem": "Observe the antenatal examination technique demonstrated in the photograph. Which technical error visible here introduces observer measurement bias into this obstetric assessment?",
+    "options": [
+      "Using a non-elastic flexible measuring tape instead of a rigid metal rule",
+      "Exposing the maternal abdomen down to the level of the pubic symphysis",
+      "Aligning the measuring tape along the longitudinal midline of the uterus",
+      "Anchoring one end of the tape at the superior border of the pubic symphysis",
+      "Positioning the measuring tape with centimetre graduations facing upwards"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: A non-elastic flexible tape is the recommended instrument because it conforms smoothly to the abdominal contour.",
+      "Incorrect: Exposing from xiphisternum to pubic symphysis is mandatory to accurately identify both anatomical landmarks.",
+      "Incorrect: Measuring along the longitudinal axis of the uterus after correcting dextrorotation is proper technique.",
+      "Incorrect: Anchoring the tape at the upper border of the pubic symphysis is standard practice.",
+      "Correct: In the photograph, the yellow centimetre graduations face upwards towards the examiner, allowing prior knowledge of gestational age to bias the reading; the tape must be kept centimetre-side down until anchored."
+    ],
+    "clinicalPearl": "In OSCE stations, holding the tape face-down (cm markings hidden) and asking the mother to empty her bladder are the two highest-yield technique points tested for SFH measurement.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Place the measuring tape centimetre markings face down to eliminate observer bias, only flipping it after reaching both landmarks."
+    },
+    "sourceStation": {
+      "id": "gynobs_012",
+      "title": "Symphysis-Fundal Height Measurement — Technique & Errors",
+      "originalPrompt": "16.\n16.1 What is the measurement taken in this image?\n16.2 Give 2 mistakes that can be seen in this picture while measuring this.\n16.3 What is the importance of this measurement?",
+      "verifiedAnswer": "(16.1) Symphysis-fundal height (SFH). (16.2) Mistakes: Measurement must start precisely from the top of the uterine fundus (located with ulnar border of left hand) down to the upper border of the pubic symphysis along the longitudinal axis, with tape centimetre-side facing down (to reduce observer bias) and empty bladder. (16.3) Importance: Serial screening of fetal growth against gestational age (detecting SGA/IUGR or macrosomia/polyhydramnios).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "gynobs_013_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — ObGyn Q17",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Booking Visit Dating & Ultrasound",
+    "stem": "A 21-year-old primigravida attends her antenatal booking visit on 23 April 2021, reporting her last menstrual period (LMP) as 30 January 2021 with regular 28-day cycles. What are her calculated POA and EDD?",
+    "options": [
+      "POA 10 weeks + 5 days; EDD 30 October 2021",
+      "POA 11 weeks + 6 days; EDD 6 November 2021",
+      "POA 12 weeks + 4 days; EDD 13 November 2021",
+      "POA 11 weeks + 2 days; EDD 23 October 2021",
+      "POA 13 weeks + 0 days; EDD 6 December 2021"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Adding 7 days to 30 January carries into February (6 February) and then +9 months gives 6 November, not 30 October.",
+      "Correct: Elapsed days from 30 January to 23 April 2021 are 1 (Jan) + 28 (Feb) + 31 (Mar) + 23 (Apr) = 83 days, which equals 11 weeks + 6 days; adding 7 days to 30 January gives 6 February, plus 9 months gives EDD 6 November 2021.",
+      "Incorrect: 12 weeks + 4 days would equal 88 days, and adding 14 days to 30 January gives 13 November.",
+      "Incorrect: 11 weeks + 2 days equals 79 days, which undercounts February/March days.",
+      "Incorrect: Plus 9 months from February reaches November rather than December."
+    ],
+    "clinicalPearl": "When adding 7 days to an LMP at the end of a month (e.g., 30 January + 7 days = 6 February), cross into the next month first before adding 9 months.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "For late-month LMPs, add 7 days first (crossing month boundary if needed) before adding 9 calendar months to obtain EDD."
+    },
+    "sourceStation": {
+      "id": "gynobs_013",
+      "title": "Booking Visit POA, EDD & Ultrasound Objectives (LMP 30 Jan 2021)",
+      "originalPrompt": "17. 21-year-old female comes to the booking visit on 23rd April 2021. Her LMP was on 30th January 2021.\n• Calculate the period of amenorrhoea (POA).\n• Calculate the EDD.\n• Mention 4 different findings that you look for in the USS at the booking visit.  [Text-only calculation station]",
+      "verifiedAnswer": "(1) POA (30 Jan → 23 Apr 2021 = 83 days) = 11 weeks + 6 days. (2) EDD: 6 November 2021 (30 Jan + 7 d = 6 Feb → +9 mo = 6 Nov 2021). (3) 4 Booking USS findings: (a) Confirm intrauterine gestation (exclude ectopic); (b) Fetal viability (cardiac pulsation); (c) Accurate gestational dating via Crown-Rump Length (CRL); (d) Number of fetuses (& chorionicity/amnionicity if twins) ± uterine/adnexal pathology (fibroids, ovarian cysts) / nuchal translucency (at 11–13+6w).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_014_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_014.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cutaneous Changes & Infections in Pregnancy",
+    "stem": "A pregnant woman presents with the four mucocutaneous findings labelled A to D in the photograph. Which sequence correctly identifies all four conditions in order?",
+    "options": [
+      "A = Erythema nodosum; B = Herpes simplex vesicles; C = Striae gravidarum; D = Linea nigra",
+      "A = Malar lupus rash; B = Molluscum contagiosum; C = Linea alba; D = Spider angiomata",
+      "A = Chloasma gravidarum; B = Condylomata acuminata; C = Linea nigra; D = Striae gravidarum",
+      "A = Acanthosis nigricans; B = Condylomata lata; C = Striae gravidarum; D = Linea nigra",
+      "A = Melasma gravidarum; B = Bartholin gland abscess; C = Caput medusae; D = Pruritic urticarial papules"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Panel A shows patchy facial hyperpigmentation rather than tender tibial nodules, and C is the vertical midline pigmentation rather than stretch marks.",
+      "Incorrect: Panel B shows hyperkeratotic verrucous papules rather than umbilicated molluscum papules, and D shows abdominal striae rather than spider angiomata.",
+      "Correct: A is chloasma/melasma gravidarum ('mask of pregnancy'), B shows cauliflower-like HPV genital warts (condylomata acuminata), C points to the midline linea nigra, and D points to abdominal striae gravidarum.",
+      "Incorrect: Panel B represents HPV-induced condylomata acuminata rather than flat syphilitic condylomata lata, and panels C and D are reversed.",
+      "Incorrect: Panel B shows external verrucous warts rather than a cystic Bartholin swelling, and D shows stretch marks rather than urticarial plaques."
+    ],
+    "clinicalPearl": "Pregnancy-induced hyperpigmentation (chloasma, linea nigra, areolar darkening) is driven by elevated oestrogen, progesterone, and melanocyte-stimulating hormone; genital warts (HPV 6/11) often proliferate rapidly in pregnancy.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Differentiate physiological hyperpigmentation of pregnancy (chloasma, linea nigra, striae) from pathological anogenital warts (condylomata acuminata)."
+    },
+    "sourceStation": {
+      "id": "gynobs_014",
+      "title": "Physiological Skin Changes of Pregnancy & Genital Warts",
+      "originalPrompt": "2. Identify these conditions (A, B, C, D).",
+      "verifiedAnswer": "A: Chloasma / Melasma gravidarum ('mask of pregnancy'); B: Condylomata acuminata (genital warts, HPV 6/11); C: Linea nigra; D: Striae gravidarum.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_015_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_015.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Symphysis-Fundal Height",
+    "stem": "Before performing the obstetric abdominal measurement shown in the photograph, which essential prerequisite must be fulfilled to ensure an accurate reading and prevent maternal supine hypotension?",
+    "options": [
+      "Instruct the mother to drink 500 mL of water so a full bladder elevates the uterus",
+      "Position the mother strictly in Sims' left lateral prone-tilted posture",
+      "Administer an oral beta-agonist tocolytic 30 minutes before palpation",
+      "Confirm an empty maternal bladder and supine posture with slight left tilt",
+      "Keep clothing draped over the lower abdomen down to the pubic symphysis"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A distended urinary bladder pushes the gravid uterus superiorly and artificially inflates the SFH measurement.",
+      "Incorrect: Sims' position is used for speculum inspection of vaginal wall prolapse, not abdominal SFH measurement.",
+      "Incorrect: Routine SFH measurement is a non-invasive clinical exam requiring no pharmacotherapy.",
+      "Correct: An empty bladder prevents upward uterine displacement, while supine positioning with a slight left lateral tilt relieves aortocaval compression by the gravid uterus.",
+      "Incorrect: The abdomen must be adequately exposed from the xiphisternum to the pubic symphysis after obtaining verbal consent and chaperone presence."
+    ],
+    "clinicalPearl": "Three classic SFH prerequisites: (1) empty maternal bladder, (2) supine position with slight left lateral tilt, and (3) full exposure from xiphisternum to pubic symphysis with consent and chaperone.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "SFH prerequisites require an empty bladder, supine positioning with slight left tilt, and exposure from xiphisternum to pubic symphysis."
+    },
+    "sourceStation": {
+      "id": "gynobs_015",
+      "title": "SFH Measurement Prerequisites",
+      "originalPrompt": "3.1 What is the obstetric measurement taken here?\n3.2 List three prerequisites for correct measurement.",
+      "verifiedAnswer": "(3.1) Symphysis-fundal height (SFH). (3.2) Prerequisites: (a) Empty maternal urinary bladder prior to exam; (b) Mother lying supine/semi-recumbent with abdomen exposed from xiphisternum to pubic symphysis; (c) Identify uterine fundus first using ulnar border of left hand (correcting dextrorotation if needed), measure from upper fundal border to upper border of pubic symphysis with metric side facing down.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_016_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 30 (4th Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_016.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "SFH Chart & Fetal Growth Restriction",
+    "stem": "A 25-year-old pregnant woman's antenatal weight-gain and fundal-height chart is shown. Based on the serial measurements plotted on the right-hand chart, what is the most likely clinical interpretation and essential next diagnostic investigation?",
+    "options": [
+      "Suspected small-for-gestational-age fetus; arrange ultrasound biometry and umbilical Doppler",
+      "Suspected fetal macrosomia; arrange an urgent 75 g oral glucose tolerance test immediately",
+      "Polyhydramnios secondary to gestational diabetes; perform immediate diagnostic amniocentesis",
+      "Normal symmetrical fetal growth; continue routine four-weekly antenatal clinic surveillance",
+      "Suspected transverse fetal lie; schedule an immediate external cephalic version next week"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: All three plotted blue points lie persistently below the lower reference curve on the SFH chart, indicating suspected SGA/fetal growth restriction that requires ultrasound biometry (BPD, HC, AC, FL), liquor assessment, and umbilical artery Doppler.",
+      "Incorrect: Macrosomia would plot above the upper reference line rather than below the lower centile curve.",
+      "Incorrect: Polyhydramnios expands uterine fundal height above the expected gestational curve, and amniocentesis is not the next step for SFH lag.",
+      "Incorrect: Values falling consistently below the lower reference boundary represent abnormal lag rather than normal growth.",
+      "Incorrect: While malpresentation can alter SFH, ultrasound biometry and Doppler—not blind ECV—is the required diagnostic next step."
+    ],
+    "clinicalPearl": "After 24 weeks, expected SFH in centimetres approximates POA in weeks (±2 cm); serial readings below the 10th centile or ≥4 cm lag demand ultrasound biometry and umbilical artery Doppler.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "SFH lagging below expected gestational norms screens for SGA/FGR and mandates obstetric ultrasound biometry, liquor volume, and umbilical Doppler."
+    },
+    "sourceStation": {
+      "id": "gynobs_016",
+      "title": "SFH Lag & Small for Gestational Age (SGA)",
+      "originalPrompt": "Question 02\nGiven below is a pregnancy record of a 25-year-old pregnant woman. Her fundal-symphysis height did not correspond with the gestational period.\n2.1 Comment on the SFH by observing the pregnancy record.\n2.2 What is the diagnosis?\n2.3 Mention the next investigation you will perform to confirm your diagnosis.",
+      "verifiedAnswer": "(2.1) SFH interpretation: After 24 weeks, expected SFH in cm matches POA in weeks (± 2 cm); SFH ≥ 4 cm below gestational age raises suspicion of restricted growth. (2.2) Diagnosis: Small for Gestational Age (SGA) / suspected IUGR. (2.3) Next investigation: Obstetric Ultrasound scan (fetal biometry — BPD, HC, AC, FL + estimated fetal weight, liquor volume, and umbilical artery Doppler).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_017_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — ObGyn Q6",
+    "imagePath": "images/gynobs/gynobs_017.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Symphysis-Fundal Height",
+    "stem": "When performing the antenatal abdominal assessment illustrated in the photograph, which palpation technique correctly locates the superior anatomical landmark before placing the zero mark of the tape measure?",
+    "options": [
+      "Percuss upwards from the umbilicus until tympany transitions to dullness",
+      "Palpate downwards from the xiphisternum using the ulnar border of the left hand",
+      "Perform bimanual vaginal-abdominal palpation above the inguinal ligament",
+      "Estimate vertical height in fingerbreadths counting upwards from the pubic symphysis",
+      "Use the fingertips of both hands to ballot the fetal head over the pelvic brim"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Percussion is unreliable for defining the uterine fundus and is replaced by systematic downward palpation.",
+      "Correct: Standing on the patient's right, the examiner palpates gently downwards from the xiphisternum using the ulnar border of the left hand to detect the firm upper border of the uterine fundus.",
+      "Incorrect: Bimanual examination assesses pelvic organ size in early pregnancy or gynaecology, not third-trimester SFH.",
+      "Incorrect: Fingerbreadth estimation is subjective and less accurate than standardised centimetre tape measurement.",
+      "Incorrect: Deep pelvic grip (Pawlik's/pelvic palpation) determines presenting part and engagement at the pelvic brim, not fundal height."
+    ],
+    "clinicalPearl": "Using the ulnar border of the left hand while moving downward from the xiphisternum avoids missing a high fundus and prevents poking the abdomen with fingertips.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Locate the upper border of the uterine fundus by palpating downwards from the xiphisternum with the ulnar border of the left hand."
+    },
+    "sourceStation": {
+      "id": "gynobs_017",
+      "title": "SFH Measurement Technique",
+      "originalPrompt": "06. Describe the technique followed during this procedure.",
+      "verifiedAnswer": "Ask mother to empty bladder, position supine, expose abdomen from xiphisternum to pubic symphysis, palpate downward from xiphisternum with ulnar border of left hand to locate highest point of uterine fundus, place zero-mark of tape at upper border of fundus (cm markings face down to avoid bias) and measure straight along midline to upper border of pubic symphysis; read in cm and plot against POA.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_018_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — ObGyn Q10",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Antenatal Screening Schedule",
+    "stem": "In routine Sri Lankan antenatal care for an uncomplicated singleton pregnancy, which pairing accurately matches an essential antenatal screening test with its optimal gestational window?",
+    "options": [
+      "Detailed fetal structural anomaly ultrasound scan — 11 to 13 weeks of gestation",
+      "First-trimester dating ultrasound scan (CRL) — 20 to 22 weeks of gestation",
+      "Universal 75 g oral glucose tolerance test (OGTT) — 16 weeks of gestation",
+      "Booking VDRL and HIV serology screening — 36 weeks of gestation",
+      "Detailed fetal structural anomaly ultrasound scan — 18 to 22 weeks of gestation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: 11–13+6 weeks is the window for the dating/nuchal translucency scan; fetal anatomy is too small for comprehensive anomaly screening then.",
+      "Incorrect: Dating accuracy is optimal in the first trimester (11–13+6 weeks via CRL), whereas 20 weeks is too late for precise dating.",
+      "Incorrect: Universal GDM screening by 75 g OGTT is performed at 24–28 weeks (earlier booking OGTT is reserved for high-risk mothers).",
+      "Incorrect: VDRL and HIV screening should be completed at the booking visit (≤12 weeks) to enable prompt treatment and prevent vertical transmission.",
+      "Correct: The detailed fetal anomaly ultrasound scan is optimally scheduled at around 20 weeks (18–22 weeks) of gestation."
+    ],
+    "clinicalPearl": "Key Sri Lankan antenatal milestones: Booking (≤12w) for FBC/ABO-Rh/VDRL/HIV/dating USS; 20w (18–22w) for anomaly scan; 28w (24–28w) for OGTT, repeat FBC, and Rh antibodies.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Optimal antenatal test timing: Booking/12w (FBC, ABO/Rh, VDRL, HIV, CRL dating USS), 20w (anomaly scan), 28w (OGTT, repeat FBC, Rh ICT)."
+    },
+    "sourceStation": {
+      "id": "gynobs_018",
+      "title": "Timing of Routine Antenatal Screening Tests",
+      "originalPrompt": "10. Match the routine antenatal tests (A–E) with the optimum period of gestation (1–3):\nTests: A. FBC | B. Anomaly scan | C. Dating scan | D. OGTT | E. Rh antibodies for Rh- mother\nPeriods: 1. 12 weeks | 2. 20 weeks | 3. 28 weeks  [Text-only matching station]",
+      "verifiedAnswer": "A (FBC): 1 (12 weeks / booking visit) (and repeated at 28w); B (Anomaly scan): 2 (20 weeks, 18–22w); C (Dating scan): 1 (12 weeks, 11–13+6w); D (OGTT): 3 (28 weeks, 24–28w); E (Rh antibodies): 3 (28 weeks) (plus booking visit & 32–36w prior to anti-D).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_019_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_019.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Physiological Changes in Pregnancy",
+    "stem": "A primigravida in her third trimester exhibits the four pregnancy-related breast and cutaneous findings labelled A to D in the photograph. Which option correctly identifies all four findings in sequence?",
+    "options": [
+      "A = Acute lactational mastitis; B = Midline laparotomy scar; C = Spider naevi; D = Seborrhoeic dermatitis",
+      "A = Subareolar galactocele; B = Linea alba diastasis; C = Erythema multiforme; D = Addisonian pigmentation",
+      "A = Areolar hyperpigmentation and Montgomery's tubercles; B = Linea nigra; C = Striae gravidarum; D = Chloasma",
+      "A = Peau d'orange; B = Striae gravidarum; C = Linea nigra; D = Systemic lupus malar rash",
+      "A = Accessory mammary tissue; B = Cullen's sign; C = Pemphigoid gestationis; D = Vitiligo"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Panel A displays normal hyperpigmented areola with prominent sebaceous Montgomery's tubercles rather than erythematous mastitis, and B is hyperpigmentation rather than a scar.",
+      "Incorrect: Panel B shows the pigmented midline linea nigra rather than muscular diastasis, and C shows stretch marks rather than target lesions.",
+      "Correct: A depicts areolar darkening with prominent Montgomery's tubercles, B shows the vertical midline linea nigra, C shows abdominal striae gravidarum, and D displays facial chloasma (melasma gravidarum).",
+      "Incorrect: Panel A does not represent malignant lymphatic oedema (peau d'orange), and panels B and C are swapped.",
+      "Incorrect: Panel B is not periumbilical bruising (Cullen's sign), and D shows malar hyperpigmentation rather than depigmentation."
+    ],
+    "clinicalPearl": "Montgomery's tubercles are hypertrophied sebaceous glands around the areola that secrete protective lipid during pregnancy and lactation.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Physiological pregnancy skin/breast signs include Montgomery's tubercles with areolar darkening, linea nigra, striae gravidarum, and chloasma."
+    },
+    "sourceStation": {
+      "id": "gynobs_019",
+      "title": "Cutaneous & Breast Signs of Pregnancy",
+      "originalPrompt": "1. Identify below conditions (A, B, C, D).",
+      "verifiedAnswer": "A: Breast changes of pregnancy (areolar hyperpigmentation & prominent Montgomery's tubercles); B: Linea nigra; C: Striae gravidarum; D: Chloasma (Melasma gravidarum).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_020_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_020.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Antenatal Risk Stratification",
+    "stem": "Alongside the Sri Lankan H512 pregnancy record extract shown, the patient's complete card records blood group B Rh-negative, BMI 30 kg/m², gravida 6 para 5, no periconceptional folic acid, and aspirin allergy. Which combination of pregnancy risks and prophylactic limitations arises directly from her documented profile?",
+    "options": [
+      "Risk of congenital hypothyroidism from grand multiparity and inability to receive tetanus toxoid",
+      "Risk of placenta praevia from folic acid omission and inability to take oral ferrous sulphate",
+      "Risk of twin-to-twin transfusion from maternal obesity and inability to undergo dating ultrasound",
+      "Risk of Rh isoimmunisation, neural tube defects, and inability to receive low-dose aspirin",
+      "Risk of shoulder dystocia from B-negative blood group and inability to receive antenatal anti-D"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Grand multiparity predisposes to PPH, malpresentation, and uterine rupture rather than fetal hypothyroidism, and aspirin allergy does not contraindicate tetanus toxoid.",
+      "Incorrect: Omission of folic acid elevates neural tube defect risk rather than placenta praevia, and oral iron remains safe.",
+      "Incorrect: Obesity elevates GDM, PIH, macrosomia, and VTE risk, and ultrasound scanning is unaffected by drug allergy.",
+      "Correct: B Rh-negative status risks haemolytic disease of the newborn, omitted periconceptional folic acid increases neural tube defect risk, and aspirin allergy precludes low-dose aspirin prophylaxis if pre-eclampsia risk factors warrant it.",
+      "Incorrect: Shoulder dystocia is linked to maternal obesity and macrosomia rather than B-negative blood group, and anti-D immunoglobulin is not contraindicated by aspirin allergy."
+    ],
+    "clinicalPearl": "Low-dose aspirin (75–150 mg nocte from 12 weeks) reduces preterm pre-eclampsia in high-risk mothers; always check the Allergy box on the H512 card before prescribing.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "High-risk antenatal profiles integrate blood group (Rh-negative), BMI (≥30), parity (grand multiparity), folic acid intake, and drug allergies (aspirin)."
+    },
+    "sourceStation": {
+      "id": "gynobs_020",
+      "title": "Antenatal Card Risk Stratification (B-, BMI 30, G6P5)",
+      "originalPrompt": "5. Identify 4 high-risk factors in this mother (Pregnancy Record extract shown).",
+      "verifiedAnswer": "(1) Blood group B Rh-negative (risk of Rh isoimmunisation/haemolytic disease); (2) Obesity (BMI 30 kg/m²) (risk of GDM, pre-eclampsia, macrosomia, thromboembolism, operative difficulty); (3) Grand multiparity (G6P5) (risk of PPH, malpresentation, uterine rupture, anaemia); (4) No periconceptional folic acid supplementation (neural tube defect risk) + Aspirin allergy (precludes low-dose aspirin prophylaxis if pre-eclampsia risk present).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_021_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 20 (4th Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_021.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Partogram Interpretation",
+    "stem": "A 32-year-old woman (P2 C1) is being monitored in active labour using the National Partogram shown. Based on the chart entries at 9:00 a.m., which summary accurately reflects her documented high-risk factor, abdominal head descent, amniotic liquor colour, and uterine contraction frequency?",
+    "options": [
+      "Gestational diabetes; 5/5 head palpable; meconium-stained liquor; 2 mild contractions in 10 minutes",
+      "Previous Caesarean section; 3/5 head palpable; clear liquor; 3 moderate contractions in 10 minutes",
+      "Previous postpartum haemorrhage; 1/5 head palpable; blood-stained liquor; 5 strong contractions in 10 minutes",
+      "Pregnancy-induced hypertension; 4/5 head palpable; absent liquor; 4 strong contractions in 10 minutes",
+      "Previous Caesarean section; 0/5 head palpable; clear liquor; 1 mild contraction in 10 minutes"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The 'Special problems' header specifies previous Caesarean section rather than diabetes, liquor is charted as 'C' (clear), and head descent is 3/5.",
+      "Correct: The National Partogram explicitly documents 'Previous Caesarean section' under special problems, clear liquor ('C'), 3/5 fetal head palpable above the pelvic brim, and 3 moderate diagonally hatched contractions in 10 minutes at 9:00 a.m.",
+      "Incorrect: The special problem is a prior Caesarean section (also denoted by P2 C1), liquor is clear ('C'), and descent is 3/5 rather than 1/5.",
+      "Incorrect: Neither PIH nor absent liquor is charted; all recorded liquor entries show 'C' for clear.",
+      "Incorrect: At 9:00 a.m., the fetal head is 3/5 palpable rather than fully engaged at 0/5, and 3 contractions are charted."
+    ],
+    "clinicalPearl": "A vaginal birth after Caesarean (VBAC) trial requires continuous fetal monitoring, strict adherence to partographic limits, and vigilant observation for scar tenderness, maternal tachycardia, or haematuria.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Record special problems (e.g., previous CS), FHR, liquor (I/C/M/B/A), abdominal head descent (fifths), and contraction frequency/duration systematically."
+    },
+    "sourceStation": {
+      "id": "gynobs_021",
+      "title": "Partogram Interpretation (Previous CS)",
+      "originalPrompt": "Q.1 (Partogram recorded at 9 a.m.)\nA.) What is the risk factor mentioned?\nB.) What is the number of contractions at 9 a.m.?\nC.) What extent of head is palpable at 9 a.m.?\nD.) What is the colour of liquor at 9 a.m.?",
+      "verifiedAnswer": "(A) Previous Caesarean section (VBAC trial — requires close monitoring for scar tenderness/rupture & strict partographic limits). (B) 3 contractions in 10 minutes (each lasting 20–40 s). (C) 3/5 of fetal head palpable per abdomen. (D) Clear liquor ('C').",
+      "provenance": "[Drive Key + Completed]"
+    }
+  },
+  {
+    "id": "gynobs_022_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 25 (4th Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_022.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Partogram Interpretation",
+    "stem": "A woman's active-phase cervical dilatation is plotted on the partograph shown. If her plotted dilatation curve moves to the right of the first diagonal line and subsequently crosses the second parallel diagonal line 4 hours later, which clinical labour pattern and management principle apply?",
+    "options": [
+      "Normal physiological active-phase labour progressing at ≥ 1 cm/hour",
+      "Precipitate labour with cervical dilatation exceeding 5 cm/hour",
+      "Prolonged latent phase prior to entering active labour at 4 cm",
+      "Prolonged or abnormal labour requiring urgent senior reassessment of the 3 Ps",
+      "Normal passive phase of the second stage before maternal expulsive effort"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Normal active labour progresses at ≥1 cm/hour, keeping the dilatation curve on or to the left of the Alert line.",
+      "Incorrect: Precipitate labour is abnormally rapid delivery (<3 hours total), which moves steeply to the left of the Alert line.",
+      "Incorrect: Both diagonal lines begin at 4 cm in the active phase; crossing them reflects active-phase delay rather than latent-phase prolongation.",
+      "Correct: Crossing the Alert line signals slow active-phase progress (<1 cm/hr), and crossing the Action line 4 hours later confirms abnormal/prolonged labour mandating senior assessment of Powers, Passenger, and Passage.",
+      "Incorrect: The passive second stage occurs only after full dilatation (10 cm) is achieved."
+    ],
+    "clinicalPearl": "Whenever active-phase dilatation crosses the Action line, always evaluate the 3 Ps (Powers, Passenger, Passage) and fetal wellbeing before deciding between oxytocin augmentation and Caesarean section.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Crossing the Alert and Action lines indicates prolonged/abnormal labour (<1 cm/hr), prompting systematic evaluation of Powers, Passenger, and Passage."
+    },
+    "sourceStation": {
+      "id": "gynobs_022",
+      "title": "Partogram — Alert Line, Action Line & Labour Pattern",
+      "originalPrompt": "05) Partogram given with labels A and B.\n1) Identify A and B.\n2) What type of labour is this woman having?",
+      "verifiedAnswer": "(1) A = Alert line (1 cm/hr cervical dilatation expected minimum from 4 cm); B = Action line (drawn 4 hours to the right of Alert line). (2) Labour pattern: Prolonged / Abnormal labour (slow cervical progress crossing Alert/Action lines — primary dysfunctional labour or secondary arrest depending on slope; requires assessment of 3 Ps: Powers, Passenger, Passage).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_023_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 28 (4th Year) — ObGyn Q3",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Labour Abnormalities",
+    "stem": "A 27-year-old primigravida enters active labour at 4 cm cervical dilatation. Over the next 4 hours, her dilatation progresses steadily but slowly to 6 cm (0.5 cm/hour), crossing to the right of the Alert line from active-phase onset. She has 2 mild contractions per 10 minutes, zero skull moulding, clear liquor, a reassuring CTG, and an adequate pelvis. What is the diagnosis and most appropriate management?",
+    "options": [
+      "Primary dysfunctional labour; perform amniotomy and start oxytocin augmentation",
+      "Secondary arrest of cervical dilatation; proceed to immediate Category 1 Caesarean section",
+      "Prolonged latent phase; discharge home with oral analgesia until 6 cm dilatation",
+      "Deep transverse arrest; perform rotational Kjelland's forceps extraction immediately",
+      "Obstructed labour with +++ moulding; administer intramuscular ergometrine"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Slow cervical dilatation (<1 cm/hr) starting from the onset of active labour (≥4 cm) defines primary dysfunctional labour, most commonly due to hypotonic contractions; once CPD and fetal distress are excluded, ARM and oxytocin augmentation are indicated.",
+      "Incorrect: Secondary arrest refers to complete cessation of dilatation after initially normal active-phase progress, and immediate Category 1 CS is unnecessary without CPD or fetal distress.",
+      "Incorrect: She is already in the active phase (4 to 6 cm), not the latent phase.",
+      "Incorrect: Deep transverse arrest occurs in the second stage at full dilatation, not at 6 cm.",
+      "Incorrect: There is zero moulding and adequate pelvis (no obstruction), and ergometrine is strictly contraindicated before delivery of the baby."
+    ],
+    "clinicalPearl": "Distinguish primary dysfunctional labour (slow slope <1 cm/hr from onset of active phase, usually inadequate powers) from secondary arrest (initial normal slope followed by complete stop, often CPD/malposition).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Primary dysfunctional labour (<1 cm/hr from active-phase onset) without CPD or fetal distress is managed by amniotomy and titrated IV oxytocin."
+    },
+    "sourceStation": {
+      "id": "gynobs_023",
+      "title": "Partogram — Primary Dysfunctional Labour",
+      "originalPrompt": "3. Photograph of a partogram showing cervical dilatation crossing the Alert line from active-phase onset.\nWhat is the labour pattern?  [Partogram image omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "Primary dysfunctional labour (protracted active phase with dilatation rate below 1 cm/hr from onset of active labour, usually due to inadequate uterine contractions — manage with amniotomy/oxytocin augmentation after ruling out CPD).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_024_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 29 (4th Year) — ObGyn Q17",
+    "imagePath": "images/gynobs/gynobs_024.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Partogram Action Line Management",
+    "stem": "In a woman in active labour, her plotted cervical dilatation crosses to the right of the second diagonal line on the partograph grid shown. Following senior obstetric reassessment, which clinical finding mandates immediate Caesarean delivery rather than oxytocin augmentation?",
+    "options": [
+      "Hypotonic uterine contractions (2 per 10 minutes) with clear amniotic liquor",
+      "Intact membranes with reassuring baseline fetal heart rate of 140 bpm",
+      "Occipito-anterior vertex position with 2/5 head palpable and zero moulding",
+      "Adequate maternal pelvic dimensions with mild caput succedaneum",
+      "Cephalopelvic disproportion with +++ irreducible skull moulding and fetal distress"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Hypotonic contractions with clear liquor and no CPD are an indication for amniotomy and oxytocin augmentation.",
+      "Incorrect: Intact membranes and a normal FHR permit amniotomy and careful oxytocin augmentation if pelvic adequacy is confirmed.",
+      "Incorrect: Favourable OA position, ongoing descent (2/5), and absence of moulding rule against mechanical obstruction.",
+      "Incorrect: Mild caput alone with an adequate pelvis does not contraindicate cautious augmentation.",
+      "Correct: Crossing the Action line in the presence of cephalopelvic disproportion (+++ irreducible skull moulding) or fetal distress strictly contraindicates oxytocin and necessitates emergency Caesarean section to prevent uterine rupture and fetal asphyxia."
+    ],
+    "clinicalPearl": "Never administer oxytocin in a multigravida or primigravida who shows signs of obstructed labour (+++ moulding, severe caput, haematuria, Bandl's ring) — proceed directly to Caesarean section.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Crossing the Action line mandates senior reassessment: augment with ARM/oxytocin only after excluding CPD and fetal distress; otherwise perform Caesarean section."
+    },
+    "sourceStation": {
+      "id": "gynobs_024",
+      "title": "Partogram — Alert Line & Management Beyond Action Line",
+      "originalPrompt": "17. A partogram was given with lines A and B labelled.\n17.1 Identify A and B.\n17.2 Write the management if the cervical dilatation curve gets across line B.",
+      "verifiedAnswer": "(17.1) A = Alert line; B = Action line. (17.2) Management if crossing Action line: Full senior obstetric reassessment of maternal/fetal wellbeing and the 3 Ps (uterine contractions, fetal size/malposition/caput/moulding, pelvic adequacy): if no CPD/fetal distress and contractions inadequate → ARM + IV Oxytocin augmentation with repeat VE in 2–4 hours; if CPD, malpresentation, or fetal distress → Emergency Caesarean section.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_025_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — ObGyn Q7",
+    "imagePath": "images/gynobs/gynobs_025.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Partogram Alert & Action Lines",
+    "stem": "On the partograph shown, two diagonal reference lines are labelled A and B. What do lines A and B represent, and what is the standard horizontal time interval separating them?",
+    "options": [
+      "A is the Action line and B is the Alert line, separated by 2 hours",
+      "A is the Latent line and B is the Active line, separated by 6 hours",
+      "A is the Alert line (1 cm/hour) and B is the Action line, placed 4 hours to the right",
+      "A is the Descent line and B is the Moulding line, separated by 3 hours",
+      "A is the Alert line (2 cm/hour) and B is the Delivery line, placed 4 hours to the right"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: The leftmost line (A) is the Alert line and the rightmost parallel line (B) is the Action line, separated by 4 hours rather than 2 hours.",
+      "Incorrect: Neither line represents the latent phase; both plot expected active-phase progression starting from ≥4 cm.",
+      "Correct: Line A is the Alert line sloping at 1 cm/hour (flagging slow progress or need for transfer from peripheral units), and Line B is the Action line placed 4 hours to the right (mandating definitive intervention).",
+      "Incorrect: Fetal head descent and moulding are plotted separately and do not have diagonal Alert/Action lines.",
+      "Incorrect: The minimum acceptable active-phase cervical dilatation rate on the partogram is 1 cm/hour, not 2 cm/hour."
+    ],
+    "clinicalPearl": "In peripheral maternity units without operative facilities, crossing the Alert line (A) triggers early transfer to a specialist EmOC hospital before the Action line (B) is reached 4 hours later.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Alert line rises at 1 cm/hour from first detection of ≥4 cm dilatation; Action line is drawn parallel 4 hours to the right."
+    },
+    "sourceStation": {
+      "id": "gynobs_025",
+      "title": "Partogram — Purpose of Alert & Action Lines",
+      "originalPrompt": "07. This is a partogram.\n7.1 What is depicted by A and B?\n7.2 What does line A depict?\n7.3 How do you use line B in managing women in labour?",
+      "verifiedAnswer": "(7.1) A = Alert line; B = Action line. (7.2) Alert line (A): Represents the normal minimum rate of cervical dilatation in active labour (1 cm/hour starting at 4 cm); crossing it alerts the clinician to slow progress, prompting closer reassessment (or transfer from peripheral unit to EmOC centre). (7.3) Action line (B): Placed 4 hours to the right of Alert line; crossing it mandates definitive clinical intervention — rule out CPD/fetal distress, then augment with amniotomy/oxytocin if hypotonic, or proceed to Caesarean section if obstructed/compromised.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_026_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — ObGyn Q1",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "SLCOG Partograph Plotting",
+    "stem": "At 9:00 a.m., a 39-year-old woman at 37 weeks + 5 days of gestation is assessed in active labour: fetal heart rate is 130 bpm, cervical dilatation is 5 cm, fetal head descent is 0/5 palpable per abdomen, and she has 3 contractions lasting 30 seconds each in 10 minutes. How should cervical dilatation, head descent, and contractions be charted in the 9:00 a.m. column?",
+    "options": [
+      "Dilatation as O at 5 cm; head descent as X at 0/5; 3 solidly blackened contraction boxes",
+      "Dilatation as X on Alert line (5 cm); descent as O at 0/5; 3 diagonally hatched boxes",
+      "Dilatation as X at 5 cm; head descent as O at 5/5; 3 dotted contraction boxes",
+      "Dilatation as a circle at 5 cm; head descent as X at 0/5; 2 diagonally hatched contraction boxes",
+      "Dilatation as X 4 hours right of Alert line; head descent as O at 3/5; 3 dotted contraction boxes"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Cervical dilatation is plotted with an 'X' and descent with an 'O' (not reversed), and 30-second contractions are shaded with diagonal lines rather than solid black (>40 s).",
+      "Correct: On the partograph, cervical dilatation is marked 'X' directly on the Alert line at 5 cm, abdominal head descent is marked 'O' at 0/5 (fully engaged), and 3 contractions lasting 20–40 seconds are charted as 3 diagonally hatched vertical squares.",
+      "Incorrect: Fully engaged head (0/5 palpable) is plotted at 0, not 5/5, and dotted shading denotes mild contractions (<20 s).",
+      "Incorrect: Using a circle for dilatation and 'X' for descent reverses standard symbols, and 3 contractions require 3 vertical boxes.",
+      "Incorrect: Initial active-phase dilatation (≥4 cm) is always plotted directly on the Alert line, not 4 hours to its right."
+    ],
+    "clinicalPearl": "Partogram symbol check: X = cervix dilatation, O = head descent (5/5 floating down to 0/5 fully engaged); Contraction shading: dots (<20 s), diagonal hatching (20–40 s), solid black (>40 s).",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Plot cervical dilatation with X on the Alert line, abdominal descent with O, and contractions by duration shading (dots <20 s, diagonal 20–40 s, solid >40 s)."
+    },
+    "sourceStation": {
+      "id": "gynobs_026",
+      "title": "Plotting a Partograph (9 am Findings)",
+      "originalPrompt": "1. Plot below details in a partograph:\nA 39-year-old mother with a pregnancy of 37.5 weeks (source text typo '7.5 weeks') presented with abdominal pain and dribbling.\nTime: 9 a.m. | Fetal heart rate: 130 bpm | 3 contractions with 3-min intervals within 10 minutes | Descent of the fetal head was 0/5.  [Text-only plotting station]",
+      "verifiedAnswer": "Partograph plotting at 9:00 am column: (1) Time: Enter `09:00`; (2) FHR: Plot dot at 130 bpm; (3) Liquor: Record C (clear) or M (meconium) if dribbling observed on VE; (4) Cervix & Descent: Plot descent of head as O at 0/5 palpable (fully engaged) and cervical dilatation `X` on the Alert line at starting dilation; (5) Contractions/10 min: Shade 3 vertical boxes (use diagonal hatching for 20–40 s moderate or solid black if > 40 s strong).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_027_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 20 (4th Year) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_027.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cardiotocography (CTG) Interpretation",
+    "stem": "A 28-year-old woman in early labour undergoes the fetal surveillance tracing shown. Applying the DR C BRAVADO framework, what is the accurate interpretation and classification of this tracing?",
+    "options": [
+      "Baseline 100 bpm, absent variability, and recurrent late decelerations — Pathological trace",
+      "Baseline 170 bpm, reduced variability, and variable decelerations — Suspicious CTG trace",
+      "Baseline 140 bpm, sinusoidal pattern, and absent accelerations — Pathological CTG trace",
+      "Baseline 120 bpm, early decelerations, and uterine tachysystole — Suspicious CTG trace",
+      "Baseline 140 bpm, normal variability, accelerations present, no decelerations — Normal"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The fetal heart baseline sits steadily around 140 bpm with brisk oscillations and upward accelerations, not bradycardia or late decelerations.",
+      "Incorrect: Transient upward spikes above 160 bpm represent reassuring accelerations rather than a sustained baseline tachycardia of 170 bpm.",
+      "Incorrect: A sinusoidal trace shows smooth undulating waves without short-term beat-to-beat variability, whereas this trace displays crisp normal variability.",
+      "Incorrect: The uterine contraction frequency is approximately 3 in 10 minutes (normal, not tachysystole >5/10 min) and no decelerations occur.",
+      "Correct: The CTG demonstrates a normal baseline FHR of ~140 bpm (110–160), normal baseline variability of ~15–20 bpm (5–25), reassuring accelerations ≥15 bpm for ≥15 s, and zero decelerations — a Normal/Reactive CTG."
+    ],
+    "clinicalPearl": "In a Normal/Reactive CTG, all four core parameters are reassuring: baseline 110–160 bpm, variability 5–25 bpm, absence of decelerations, and presence of accelerations (≥15 bpm for ≥15 s).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Normal CTG criteria: baseline FHR 110–160 bpm, variability 5–25 bpm, no decelerations, and reassuring accelerations."
+    },
+    "sourceStation": {
+      "id": "gynobs_027",
+      "title": "Normal Reactive Cardiotocograph (CTG)",
+      "originalPrompt": "Q.3\nA.) Comment on 4 things about this CTG.\nB.) What is your diagnosis about the CTG?",
+      "verifiedAnswer": "(A) DR C BRAVADO / 4 core features: Baseline rate = 140 bpm (normal 110–160); Baseline variability = 20 bpm (normal 5–25 bpm); Accelerations = Present; Decelerations = Absent. (B) Diagnosis: Normal / Reactive (Reassuring) CTG.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_028_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_028.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Fetal Lie & Presentation",
+    "stem": "Three term intrauterine fetal orientations are illustrated from left to right. Which sequence correctly identifies the presentation and lie of each fetus from left to right?",
+    "options": [
+      "Cephalic presentation (longitudinal lie), Breech presentation (longitudinal lie), Shoulder presentation (transverse lie)",
+      "Breech presentation (longitudinal lie), Cephalic presentation (longitudinal lie), Oblique presentation (longitudinal lie)",
+      "Face presentation (longitudinal lie), Footling breech (transverse lie), Cephalic presentation (transverse lie)",
+      "Cephalic presentation (oblique lie), Complete breech (transverse lie), Dorsal presentation (longitudinal lie)",
+      "Vertex presentation (transverse lie), Frank breech (longitudinal lie), Breech presentation (oblique lie)"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Left shows the fetal head lowermost along the maternal vertical axis (cephalic presentation, longitudinal lie); middle shows the buttocks/podalic pole lowermost (breech presentation, longitudinal lie); right shows the fetal long axis perpendicular to the maternal spine with the shoulder over the os (shoulder presentation, transverse lie).",
+      "Incorrect: The leftmost fetus is cephalic rather than breech, and the rightmost fetus lies horizontally across the uterus (transverse lie).",
+      "Incorrect: The leftmost fetus has a well-flexed head (vertex, not face), and a breech presentation along the vertical uterine axis is longitudinal lie, not transverse.",
+      "Incorrect: Both left and middle fetuses have longitudinal lies parallel to the maternal spine, and the right fetus has a transverse lie.",
+      "Incorrect: Vertex presentation is associated with longitudinal lie, not transverse lie."
+    ],
+    "clinicalPearl": "Fetal 'lie' describes the relationship of the fetal longitudinal axis to the maternal longitudinal axis (longitudinal, transverse, or oblique), whereas 'presentation' names the lowest fetal pole occupying the pelvic brim.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Longitudinal lie occurs in cephalic and breech presentations; transverse lie results in shoulder presentation, which risks cord or arm prolapse."
+    },
+    "sourceStation": {
+      "id": "gynobs_028",
+      "title": "Fetal Presentation & Lie (Diagrams A, B, C)",
+      "originalPrompt": "1) State the presentation and lie for diagrams A, B, and C.",
+      "verifiedAnswer": "A: Cephalic (vertex) presentation, Longitudinal lie; B: Breech (buttock) presentation, Longitudinal lie; C: Shoulder presentation, Transverse lie.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_029_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_029.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cardiotocography (CTG) Components",
+    "stem": "On the antenatal fetal surveillance tracing shown, four recording channels are labelled A, B, C, and D. Which option correctly identifies all four labelled channels?",
+    "options": [
+      "A = Maternal heart rate; B = Oxytocin infusion boluses; C = Fetal breathing movements; D = Fetal heart rate",
+      "A = Uterine contractions; B = Cervical dilatation ticks; C = Maternal blood pressure; D = Fetal movements",
+      "A = Fetal heart rate; B = Contraction peaks; C = Baseline variability; D = Maternal pulse rate",
+      "A = Fetal heart rate; B = Maternal perception event marks; C = Fetal movements; D = Uterine contractions",
+      "A = Tocodynamometry; B = Amniotomy time marks; C = Fetal heart rate; D = Maternal perception event marks"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The upper grid (60–200 bpm) records fetal heart rate via Doppler ultrasound rather than maternal heart rate, and the lower baseline records uterine activity.",
+      "Incorrect: Uterine contractions are recorded on the bottom tocodynamometer trace (D), not the upper FHR channel (A).",
+      "Incorrect: Channel B shows vertical pen ticks triggered when the mother presses the handheld event button upon feeling kicks, not contraction peaks.",
+      "Correct: A is the continuous fetal heart rate (FHR) tracing; B marks maternal perception of fetal movements (event marker); C is the automated fetal movement actogram; D is the tocodynamometer trace measuring uterine contractions.",
+      "Incorrect: Tocodynamometry corresponds to channel D at the bottom of the paper, whereas channel A is FHR."
+    ],
+    "clinicalPearl": "Key indications for antenatal CTG include reduced fetal movements, PIH/pre-eclampsia, GDM, suspected IUGR/SGA, oligohydramnios, and post-term pregnancy.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "CTG traces record upper FHR, maternal perception event marks, automated actogram fetal movements, and lower tocodynamometer uterine contractions."
+    },
+    "sourceStation": {
+      "id": "gynobs_029",
+      "title": "Cardiotocograph (CTG) Components & Indications",
+      "originalPrompt": "5) Regarding the following investigation report:\na. Identify test.\nb. Identify A, B, C, and D.\nc. When to request — give 2 indications.",
+      "verifiedAnswer": "(a) Cardiotocograph (CTG) (note Drive slide had typo 'Non stress portogram'; correct term is Cardiotocograph / Non-Stress Test). (b) A: Fetal heart rate (FHR); B: Maternal perception event markers (button pressed by mother); C: Fetal movements (automated actogram); D: Uterine contractions (tocodynamometer). (c) Indications: Reduced fetal movements, High-risk pregnancies (PIH/pre-eclampsia, GDM, IUGR/SGA, oligohydramnios, post-dates), Intrapartum monitoring in high-risk/induced/augmented labour.",
+      "provenance": "[Drive Key + Corrected]"
+    }
+  },
+  {
+    "id": "gynobs_030_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 28 (4th Year) — ObGyn Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "CTG Classification & Management",
+    "stem": "During intrapartum monitoring of a 31-year-old woman in active labour, the cardiotocograph reveals a baseline fetal heart rate of 135 bpm, reduced variability of 2 bpm for the past 60 minutes, and recurrent late decelerations over 30 minutes. How is this CTG classified, and what is the immediate priority action?",
+    "options": [
+      "Normal CTG; continue routine intermittent auscultation every 15 minutes",
+      "Suspicious CTG; repeat cardiotocography after 2 hours of maternal ambulation",
+      "Pathological CTG; initiate intrauterine resuscitation and prepare for expedited delivery",
+      "Suspicious CTG; administer intramuscular pethidine to restore baseline variability",
+      "Normal physiological fetal sleep pattern; continue observation without intervention"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Reduced variability (<5 bpm for >50 minutes) and recurrent late decelerations are both abnormal features incompatible with a Normal CTG.",
+      "Incorrect: Having two abnormal features classifies the trace as Pathological rather than Suspicious, and delaying action for 2 hours risks severe fetal acidosis.",
+      "Correct: Reduced variability (<5 bpm >50 min) combined with recurrent late decelerations constitutes a Pathological CTG, requiring immediate intrauterine resuscitation (stop oxytocin, left lateral position, IV fluid bolus, rule out cord prolapse) and urgent preparations for expedited delivery.",
+      "Incorrect: Opioid analgesia (pethidine) further depresses baseline variability and does not treat fetal hypoxia.",
+      "Incorrect: Fetal sleep cycles reduce variability typically for <40–50 minutes without recurrent late decelerations."
+    ],
+    "clinicalPearl": "Intrauterine resuscitation steps for a pathological CTG: stop oxytocin infusion, place mother in left lateral position, give IV crystalloid bolus, perform VE to exclude cord prolapse/full dilatation, and prepare for expedited delivery.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Pathological CTG (e.g., variability <5 bpm >50 min or recurrent late decelerations) requires immediate intrauterine resuscitation and expedited delivery."
+    },
+    "sourceStation": {
+      "id": "gynobs_030",
+      "title": "Cardiotocograph (CTG) Interpretation",
+      "originalPrompt": "2. Comment on this cardiotocograph (CTG).  [CTG image omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "Systematic CTG framework (DR C BRAVADO): DR (Define Risk), C (Contractions/10 min), BRa (Baseline FHR: normal 110–160 bpm), V (Variability: normal 5–25 bpm), A (Accelerations: ≥ 15 bpm for ≥ 15 s), D (Decelerations: early, variable, or late), O (Overall impression: Normal / Suspicious / Pathological per NICE criteria).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_031_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_031.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Umbilical Cord Prolapse",
+    "stem": "Immediately after spontaneous rupture of membranes in a multiparous woman in active labour, the acute clinical finding shown in the photograph is observed at the introitus. Which predisposing obstetric factor is most strongly associated with this emergency, and what is the immediate priority action?",
+    "options": [
+      "Post-term pregnancy with an engaged vertex; apply fundal pressure to expedite delivery",
+      "Footling breech malpresentation; elevate the presenting part manually and perform emergency CS",
+      "Oligohydramnios with occipito-anterior vertex; push the protruding structure back inside the uterine cavity",
+      "Grand multiparity with cephalic engagement at 0/5; commence intravenous oxytocin immediately",
+      "Placenta praevia with intact membranes; place the patient in lithotomy and await spontaneous birth"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: An engaged vertex fills the pelvic brim and prevents descent of the umbilical cord; fundal pressure worsens cord compression.",
+      "Correct: The photograph shows umbilical cord prolapse alongside a foot (footling breech); unengaged malpresentations (especially footling breech and transverse lie) and polyhydramnios are major risk factors, requiring manual elevation of the presenting part (or bladder filling/knee-chest/Trendelenburg positioning) and Category 1 Caesarean section.",
+      "Incorrect: Cord prolapse is associated with polyhydramnios rather than oligohydramnios, and the cord must be kept warm and moist with minimal handling rather than forcibly pushed back.",
+      "Incorrect: Oxytocin increases uterine compression against the prolapsed cord and precipitates acute fetal hypoxia.",
+      "Incorrect: Cord prolapse occurs only after membrane rupture and demands immediate emergency delivery rather than expectant management."
+    ],
+    "clinicalPearl": "In cord prolapse, relieve pressure off the cord immediately by digitally elevating the presenting part vaginally (or filling the urinary bladder with 500 mL saline and placing mother in exaggerated Sims'/knee-chest/Trendelenburg position) until emergency Caesarean delivery.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Cord prolapse risk factors include footling breech, transverse lie, polyhydramnios, prematurity, and high presenting part at ARM; elevate presenting part and deliver immediately."
+    },
+    "sourceStation": {
+      "id": "gynobs_031",
+      "title": "Umbilical Cord Prolapse",
+      "originalPrompt": "4.1 What is this condition?\n4.2 Name three (03) predisposing risk factors.",
+      "verifiedAnswer": "(4.1) Umbilical cord prolapse. (4.2) Predisposing risk factors: Malpresentation (breech — especially footling, transverse/oblique lie), Polyhydramnios, Preterm labour / Low birth weight, High/unengaged presenting part at amniotomy (ARM), Multiple pregnancy (2nd twin), Long umbilical cord / low-lying placenta.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_032_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_032.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Fetal Presentations",
+    "stem": "Three fetal orientations are labelled A, B, and C in the diagram. Which option correctly matches each labelled presentation with its anatomical denominator or primary clinical management at term?",
+    "options": [
+      "A = Occiput denominator; B = Sacrum denominator; C = Transverse lie requiring Caesarean birth at term",
+      "A = Denominator is the mentum; B = Denominator is the acromion; C = Safe for spontaneous vaginal delivery at term",
+      "A = Contraindication to vaginal birth; B = Denominator is the frontal bone; C = Managed routinely by vacuum extraction",
+      "A = Denominator is the sacrum; B = Denominator is the occiput; C = Presents with the suboccipitobregmatic diameter",
+      "A = Requires elective Caesarean section; B = Managed by internal podalic version at 32 weeks; C = Denominator is the bregma"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: A is cephalic vertex presentation (denominator: occiput), B is breech presentation (denominator: sacrum), and C is shoulder presentation in transverse lie (denominator: acromion), which carries high risk of hand/cord prolapse and requires Caesarean section if persistent at term.",
+      "Incorrect: The mentum is the denominator for face presentation and the acromion for shoulder presentation; term transverse lie cannot deliver vaginally.",
+      "Incorrect: Well-flexed vertex (A) is the normal presentation for vaginal delivery, and vacuum extraction is strictly contraindicated in transverse lie.",
+      "Incorrect: This reverses the denominators of vertex (occiput) and breech (sacrum), and the suboccipitobregmatic diameter belongs to well-flexed vertex.",
+      "Incorrect: Internal podalic version is reserved only for a transverse second twin at delivery, not at 32 weeks, and vertex (A) does not require routine CS."
+    ],
+    "clinicalPearl": "Know the presenting denominators: Vertex = Occiput; Face = Mentum; Breech = Sacrum; Shoulder (transverse lie) = Acromion.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Denominators are occiput (vertex) and sacrum (breech); persistent transverse lie (shoulder) risks hand/cord prolapse and mandates Caesarean delivery."
+    },
+    "sourceStation": {
+      "id": "gynobs_032",
+      "title": "Fetal Presentations (4 Diagrams A–D)",
+      "originalPrompt": "5. Identify these presentations (A, B, C, D).",
+      "verifiedAnswer": "Identify by lowest pole in pelvis: Cephalic (Vertex — flexed occiput), Breech (complete/extended/footling), Shoulder (Transverse lie), and Face/Brow (deflexed cephalic) depending on exact panel.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_033_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 30 (4th Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_033.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Fetal Skull Diameters",
+    "stem": "In the lateral diagram of the fetal skull with five numbered diameters, which option correctly matches diameters 1, 4, and 5 with their anatomical names and presenting attitudes?",
+    "options": [
+      "1: Occipitofrontal (brow); 4: Suboccipitobregmatic (vertex); 5: Submentobregmatic (deflexed OP)",
+      "1: Mentovertical (brow); 4: Submentobregmatic (face); 5: Suboccipitobregmatic (well-flexed vertex)",
+      "1: Suboccipitofrontal (deflexed vertex); 4: Occipitofrontal (vertex); 5: Mentovertical (brow)",
+      "1: Suboccipitobregmatic (well-flexed vertex); 4: Mentovertical (brow); 5: Submentobregmatic (face)",
+      "1: Submentobregmatic (face); 4: Occipitofrontal (OP vertex); 5: Suboccipitobregmatic (well-flexed vertex)"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Diameter 1 connects the bregma to the suboccipital region (suboccipitobregmatic), whereas diameter 4 spans from the chin to the vertex (mentovertical).",
+      "Incorrect: Mentovertical is line 4 (chin to vertex) and suboccipitobregmatic is line 1, not vice versa.",
+      "Incorrect: Line 2 is suboccipitofrontal and line 3 is occipitofrontal; lines 1, 4, and 5 represent suboccipitobregmatic, mentovertical, and submentobregmatic.",
+      "Correct: Line 1 runs from subocciput to bregma (suboccipitobregmatic, 9.5 cm, well-flexed vertex); line 4 runs from chin/mentum to vertex (mentovertical/verticomental, 13.5 cm, brow presentation); line 5 runs from submental region to bregma (submentobregmatic, 9.5 cm, face presentation).",
+      "Incorrect: Line 5 is submentobregmatic (face) and line 1 is suboccipitobregmatic (vertex), which are reversed in this choice."
+    ],
+    "clinicalPearl": "Memorise the three classic 9.5 cm vs 13.5 cm landmarks: well-flexed Vertex = Suboccipitobregmatic (9.5 cm), Face = Submentobregmatic (9.5 cm), Brow = Mentovertical (13.5 cm — largest diameter, cannot deliver vaginally at term).",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Presenting diameters: Suboccipitobregmatic (9.5 cm, flexed vertex), Mentovertical (13.5 cm, brow), and Submentobregmatic (9.5 cm, face)."
+    },
+    "sourceStation": {
+      "id": "gynobs_033",
+      "title": "Fetal Skull Diameters by Presentation",
+      "originalPrompt": "Question 05\nMatch the correct number (1–5) of fetal head diameters for the given presentations:\n• Face:\n• Brow:\n• Vertex:",
+      "verifiedAnswer": "Face presentation: Submentobregmatic (~9.5 cm); Brow presentation: Verticomental (Mentovertical) (~13.5 cm — largest, incompatible with vaginal term birth); Vertex presentation: Suboccipitobregmatic (~9.5 cm, well-flexed) / Occipitofrontal (~11.5 cm, deflexed).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_034_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "Batch 32 (4th Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_034.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Intrapartum Fetal Distress",
+    "stem": "A 32-year-old uncomplicated primigravida is induced with amniotomy and intravenous oxytocin. Two hours later, her cervix is 4 cm dilated (1/5 head palpable per abdomen) with clear amniotic liquor, and the cardiotocograph shown is obtained. What is the diagnosis and mandatory immediate first action?",
+    "options": [
+      "Benign early head-compression decelerations; reassure the mother and continue the oxytocin infusion",
+      "Oligohydramnios cord compression; increase the oxytocin infusion rate to achieve full dilatation",
+      "Physiological fetal sleep cycle; reposition the mother supine and repeat the tracing in 45 minutes",
+      "Impending uterine rupture; perform immediate outlet ventouse delivery at 4 cm cervical dilatation",
+      "Acute fetal distress; stop oxytocin immediately and initiate intrauterine resuscitation measures"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The trace shows repeated deep abrupt decelerations down to 60 bpm, which are pathological rather than benign early decelerations.",
+      "Incorrect: Accelerating oxytocin during severe intrapartum decelerations worsens placental hypoperfusion and precipitates severe fetal acidaemia.",
+      "Incorrect: Fetal sleep does not cause repetitive severe decelerations to 60 bpm, and supine positioning worsens aortocaval compression.",
+      "Incorrect: Ventouse delivery is strictly contraindicated before full cervical dilatation (10 cm).",
+      "Correct: Deep recurrent decelerations triggered during oxytocin induction represent acute fetal distress (likely uterine hyperstimulation/tachysystole); the immediate first step is to stop oxytocin, reposition left lateral, give IV fluids (± acute tocolytic e.g. SC terbutaline 0.25 mg), perform VE to exclude cord prolapse, and prepare for Category 1 Caesarean section if unresolved."
+    ],
+    "clinicalPearl": "Stopping the oxytocin infusion is always the single fastest first intervention for oxytocin-induced fetal distress, rapidly restoring intervillous blood flow within minutes.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Pathological CTG during oxytocin induction mandates immediate cessation of oxytocin, left lateral positioning, IV fluid bolus, VE, and expedited delivery if persistent."
+    },
+    "sourceStation": {
+      "id": "gynobs_034",
+      "title": "Oxytocin Hyperstimulation & Fetal Distress (Pathological CTG)",
+      "originalPrompt": "04. A 32-year-old uncomplicated primigravida is admitted to the ward. She is induced with artificial rupture of membranes and oxytocin. Amniotic fluid is clear. On examination: 1/5 fetal head palpable in abdomen; cervix dilated up to 4 cm and fully effaced. A CTG was performed after 2 hours.\n1. What is the diagnosis?\n2. Outline the immediate management plan in three steps.",
+      "verifiedAnswer": "(1) Diagnosis: Acute fetal distress / Pathological CTG secondary to oxytocin-induced uterine hyperstimulation (tachysystole). (2) 3-Step Immediate Management: (a) Stop oxytocin infusion immediately; (b) Intrauterine resuscitation — turn mother to left lateral position, give IV fluid bolus (crystalloid) ± acute tocolysis (e.g., SC Terbutaline 0.25 mg) if hypertonus persists, and check VE for cord prolapse / rapid full dilatation; (c) Prepare for urgent Category 1 Emergency Caesarean section if CTG does not rapidly normalise (or assisted vaginal delivery only if fully dilated & head engaged).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_035_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_035.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Fetal Position Assessment",
+    "stem": "Based on the intrauterine diagram showing the relationship of the fetal body and head to the maternal pelvis, what is the fetal position, and which landmarks are palpated on vaginal examination in labour to confirm it?",
+    "options": [
+      "Left Occipito-Anterior (LOA); coronal suture and nasal bridge",
+      "Right Occipito-Anterior (ROA/ROL); sagittal suture and fontanelles",
+      "Direct Occipito-Posterior (OP); sacral promontory and fetal mentum",
+      "Left Sacro-Anterior (LSA); fetal ischial tuberosities and anus",
+      "Right Mento-Posterior (RMP); orbital ridges and frontal suture"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Viewed in anatomical orientation, the smooth convex fetal back lies on the maternal right side (viewer's left), corresponding to a right-sided occiput position rather than LOA.",
+      "Correct: The flexed cephalic fetus has its smooth back on the maternal right (ROA/ROL), and intrapartum vaginal examination confirms occiput position by tracing the sagittal suture to the triangular posterior fontanelle (3 sutures) and diamond-shaped anterior fontanelle (4 sutures).",
+      "Incorrect: In direct OP, the fetal spine lies posteriorly and the chin/face is not the presenting landmark.",
+      "Incorrect: The fetus is cephalic (head lowermost), not breech (sacrum denominator).",
+      "Incorrect: The fetal neck is flexed (vertex presentation) rather than hyperextended (face presentation)."
+    ],
+    "clinicalPearl": "Three modalities confirm fetal position: (1) Leopold's abdominal palpation (smooth back vs small limbs), (2) Intrapartum VE (sagittal suture + triangular posterior vs diamond anterior fontanelle), and (3) Ultrasound scan.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Fetal position is determined by abdominal palpation, vaginal palpation of sagittal suture and fontanelles, or ultrasound; LOA/ROA are normal cephalic positions."
+    },
+    "sourceStation": {
+      "id": "gynobs_035",
+      "title": "Fetal Position Assessment & Pelvic Diagram",
+      "originalPrompt": "4. Relationship of the fetal head to the maternal pelvis.\n4.1 Write 3 examination methods used to assess the position of the fetus.\n4.2 What is the position of the fetus shown in the diagram?",
+      "verifiedAnswer": "(4.1) Examination methods: (a) Abdominal palpation (Leopold's manoeuvres / lateral grip) to locate fetal spine & limbs; (b) Vaginal examination (intrapartum) palpating sagittal suture and anterior/posterior fontanelles; (c) Ultrasound scan (transabdominal confirmation of spine/occiput). (4.2) Position shown: Right Occipito-Anterior / Right Occipito-Lateral (ROA / ROL) (vertex presentation, longitudinal lie, fetal back on maternal right).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_036_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 20 (4th Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_036.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gynaecological & Obstetric Instruments",
+    "stem": "Four instruments used in obstetrics and gynaecology are labelled A to D in the photograph. Which option correctly identifies the instrument specifically designed to grasp the cut edges of the lower uterine segment for atraumatic haemostasis during Caesarean section?",
+    "options": [
+      "Instrument A (Cusco's bivalve speculum) — retracts the uterine incision edges during Caesarean section",
+      "Instrument B (Haywood Smith's ovum forceps) — evacuates retained products of conception in miscarriage",
+      "Instrument B (Green-Armytage forceps) — clamps cut uterine edges for haemostasis at Caesarean",
+      "Instrument C (Ayre's wooden spatula) — dilates the internal cervical os before uterine curettage",
+      "Instrument D (Vulsellum forceps) — steadies the anterior lip of the non-pregnant cervix during D&C"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Instrument A is Cusco's self-retaining vaginal speculum used to inspect the cervix and perform Pap smears, not for Caesarean uterine edges.",
+      "Incorrect: Ovum forceps have spoon-shaped fenestrated ends without a ratchet lock, whereas B has flat triangular serrated jaws with a ratchet.",
+      "Correct: Instrument B is Green-Armytage uterine haemostatic forceps, distinguished by its broad, triangular, transversely serrated atraumatic tips used to clamp bleeding edges of the lower uterine segment during LSCS.",
+      "Incorrect: Instrument C is Ayre's wooden spatula used to scrape ectocervical transformation-zone cells for Pap cytology, not a dilator.",
+      "Incorrect: Instrument D is Spencer Wells artery forceps used to clamp bleeding vessels, hold membranes for amniotomy, or clamp the umbilical cord, whereas Vulsellum has curved toothed tips."
+    ],
+    "clinicalPearl": "Green-Armytage forceps have broad triangular serrated jaws that distribute pressure evenly, controlling venous sinus bleeding from cut LSCS uterine edges without tearing fragile myometrium.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Green-Armytage forceps (triangular serrated tips) hold the cut edge of the lower uterine segment atraumatically for haemostasis during Caesarean section."
+    },
+    "sourceStation": {
+      "id": "gynobs_036",
+      "title": "Ob/Gyn Instruments (Cusco's, Green-Armytage, Ayre's, Artery Forceps)",
+      "originalPrompt": "Q.2\nFour Ob/Gyn instruments (A, B, C, D) are shown.\nIdentify the instruments and give 1 use for each.",
+      "verifiedAnswer": "A: Cusco's self-retaining bivalve vaginal speculum — visualise cervix/vaginal walls (Pap smear, IUCD insertion); B: Green-Armytage uterine/haemostatic forceps — hold cut uterine edges & achieve haemostasis during Caesarean section; C: Ayre's wooden spatula — collect ectocervical cell scrapings for Pap smear; D: Artery forceps (Spencer Wells) — clamp bleeding vessels / hold membranes for ARM or umbilical cord clamping.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_037_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_037.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Gynaecological & Obstetric Instruments",
+    "stem": "Among the four gynaecological instruments numbered 1 to 4 in the photograph, what are the identity and primary clinical purpose of instrument 4?",
+    "options": [
+      "Hegar's cervical dilator — performs gradual mechanical cervical dilatation before curettage",
+      "Sims' uterine sound — measures uterocervical cavity depth and direction prior to IUCD insertion",
+      "Blake's uterine curette — scrapes the endometrial cavity to obtain a histological tissue biopsy",
+      "Karman's suction cannula — performs manual vacuum aspiration of first-trimester products of conception",
+      "Veress needle — creates carbon dioxide pneumoperitoneum at the umbilicus during laparoscopy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Instrument 4 is a curved cylindrical Hegar's cervical dilator (graduated in millimetres), inserted sequentially from smaller to larger sizes to dilate the cervical os prior to D&C, hysteroscopy, or ERPC.",
+      "Incorrect: The uterine sound is shown in panel 3 (slender graduated rod with flat ribbed handle), not panel 4.",
+      "Incorrect: Blake's uterine curette has fenestrated spoon-shaped loops at its ends rather than a smooth solid cylindrical shaft.",
+      "Incorrect: Karman's cannula is a flexible plastic suction catheter with distal side apertures.",
+      "Incorrect: A Veress needle is a sharp spring-loaded insufflation needle with a hub stopcock."
+    ],
+    "clinicalPearl": "When dilating the cervix with Hegar's dilators, hold the instrument like a pen and apply gentle axial pressure in the direction of the uterus (determined beforehand by bimanual exam and uterine sounding) to prevent false passage or perforation.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Hegar's dilators are graduated curved rods (3–26 mm) used for serial mechanical cervical dilatation prior to D&C, hysteroscopy, or evacuation."
+    },
+    "sourceStation": {
+      "id": "gynobs_037",
+      "title": "Five Classic Ob/Gyn Instruments",
+      "originalPrompt": "01. Five gynaecological/obstetric instruments are shown (Sims' speculum, Cusco's bivalve speculum, Vulsellum, Uterine sound, Cervical/Hegar dilator).\nIdentify the instruments.",
+      "verifiedAnswer": "(1) Sims' speculum — retract posterior vaginal wall to inspect anterior wall (cystocele), Pap smear, IUCD, HSG; (2) Cusco's bivalve speculum — self-retaining cervix visualisation; (3) Vulsellum forceps — grasp anterior lip of cervix (IUCD insertion, cervical biopsy, D&C); (4) Uterine sound — measure uterocervical cavity length/direction; (5) Hegar cervical dilator — gradual mechanical cervical dilatation (D&C, hysteroscopy, cervical stenosis).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_038_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_038.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Vulval Anatomy",
+    "stem": "In the anatomical diagram of the external female genitalia with landmarks labelled A to E, which sequence correctly identifies all five labelled structures?",
+    "options": [
+      "A = Labia minora; B = Labia majora; C = Mons pubis; D = Vaginal introitus; E = Perineal body",
+      "A = Labia majora; B = Labia minora; C = Clitoris; D = External urethral opening; E = Posterior fourchette",
+      "A = Labia majora; B = Vestibular bulb; C = Urethral meatus; D = Clitoris; E = Bartholin's duct",
+      "A = Inguinal fold; B = Labia minora; C = Clitoral hood; D = Hymenal ring; E = Anal verge",
+      "A = Labia majora; B = Skene's gland; C = Clitoris; D = Vaginal rugae; E = Posterior fourchette"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Label A indicates the outer cutaneous fold (labia majora) and B indicates the inner mucosal fold (labia minora).",
+      "Correct: A is the labia majora, B is the labia minora, C is the anterior midline glans clitoris, D is the external urethral meatus, and E is the posterior fourchette where the labia minora unite posteriorly.",
+      "Incorrect: Labels C (clitoris) and D (urethral meatus) are inverted, and E marks the midline posterior fourchette rather than the lateral Bartholin's duct.",
+      "Incorrect: Label D points to the anterior urethral opening above the vaginal orifice, not the hymenal ring, and E is above the perineal body and anus.",
+      "Incorrect: Label B points directly to the folded labia minora and D points to the urethral meatus rather than vaginal rugae."
+    ],
+    "clinicalPearl": "Know the anterior-to-posterior midline landmarks of the vestibule: Clitoris → External urethral meatus (with Skene's ducts) → Vaginal introitus (with Bartholin's ducts at 4 & 8 o'clock) → Posterior fourchette.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Vulval anatomical sequence from outer to inner and anterior to posterior: Labia majora, Labia minora, Clitoris, External urethral opening, and Posterior fourchette."
+    },
+    "sourceStation": {
+      "id": "gynobs_038",
+      "title": "External Female Genitalia (Vulval Anatomy A–E)",
+      "originalPrompt": "02. This is a photograph/diagram of the vulva with labelled parts A–E.\nIdentify the labelled parts.",
+      "verifiedAnswer": "A = Labia majora (outer cutaneous fold); B = Labia minora (inner mucosal fold); C = Clitoris (anterior midline erectile structure); D = Urethral opening (external urethral meatus); E = Posterior fourchette / Vestibular (navicular) fossa.",
+      "provenance": "[Drive Key + Verified]"
+    }
+  },
+  {
+    "id": "gynobs_039_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_039.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Vaginal Specula",
+    "stem": "Two vaginal specula are displayed side by side in the photograph. Which option accurately contrasts their identification and primary clinical applications?",
+    "options": [
+      "The left instrument is self-retaining and leaves both hands free for cervical cytology sampling",
+      "The right instrument is preferred in Sims' left lateral position to inspect a cystocele or fistula",
+      "The left instrument covers both the anterior and posterior vaginal walls simultaneously",
+      "Left (Sims' speculum) assesses rectocele; right (Cusco's speculum) is self-retaining to view cervix",
+      "The right instrument (Sims' speculum) requires an assistant to hold it in place during a Pap smear"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The left instrument is Sims' duck-bill speculum, which is NOT self-retaining and must be held manually; Cusco's (right) is self-retaining.",
+      "Incorrect: Inspection of anterior wall prolapse (cystocele) or vesicovaginal fistula in Sims' left lateral position requires Sims' speculum (left), not Cusco's.",
+      "Incorrect: Cusco's bivalve speculum (right) obscures the anterior and posterior vaginal walls with its blades, making it unsuitable for assessing prolapse.",
+      "Correct: Left is Sims' double-bladed speculum (retracting one vaginal wall in Sims' position to visualise rectocele, cystocele, or VVF), while right is Cusco's self-retaining bivalve speculum (exposing the cervix for Pap smear or IUCD insertion).",
+      "Incorrect: The right instrument is Cusco's speculum (not Sims'), and its screw mechanism renders it self-retaining."
+    ],
+    "clinicalPearl": "Exam classic: use Cusco's speculum to inspect the cervix (Pap smear, HVS, IUCD), but switch to Sims' speculum in Sims' left lateral position to inspect vaginal wall prolapse (cystocele/rectocele) or VVF.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Sims' speculum retracts a single vaginal wall to assess prolapse (cystocele/rectocele) or VVF; Cusco's self-retaining bivalve speculum visualises the cervix."
+    },
+    "sourceStation": {
+      "id": "gynobs_039",
+      "title": "Sims' vs Cusco's Speculum Clinical Distinction",
+      "originalPrompt": "01. Identify the two instruments shown.\nWhich is used for rectocele visualisation and which is to visualise the cervix?",
+      "verifiedAnswer": "Sims' speculum → used in Sims' position to retract the anterior vaginal wall and visualise a rectocele (or retract posterior wall for cystocele); Cusco's bivalve speculum → self-retaining speculum to visualise the cervix (and perform Pap smear).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_guide_a_01",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "SLCOG Partogram Plotting & Alert Line",
+    "stem": "A multiparous woman is admitted in spontaneous labour with 3 contractions per 10 minutes and an initial cervical dilatation of 5 cm. According to the Sri Lanka College of Obstetricians and Gynaecologists (SLCOG) Partogram guideline, how should the Alert line be constructed and how often should fetal heart rate be recorded during this stage?",
+    "options": [
+      "Draw the Alert line retroactively starting at 4 cm, 1 hour before admission; record FHR every 30 minutes",
+      "Omit the Alert line because dilatation exceeds 4 cm on admission; record FHR every 60 minutes",
+      "Begin the Alert line directly at the 5 cm admission point sloping at 1 cm/hour; record FHR every 15 minutes",
+      "Begin the Alert line at 5 cm with the Action line 2 hours to the right; record FHR every 30 minutes",
+      "Delay starting the partogram until cervical dilatation reaches 6 cm; record FHR every 15 minutes"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: The SLCOG partogram places the Alert line directly at the first recorded dilatation ≥4 cm rather than extrapolating backwards to 4 cm.",
+      "Incorrect: The Alert line is mandatory whenever active-phase labour (≥4 cm) is documented, and 60-minute FHR monitoring is dangerously infrequent.",
+      "Correct: Per the SLCOG Partogram guide, once active labour (≥4 cm) is first detected—even at 5 cm—the Alert line begins directly at that point (5 cm) at 1 cm/hr, and active-phase (4–10 cm) FHR is charted every 15 minutes.",
+      "Incorrect: The Action line is drawn 4 hours (not 2 hours) to the right of the Alert line, and active-phase SLCOG FHR monitoring is every 15 minutes.",
+      "Incorrect: A partogram should be initiated as soon as uterine contractions reach ≥2 per 10 minutes or at IOL (amniotomy/oxytocin), well before 6 cm."
+    ],
+    "clinicalPearl": "SLCOG FHR auscultation frequency increases progressively by stage: latent phase (<4 cm) every 30 min → active first stage (4–10 cm) every 15 min → passive second stage every 10 min → active pushing every 5 min.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "Start the SLCOG partogram when contractions are ≥2/10 min; draw the Alert line (1 cm/hr) from the first dilatation ≥4 cm and monitor active-phase FHR every 15 min."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_a_02",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.2 INTRAPARTUM CARE: PARTOGRAM & LABOUR ABNORMALITIES (6 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Fetal Skull Moulding & Obstructed Labour",
+    "stem": "A primigravida in active labour has shown no cervical dilatation beyond 6 cm for 4 hours, crossing the Action line on her SLCOG partogram. On vaginal examination, the fetal skull bones are palpated severely overlapping one another and cannot be separated with gentle digital pressure. How is this moulding graded on the partogram, and what does it indicate?",
+    "options": [
+      "Grade 0 moulding; normal suture separation confirming readiness for oxytocin augmentation",
+      "Grade + moulding; bones just touching, managed with amniotomy and analgesia",
+      "Grade ++ moulding; reducible overlap requiring immediate vacuum extraction at 6 cm",
+      "Grade + moulding; benign early caput permitting an additional 4-hour trial of labour",
+      "Grade +++ moulding; irreducible overlap indicating cephalopelvic disproportion needing CS"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Grade 0 denotes fetal skull bones separated by easily palpable suture lines, which is absent here.",
+      "Incorrect: Grade + describes skull bones merely touching without overlapping.",
+      "Incorrect: Grade ++ signifies overlapping skull bones that are still reducible with gentle finger pressure, and vacuum delivery is contraindicated at 6 cm dilatation.",
+      "Incorrect: Severe irreducible bone overlap cannot be dismissed as benign caput (soft-tissue scalp oedema) and continuing labour risks uterine rupture.",
+      "Correct: Severely overlapping, irreducible fetal skull bones are charted as +++ moulding, a cardinal sign of cephalopelvic disproportion (CPD) / obstructed labour mandating Caesarean delivery rather than oxytocin."
+    ],
+    "clinicalPearl": "Distinguish caput succedaneum (soft-tissue scalp swelling crossing suture lines) from moulding (osseous overlap graded 0, +, ++ reducible, +++ irreducible): +++ moulding is a red flag for CPD.",
+    "guideCitation": {
+      "guideId": "guide_gyn_partogram",
+      "guideTitle": "SLCOG Partogram OSCE Guide",
+      "keyPoint": "SLCOG moulding scale: 0 = bones separated, + = touching, ++ = overlapping (reducible), +++ = severely overlapping and irreducible (CPD)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_a_03",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "DR C BRAVADO CTG Rules",
+    "stem": "A 34-year-old woman with pre-eclampsia undergoes continuous intrapartum cardiotocography. The tracing demonstrates 4 contractions in 10 minutes, a baseline rate of 145 bpm, variability of 6 bpm, and repetitive decelerations that consistently begin after the peak of each contraction, reach their nadir after the contraction finishes, and return slowly to baseline. Using the DR C BRAVADO framework, what are these decelerations and their underlying mechanism?",
+    "options": [
+      "Late decelerations caused by uteroplacental insufficiency and fetal hypoxia",
+      "Early decelerations caused by benign physiological fetal head compression",
+      "Typical variable decelerations caused by transient umbilical cord compression",
+      "Physiological accelerations reflecting a well-oxygenated non-acidotic fetus",
+      "Prolonged decelerations caused exclusively by maternal supine position"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Decelerations whose onset follows the contraction peak, with nadir occurring after contraction offset and a slow recovery to baseline, are late decelerations resulting from uteroplacental insufficiency and fetal hypoxia.",
+      "Incorrect: Early decelerations are uniform mirror images whose onset and nadir coincide symmetrically with the contraction onset and peak due to vagal head compression.",
+      "Incorrect: Variable decelerations are V-shaped with abrupt drop and rapid recovery, showing inconsistent timing relative to contractions due to cord compression.",
+      "Incorrect: Accelerations are transient rises (≥15 bpm for ≥15 s) above baseline, not downward drops below baseline.",
+      "Incorrect: Prolonged decelerations last >2–3 minutes and lack the repetitive contraction-lagged recovery profile described."
+    ],
+    "clinicalPearl": "In DR C BRAVADO, always correlate decelerations with the bottom tocodynamometer trace: Early = mirror image (benign head compression); Variable = V-shaped/asynchronous (cord compression); Late = lagged onset & slow recovery (uteroplacental hypoxia).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Late decelerations start after contraction peak, nadir after contraction ends, and recover slowly—signalling uteroplacental insufficiency and fetal hypoxia."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_a_04",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.1 ANTENATAL CARE, GESTATIONAL DATING (LMP/EDD/POA) & RISK STRATIFICATION (20 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Booking Ultrasound Objectives (11–14 Weeks)",
+    "stem": "A 27-year-old woman attends for her booking ultrasound scan at 12 weeks + 3 days of gestation, which detects a twin gestation. Beyond confirming intrauterine viability and establishing accurate dating via crown-rump length (CRL), which time-critical assessment must be documented during this 11–14 week scan?",
+    "options": [
+      "Estimated fetal weight discordance derived from femur length and abdominal circumference",
+      "Umbilical artery Doppler pulsatility index and biophysical profile scoring",
+      "Detailed four-chamber fetal echocardiography and placental Grannum grading",
+      "Chorionicity and amnionicity determined by the lambda or T-sign at the intertwin membrane",
+      "Fetal presentation and engagement in fifths palpable above the maternal pelvic brim"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: EFW biometry (BPD/HC/AC/FL) and growth discordance surveillance occur from the second trimester onwards, not at 12 weeks.",
+      "Incorrect: Biophysical profiles and umbilical artery Doppler studies are third-trimester fetal wellbeing tools.",
+      "Incorrect: Detailed cardiac four-chamber screening is performed at the 18–22 week anomaly scan.",
+      "Correct: One of the four core objectives of the 11–14 week booking scan is determining fetal number and assigning chorionicity/amnionicity (lambda/twin-peak sign for dichorionic vs T-sign for monochorionic twins), which becomes unreliable later in pregnancy.",
+      "Incorrect: Fetal presentation changes freely until the third trimester and engagement is assessed clinically near term."
+    ],
+    "clinicalPearl": "The 4 core objectives of the 11–14 week booking USS: (1) intrauterine location & viability, (2) CRL dating, (3) fetal number & chorionicity/amnionicity in twins, and (4) nuchal translucency & excluding gross anomalies (anencephaly, molar pregnancy).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Booking USS (11–14 weeks) confirms viability/intrauterine site, dates via CRL, determines twin chorionicity/amnionicity (lambda vs T-sign), and screens for gross anomalies/NT."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_a_05",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Breech Presentation & ECV Contraindications",
+    "stem": "A 31-year-old woman (G2P1) with a history of one previous lower-segment Caesarean section is diagnosed with a singleton frank breech presentation at 37 weeks of gestation. Her blood pressure, liquor volume, and estimated fetal growth are normal, and the placenta is fundal. What is the safest definitive management plan?",
+    "options": [
+      "Perform immediate external cephalic version under intravenous tocolysis",
+      "Induce labour at 38 weeks using vaginal dinoprostone followed by oxytocin",
+      "Perform internal podalic version followed by breech extraction in theatre",
+      "Await spontaneous labour for a routine trial of vaginal breech birth",
+      "Schedule an elective lower-segment Caesarean section at 39 weeks of gestation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: A previous uterine scar is a contraindication to external cephalic version (ECV) because manipulation risks scar dehiscence or rupture.",
+      "Incorrect: Induction of labour is contraindicated in breech presentation (especially with a scarred uterus) due to high risks of poor progress and head entrapment.",
+      "Incorrect: Breech extraction is strictly contraindicated in a singleton pregnancy (reserved solely for emergency delivery of a second twin presenting by breech).",
+      "Incorrect: Combined previous Caesarean scar and persistent breech presentation significantly increase intrapartum morbidity and mandate operative delivery.",
+      "Correct: Because a previous uterine scar contraindicates ECV and constitutes an established indication for Caesarean delivery in breech presentation, an elective LSCS at 39 weeks is the safest plan."
+    ],
+    "clinicalPearl": "Memorise the major contraindications to ECV at 36–37 weeks: previous uterine scar, placenta praevia, pre-eclampsia, multiple pregnancy, fetal abnormality, oligo/polyhydramnios, and history of APH.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Previous uterine scar contraindicates ECV and is an indication for elective Caesarean delivery in persistent term breech presentation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_a_06",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.3 FETAL SURVEILLANCE (CTG), FETAL LIE, PRESENTATION & PELVIS (9 STATIONS)",
+    "batch": "SLCOG & CSS Study Guides",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Face & Brow Presentations Management",
+    "stem": "A 26-year-old primigravida in active labour at 6 cm cervical dilatation undergoes vaginal examination for slow progress. The examiner palpates the fetal orbital ridges, nasal bridge, mouth, and chin pointing directly posteriorly towards the maternal sacrum. What is the definitive management?",
+    "options": [
+      "Apply Malmström metallic ventouse extraction once full dilatation is reached",
+      "Commence an intravenous oxytocin infusion to promote spontaneous vaginal rotation",
+      "Proceed to emergency lower-segment Caesarean section",
+      "Attempt digital conversion into a brow presentation before augmenting labour",
+      "Await spontaneous second-stage descent followed by Wrigley's outlet forceps"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Vacuum extraction (ventouse) is strictly contraindicated in face presentation due to severe risk of facial, ocular, and intracranial trauma, and mento-posterior face cannot deliver vaginally.",
+      "Incorrect: Augmenting a persistent mento-posterior face presentation cannot overcome mechanical impaction and increases uterine rupture risk.",
+      "Correct: Mento-posterior face presentation cannot deliver vaginally because the fetal neck is already maximally extended and cannot flex around the maternal pubic symphysis, necessitating emergency Caesarean section.",
+      "Incorrect: Brow presentation presents with the largest mentovertical diameter (13.5 cm), which is likewise incompatible with vaginal delivery at term.",
+      "Incorrect: While mento-anterior face presentations can deliver vaginally (and with forceps if delayed in the second stage), mento-posterior position requires Caesarean section."
+    ],
+    "clinicalPearl": "Vaginal delivery in deflexed cephalic presentations: Mento-anterior face (submentobregmatic 9.5 cm) can deliver vaginally; Mento-posterior face and Primary Brow (mentovertical 13.5 cm) require Caesarean section.",
+    "guideCitation": {
+      "guideId": "guide_gyn_fetal",
+      "guideTitle": "Fetal Lie, Presentation & Malpresentation Guide",
+      "keyPoint": "Mento-posterior face presentation and brow presentation (mentovertical 13.5 cm) require Caesarean section; only mento-anterior face can deliver vaginally."
+    },
+    "sourceStation": null
+  }
+]

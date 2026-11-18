@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "gynobs_040_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_040.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cervical Screening & Prolapse Support",
+    "stem": "Two outpatient gynaecological clinic items are displayed side by side. Which pairing accurately describes the primary clinical purpose of the left and right instruments respectively?",
+    "options": [
+      "Left: performs outpatient endometrial aspiration; Right: dilates the endocervical canal",
+      "Left: samples the ectocervical transformation zone; Right: supports uterovaginal prolapse",
+      "Left: measures uterocervical cavity length; Right: occludes the fallopian tubes permanently",
+      "Left: clamps the anterior cervical lip; Right: maintains vaginal patency after radiotherapy",
+      "Left: scrapes vulval skin lesions for fungal hyphae; Right: delivers intravaginal prostaglandins"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Outpatient endometrial aspiration uses a Pipelle sampler rather than an Ayre's wooden spatula, and cervical dilatation uses Hegar dilators.",
+      "Correct: The left item is an Ayre's wooden spatula for Pap smear cytology at the transformation zone, and the right item is a vaginal ring pessary for conservative support of pelvic organ prolapse.",
+      "Incorrect: Measuring uterocervical cavity length requires a graduated uterine sound, and a vaginal ring pessary does not provide tubal contraception.",
+      "Incorrect: Grasping the anterior cervical lip requires a vulsellum or sponge-holding forceps rather than a wooden spatula.",
+      "Incorrect: An Ayre's spatula is specifically contoured with a bifid end for cervical cytology rather than vulval skin scrapings, and a ring pessary is mechanical rather than prostaglandin-eluting."
+    ],
+    "clinicalPearl": "In a conventional Pap smear, the longer prong of the Ayre's spatula rotates 360 degrees at the external os to sample the transformation zone, whereas a ring pessary supports prolapsed pelvic organs when surgery is declined or contraindicated.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Ayre's spatula samples the ectocervical transformation zone for CIN screening; a vaginal ring pessary provides conservative mechanical support for uterovaginal prolapse."
+    },
+    "sourceStation": {
+      "id": "gynobs_040",
+      "title": "Ayre's Wooden Spatula & Vaginal Ring Pessary",
+      "originalPrompt": "02. Identify and give one use of each instrument shown (Ayre's wooden spatula, vaginal ring pessary).",
+      "verifiedAnswer": "Ayre's wooden spatula — collect cervical cytology smear (Pap smear) to screen for CIN/cervical carcinoma. Vaginal ring pessary — conservative non-surgical support for pelvic organ prolapse (uterovaginal prolapse, cystocele, rectocele) or stress urinary incontinence.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_041_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_041.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Simpson Obstetric Forceps",
+    "stem": "A 27-year-old primigravida at 39 weeks' gestation has been actively pushing for 90 minutes in the second stage of labour when persistent late decelerations develop on CTG. Examination confirms full cervical dilatation, ruptured membranes, and an occipito-anterior vertex at station +2 with 0/5 head palpable abdominally. Which identification and indication best describe the illustrated instrument?",
+    "options": [
+      "Wrigley's outlet forceps designed solely for delivering the fetal head during Caesarean section",
+      "Kielland's rotational forceps with a sliding lock for correcting deep transverse arrest",
+      "Green-Armytage haemostatic forceps used to clamp bleeding lower-segment uterine edges",
+      "Simpson's obstetric forceps indicated for prolonged second stage or second-stage fetal distress",
+      "Haywood-Smith ovum forceps used to evacuate retained products of conception in miscarriage"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Wrigley's forceps have very short shanks and handles for outlet deliveries or Caesarean sections, whereas this instrument has long shanks and dark grooved handles with finger guards.",
+      "Incorrect: Kielland's forceps have straight shanks, a minimal pelvic curve, and a sliding lock, unlike this long-shanked instrument with a pronounced pelvic curve and English lock.",
+      "Incorrect: Green-Armytage forceps are atraumatic triangular-tipped surgical clamps used at Caesarean section, not fenestrated cephalic traction blades.",
+      "Correct: Simpson's obstetric forceps feature long shanks, cephalic and pelvic curves, and fenestrated blades suited for traction in prolonged second stage, fetal distress, maternal exhaustion, or the after-coming head of a breech.",
+      "Incorrect: Ovum forceps have spoon-shaped fenestrated jaws with no ratchet lock and are used in miscarriage evacuation rather than live term vaginal delivery."
+    ],
+    "clinicalPearl": "Simpson's forceps have elongated blades that accommodate a moulded fetal skull and are classic for prolonged second stage, second-stage fetal distress, and maternal contraindications to bearing down.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Obstetric traction forceps feature cephalic and pelvic curves with an English lock and are indicated for second-stage delay, fetal distress, or maternal exhaustion."
+    },
+    "sourceStation": {
+      "id": "gynobs_041",
+      "title": "Simpson Obstetric Forceps",
+      "originalPrompt": "2.\n1. Identify this instrument.\n2. Give 2 clinical uses (indications) of it.",
+      "verifiedAnswer": "(1) Simpson's obstetric forceps. (2) Indications: Prolonged second stage of labour, Maternal exhaustion / medical contraindications to Valsalva (cardiac disease, severe hypertension, intracranial aneurysm), Fetal distress / non-reassuring CTG in 2nd stage, After-coming head in breech delivery (and good for moulded elongated fetal head).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_042_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 25 (4th Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_042.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Forceps Prerequisites",
+    "stem": "A 30-year-old woman in the second stage of labour develops severe maternal exhaustion with a prolonged second stage, and the obstetrician prepares to apply the illustrated outlet instrument. Which complete set of clinical prerequisites must be confirmed before application?",
+    "options": [
+      "Full cervical dilatation, ruptured membranes, engaged vertex head with known position, and empty bladder",
+      "Cervical dilatation of at least 8 cm, intact membranes, vertex at station 0, and regional analgesia",
+      "Full cervical dilatation, ruptured membranes, 2/5 head palpable abdominally, and mento-posterior attitude",
+      "Cervical dilatation of 9 cm, ruptured membranes, brow presentation at +1 station, and senior operator",
+      "Full cervical dilatation, intact membranes, high floating vertex, and prophylactic oxytocin infusion"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Safe instrumental delivery (FORCEPS mnemonic) requires full 10 cm dilatation, ruptured membranes, engaged vertex (0/5 palpable abdominally) with known exact position, empty bladder, adequate analgesia, and an experienced operator.",
+      "Incorrect: Applying obstetric forceps before full 10 cm cervical dilatation risks severe cervical laceration and uterine rupture, and membranes must be ruptured.",
+      "Incorrect: Finding 2/5 of the head palpable per abdomen indicates an unengaged head with possible cephalopelvic disproportion, and mento-posterior face presentation requires Caesarean section.",
+      "Incorrect: Incomplete dilatation (9 cm) and brow presentation (mentovertical diameter 13.5 cm) are absolute contraindications to vaginal forceps delivery.",
+      "Incorrect: Intact membranes and an unengaged high head preclude forceps application; amniotomy and reassessment for cephalopelvic disproportion are required first."
+    ],
+    "clinicalPearl": "Memorise the FORCEPS prerequisites: Full dilatation, Occiput position known, Ruptured membranes, Cephalopelvic disproportion excluded (0/5 palpable, station ≥ +2), Empty bladder/analgesia, Paediatrician present, and Skilled operator.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Forceps delivery requires 10 cm dilatation, ruptured membranes, engaged cephalic vertex (0/5 abdominally) with known position, empty bladder, and adequate analgesia."
+    },
+    "sourceStation": {
+      "id": "gynobs_042",
+      "title": "Wrigley's / Simpson Outlet Obstetric Forceps & Prerequisites",
+      "originalPrompt": "04)\n1) Identify the instrument.\n2) Write four (4) prerequisites needed to be fulfilled to use this instrument.",
+      "verifiedAnswer": "(1) Obstetric forceps (Wrigley's outlet forceps / Simpson forceps). (2) Prerequisites ('FORCEPS' / standard 6): (a) Full cervical dilatation (10 cm) & ruptured membranes; (b) Head engaged (0/5 palpable per abdomen) & station ≥ +2 / outlet; (c) Exact fetal head position & vertex presentation known (no CPD); (d) Empty bladder & adequate analgesia; (e) Senior experienced operator + maternal consent + theatre backup.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_043_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_043.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Vaginal Speculums Comparison",
+    "stem": "A 46-year-old woman presents with a dragging pelvic sensation and urinary leakage on coughing. To examine her anterior vaginal wall specifically for a cystocele or vesicovaginal fistula with the patient in Sims' left lateral position, which displayed instrument should be selected and why?",
+    "options": [
+      "Instrument A, because its dual hinged blades retract the anterior wall upward for cystocele viewing",
+      "Instrument A, because it requires no assistant and exposes both vaginal walls simultaneously",
+      "Instrument B, because its screw lock renders it self-retaining during solo outpatient Pap smears",
+      "Instrument A, because its concave handle collects leaked urine for biochemical confirmation",
+      "Instrument B, because retracting the posterior wall leaves the anterior vaginal wall unobstructed"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Instrument A is Cusco's bivalve speculum, whose upper and lower blades cover and compress both the anterior and posterior vaginal walls, obscuring prolapse.",
+      "Incorrect: While Cusco's speculum (A) is self-retaining, its blades cover the anterior and posterior vaginal walls rather than exposing them for prolapse assessment.",
+      "Incorrect: Instrument B (Sims' speculum) has no screw lock and is non-self-retaining, requiring an assistant to hold it in place.",
+      "Incorrect: Collecting drained blood or urine in a concave handle is a feature of Sims' speculum (B), not Cusco's speculum (A).",
+      "Correct: Instrument B is Sims' double-bladed duck-bill speculum; retracting only the posterior vaginal wall in the left lateral position provides an unobstructed view of the anterior vaginal wall for cystocele or fistula assessment."
+    ],
+    "clinicalPearl": "Cusco's bivalve speculum (A) is self-retaining for Pap smears and IUCD insertion, whereas Sims' speculum (B) exposes the anterior vaginal wall to evaluate cystocele and vesicovaginal fistula.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Cusco's speculum covers vaginal walls and suits cervical visualisation; Sims' non-self-retaining speculum retracts the posterior wall to inspect anterior wall prolapse and fistulae."
+    },
+    "sourceStation": {
+      "id": "gynobs_043",
+      "title": "Cusco's & Sims' Speculums (or Ayre's / Ring Pessary)",
+      "originalPrompt": "4) Instruments A and B are shown.\n• Identify the instruments.\n• Write 1 use for each one.",
+      "verifiedAnswer": "A: Cusco's bivalve self-retaining vaginal speculum — visualise cervix/vaginal vault for Pap smear, high vaginal swab, or IUCD insertion. B: Sims' double-bladed vaginal speculum — inspect anterior/posterior vaginal walls for prolapse (cystocele/rectocele) and perform gynaecological procedures (with assistant).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_044_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_044.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Obstetric Spinal Anaesthesia Contraindications",
+    "stem": "A 33-year-old woman at 38 weeks' gestation is scheduled for an elective lower-segment Caesarean section because of two previous Caesarean deliveries. Regional anaesthesia is planned using the fine-bore needle shown. Which pre-operative finding constitutes an absolute contraindication to this procedure?",
+    "options": [
+      "Diet-controlled gestational diabetes mellitus with a fasting glucose of 86 mg/dL",
+      "Mild physiological anaemia of pregnancy with haemoglobin of 10.6 g/dL",
+      "Severe thrombocytopenia accompanied by disseminated intravascular coagulation",
+      "Previous Pfannenstiel transverse suprapubic surgical scar from prior deliveries",
+      "Well-controlled mild intermittent bronchial asthma using inhaled salbutamol"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Well-controlled gestational diabetes is not a contraindication to spinal anaesthesia; regional blockade is preferred over general anaesthesia.",
+      "Incorrect: A haemoglobin of 10.6 g/dL in the third trimester meets the normal BCSH/SLCOG pregnancy threshold (≥10.5 g/dL) and does not preclude neuraxial anaesthesia.",
+      "Correct: Coagulopathy, severe thrombocytopenia, raised intracranial pressure, local puncture-site sepsis, and uncorrected hypovolaemia are key contraindications to obstetric spinal anaesthesia due to spinal epidural haematoma risk.",
+      "Incorrect: Previous Caesarean scars are one of the most common indications for elective Caesarean section under spinal anaesthesia.",
+      "Incorrect: Regional spinal anaesthesia is actually advantageous in bronchial asthma because it avoids airway instrumentation and bronchospasm associated with endotracheal intubation."
+    ],
+    "clinicalPearl": "Always check platelet count, coagulation status, blood pressure/volume status, neurological signs (raised ICP), and lumbar skin integrity before administering spinal anaesthesia in obstetrics.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Spinal anaesthesia is contraindicated when raised intracranial pressure or coagulopathy/thrombocytopenia is present (as in severe pre-eclampsia/eclampsia)."
+    },
+    "sourceStation": {
+      "id": "gynobs_044",
+      "title": "Obstetric Spinal Needle — Indications & Contraindications",
+      "originalPrompt": "5)\n• Mention a clinical situation in which this needle is used in obstetrics.\n• What are the contraindications for its use?",
+      "verifiedAnswer": "Clinical use: Spinal (subarachnoid) anaesthesia for Caesarean section (or instrumental delivery/cervical cerclage/manual removal of placenta). Contraindications: Patient refusal, Coagulopathy / thrombocytopenia / therapeutic anticoagulation, Raised intracranial pressure (space-occupying lesion), Local skin infection/sepsis at lumbar puncture site, Uncorrected severe hypovolaemia / shock, Fixed cardiac output states (severe aortic/mitral stenosis).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_045_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — ObGyn Q19",
+    "imagePath": "images/gynobs/gynobs_045.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gynaecological & Obstetric Positions",
+    "stem": "Four clinical examination and operative positions (A–D) are illustrated. A 54-year-old woman requires assessment for an anterior vaginal wall prolapse using a Sims' speculum, while a 28-year-old primigravida requires repair of a mediolateral episiotomy after childbirth. Which positions are most appropriate for these two procedures respectively?",
+    "options": [
+      "Position B for anterior wall prolapse assessment; Position A for episiotomy repair",
+      "Position A for anterior wall prolapse assessment; Position C for episiotomy repair",
+      "Position C for anterior wall prolapse assessment; Position D for episiotomy repair",
+      "Position D for anterior wall prolapse assessment; Position B for episiotomy repair",
+      "Position A for anterior wall prolapse assessment; Position B for episiotomy repair"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Position B is the dorsal recumbent position (used for routine bimanual or Cusco's speculum examination), and Position A (Sims' left lateral) is not standard for episiotomy repair.",
+      "Correct: Position A (Sims' left lateral) is optimal for inspecting anterior vaginal wall prolapse or vesicovaginal fistula with a Sims' speculum, and Position C (lithotomy) provides optimal access for delivery and perineal suturing.",
+      "Incorrect: Lithotomy (C) obscures gravity-dependent anterior prolapse positioning compared with Sims', while D is steep Trendelenburg extended lithotomy used for operative laparoscopy/hysteroscopy.",
+      "Incorrect: Position D is steep Trendelenburg lithotomy for laparoscopic pelvic surgery, and dorsal recumbent (B) lacks stirrup perineal exposure for episiotomy repair.",
+      "Incorrect: Episiotomy suturing requires lithotomy positioning (C) rather than dorsal recumbent (B) for adequate illumination and apex visualisation."
+    ],
+    "clinicalPearl": "Match each position to its exam goal: Sims' (A) for cystocele/VVF, Dorsal recumbent (B) for routine bimanual/Pap smear, Lithotomy (C) for vaginal delivery and perineal repair, and Trendelenburg lithotomy (D) for pelvic laparoscopy.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Sims' left lateral position evaluates anterior vaginal wall prolapse/VVF; lithotomy position supports instrumental delivery, perineal repair, and D&C."
+    },
+    "sourceStation": {
+      "id": "gynobs_045",
+      "title": "Four Gynaecological Examination Positions",
+      "originalPrompt": "19.\n19.A — Name the following positions (A, B, C, D).\n19.B — Name one gynaecological/obstetric intervention done in each respective position.",
+      "verifiedAnswer": "A: Sims' (left lateral) position → examine vaginal wall prolapse (cystocele/rectocele) or vesicovaginal fistula; B: Dorsal recumbent position → bimanual pelvic examination / routine speculum exam; C: Lithotomy position → childbirth / instrumental delivery / perineal suturing; D: Extended lithotomy (Trendelenburg/steep lithotomy) → IUCD insertion / operative hysteroscopy / D&C.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_046_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 28 (4th Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_046.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Outpatient Endometrial Sampling",
+    "stem": "A 58-year-old postmenopausal woman presents with two episodes of painless vaginal bleeding 6 years after menopause, and transvaginal ultrasound reveals an endometrial thickness of 9 mm. Which illustrated instrument enables outpatient tissue diagnosis without general anaesthesia or cervical dilatation?",
+    "options": [
+      "The bifurcated wooden blades at the bottom left used for ectocervical scraping",
+      "The curved fenestrated metal blades on the right fitted with an axis-traction handle",
+      "Both the bottom-left wooden instrument and the right-hand metal forceps combined",
+      "The right-hand metal instrument used to clamp the uterine artery pedicles",
+      "The flexible narrow cannula at the top left used for endometrial aspiration biopsy"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The bottom-left items are Ayre's wooden spatulas, which sample surface squamous cells at the cervical transformation zone for Pap smears rather than endometrial tissue.",
+      "Incorrect: The right-hand item is obstetric traction forceps for assisted vaginal birth, not an endometrial biopsy tool.",
+      "Incorrect: Neither an Ayre's spatula nor obstetric forceps enters the endometrial cavity for histological sampling.",
+      "Incorrect: The right-hand device is obstetric forceps rather than a surgical hysterectomy clamp.",
+      "Correct: The top-left device is a Pipelle endometrial sampler, a thin flexible plastic suction curette that obtains outpatient endometrial histology for abnormal or postmenopausal bleeding."
+    ],
+    "clinicalPearl": "A Pipelle endometrial biopsy is the first-line outpatient histological test for postmenopausal bleeding with endometrial thickness > 4–5 mm, avoiding general anaesthesia.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Outpatient endometrial biopsy curettes/samplers obtain endometrial histology in abnormal or postmenopausal uterine bleeding without formal theatre dilatation and curettage."
+    },
+    "sourceStation": {
+      "id": "gynobs_046",
+      "title": "Pipelle, Simpson Forceps, Ayre's Spatula & Green-Armytage",
+      "originalPrompt": "1. Identify the following instruments and give one use for each.",
+      "verifiedAnswer": "Pipelle endometrial sampler → outpatient endometrial aspiration biopsy for postmenopausal/abnormal uterine bleeding; Simpson forceps → assisted vaginal delivery; Ayre's spatula → Pap smear cervical cytology scraping; Green-Armytage forceps → haemostatic clamping of uterine incision edges at Caesarean section.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "gynobs_047_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_047.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Intrapartum Monitoring & Obstetric Devices",
+    "stem": "Four obstetric and gynaecological devices (A–D) are shown. During active labour in a high-risk pregnancy with meconium-stained liquor, continuous electronic monitoring of fetal heart rate and uterine contractions is required, whereas in a low-risk pregnancy at 36 weeks intermittent bedside auscultation is performed. Which devices serve these two functions respectively?",
+    "options": [
+      "Device B for continuous electronic monitoring; Device D for intermittent auscultation",
+      "Device A for continuous electronic monitoring; Device C for intermittent auscultation",
+      "Device D for continuous electronic monitoring; Device B for intermittent auscultation",
+      "Device C for continuous electronic monitoring; Device A for intermittent auscultation",
+      "Device B for continuous electronic monitoring; Device A for intermittent auscultation"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Device B is a cardiotocograph (CTG) machine for continuous FHR and tocodynamometry recording, and Device D is a Pinard's fetal stethoscope (fetoscope) for direct intermittent abdominal auscultation.",
+      "Incorrect: Device A is a Kiwi OmniCup vacuum extractor for second-stage assisted birth, and Device C is Cusco's bivalve speculum for cervical inspection.",
+      "Incorrect: The roles are reversed; a Pinard fetoscope (D) performs intermittent auscultation rather than continuous graphic recording.",
+      "Incorrect: Cusco's speculum (C) and the Kiwi ventouse (A) have no role in fetal heart rate monitoring.",
+      "Incorrect: Device A is a vacuum extractor cup for operative vaginal delivery, not a fetal auscultation device."
+    ],
+    "clinicalPearl": "Use a Pinard fetoscope over the fetal anterior shoulder for intermittent auscultation in low-risk labour, and continuous CTG monitoring when high-risk factors such as meconium liquor or oxytocin are present.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Cardiotocography continuously monitors FHR and uterine contractions (DR C BRAVADO); the Pinard fetoscope provides intermittent FHR auscultation from 24–28 weeks onward."
+    },
+    "sourceStation": {
+      "id": "gynobs_047",
+      "title": "Kiwi Ventouse, CTG Machine, Cusco's Speculum & Pinard Fetoscope",
+      "originalPrompt": "1. Identify these instruments (A, B, C, D) and write one use for each.",
+      "verifiedAnswer": "A: Kiwi OmniCup vacuum extractor (ventouse) — assisted vaginal delivery in 2nd stage (safe ≥ 34–36 weeks); B: Cardiotocograph (CTG) machine — continuous electronic monitoring of FHR and uterine contractions; C: Cusco's self-retaining bivalve speculum — inspect cervix/take Pap smear; D: Pinard's fetal stethoscope (fetoscope) — intermittent auscultation of fetal heart sounds per abdomen.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_048_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 29 (4th Year) — ObGyn Q20",
+    "imagePath": "images/gynobs/gynobs_048.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Forceps vs Ventouse Safety",
+    "stem": "Instruments A and B are both used for operative vaginal delivery. A 31-year-old woman at 32+3 weeks' gestation develops persistent fetal bradycardia in the second stage of labour with full cervical dilatation, ruptured membranes, and an occipito-anterior vertex at station +2. Which clinical decision regarding these two instruments is most accurate?",
+    "options": [
+      "Select instrument B because gentle vacuum suction avoids facial nerve injury in preterm infants",
+      "Select either instrument A or B interchangeably since both are safe after 30 weeks' gestation",
+      "Select instrument A because vacuum suction below 34 weeks risks neonatal intracranial haemorrhage",
+      "Select instrument B because it can be safely applied even before full cervical dilatation at 32 weeks",
+      "Avoid both instruments and deliver by immediate breech extraction under spinal anaesthesia"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Vacuum extraction (B) carries an unacceptably high risk of subgaleal and intraventricular haemorrhage in preterm skulls below 34 weeks' gestation.",
+      "Incorrect: Ventouse is strictly contraindicated below 34 weeks' gestation (and ideally avoided below 36 weeks) because of preterm cranial fragility.",
+      "Correct: Obstetric forceps (A) protect the premature fetal cranium during traction, whereas the Kiwi OmniCup ventouse (B) is contraindicated under 34 weeks' gestation due to subgaleal and intracranial haemorrhage risk.",
+      "Incorrect: Vacuum extraction before full dilatation in a preterm fetus increases cranial trauma and cervical injury and remains contraindicated below 34 weeks.",
+      "Incorrect: This fetus is in a cephalic vertex presentation, making breech extraction inapplicable."
+    ],
+    "clinicalPearl": "Remember the three classic contraindications to ventouse (vacuum) delivery: gestation < 34 weeks, face or brow presentation, and fetal bleeding disorders.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Vacuum extraction is contraindicated at gestations < 34 weeks (risk of subgaleal/intraventricular haemorrhage), in face/brow presentations, and in fetal bleeding disorders."
+    },
+    "sourceStation": {
+      "id": "gynobs_048",
+      "title": "Simpson Forceps & Kiwi Ventouse — Prerequisites",
+      "originalPrompt": "20. Instruments A and B are shown.\n20.1 Identify A and B.\n20.2 List four (04) prerequisites for the use of these instruments.",
+      "verifiedAnswer": "(20.1) A = Simpson's obstetric forceps; B = Kiwi OmniCup vacuum extractor (ventouse). (20.2) Prerequisites: (1) Full cervical dilatation (10 cm) & ruptured membranes; (2) Cephalic vertex presentation, head engaged (0/5 palpable per abdomen) & exact position confirmed; (3) No cephalopelvic disproportion (CPD); (4) Empty maternal bladder, adequate analgesia, valid consent, and senior operator.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_049_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 30 (4th Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_049.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Quincke Spinal Needle Complications",
+    "stem": "A 28-year-old primigravida undergoes an emergency Caesarean section under subarachnoid block performed with the illustrated cutting-bevel needles. Twelve hours postoperatively, she develops a severe fronto-occipital headache that worsens rapidly on sitting up and improves when lying supine. What is the diagnosis and pathophysiology?",
+    "options": [
+      "Total spinal anaesthesia caused by cephalad spread of bupivacaine into the cervical cord",
+      "Acute epidural abscess resulting from haematogenous bacterial seeding of the subarachnoid space",
+      "Severe pre-eclamptic cerebral oedema precipitated by postoperative intravenous crystalloid loading",
+      "Post-dural puncture headache caused by persistent CSF leakage through the dural defect",
+      "Spinal epidural haematoma compressing the cauda equina following needle withdrawal"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Total spinal anaesthesia presents immediately during surgery with profound hypotension, apnoea, and loss of consciousness rather than a postural headache 12 hours later.",
+      "Incorrect: An epidural abscess develops over days to weeks with fever, back pain, and progressive neurological deficits rather than an immediate postural headache.",
+      "Incorrect: Pre-eclamptic headache is typically non-postural and accompanied by severe hypertension, hyperreflexia, or visual disturbances.",
+      "Correct: Cutting-bevel (Quincke) spinal needles cut dural fibres rather than separating them, predisposing to CSF leakage, intracranial hypotension, and postural post-dural puncture headache (PDPH).",
+      "Incorrect: An epidural haematoma causes severe back pain, motor weakness, and bowel/bladder dysfunction rather than an isolated orthostatic headache."
+    ],
+    "clinicalPearl": "Post-dural puncture headache is classically postural (worse upright, relieved supine) and occurs more frequently with larger-gauge cutting Quincke-bevel needles than pencil-point (Whitacre/Sprotte) needles.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Key complications of Quincke-bevel spinal needles include maternal hypotension, post-dural puncture headache (PDPH), and high or total spinal blockade."
+    },
+    "sourceStation": {
+      "id": "gynobs_049",
+      "title": "Quincke Bevel Spinal Needle",
+      "originalPrompt": "Question 04\nThe below-shown instrument is used for an obstetric procedure.\n4.1 Identify the instrument. (4 marks)\n4.2 List 3 contraindications in the use of this. (3 marks)\n4.3 List 3 complications which can arise in the use of this. (3 marks)",
+      "verifiedAnswer": "(4.1) Spinal needle with Quincke bevel. (4.2) Contraindications: Raised intracranial pressure, Infection at puncture site, Uncorrected hypovolaemia, Coagulopathy, Local anaesthetic allergy. (4.3) Complications: Maternal hypotension, Post-dural puncture headache (PDPH), High / Total spinal anaesthesia (respiratory arrest), Backache, Neurological injury/epidural haematoma.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_050_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_050.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Pap Smear Tray & Fixation",
+    "stem": "Instruments A–H from a gynaecology outpatient tray are shown. A 38-year-old woman attends for routine conventional Pap smear screening. Which sequence of items from the tray is used to expose the cervix, scrape the transformation zone, transfer cells, and immediately fix the smear?",
+    "options": [
+      "B (Sims' speculum) -> F (uterine curette) -> A (glass slide) -> E (fixative jar)",
+      "C (Cusco's speculum) -> G (Ayre's spatula) -> A (glass slide) -> E (fixative jar)",
+      "C (Cusco's speculum) -> H (uterine probe) -> A (glass slide) -> E (fixative jar)",
+      "B (Sims' speculum) -> D (uterine sound) -> A (glass slide) -> E (fixative jar)",
+      "C (Cusco's speculum) -> F (uterine curette) -> D (uterine sound) -> A (glass slide)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Instrument F is a uterine curette used for endometrial sampling or evacuation, never for cervical Pap cytology, and B requires an assistant.",
+      "Correct: Cusco's self-retaining bivalve speculum (C) exposes the cervix, Ayre's wooden spatula (G) scrapes the transformation zone, the sample is smeared onto a labelled glass slide (A), and it is fixed immediately in 95% ethyl alcohol (E).",
+      "Incorrect: Instrument H is a metallic uterine probe/dilator, which risks cervical or uterine trauma and has no role in routine cervical cytology screening.",
+      "Incorrect: A graduated uterine sound (D) measures uterocervical cavity length and must not be used for ectocervical cytology scraping; Cusco's speculum (C) and Ayre's spatula (G) are used instead.",
+      "Incorrect: A uterine curette (F) and uterine sound (D) are not used for routine cervical screening, and cells fixed onto a glass slide (A) must be placed promptly into alcohol fixative (E)."
+    ],
+    "clinicalPearl": "Fix a conventional Pap smear in 95% ethyl alcohol (or cyto-spray) within 5 seconds of spreading onto the labelled frosted slide, and never lubricate the speculum with jelly.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "A Pap smear requires Cusco's speculum, Ayre's spatula (plus cytobrush if needed), a pre-labelled glass slide, and immediate fixation in 95% ethanol to prevent air-drying artefact."
+    },
+    "sourceStation": {
+      "id": "gynobs_050",
+      "title": "Pap Smear & Gynaecological Tray Instruments (A–H)",
+      "originalPrompt": "3.1 What are the below instruments (A–H) used in Pap smear test?\n3.2 What is the main aim of performing this investigation?",
+      "verifiedAnswer": "(3.1) A: Glass microscope slides; B: Sims' vaginal speculum; C: Cusco's bivalve speculum; D: Endocervical cytobrush; E: Specimen/fixative container; F: Sims' uterine sound; G: Ayre's wooden spatula; H: Uterine sound / cervical probe. (3.2) Main aim: Secondary prevention / early screening of cervical cancer by detecting pre-malignant cervical intraepithelial neoplasia (CIN) before progression to invasive carcinoma.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_051_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_051.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Speculum Selection in Obstetrics",
+    "stem": "Four gynaecological instruments (A–D) are displayed. A 33-year-old woman at 32 weeks' gestation presents with a sudden gush of clear vaginal fluid. The clinician wishes to perform a sterile speculum examination alone to look for amniotic fluid pooling in the posterior fornix without performing a digital exam. Which instrument should be selected?",
+    "options": [
+      "Instrument A, because its self-retaining hinged blades maintain cervical and fornix exposure hands-free",
+      "Instrument B, because its double-ended curved blade locks automatically onto the posterior vaginal wall",
+      "Instrument C, because its serrated oval rings gently dilate the internal cervical os for fluid sampling",
+      "Instrument D, because its graduated malleable shaft measures cervical effacement and liquor depth",
+      "Instrument B, because its dual blades completely cover the lateral vaginal walls during inspection"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Instrument A is Cusco's bivalve self-retaining vaginal speculum, allowing a single operator to inspect the cervix and posterior fornix for liquor pooling in suspected PPROM.",
+      "Incorrect: Instrument B (Sims' speculum) is not self-retaining and requires an assistant to hold it in place while another retractor elevates the anterior wall.",
+      "Incorrect: Instrument C (sponge-holding forceps) is used for swabbing, grasping the soft pregnant cervix, or removing products of conception, not for visualising the fornices.",
+      "Incorrect: Instrument D (uterine sound) must never be inserted into a pregnant uterus as it causes membrane rupture, bleeding, or abortion.",
+      "Incorrect: Sims' speculum (B) is single-bladed on each end rather than bivalved and does not self-retain."
+    ],
+    "clinicalPearl": "In suspected preterm prelabour rupture of membranes (PPROM), perform a sterile Cusco's speculum exam to visualise amniotic fluid pooling and avoid digital vaginal examination to reduce chorioamnionitis risk.",
+    "guideCitation": {
+      "guideId": "guide_gyn_instruments",
+      "guideTitle": "Obstetrics & Gynaecology Instruments Guide",
+      "keyPoint": "Cusco's self-retaining bivalve speculum exposes the cervix and vaginal fornices for single-operator inspection without an assistant."
+    },
+    "sourceStation": {
+      "id": "gynobs_051",
+      "title": "Four Gynaecological Instruments (A–D)",
+      "originalPrompt": "2. Identify the instruments (A, B, C, D) below.",
+      "verifiedAnswer": "A: Cusco's self-retaining bivalve vaginal speculum; B: Sims' double-bladed vaginal speculum; C: Sims' uterine sound; D: Hegar cervical dilator (or curved metal uterine sound/probe).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_052_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.4 OBSTETRIC & GYNAECOLOGICAL INSTRUMENTS, POSITIONS & PROCEDURES (17 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_052.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pap Smear Technique & Prerequisites",
+    "stem": "A medical student is asked to demonstrate cervical screening using the illustrated wooden instrument at an OSCE station. Which technique and patient prerequisite are essential to obtain an accurate diagnostic smear?",
+    "options": [
+      "Lubricate the speculum generously with lignocaine jelly and allow the smear to air-dry for 3 minutes",
+      "Perform the smear during heavy menstrual bleeding and insert the rounded end into the uterine cavity",
+      "Advise vaginal douching the night before and rotate the spatula 90 degrees once without fixation",
+      "Use the narrow bifid end only in postmenopausal women and omit slide labelling until laboratory receipt",
+      "Avoid menstruation or intercourse for 48 hours, rotate bifid end 360 degrees, and fix immediately"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Lubricant jelly contaminates cytological interpretation (use warm water or normal saline only), and air-drying destroys cellular detail.",
+      "Incorrect: Menstrual blood obscures squamous cells (postpone until mid-cycle/non-menstruating), and an Ayre's spatula never enters the uterine cavity.",
+      "Incorrect: Patients must avoid douching, tampons, pessaries, and intercourse for 48 hours before screening, and full 360-degree rotation plus immediate fixation are mandatory.",
+      "Incorrect: Slides must always be pre-labelled with a lead pencil before sample collection, and postmenopausal women with receded squamocolumnar junctions often require an endocervical cytobrush.",
+      "Correct: Accurate Pap smears require avoiding menstruation, intercourse, douching, and vaginal creams for 48 hours, rotating the bifid end 360 degrees at the transformation zone, and immediate 95% ethanol fixation."
+    ],
+    "clinicalPearl": "Avoid jelly lubricant on the speculum, avoid scheduling during menstruation, pre-label the frosted slide with pencil, and fix within 5 seconds in 95% ethyl alcohol.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Insert the narrow prong of the Ayre's spatula into the os, rotate 360 degrees around the transformation zone, spread evenly, and fix immediately in 95% ethanol."
+    },
+    "sourceStation": {
+      "id": "gynobs_052",
+      "title": "Ayre's Wooden Spatula",
+      "originalPrompt": "4.1 Identify the instrument given.\n4.2 Name the procedure for which this is used.",
+      "verifiedAnswer": "(4.1) Ayre's wooden spatula. (4.2) Procedure: Pap smear (cervical cytology screening) — rotated 360° around the transformation zone/ectocervix to sample exfoliated squamous and glandular cells.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_053_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 20 (4th Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_053.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Copper IUCD (TCu 380A)",
+    "stem": "A 29-year-old woman with two children opts for long-acting reversible contraception and has the illustrated T-shaped device inserted in the community clinic. Which counselling statement accurately describes its primary mechanism of action and commonest side effect?",
+    "options": [
+      "Suppresses ovulation via continuous levonorgestrel release and induces amenorrhoea in most users",
+      "Prevents sperm entry solely by thickening cervical mucus and causes significant weight gain",
+      "Releases spermicidal copper ions with sterile endometrial inflammation and may cause menorrhagia",
+      "Blocks GnRH secretion from the hypothalamus and reversibly lowers bone mineral density",
+      "Requires replacement every 3 years and increases the absolute risk of pelvic inflammatory disease for 5 years"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Continuous levonorgestrel release causing endometrial atrophy and amenorrhoea describes the LNG-IUS (Mirena), not the copper-wrapped TCu 380A shown.",
+      "Incorrect: Weight gain and progestogen-mediated cervical mucus thickening are typical of DMPA or progestogen implants, not non-hormonal copper IUCDs.",
+      "Correct: TCu 380A releases copper ions that impair sperm motility and viability while inducing a sterile foreign-body endometrial reaction; its commonest adverse effects are heavier bleeding and dysmenorrhoea.",
+      "Incorrect: Hypothalamic-pituitary suppression and reversible bone mineral density reduction occur with depot medroxyprogesterone acetate (DMPA).",
+      "Incorrect: TCu 380A is effective for 10 years (not 3), and insertion-related PID risk is confined primarily to the first 20 days (3 weeks) post-insertion."
+    ],
+    "clinicalPearl": "TCu 380A provides 10 years of hormone-free contraception (and emergency contraception within 5 days of unprotected sex), but may worsen menorrhagia and dysmenorrhoea during the first 3–6 months.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Copper IUCD (TCu 380A) acts via spermicidal copper ions and sterile endometrial inflammation for 10 years; common side effects are menorrhagia and dysmenorrhoea."
+    },
+    "sourceStation": {
+      "id": "gynobs_053",
+      "title": "Copper IUCD (TCu 380A)",
+      "originalPrompt": "Q.5\nA.) What is the device?\nB.) List 3 complications.",
+      "verifiedAnswer": "(A) TCu 380A Copper Intrauterine Contraceptive Device (IUCD) (used in Sri Lanka National Family Planning Programme, effective 10 years). (B) Complications: Menorrhagia & dysmenorrhoea (especially first 3–6 months), Pelvic inflammatory disease (PID) (mainly first 20 days post-insertion), Expulsion, Uterine perforation at insertion, Missing threads / Ectopic pregnancy (if pregnancy occurs in situ).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "gynobs_054_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_054.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Contraceptive Method Selection",
+    "stem": "Three contraceptive products are shown from left to right. A 21-year-old woman presents 14 hours after unprotected sexual intercourse, while a newly married 25-year-old couple wishes to delay pregnancy for 2 years. Which option correctly pairs these two patients with the appropriate displayed methods?",
+    "options": [
+      "21-year-old: right-hand 28-day pill pack; newly married couple: middle intrauterine device only",
+      "21-year-old: middle levonorgestrel system; newly married couple: left-hand two-tablet pack",
+      "21-year-old: left-hand pack taken weekly; newly married couple: right-hand pack started mid-cycle without backup",
+      "21-year-old: left-hand emergency levonorgestrel; newly married couple: right-hand combined oral pill",
+      "21-year-old: right-hand placebo iron tablets; newly married couple: left-hand postcoital tablets daily"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Standard 28-day combined oral contraceptive packs are not first-line postcoital emergency contraception, and the couple delaying for 2 years can conveniently use COCPs.",
+      "Incorrect: The levonorgestrel intrauterine system (LNG-IUS) is NOT licensed for emergency contraception (only the copper IUCD is), and Postinor-2 is for emergency use rather than regular 2-year spacing.",
+      "Incorrect: Postinor-2 is taken as a single 1.5 mg dose (or two 0.75 mg doses 12 hours apart) within 72 hours of unprotected intercourse, not weekly.",
+      "Correct: The left-hand item (Postinor-2: levonorgestrel 0.75 mg × 2) provides emergency contraception within 72 hours by delaying ovulation, while the right-hand COCPs (21 active + 7 iron pills) offer reliable short-term reversible spacing.",
+      "Incorrect: The 7 brown/white placebo pills at the end of a COCP blister contain ferrous fumarate without contraceptive hormones, and Postinor-2 is not for daily contraception."
+    ],
+    "clinicalPearl": "Emergency contraception options include oral levonorgestrel 1.5 mg within 72 hours (Postinor-2) or a copper IUCD inserted within 5 days of unprotected intercourse (or up to 5 days after earliest estimated ovulation).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Postinor-2 (levonorgestrel) acts within 72 hours as emergency contraception; COCPs (21 active + 7 iron pills) provide effective reversible spacing by suppressing ovulation."
+    },
+    "sourceStation": {
+      "id": "gynobs_054",
+      "title": "Contraceptive Method Selection (Postinor-2, IUCD, COCP)",
+      "originalPrompt": "4. Write the most suitable contraceptive method (choose from A, B, C shown):\n1. 21-year-old unmarried girl presented to your clinic after having unprotected sex last night.\n2. A 35-year-old healthy woman with two children aged 3 & 5 years and having no plan for a future pregnancy.\n3. Newly married couple having no wish to have a baby until 2 years.",
+      "verifiedAnswer": "(1) → A (Postinor-2 / Levonorgestrel 1.5 mg emergency contraception within 72 hours); (2) → B (Copper TCu 380A IUCD — LARC) (or permanent LRT/tubal ligation); (3) → C (Combined Oral Contraceptive Pills — COCPs / Mithuri).",
+      "provenance": "[Drive Key + Completed]"
+    }
+  },
+  {
+    "id": "gynobs_055_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_055.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Menstrual Cycle Hormonal Regulation",
+    "stem": "In the illustrated 28-day menstrual cycle diagram, curves A and B represent pituitary gonadotropins while curves C and D represent ovarian steroid hormones. Which endocrine mechanism directly triggers the sharp mid-cycle surge seen in curve A?",
+    "options": [
+      "Sustained high circulating hormone C exerting positive feedback on the anterior pituitary",
+      "Rapid fall in luteal hormone D secreted by the regressing corpus luteum around Day 12",
+      "Suppression of GnRH pulsatility by rising inhibin B from the dominant Graafian follicle",
+      "Sudden drop in hormone B below basal threshold immediately preceding follicular recruitment",
+      "Negative feedback from rising luteal levels of hormone D on hypothalamic kisspeptin neurons"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Hormone C is oestradiol (oestrogen) from the dominant follicle; once sustained above threshold (~200 pg/mL for >48 hours), it switches from negative to positive feedback on the anterior pituitary, triggering the LH surge (curve A).",
+      "Incorrect: Hormone D is progesterone, which rises only after ovulation (Days 15–28) and falls around Day 26–28 to trigger menstruation rather than Day 12.",
+      "Incorrect: Inhibin B selectively suppresses FSH (curve B) during the mid-follicular phase to promote single dominant follicle selection, rather than triggering the LH surge.",
+      "Incorrect: Hormone B (FSH) actually shows a smaller concurrent mid-cycle surge alongside LH (curve A) rather than dropping before ovulation.",
+      "Incorrect: Progesterone (D) exerts negative feedback during the luteal phase to prevent premature mid-luteal LH surges."
+    ],
+    "clinicalPearl": "Oestradiol switches from negative to positive feedback on the anterior pituitary once the dominant Graafian follicle achieves sustained high secretion, causing the Day 13–14 LH surge that induces ovulation 10–12 hours after the LH peak.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Sustained pre-ovulatory oestradiol triggers positive feedback on the anterior pituitary, producing the mid-cycle LH surge that initiates ovulation and corpus luteum formation."
+    },
+    "sourceStation": {
+      "id": "gynobs_055",
+      "title": "Menstrual Cycle Hormone Graph (LH, FSH, Oestrogen, Progesterone)",
+      "originalPrompt": "5. Menstrual cycle hormone graph shown.\nName A, B, C, D.",
+      "verifiedAnswer": "A: Luteinising Hormone (LH); B: Follicle-Stimulating Hormone (FSH); C: Oestrogen (Oestradiol); D: Progesterone.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_056_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_056.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Menstrual Hormones & Sites of Production",
+    "stem": "A schematic of the ovarian, hormonal, and endometrial events across a 28-day cycle is shown with curves labelled A, B, C, and D. Which option accurately identifies each curve and the primary site of synthesis for hormone C?",
+    "options": [
+      "Curve A = FSH, Curve B = Progesterone, Curve C = Oestradiol (anterior pituitary), Curve D = LH",
+      "Curve A = Oestradiol, Curve B = LH, Curve C = FSH (Graafian follicle), Curve D = Progesterone",
+      "Curve A = LH, Curve B = Progesterone, Curve C = Oestradiol (theca interna), Curve D = FSH",
+      "Curve A = FSH, Curve B = Oestradiol, Curve C = Progesterone (hypothalamus), Curve D = LH",
+      "Curve A = LH, Curve B = Oestradiol, Curve C = Progesterone (corpus luteum), Curve D = FSH"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Curve A is the tall blue mid-cycle LH spike, not FSH, and curve C is the broad purple luteal progesterone peak rather than oestradiol.",
+      "Incorrect: Curve A is the pituitary LH surge (not ovarian oestradiol), and curve C peaks only after ovulation during the luteal phase.",
+      "Incorrect: Curve B (orange pre-ovulatory peak) is oestradiol from granulosa cells of the dominant follicle, whereas curve C (purple luteal peak) is progesterone.",
+      "Incorrect: Progesterone (C) is synthesised by the ovarian corpus luteum (and placenta in pregnancy), never by the hypothalamus.",
+      "Correct: A is LH (anterior pituitary), B is oestradiol (developing Graafian follicle), C is progesterone (corpus luteum during the luteal phase), and D is FSH (anterior pituitary)."
+    ],
+    "clinicalPearl": "Look at the timing and shape of the peaks: oestradiol peaks just before ovulation (proliferative phase), LH spikes tallest at Day 14, FSH has an early follicular rise plus smaller Day 14 peak, and progesterone dominates the luteal phase.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "LH and FSH are secreted by the anterior pituitary, oestradiol by the developing follicle, and progesterone by the corpus luteum to induce secretory endometrium."
+    },
+    "sourceStation": {
+      "id": "gynobs_056",
+      "title": "Menstrual Hormones & Sites of Production",
+      "originalPrompt": "1) Menstrual cycle hormone graph with labels A, B, C, D.\nA. Identify A, B, C, D.\nB. Mention from where each of them is produced.",
+      "verifiedAnswer": "A = Luteinising Hormone (LH) — Anterior pituitary gland (tall blue mid-cycle day-14 surge); B = Oestrogen (Oestradiol) — developing Graafian follicle (granulosa/theca cells) and corpus luteum (pre-ovulatory orange peak); C = Progesterone — Corpus luteum (and placenta in pregnancy; dominant luteal purple peak); D = Follicle-Stimulating Hormone (FSH) — Anterior pituitary gland (green early follicular rise and smaller day-14 surge).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_057_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — ObGyn Q18",
+    "imagePath": "images/gynobs/gynobs_057.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Subdermal Implants vs COCPs",
+    "stem": "Three family planning methods are displayed from left to right. A 24-year-old woman who experiences focal visual aura preceding migraine headaches seeks long-acting reversible contraception. Which statement best describes the left-most method and why the right-most method should be avoided in this patient?",
+    "options": [
+      "Left is Implanon (1 rod, 5 years); right is contraindicated because progestogen triggers hepatic adenoma",
+      "Left is Jadelle (2 rods, 5 years); right is contraindicated as ethinylestradiol increases stroke risk",
+      "Left is a copper implant (2 rods, 10 years); right is contraindicated because ferrous fumarate causes thrombosis",
+      "Left is Jadelle (2 rods, 3 years); right is contraindicated because levonorgestrel worsens migraine aura",
+      "Left is Depo-Provera rods (5 years); right is safe if started on day 1 of the menstrual cycle"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Implanon/Nexplanon consists of a single etonogestrel rod lasting 3 years, whereas the two rods shown in the palm represent Jadelle (5 years).",
+      "Correct: The two flexible rods shown on the left are Jadelle (levonorgestrel subdermal implant, effective for 5 years via ovulation inhibition and mucus thickening), while combined oral contraceptive pills (right) contain oestrogen and are WHO MEC Category 4 in migraine with aura due to ischaemic stroke risk.",
+      "Incorrect: Subdermal contraceptive implants contain progestogen (levonorgestrel or etonogestrel) rather than copper, and the brown ferrous fumarate placebo tablets do not cause thrombosis.",
+      "Incorrect: Jadelle lasts 5 years (not 3 years), and it is the oestrogen component of COCPs—not progestogen—that drives arterial ischaemic stroke risk in migraine with aura.",
+      "Incorrect: Depo-Provera is an intramuscular injection rather than subdermal rods, and migraine with aura is an absolute contraindication to combined oestrogen-containing pills regardless of start day."
+    ],
+    "clinicalPearl": "Migraine with aura is an absolute contraindication (WHO MEC 4) to combined hormonal contraception because of ischaemic stroke risk; progestogen-only methods like Jadelle (2 rods, 5 years) or Implanon (1 rod, 3 years) are safe alternatives.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Jadelle (2 levonorgestrel rods, 5 years) inhibits ovulation and thickens cervical mucus; COCPs contain ethinylestradiol and are contraindicated in migraine with aura."
+    },
+    "sourceStation": {
+      "id": "gynobs_057",
+      "title": "Contraceptives (Jadelle, IUCD, COCPs) & Mechanisms",
+      "originalPrompt": "18.\nA) What are the contraceptive methods shown?\nB) What is the mechanism of pregnancy prevention of each?",
+      "verifiedAnswer": "(A) Jadelle (levonorgestrel subdermal implant), Copper IUCD, Combined Oral Contraceptive Pills (COCPs). (B) Mechanisms: Jadelle → inhibition of ovulation + thickening cervical mucus + endometrial thinning; Copper IUCD → spermicidal copper ions + sterile endometrial inflammatory reaction inhibiting fertilisation and zygote implantation; COCPs → negative feedback inhibition of FSH/LH suppressing follicular development & ovulation + thickened cervical mucus.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_058_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 29 (4th Year) — ObGyn Q16",
+    "imagePath": "images/gynobs/gynobs_058.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "DMPA Mechanism & Side Effects",
+    "stem": "Three contraceptives (A, B, and C) are shown. A 26-year-old woman chooses method B, given as a deep intramuscular injection every 12 weeks. Which primary mechanism of action and clinically important side-effect profile must be explained during counselling?",
+    "options": [
+      "Induces copper-mediated spermicidal inflammation; causes heavy menstrual bleeding and early anaemia",
+      "Suppresses GnRH solely during lactation; permits immediate return of ovulation within 2 weeks of stopping",
+      "Thickens endometrium to block implantation; carries a high risk of arterial and venous thrombosis",
+      "Inhibits ovulation via LH-surge suppression; causes amenorrhoea, delayed fertility return, and bone loss",
+      "Provides barrier contraception at the internal os; increases risk of ectopic pregnancy if ovulation occurs"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Copper-mediated sterile inflammation causing menorrhagia describes method A (TCu 380A IUCD), not method B (Depo-Provera).",
+      "Incorrect: Return of ovulation and fertility after discontinuing DMPA is often delayed for 6–12 months (or up to 18 months), rather than occurring within 2 weeks.",
+      "Incorrect: DMPA causes endometrial atrophy (thinning) rather than thickening, and progestogen-only injectables do not carry oestrogen-mediated venous thromboembolism risk.",
+      "Correct: Depot medroxyprogesterone acetate (DMPA 150 mg IM 12-weekly) suppresses the LH surge to inhibit ovulation and thickens cervical mucus; key side effects are amenorrhoea/irregular bleeding, weight gain, delayed fertility return (6–12 months), and reversible bone mineral density reduction.",
+      "Incorrect: DMPA is a systemic hormonal injection rather than a mechanical barrier device."
+    ],
+    "clinicalPearl": "Counsel women starting DMPA (Depo-Provera 150 mg IM q12w) specifically about delayed return of fertility (6–12 months) and reversible hypo-oestrogenic bone mineral density loss.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "DMPA inhibits ovulation and thickens cervical mucus; counsel on irregular bleeding/amenorrhoea, weight gain, delayed fertility return (6–12 months), and reversible BMD loss."
+    },
+    "sourceStation": {
+      "id": "gynobs_058",
+      "title": "Jadelle, Depo-Provera & TCu 380A — Mechanism & Side Effects",
+      "originalPrompt": "16. Three contraceptive items (A, B, C) are shown.\n16.1 Write the most important mechanism of action for the contraceptives given.\n16.2 Write one (01) side effect of each item.",
+      "verifiedAnswer": "(16.1) Primary Mechanisms: A (Jadelle) & B (Depo-Provera / DMPA) → Inhibition of ovulation (plus cervical mucus thickening); C (TCu 380A) → Copper-mediated spermicidal effect & sterile endometrial reaction preventing fertilisation/implantation. (16.2) Side effects: A (Jadelle): Irregular vaginal bleeding / spotting (or amenorrhoea); B (Depo-Provera): Amenorrhoea / irregular bleeding, weight gain, delayed return of fertility, decreased bone mineral density; C (TCu 380A): Menorrhagia (heavy menstrual bleeding) & dysmenorrhoea.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_059_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — ObGyn Q8",
+    "imagePath": "images/gynobs/gynobs_059.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Confirmation of Ovulation",
+    "stem": "A 30-year-old woman undergoing investigation for primary subfertility has regular 28-day menstrual cycles. On the illustrated menstrual cycle hormone graph (curves A–D), assay of which hormone curve on Day 21 provides standard biochemical confirmation that ovulation has occurred?",
+    "options": [
+      "Curve A measured during the follicular phase to verify granulosa cell proliferation",
+      "Curve B measured at Day 21 to confirm persistence of the anterior pituitary surge",
+      "Curve D measured in the mid-luteal phase to verify corpus luteum progesterone rise",
+      "Curve C measured on Day 2 to assess ovarian reserve prior to follicular recruitment",
+      "Curve A measured on Day 14 to confirm endometrial spiral artery decidualisation"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Curve A is the pre-ovulatory oestradiol peak (~Day 12); follicular oestradiol confirms follicle maturation rather than actual oocyte release/luteinisation.",
+      "Incorrect: Curve B is the mid-cycle LH surge (Day 14), which triggers ovulation and returns to low baseline levels by Day 21.",
+      "Correct: Curve D represents progesterone, which rises sharply after ovulation from the corpus luteum and peaks at Day 21 (7 days before expected menses); a level >30 nmol/L (>10 ng/mL) confirms ovulation.",
+      "Incorrect: Curve C is the smaller mid-cycle FSH peak; Day 2–3 FSH evaluates ovarian reserve rather than confirming ovulation.",
+      "Incorrect: Endometrial spiral artery decidualisation occurs in the luteal phase under the influence of progesterone (D), not oestradiol (A) on Day 14."
+    ],
+    "clinicalPearl": "In a regular 28-day cycle, mid-luteal Day 21 serum progesterone > 30 nmol/L confirms ovulation; in longer or shorter cycles, measure it 7 days before the expected next menstruation.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Mid-luteal (Day 21, or 7 days pre-menses) serum progesterone > 30 nmol/L (10 ng/mL) confirms corpus luteum formation and ovulation."
+    },
+    "sourceStation": {
+      "id": "gynobs_059",
+      "title": "Menstrual Cycle Hormones & Confirmation of Ovulation",
+      "originalPrompt": "08. Above is a diagram representing the cyclical changes of hormones that occur throughout the menstrual cycle.\n8.1 Identify A–D.\n8.2 What is the investigation (from A–D) used to identify ovulation?",
+      "verifiedAnswer": "(8.1) A: Oestrogen; B: LH; C: FSH; D: Progesterone (check exact curve letter on diagram: tall mid-cycle spike = LH, smaller mid-cycle spike = FSH, day-12 peak = Oestrogen, broad luteal plateau = Progesterone). (8.2) Confirms ovulation: Mid-luteal (Day 21) serum Progesterone (curve D; level > 30 nmol/L confirms ovulation).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_060_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "Batch 32 (4th Year) — ObGyn Q1",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "HRT Selection Post-TAH+BSO",
+    "stem": "A 52-year-old woman develops severe hot flushes and night sweats 6 months after undergoing a total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAH+BSO) for extensive pelvic endometriosis. Which hormone replacement therapy regimen is most appropriate?",
+    "options": [
+      "Continuous combined oestrogen–progestogen HRT or tibolone to suppress residual implants",
+      "Unopposed oral oestrogen-only HRT because removal of the uterus eliminates endometrial cancer risk",
+      "Topical low-dose vaginal oestrogen cream alone to suppress hypothalamic vasomotor instability",
+      "Sequential combined HRT to induce regular monthly withdrawal bleeding after hysterectomy",
+      "Oral high-dose progesterone monotherapy without oestrogen for lifelong bone protection"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: After TAH+BSO for endometriosis, continuous combined oestrogen+progestogen HRT (or tibolone) is preferred over unopposed oestrogen to suppress residual microscopic endometriotic foci and prevent malignant transformation.",
+      "Incorrect: Unopposed oestrogen-only HRT is appropriate after TAH+BSO for benign uterine fibroids, but in endometriosis it risks stimulating residual endometriotic implants.",
+      "Incorrect: Topical vaginal oestrogen treats localised genitourinary syndrome of menopause (dryness, dyspareunia) and does not provide systemic relief of vasomotor hot flushes.",
+      "Incorrect: Sequential HRT causes cyclical bleeding and is unnecessary after hysterectomy; continuous combined therapy avoids withdrawal bleeding.",
+      "Incorrect: Progestogen monotherapy does not protect effectively against postmenopausal osteoporosis and causes breakthrough symptoms compared with combined HRT or tibolone."
+    ],
+    "clinicalPearl": "Although hysterectomy normally permits oestrogen-only HRT (e.g., after fibroids), women who had TAH+BSO for endometriosis require continuous combined HRT or tibolone to protect residual endometriotic tissue.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Use continuous combined HRT (or tibolone) post-TAH+BSO for endometriosis to prevent reactivation of residual implants; use oestrogen-only post-hysterectomy for fibroids and vaginal oestrogen for isolated GSM."
+    },
+    "sourceStation": {
+      "id": "gynobs_060",
+      "title": "Postmenopausal HRT & GSM Treatment Selection",
+      "originalPrompt": "01. Choose the appropriate treatment for the following conditions:\nTherapies: Sequential HRT, Continuous combined HRT, Oral estrogen, Vaginal estrogen, Gabapentin, Tibolone, Estrogen-only therapy.\n1. A 52-year-old female underwent total abdominal hysterectomy with BSO for endometriosis. Postoperatively, she is experiencing vasomotor symptoms.\n2. A 48-year-old female is experiencing vaginal dryness, dyspareunia, and dysuria. Urine culture is negative.\n3. A 50-year-old female underwent total abdominal hysterectomy with BSO for a fibroid uterus. Postoperatively, she is experiencing mood disturbances and hot flashes.  [Text-only therapeutic matching station]",
+      "verifiedAnswer": "(1) Continuous combined HRT (or Tibolone) — even without a uterus, women post-TAH+BSO for endometriosis require combined oestrogen+progestogen (or tibolone) rather than unopposed oestrogen to prevent reactivation/malignant transformation of residual endometriotic implants; (2) Vaginal estrogen — first-line for isolated Genitourinary Syndrome of Menopause (GSM / urogenital atrophy); (3) Estrogen-only therapy — standard post-hysterectomy for benign fibroids (no endometrium left to protect against hyperplasia).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_061_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.5 CONTRACEPTION, MENSTRUAL ENDOCRINOLOGY & MENOPAUSE (HRT) (9 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_061.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Postpartum Contraception in Lactation",
+    "stem": "Four family planning methods (A–D) are illustrated. A 32-year-old woman who is 8 weeks postpartum and exclusively breastfeeding requests an effective hormonal method that reliably suppresses ovulation without impairing breast milk supply. Which displayed method best meets her needs?",
+    "options": [
+      "Method A, which prevents pregnancy by suppressing pituitary gonadotropins without hormones",
+      "Method B, because combined ethinylestradiol enhances prolactin-mediated milk production",
+      "Method C, which provides continuous 3-year ovulation suppression after a single oral dose",
+      "Method B, because the 7 hormone-free iron tablets allow uninterrupted full lactation",
+      "Method D, as systemic progestogen-only injection inhibits ovulation safely in lactation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Method A is a copper IUCD, which is non-hormonal and acts via spermicidal copper toxicity and endometrial inflammation rather than suppressing pituitary gonadotropins.",
+      "Incorrect: Method B is a combined oral contraceptive pill pack; oestrogen inhibits lactation and increases postpartum VTE risk, so COCPs are avoided during breastfeeding (especially <6 months).",
+      "Incorrect: Method C is an emergency contraceptive pill pack intended only for single-act postcoital prevention, not ongoing 3-year contraception.",
+      "Incorrect: Taking 21 active ethinylestradiol-containing pills in Method B suppresses breast milk volume regardless of the 7 placebo tablets.",
+      "Correct: Method D is depot medroxyprogesterone acetate (DMPA 150 mg IM), a progestogen-only injectable that inhibits the LH surge and is safe during breastfeeding at 8 weeks postpartum without impairing milk supply."
+    ],
+    "clinicalPearl": "Avoid oestrogen-containing contraceptives (COCPs) during breastfeeding as oestrogen suppresses breast milk production; progestogen-only methods (DMPA, Jadelle, POP) and the copper IUCD are lactation-safe.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "DMPA suppresses the LH surge to inhibit ovulation without impairing lactation; copper IUCDs act locally without hormones; COCPs inhibit ovulation via ethinylestradiol/progestogen and reduce milk supply."
+    },
+    "sourceStation": {
+      "id": "gynobs_061",
+      "title": "Family Planning Methods (A–D) & Mechanisms",
+      "originalPrompt": "2. Identify the family planning methods/instruments (A, B, C, D) and their mechanisms of action.",
+      "verifiedAnswer": "A: Copper IUCD (TCu 380A) — copper toxicity impairs sperm motility/viability + sterile foreign-body endometrial reaction prevents implantation; B: Combined Oral Contraceptive Pills (COCPs) — suppresses GnRH/FSH/LH inhibiting ovulation + thickens cervical mucus; C: Emergency Contraceptive Pill (Levonorgestrel 0.75 mg × 2 / Postinor-2) — delays/inhibits LH surge & ovulation prior to fertilisation; D: Depot Medroxyprogesterone Acetate (DMPA / Depo-Provera 150 mg IM) — suppresses LH surge inhibiting ovulation + thickens cervical mucus + atrophies endometrium.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_062_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_062.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Turner Syndrome (45,X)",
+    "stem": "A 17-year-old girl is referred for primary amenorrhoea and marked short stature (height 123 cm). Physical examination demonstrates the body habitus shown in the clinical photograph alongside absent breast development and a broad shield-like chest. Which investigation confirms the diagnosis and what result is expected?",
+    "options": [
+      "Pelvic MRI showing complete Müllerian agenesis with normal 46,XX ovaries",
+      "Serum 17-hydroxyprogesterone elevation with peripheral karyotype 46,XX",
+      "Peripheral blood chromosomal karyotyping demonstrating 45,XO monosomy",
+      "Peripheral blood chromosomal karyotyping demonstrating 47,XXY trisomy",
+      "Serum testosterone in the normal male range with peripheral karyotype 46,XY"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Mayer-Rokitansky-Küster-Hauser syndrome (Müllerian agenesis) presents with normal female height, normal breast development (Tanner stage V), and 46,XX karyotype, unlike the webbed neck and short stature shown.",
+      "Incorrect: Congenital adrenal hyperplasia causes virilisation and elevated 17-hydroxyprogesterone with 46,XX karyotype, not webbed neck, shield chest, and cubitus valgus.",
+      "Correct: Webbed neck (pterygium colli), low posterior hairline, short stature, shield chest with widely spaced nipples, cubitus valgus, and primary amenorrhoea are classic for Turner syndrome, confirmed by 45,XO karyotyping.",
+      "Incorrect: 47,XXY is Klinefelter syndrome, which affects phenotypic males and causes tall stature with eunuchoid proportions.",
+      "Incorrect: Complete androgen insensitivity syndrome (46,XY) presents with normal or tall female height, well-developed breasts, and absent pubic/axillary hair rather than Turner stigmata."
+    ],
+    "clinicalPearl": "Turner syndrome (45,XO) causes hypergonadotropic hypogonadism (elevated FSH/LH, streak ovaries), short stature, webbed neck, cubitus valgus, and associated coarctation of the aorta or horseshoe kidney.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Turner syndrome presents with primary amenorrhoea, short stature, webbed neck, shield chest, and cubitus valgus; diagnosis is confirmed by peripheral blood karyotyping (45,XO)."
+    },
+    "sourceStation": {
+      "id": "gynobs_062",
+      "title": "Turner Syndrome (45,XO)",
+      "originalPrompt": "3) 17-year-old female with primary amenorrhoea. Height 123 cm.\na. Identify the diagnosis.\nb. 3 clinical features.\nc. Diagnostic test.",
+      "verifiedAnswer": "(a) Turner syndrome (45,XO). (b) Clinical features: Short stature (123 cm), Webbed neck (pterygium colli), Low posterior hairline, Shield-like broad chest with widely spaced nipples, Cubitus valgus, Primary amenorrhoea / absent secondary sexual characteristics (streak ovaries). (c) Diagnostic test: Peripheral blood chromosomal Karyotyping.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "gynobs_063_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — ObGyn Q4",
+    "imagePath": "images/gynobs/gynobs_063.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Complete Uterine Prolapse (Procidentia)",
+    "stem": "A 68-year-old multiparous woman presents with a large, keratinised mass protruding completely outside the vaginal introitus, causing discomfort and incomplete voiding, as shown. She has no major anaesthetic comorbidities and requests definitive surgical correction. Which diagnosis and surgical procedure are indicated?",
+    "options": [
+      "Stage IV cervical carcinoma; radical Wertheim hysterectomy with pelvic lymphadenectomy",
+      "Complete uterovaginal procidentia; vaginal hysterectomy with pelvic floor colporrhaphy",
+      "Infected Bartholin gland abscess; incision and marsupialisation under local anaesthesia",
+      "Prolapsed submucosal leiomyoma; hysteroscopic myomectomy and levonorgestrel IUS insertion",
+      "Full-thickness rectal prolapse; laparoscopic ventral mesh rectopexy with bowel resection"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The clinical photograph shows smooth, pale, keratinised vaginal mucosa stretched completely outside the introitus with the external os at the apex—characteristic of procidentia rather than a friable exophytic cervical tumour.",
+      "Correct: Complete 3rd-degree uterovaginal prolapse (procidentia) occurs when the entire uterus descends outside the introitus; definitive management in a fit postmenopausal woman is vaginal hysterectomy with anterior/posterior pelvic floor repair (or sacrospinous fixation).",
+      "Incorrect: A Bartholin abscess presents as a tender unilateral swelling in the posterolateral lower labia majora, not a midline uterine descent.",
+      "Incorrect: A prolapsed fibroid polyp protrudes from a dilated cervical os rather than inverting the entire vaginal canal with the uterus.",
+      "Incorrect: Rectal prolapse protrudes through the anal sphincter with concentric mucosal folds rather than the vaginal introitus."
+    ],
+    "clinicalPearl": "Procidentia represents total uterine descent outside the introitus (POP-Q Stage IV); check for decubitus ulceration, rule out urinary obstruction/hydronephrosis, and offer vaginal hysterectomy with colporrhaphy or a ring pessary if unfit for surgery.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Third-degree uterovaginal prolapse (procidentia) is definitively managed by vaginal hysterectomy with pelvic floor repair (colporrhaphy), or conservatively with a vaginal ring pessary."
+    },
+    "sourceStation": {
+      "id": "gynobs_063",
+      "title": "Uterine Prolapse (Procidentia)",
+      "originalPrompt": "4) Identify the following clinical presentation:\na. Identify condition.\nb. 2 treatment options.",
+      "verifiedAnswer": "(a) Uterovaginal prolapse (3rd-degree / complete procidentia). (b) Treatment options: (1) Surgical: Vaginal hysterectomy with anterior/posterior colporrhaphy (pelvic floor repair) or sacrospinous fixation; (2) Conservative: Vaginal ring pessary (e.g., if medically unfit or declining surgery; pelvic floor muscle exercises for minor stage I prolapse).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_064_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 25 (4th Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_064.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cystocele Management",
+    "stem": "A 56-year-old multiparous woman presents with a sensation of something coming down per vaginam, urinary frequency, and needing to push up the vaginal bulge digitally to empty her bladder, as illustrated. When pelvic floor muscle exercises and a ring pessary fail to relieve her symptoms, which surgical procedure directly repairs this defect?",
+    "options": [
+      "Posterior colpoperineorrhaphy to plicate the rectovaginal fascial septum",
+      "Cold-knife cervical conisation to shorten an elongated prolapsed cervix",
+      "Bilateral laparoscopic salpingectomy to relieve chronic pelvic pressure",
+      "Anterior colporrhaphy to plicate the weakened pubocervical fascia",
+      "Abdominal myomectomy to restore normal uterine volume and bladder tone"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Posterior colpoperineorrhaphy repairs a rectocele (posterior vaginal wall prolapse) and perineal body defect rather than a bladder prolapse.",
+      "Incorrect: Cervical conisation removes pre-invasive cervical transformation zone lesions (CIN) and does not repair pelvic organ prolapse.",
+      "Incorrect: Salpingectomy addresses tubal pathology (such as ectopic pregnancy or hydrosalpinx) and has no role in anterior vaginal wall prolapse.",
+      "Correct: A cystocele results from weakness of the pubocervical fascia allowing bladder descent into the anterior vagina; surgical correction is performed via anterior colporrhaphy.",
+      "Incorrect: Myomectomy removes uterine leiomyomas rather than repairing fascial defects of the anterior vaginal wall."
+    ],
+    "clinicalPearl": "A cystocele causes a dragging vaginal lump and voiding difficulty (sometimes needing digital reduction); start with Kegel exercises or a vaginal ring pessary before considering anterior colporrhaphy.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Cystocele (anterior vaginal wall prolapse) presents with a vaginal bulge and incomplete voiding; surgical repair is anterior colporrhaphy after conservative Kegel/pessary options."
+    },
+    "sourceStation": {
+      "id": "gynobs_064",
+      "title": "Cystocele (Anterior Vaginal Wall Prolapse)",
+      "originalPrompt": "02) Image of the normal anatomy and an image of a patient with an abnormality are given in these two pictures.\n1) What is the abnormal condition?\n2) List 2 symptoms that could occur in this woman.\n3) Name two (2) methods to manage this condition.",
+      "verifiedAnswer": "(1) Cystocele (anterior vaginal wall prolapse). (2) Symptoms: Sensation of a vaginal lump / 'something coming down', Incomplete bladder emptying / urinary frequency / urgency or stress incontinence (or need to digitally reduce bulge to void). (3) Management: Conservative (pelvic floor / Kegel exercises, vaginal ring pessary); Surgical (Anterior colporrhaphy).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_065_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 28 (4th Year) — ObGyn Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pelvic Endometriosis Presentation",
+    "stem": "A 29-year-old nulliparous woman undergoes diagnostic laparoscopy for primary subfertility. Inspection of the pelvis reveals dark blue-black 'powder-burn' peritoneal implants on the uterosacral ligaments and a left ovarian cyst containing thick altered blood ('chocolate cyst'). Which classic symptom cluster is most characteristic of this condition?",
+    "options": [
+      "Progressive secondary dysmenorrhoea, deep dyspareunia, and chronic pelvic pain",
+      "Painless postmenopausal bleeding, obesity, and persistent endometrial thickening",
+      "Frothy yellow-green malodorous vaginal discharge with a strawberry cervix appearance",
+      "Primary amenorrhoea, galactorrhoea, and bitemporal visual field loss",
+      "Sudden unilateral iliac fossa pain with positive serum β-hCG and shoulder-tip pain"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Endometriosis classically causes progressive secondary dysmenorrhoea (worsening pain starting before menstruation), deep dyspareunia, chronic pelvic pain, subfertility, and cyclical dyschezia.",
+      "Incorrect: Painless postmenopausal bleeding in an obese woman suggests endometrial hyperplasia or carcinoma rather than reproductive-age endometriosis.",
+      "Incorrect: Frothy yellow-green discharge and strawberry cervix are hallmarks of Trichomonas vaginalis infection.",
+      "Incorrect: Amenorrhoea, galactorrhoea, and bitemporal hemianopia indicate a pituitary prolactinoma compressing the optic chiasm.",
+      "Incorrect: Acute pelvic pain, shoulder-tip pain, and positive β-hCG indicate a ruptured ectopic pregnancy rather than chronic peritoneal endometriosis."
+    ],
+    "clinicalPearl": "Diagnostic laparoscopy remains the gold standard to visualise peritoneal 'powder-burn' implants and ovarian endometriomas in women with progressive secondary dysmenorrhoea, deep dyspareunia, and subfertility.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Pelvic endometriosis is diagnosed laparoscopically by powder-burn implants and endometriomas, presenting with progressive secondary dysmenorrhoea, deep dyspareunia, chronic pelvic pain, and subfertility."
+    },
+    "sourceStation": {
+      "id": "gynobs_065",
+      "title": "Pelvic Laparoscopy (Endometriosis / Pelvic Pathology)",
+      "originalPrompt": "5. Following is a laparoscopic photograph of a female pelvis.\nA. What is the pathology?\nB. List 3 symptoms that this woman presents with.  [Laparoscopic image omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "Classic Ragama laparoscopic OSCE stations show pelvic endometriosis ('powder-burn' spots / chocolate cyst endometrioma) or hydrosalpinx / PID adhesions. If Endometriosis: Symptoms = Progressive secondary dysmenorrhoea, Deep dyspareunia, Chronic pelvic pain, Subfertility, Dyschezia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_066_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 29 (4th Year) — ObGyn Q19",
+    "imagePath": "images/gynobs/gynobs_066.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Hysterosalpingogram (HSG) Interpretation",
+    "stem": "A 31-year-old woman with 3 years of primary subfertility undergoes the contrast imaging study shown. What abnormality is demonstrated on this radiograph, and what is the gold-standard next investigation to confirm the finding and exclude transient cornual spasm?",
+    "options": [
+      "Bicornuate uterine anomaly; three-dimensional pelvic ultrasound scan",
+      "Intrauterine Asherman synechiae; outpatient Pipelle endometrial biopsy",
+      "Bilateral tubal occlusion; diagnostic laparoscopy and dye chromopertubation",
+      "Unilateral left hydrosalpinx; serum mid-luteal Day 21 progesterone assay",
+      "Submucosal uterine leiomyoma; repeat hysterosalpingography during menstruation"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: The uterine cavity displays a normal single triangular silhouette rather than two separate horns of a bicornuate uterus.",
+      "Incorrect: Smooth homogeneous filling of the triangular uterine cavity excludes intrauterine synechiae (Asherman syndrome).",
+      "Correct: Contrast outlines a normal triangular uterine cavity but terminates abruptly at both uterine cornua with absent free intraperitoneal spill, indicating bilateral tubal blockage; diagnostic laparoscopy and dye test (lap and dye) is the gold standard to distinguish true occlusion from cornual spasm.",
+      "Incorrect: Neither fallopian tube fills or dilates into a hydrosalpinx, and Day 21 progesterone assesses ovulation rather than tubal patency.",
+      "Incorrect: There is no smooth filling defect inside the endometrial cavity, and HSG is contraindicated during active menstruation or pelvic infection."
+    ],
+    "clinicalPearl": "An HSG showing absent bilateral peritoneal spill may represent true tubal occlusion (e.g., post-PID) or temporary cornual spasm; always confirm with diagnostic laparoscopy and methylene blue dye chromopertubation.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Absent bilateral free peritoneal contrast spill on HSG indicates bilateral tubal blockage and requires diagnostic laparoscopy and dye chromopertubation for confirmation."
+    },
+    "sourceStation": {
+      "id": "gynobs_066",
+      "title": "Hysterosalpingogram (HSG) — Bilateral Tubal Blockage",
+      "originalPrompt": "19. A picture of a hysterosalpingogram (HSG) was given.\n19.1 Name the abnormality in this picture.\n19.2 What could be the next investigation to arrange?",
+      "verifiedAnswer": "(19.1) Bilateral fallopian tube occlusion / blockage (absent bilateral free peritoneal contrast spill). (19.2) Next investigation: Diagnostic laparoscopy and dye chromopertubation (lap & dye) — gold standard to confirm true tubal obstruction vs cornual spasm and assess pelvic adhesions/endometriosis.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_067_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 30 (4th Year) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_067.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Polycystic Ovary Syndrome (PCOS)",
+    "stem": "A 25-year-old woman presents with oligomenorrhoea, a plasma glucose level of 180 mg/dL, and the two clinical signs illustrated in the photographs. Which set of investigations is most appropriate to establish the diagnosis according to the Rotterdam criteria and assess her metabolic risk?",
+    "options": [
+      "Serum prolactin, thyroid-stimulating hormone, and diagnostic hysterosalpingogram",
+      "Peripheral blood chromosomal karyotyping, serum CA-125, and contrast pelvic CT",
+      "24-hour urinary free cortisol, serum ACTH, and contrast pituitary MRI scan",
+      "Endometrial Pipelle biopsy, serum inhibin B, and mid-follicular serum oestradiol",
+      "Serum total testosterone, LH/FSH levels, 75 g OGTT, and pelvic ultrasound scan"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: While prolactin and TSH help exclude other causes of oligomenorrhoea, HSG evaluates tubal patency rather than PCOS diagnostic criteria.",
+      "Incorrect: Karyotyping diagnoses chromosomal conditions like Turner syndrome, and CA-125/CT are used for suspected ovarian malignancy rather than PCOS.",
+      "Incorrect: Overnight dexamethasone suppression or 24-hour urinary cortisol investigates Cushing syndrome, which is a differential diagnosis rather than the primary PCOS workup.",
+      "Incorrect: Endometrial sampling is reserved for persistent prolonged amenorrhoea/abnormal bleeding with thickened endometrium, not primary confirmation of PCOS.",
+      "Correct: Facial hirsutism and cervical acanthosis nigricans (insulin resistance) in a woman with oligomenorrhoea point to PCOS; confirmation uses serum total testosterone/FAI, LH/FSH (elevated ratio), pelvic ultrasound for polycystic ovarian morphology, and a 75 g OGTT."
+    ],
+    "clinicalPearl": "Rotterdam diagnosis of PCOS requires at least 2 of 3 features (after excluding mimics): oligo-/anovulation, clinical or biochemical hyperandrogenism (hirsutism/high testosterone), and polycystic ovaries on ultrasound; always screen for insulin resistance/GDM/T2DM.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "PCOS with acanthosis nigricans and hirsutism indicates hyperandrogenism and insulin resistance; confirm with serum androgens, LH/FSH, pelvic USS, and 75 g OGTT."
+    },
+    "sourceStation": {
+      "id": "gynobs_067",
+      "title": "Polycystic Ovary Syndrome (PCOS)",
+      "originalPrompt": "Question 03\nA 25-year-old girl attended the gynaecological clinic due to irregular menstrual periods and the following clinical findings were seen. Her plasma glucose level was 180 mg/dL.\n3.1 Identify the clinical signs. (2 marks)\n3.2 What is the diagnosis? (2 marks)\n3.3 List 3 investigations you would perform to confirm the diagnosis. (6 marks)",
+      "verifiedAnswer": "(3.1) Hirsutism (top) and Acanthosis nigricans (bottom — insulin resistance). (3.2) Polycystic Ovary Syndrome (PCOS). (3.3) Investigations: Total serum Testosterone / Free Androgen Index, Serum LH & FSH (elevated LH:FSH ratio), Transvaginal/pelvic Ultrasound (Rotterdam polycystic ovarian morphology: ≥ 12–20 peripheral follicles 2–9 mm and/or ovarian volume > 10 mL), plus 75 g OGTT / HbA1c & lipid profile.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "gynobs_068_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — ObGyn Q9",
+    "imagePath": "images/gynobs/gynobs_068.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Uterine Leiomyoma Pathology",
+    "stem": "A 44-year-old woman with severe menorrhagia refractory to medical therapy undergoes a total abdominal hysterectomy, producing the bisected gross specimen shown. Which macroscopic feature is characteristic of this benign neoplasm?",
+    "options": [
+      "Poorly demarcated, soft, friable necrotic areas infiltrating deeply into the uterine serosa",
+      "Well-circumscribed firm spherical masses with a white whorled cut surface and pseudocapsule",
+      "Uniformly enlarged globular uterus containing diffuse haemorrhagic cystic myometrial spaces",
+      "Exophytic papillary fungating tumour arising from the endocervical transformation zone",
+      "Clustered translucent grape-like hydropic chorionic villi filling the endometrial cavity"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Poorly demarcated, fleshy, necrotic haemorrhage invading myometrium suggests malignant leiomyosarcoma rather than benign fibroids.",
+      "Correct: Uterine leiomyomas (fibroids) are benign monoclonal smooth muscle tumours characterised grossly by well-circumscribed, firm, round masses with a white whorled (trabeculated) cut surface and a compressed myometrial pseudocapsule.",
+      "Incorrect: Diffuse globular uterine enlargement with small blood-filled myometrial cysts describes adenomyosis rather than discrete fibroids.",
+      "Incorrect: Papillary fungating cervical lesions represent invasive cervical carcinoma rather than myometrial leiomyomas.",
+      "Incorrect: Grape-like vesicular tissue inside the cavity is pathognomonic of a complete hydatidiform mole."
+    ],
+    "clinicalPearl": "Uterine fibroids are oestrogen- and progesterone-dependent smooth muscle tumours showing a classic white whorled cut surface and pseudocapsule; red degeneration causes acute pain during pregnancy.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Uterine leiomyomas appear macroscopically as well-circumscribed, firm masses with a white whorled cut surface and pseudocapsule, causing menorrhagia, pressure symptoms, and subfertility."
+    },
+    "sourceStation": {
+      "id": "gynobs_068",
+      "title": "Uterine Leiomyomas (Fibroids) Gross Specimen",
+      "originalPrompt": "09.\n9.1 What is the underlying pathology?\n9.2 List two macroscopic features helping you identify the above diagnosis.\n9.3 State 3 symptoms that may present in this patient.",
+      "verifiedAnswer": "(9.1) Uterine fibroids (leiomyomas). (9.2) Macroscopic features: Well-circumscribed firm spherical masses with characteristic whorled trabeculated cut surface (grey-white) and pseudocapsule distorting uterine contour/endometrial cavity. (9.3) Symptoms: Heavy menstrual bleeding (menorrhagia) ± anaemia, Pelvic pressure / mass / urinary frequency, Dysmenorrhoea / Subfertility / Recurrent miscarriage.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_069_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 32 (4th Year) — ObGyn Q2",
+    "imagePath": "images/gynobs/gynobs_069.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Fibroid Anatomical Classification",
+    "stem": "A 36-year-old woman undergoes pelvic ultrasonography for abnormal uterine bleeding, and three uterine fibroids are mapped to locations A, B, and C as illustrated. Even when measuring less than 3 cm, which clinical presentation is most characteristically associated with the lesion labelled A?",
+    "options": [
+      "Isolated urinary retention and constipation with completely normal menstrual flow",
+      "Acute abdominal peritonism caused by torsion of a long serosal vascular pedicle",
+      "Cyclical umbilical bleeding and deep dyspareunia from peritoneal surface implants",
+      "Heavy menstrual bleeding with anaemia and subfertility from cavity distortion",
+      "Postmenopausal virilisation and hirsutism from autonomous androgen biosynthesis"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Pressure symptoms on the bladder or rectum with preserved menstrual regularity are typical of large subserosal fibroids (C) rather than cavity-distorting lesions (A).",
+      "Incorrect: Pedicle torsion occurs in pedunculated subserosal fibroids (C), not intracavitary submucosal fibroids (A).",
+      "Incorrect: Peritoneal implants causing deep dyspareunia are features of endometriosis rather than submucosal leiomyomas.",
+      "Correct: Lesion A is a submucosal fibroid bulging into the endometrial cavity (whereas B is intramural and C is subserosal); submucosal fibroids strongly predispose to heavy menstrual bleeding, iron-deficiency anaemia, and subfertility/recurrent pregnancy loss.",
+      "Incorrect: Fibroids are oestrogen/progesterone-sensitive smooth muscle tumours and do not secrete androgens."
+    ],
+    "clinicalPearl": "Among fibroids, submucosal lesions (A) cause the heaviest menstrual bleeding and highest subfertility risk because they increase endometrial surface area and distort implantation.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Submucosal fibroids (protruding into the endometrial cavity) characteristically cause heavy menstrual bleeding with anaemia and subfertility/miscarriage; intramural lie within myometrium and subserosal project outward."
+    },
+    "sourceStation": {
+      "id": "gynobs_069",
+      "title": "Uterine Fibroid Anatomical Classification (A, B, C)",
+      "originalPrompt": "2.1 Name the fibroids labelled A, B, C.\n2.2 Write two symptoms of a woman having fibroid A.",
+      "verifiedAnswer": "(2.1) A: Submucosal fibroid; B: Intramural fibroid; C: Subserosal fibroid. (2.2) Symptoms of Submucosal fibroid (A): Heavy / prolonged menstrual bleeding (menorrhagia) (causing iron-deficiency anaemia), Subfertility / recurrent pregnancy loss, Intermenstrual bleeding / cramping dysmenorrhoea.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_070_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.6 GYNAECOLOGICAL PATHOLOGY: FIBROIDS, PROLAPSE, PCOS & INFERTILITY (9 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — ObGyn Q3",
+    "imagePath": "images/gynobs/gynobs_070.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Ring Pessary Patient Counselling",
+    "stem": "A 71-year-old postmenopausal woman with Stage III uterovaginal prolapse who is unfit for general anaesthesia is fitted with the silicone device shown for the first time. Which follow-up and safety instruction must be emphasised before she leaves the clinic?",
+    "options": [
+      "Return every 3–6 months for pessary cleaning and report foul discharge or bleeding",
+      "Leave the device undisturbed for 3 years without review unless complete urinary retention occurs",
+      "Remove and sterilise the device in boiling water every evening before going to sleep",
+      "Refrain permanently from sexual intercourse because the device blocks the lower vaginal canal",
+      "Avoid topical vaginal oestrogen cream because oestrogen accelerates silicone pessary degradation"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: First-time vaginal ring pessary users require scheduled clinic review every 3–6 months for removal, cleaning, vaginal wall inspection (to exclude pressure ulceration), and replacement, plus immediate reporting of bleeding, foul discharge, pain, voiding difficulty, or expulsion.",
+      "Incorrect: Leaving a ring pessary uninspected for years risks neglected vaginal erosion, mucosal ulceration, incarceration, and vesicovaginal or rectovaginal fistula.",
+      "Incorrect: Silicone ring pessaries are worn continuously between 3–6 monthly clinic visits rather than removed and boiled nightly by frail elderly patients.",
+      "Incorrect: Unlike space-occupying Gellhorn or shelf pessaries, a ring pessary leaves a central lumen and usually allows comfortable sexual intercourse.",
+      "Incorrect: Postmenopausal women are frequently prescribed topical vaginal oestrogen cream alongside a ring pessary to improve mucosal thickness and prevent pressure ulceration."
+    ],
+    "clinicalPearl": "Always inspect the vaginal walls every 3–6 months in ring pessary users and co-prescribe topical oestrogen in postmenopausal women to prevent mucosal ulceration and foul-smelling discharge.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Ring pessary users need 3–6 monthly review for cleaning/mucosal inspection, topical vaginal oestrogen if postmenopausal, and prompt reporting of bleeding, foul discharge, pain, or expulsion."
+    },
+    "sourceStation": {
+      "id": "gynobs_070",
+      "title": "Vaginal Ring Pessary — Prolapse & First-Time User Instructions",
+      "originalPrompt": "3.1 Identify the instrument below.\n3.2 What is the clinical condition for which it is used?\n3.3 List 02 instructions you would give for someone who uses it for the first time.",
+      "verifiedAnswer": "(3.1) Vaginal ring pessary. (3.2) Clinical condition: Pelvic organ prolapse (uterovaginal prolapse / cystocele / rectocele) (or stress urinary incontinence). (3.3) Patient instructions: (a) Attend regular follow-up every 4–6 months for removal, cleaning, vaginal mucosa inspection (to prevent ulceration/erosion), and pessary change; (b) Report immediately if vaginal bleeding, foul-smelling discharge, pelvic pain, difficulty voiding/defaecating, or pessary expulsion occurs (note: sexual intercourse is possible with ring pessary in place).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_071_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 20 (4th Year) — ObGyn Q4",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Hypotension in Early Pregnancy",
+    "stem": "A 34-year-old primigravida in early pregnancy presents to the acute assessment unit with a blood pressure of 100/70 mmHg, mild dizziness on standing, and vague lower abdominal discomfort. Which focused clinical inquiry and immediate bedside investigation take highest priority?",
+    "options": [
+      "Inquire about dietary iron intake and order serum ferritin and total iron-binding capacity",
+      "Inquire about recent migraine headaches and schedule an elective anomaly ultrasound at 20 weeks",
+      "Inquire about vaginal bleeding or pelvic pain, and arrange urine β-hCG and pelvic USS",
+      "Inquire about ankle oedema and request a 24-hour urinary protein collection with fasting lipid profile",
+      "Inquire about chronic cough and request a sputum acid-fast bacilli smear with chest radiograph"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Iron studies evaluate chronic anaemia rather than excluding acute early-pregnancy emergencies such as ruptured ectopic pregnancy, miscarriage, or sepsis.",
+      "Incorrect: Deferring imaging to 20 weeks risks missing a ruptured ectopic pregnancy or incomplete miscarriage in a hypotensive patient.",
+      "Correct: Hypotension in early/mid pregnancy requires urgent exclusion of ectopic pregnancy, miscarriage/APH, or septic shock by asking about abdominal/shoulder-tip pain, PV bleeding, dizziness, and fever, paired with urine β-hCG, FBC, crossmatch, and pelvic ultrasound.",
+      "Incorrect: 24-hour urinary protein evaluates pre-eclampsia after 20 weeks (hypertension) rather than acute early-pregnancy hypotension.",
+      "Incorrect: Respiratory TB screening does not address acute obstetric hypotension and pelvic discomfort in early pregnancy."
+    ],
+    "clinicalPearl": "Never dismiss borderline low BP (100/70 mmHg) in a young woman with abdominal discomfort until pregnancy is checked with urine β-hCG and ectopic pregnancy or concealed haemorrhage is excluded.",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Early-pregnancy hypotension warrants urgent exclusion of ectopic pregnancy, miscarriage, or sepsis via symptom screen (pain, PV bleeding, syncope, fever), urine β-hCG, FBC/crossmatch, and pelvic USS."
+    },
+    "sourceStation": {
+      "id": "gynobs_071",
+      "title": "Hypotension in Early/Mid Pregnancy (BP 100/70 mmHg)",
+      "originalPrompt": "Q.4\nA 34-year-old primi mother presented with Blood Pressure of 100/70 mmHg.\nA.) List 5 symptoms you would ask from her.\nB.) Mention 5 investigations you would request.  [Text-only station in original source file]",
+      "verifiedAnswer": "(A) Symptoms to ask (exclude ectopic pregnancy, miscarriage/APH, sepsis, dehydration/anaemia): Lower abdominal/pelvic pain (or shoulder-tip pain), Vaginal bleeding (PV spotting/clots), Dizziness / syncope / palpitations, Fever / rigors / foul vaginal discharge, Severe vomiting (hyperemesis) or urinary symptoms. (B) Investigations: Urine pregnancy test (β-hCG), Full Blood Count (Hb/PCV), Blood group & cross-match, Pelvic / transvaginal Ultrasound scan, Serum electrolytes / RFT / UFR & blood culture (if sepsis suspected).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_072_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — ObGyn Q4",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Antihypertensives in Pregnancy",
+    "stem": "A 26-year-old primigravida at 32 weeks' gestation is admitted with persistent blood pressure readings of 155/100 mmHg, ++ proteinuria on urine dipstick, and normal fetal movements. Which oral antihypertensive agent is appropriate first-line maintenance therapy, and which medication class must be strictly avoided?",
+    "options": [
+      "Oral enalapril as first-line therapy; avoid oral labetalol due to neonatal bradycardia",
+      "Oral losartan as first-line therapy; avoid oral nifedipine due to uterine hyperstimulation",
+      "Oral furosemide as first-line therapy; avoid oral methyldopa due to maternal hepatotoxicity",
+      "Oral atenolol as first-line therapy; avoid intravenous hydralazine due to abrupt tachycardia",
+      "Oral labetalol as first-line therapy; avoid ACE inhibitors and ARBs due to teratogenicity"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Enalapril (an ACE inhibitor) is strictly contraindicated throughout pregnancy due to oligohydramnios, fetal renal failure, and congenital malformations.",
+      "Incorrect: Losartan (an angiotensin-II receptor blocker) is teratogenic and contraindicated in pregnancy, whereas sustained-release nifedipine is a safe second-line option.",
+      "Incorrect: Diuretics such as furosemide deplete intravascular volume and worsen uteroplacental perfusion in pre-eclampsia, whereas methyldopa is a safe pregnancy antihypertensive.",
+      "Incorrect: Atenolol is avoided during pregnancy because it causes fetal growth restriction, whereas oral labetalol is the preferred first-line beta-blocker.",
+      "Correct: Oral labetalol (alongside methyldopa or modified-release nifedipine) is recommended first-line maintenance therapy for pre-eclampsia/PIH, whereas ACE inhibitors, ARBs, and diuretics are contraindicated in pregnancy."
+    ],
+    "clinicalPearl": "Safe pregnancy antihypertensives are labetalol, methyldopa, and nifedipine (and IV labetalol/hydralazine for acute severe hypertension >160/110 mmHg); strictly avoid ACE inhibitors, ARBs, and diuretics.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Labetalol is first-line antihypertensive therapy in PIH/pre-eclampsia (alternatives: methyldopa, nifedipine); ACE inhibitors, ARBs, and diuretics are contraindicated due to fetal toxicity."
+    },
+    "sourceStation": {
+      "id": "gynobs_072",
+      "title": "Gestational Hypertension / Pre-eclampsia Management",
+      "originalPrompt": "04. Maternal health record with one high BP reading and another to confirm it.\n01) What is the diagnosis?\n02) Give 2 drugs to be given.\n03) List 4 maternal complications of this condition.  [Record scan omitted in 2013 archive files]",
+      "verifiedAnswer": "(1) Gestational hypertension / Pregnancy-induced hypertension (PIH) / Pre-eclampsia (check proteinuria). (2) Antihypertensives safe in pregnancy: Oral Methyldopa, Oral Labetalol, Oral Nifedipine (and IV Hydralazine / IV Labetalol for acute severe hypertension + MgSO₄ for eclampsia prophylaxis). (3) Maternal complications: Eclampsia (seizures), HELLP syndrome, Placental abruption, Pulmonary oedema / Stroke / AKI / DIC (fetal: IUGR, preterm birth, stillbirth).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_073_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 25 (4th Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_073.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "GDM Fetal Macrosomia",
+    "stem": "A mother with poorly controlled gestational diabetes mellitus delivers the 4.6 kg infant shown by emergency Caesarean section. Which fetal endocrine hormone directly drives this excessive somatic growth, and which immediate postnatal metabolic emergency must be monitored?",
+    "options": [
+      "Maternal exogenous insulin crossing the placenta; neonatal hyperglycaemia",
+      "Fetal hyperinsulinaemia induced by maternal hyperglycaemia; neonatal hypoglycaemia",
+      "Fetal growth hormone surge stimulated by placental lactogen; congenital hypothyroidism",
+      "Maternal glucagon transfer across syncytiotrophoblasts; neonatal hyperkalaemia",
+      "Fetal adrenal cortisol excess; refractory neonatal metabolic alkalosis"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Maternal insulin does not cross the placenta; instead, maternal glucose crosses freely and stimulates the fetal pancreas, leading to postnatal hypoglycaemia once cord glucose stops.",
+      "Correct: Under the Pedersen hypothesis, maternal hyperglycaemia crosses the placenta and triggers fetal β-cell hyperplasia and hyperinsulinaemia (promoting macrosomia); sudden loss of maternal glucose at birth causes neonatal hypoglycaemia.",
+      "Incorrect: Fetal insulin (acting as an anabolic growth factor)—not fetal growth hormone—is responsible for diabetic macrosomia and immediate neonatal hypoglycaemia.",
+      "Incorrect: Maternal glucagon does not drive diabetic macrosomia, and the acute electrolyte/metabolic threats are hypoglycaemia and hypocalcaemia rather than hyperkalaemia.",
+      "Incorrect: Cortisol excess is not the cause of diabetic macrosomia, and infants of diabetic mothers risk respiratory distress, polycythaemia, and hypoglycaemia."
+    ],
+    "clinicalPearl": "Remember the Pedersen hypothesis: maternal glucose crosses the placenta (maternal insulin does not), causing fetal hyperinsulinaemia, macrosomia, surfactant suppression (RDS), and acute postnatal hypoglycaemia.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Maternal hyperglycaemia in GDM causes fetal hyperinsulinaemia, leading to macrosomia (>4 kg) and immediate postnatal neonatal hypoglycaemia and RDS."
+    },
+    "sourceStation": {
+      "id": "gynobs_073",
+      "title": "Fetal Macrosomia in Gestational Diabetes Mellitus (4.6 kg)",
+      "originalPrompt": "01) Mother with gestational diabetes mellitus gives birth to a child with a weight of 4.6 kg by Caesarean section.\n1) What is the name you use for this condition?\n2) What is the hormone responsible for this condition?\n3) List two complications the baby would develop during immediate postpartum period.\n4) List 2 placental hormones giving rise to GDM.",
+      "verifiedAnswer": "(1) Fetal macrosomia (birth weight above 4.0 kg / > 90th centile). (2) Responsible fetal hormone: Fetal Insulin (Pedersen hypothesis: maternal hyperglycaemia → fetal pancreatic β-cell hyperplasia & hyperinsulinaemia → excessive somatic growth). (3) Immediate neonatal complications: Neonatal hypoglycaemia, Respiratory distress syndrome (RDS) / TTN, Polycythaemia/hyperbilirubinaemia, Hypocalcaemia, Birth trauma (shoulder dystocia if vaginal). (4) Diabetogenic placental hormones: Human Placental Lactogen (hPL), Placental Growth Hormone, Progesterone, Cortisol/CRH.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_074_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — ObGyn Q20",
+    "imagePath": "images/gynobs/gynobs_074.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Vaginal Candidiasis in Pregnancy",
+    "stem": "A 28-year-old woman at 22 weeks' gestation presents with severe vulvovaginal pruritus, soreness, and non-offensive vaginal discharge. Speculum examination demonstrates the findings shown. According to the National Combined STI Guidelines (Sri Lanka), what is the safest and most appropriate treatment?",
+    "options": [
+      "Oral fluconazole 150 mg as a single stat capsule",
+      "Oral itraconazole 200 mg twice daily for 1 day",
+      "Oral metronidazole 2 g as a single stat dose",
+      "Topical clotrimazole vaginal pessary or cream",
+      "Oral doxycycline 100 mg twice daily for 7 days"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: According to Sri Lankan STI guidelines, oral azoles (fluconazole and itraconazole) must be avoided during pregnancy and breastfeeding.",
+      "Incorrect: Oral itraconazole is contraindicated in pregnancy because of potential teratogenicity; topical azoles are required instead.",
+      "Incorrect: Metronidazole treats anaerobic bacterial vaginosis and Trichomonas vaginalis, and high single doses (2 g) should also be avoided in pregnancy.",
+      "Correct: The image shows thick curdy white plaques typical of vulvovaginal candidiasis; in pregnancy, symptomatic disease is treated safely with topical intravaginal azoles such as clotrimazole or miconazole (often a 7-day course), avoiding oral azoles.",
+      "Incorrect: Doxycycline is an antibacterial tetracycline contraindicated in pregnancy (tooth discolouration and bone effects) and has no antifungal activity."
+    ],
+    "clinicalPearl": "In non-pregnant women, uncomplicated vulvovaginal candidiasis responds equally to topical clotrimazole or single-dose oral fluconazole 150 mg; in pregnancy, ALWAYS prescribe topical azoles and avoid oral fluconazole.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Oral azoles (fluconazole, itraconazole) are contraindicated in pregnancy; symptomatic vulvovaginal candidiasis during pregnancy should be treated with topical intravaginal azoles such as clotrimazole."
+    },
+    "sourceStation": {
+      "id": "gynobs_074",
+      "title": "Vaginal Candidiasis (Speculum Exam)",
+      "originalPrompt": "20. The following picture is from speculum examination of a female who presented to the clinic with vaginal discharge.\n20.1 What is the clinical condition? (5 marks)\n20.2 Mention the treatment modality for the above condition. (5 marks)",
+      "verifiedAnswer": "(20.1) Vaginal candidiasis (vulvovaginal candidiasis). (20.2) Treatment: Topical intravaginal azole antifungals (e.g., Clotrimazole pessary/cream or Miconazole — preferred in pregnancy; oral Fluconazole 150 mg single dose if non-pregnant).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_075_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 28 (4th Year) — ObGyn Q4",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Painful Genital Ulcer Management",
+    "stem": "A 24-year-old woman presents with acute dysuria, low-grade fever, and multiple tender, shallow vesicular-ulcerated lesions over the labia majora accompanied by tender bilateral inguinal lymphadenopathy. What is the most likely diagnosis and recommended initial antimicrobial therapy?",
+    "options": [
+      "First-episode genital herpes; oral aciclovir 400 mg three times daily for 7 days",
+      "Primary syphilitic chancre; single-dose intramuscular benzathine penicillin G 2.4 million units",
+      "Chancroid due to Haemophilus ducreyi; topical clotrimazole 1% cream applied twice daily",
+      "Vulvovaginal candidiasis; oral fluconazole 150 mg single dose plus topical hydrocortisone",
+      "Lymphogranuloma venereum; oral metronidazole 400 mg twice daily for 5 days"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Multiple painful shallow vesicles/ulcers with dysuria, fever, and tender bilateral inguinal nodes represent primary genital herpes (HSV), treated early with oral aciclovir 400 mg TDS for 7 days plus saline washes and 5% lidocaine gel.",
+      "Incorrect: A primary syphilis chancre is classically solitary, painless, indurated, and clean-based with non-tender regional lymphadenopathy.",
+      "Incorrect: Chancroid causes deep ragged undermined purulent ulcers often with unilateral fluctuant buboes and is treated with azithromycin, erythromycin, or ceftriaxone—not topical antifungals.",
+      "Incorrect: Candidiasis causes curdy discharge, erythema, and superficial fissuring rather than clustered painful ulcers with bilateral lymphadenitis.",
+      "Incorrect: LGV (Chlamydia serovars L1–L3) causes a transient painless papule followed by painful matted inguinal buboes (groove sign) and is treated with 21 days of doxycycline, not metronidazole."
+    ],
+    "clinicalPearl": "Distinguish painful multiple shallow genital ulcers with bilateral tender nodes (genital herpes -> oral aciclovir) from a solitary painless indurated ulcer (primary syphilis -> IM benzathine penicillin) and a painful deep ragged ulcer with unilateral bubo (chancroid).",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "First-episode genital herpes presents with multiple painful shallow ulcers and bilateral tender lymphadenitis; treat with oral aciclovir 400 mg TDS for 7 days plus analgesia and saline washes."
+    },
+    "sourceStation": {
+      "id": "gynobs_075",
+      "title": "Painful Vulval Ulcer on Labia Majora",
+      "originalPrompt": "4. Photograph of a painful genital lesion on labia majora.\nA. What is the condition?\nB. What is the treatment?  [Clinical photo omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "(A) Genital herpes (HSV-1/HSV-2) — commonest cause of multiple painful shallow vesicular/ulcerated genital lesions (differential: Chancroid [H. ducreyi] = deep undermined painful ragged ulcer; Behçet's). (B) Treatment: Oral Aciclovir (400 mg TDS for 5–7 days) + analgesia (topical lidocaine gel / sitz baths), hydration, STI screening, and partner notification.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_076_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 29 (4th Year) — ObGyn Q18",
+    "imagePath": "images/gynobs/gynobs_076.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Genital Herpes in Third Trimester",
+    "stem": "A 28-year-old woman at 37 weeks' gestation presents with her first-ever episode of severe vulval pain, dysuria, and the labial lesions shown in the photograph. According to the National Combined STI Guidelines (Sri Lanka), what is the recommended antiviral and delivery management?",
+    "options": [
+      "Topical aciclovir cream alone until spontaneous vaginal delivery at term",
+      "Oral aciclovir 400 mg three times daily for 5 days followed by induction of labour at 38 weeks",
+      "Oral aciclovir 400 mg three times daily until delivery and Caesarean section",
+      "Intravenous ganciclovir for 14 days with routine fetal scalp electrode monitoring in labour",
+      "Wait until membrane rupture before starting antivirals and perform vacuum delivery if prolonged"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Topical antivirals are inferior to systemic therapy, and vaginal delivery with primary lesions in the third trimester carries a very high risk of fatal neonatal HSV transmission.",
+      "Incorrect: Inducing vaginal birth in a mother with first-episode third-trimester herpes risks vertical neonatal herpes because maternal protective IgG has not crossed the placenta.",
+      "Correct: Per Sri Lankan STI guidelines, third-trimester first-episode genital herpes is treated with oral aciclovir 400 mg TDS continued as suppressive therapy until delivery, and Caesarean section is recommended (especially within 6 weeks of expected delivery).",
+      "Incorrect: Aciclovir (not ganciclovir) is safe and standard in pregnancy, and invasive procedures like fetal scalp electrodes or fetal blood sampling must be avoided.",
+      "Incorrect: Delaying therapy until membrane rupture worsens neonatal exposure, and instrumental/vacuum delivery increases neonatal scalp inoculation risk."
+    ],
+    "clinicalPearl": "Primary genital herpes acquired in the third trimester (within 6 weeks of delivery) mandates suppressive oral aciclovir 400 mg TDS until delivery and elective Caesarean section to prevent neonatal disseminated/CNS herpes.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "In third-trimester first-episode genital herpes, treat with oral aciclovir 400 mg TDS until delivery and offer Caesarean section to prevent vertical neonatal HSV transmission."
+    },
+    "sourceStation": {
+      "id": "gynobs_076",
+      "title": "Genital Herpes (HSV) — Clinical Photo & 4 Management Steps",
+      "originalPrompt": "18. An image of labia was given of a 28-year-old female presenting with vulval pain.\n18.1 Identify the condition.\n18.2 State four (04) important steps in the management of this patient.",
+      "verifiedAnswer": "(18.1) Genital herpes simplex (HSV) infection. (18.2) 4 Management steps: (1) Oral antiviral therapy (Aciclovir 400 mg TDS for 5–7 days); (2) Symptomatic relief (oral analgesics, topical 2–5% lidocaine ointment, saline sitz baths, monitor for urinary retention); (3) STI screening (HIV, syphilis/VDRL, gonorrhoea/chlamydia) & HSV PCR swab if indicated; (4) Patient counselling & partner management (abstain while lesions present, condom use, advise obstetric team if pregnant due to neonatal herpes risk).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_077_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 30 (4th Year) — ObGyn Q1",
+    "imagePath": "images/gynobs/gynobs_077.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Recurrent Vulvovaginal Candidiasis",
+    "stem": "A 40-year-old woman presents with intense vulval pruritus and recurrent episodes (five attacks over the past 12 months) of the speculum finding shown. In addition to antifungal induction and maintenance therapy, which predisposing medical condition must be actively screened for?",
+    "options": [
+      "Polycystic ovary syndrome with normal fasting plasma glucose",
+      "Subclinical hypothyroidism with negative anti-TPO antibodies",
+      "Asymptomatic cervical ectropion on combined oral pills",
+      "Acute pelvic inflammatory disease due to Neisseria gonorrhoeae",
+      "Diabetes mellitus screened by random blood glucose or HbA1c"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: PCOS without hyperglycaemia does not predispose to recurrent fungal colonisation, whereas impaired glucose tolerance and diabetes mellitus directly promote Candida growth.",
+      "Incorrect: Hypothyroidism is not a recognised driver of recurrent vulvovaginal candidiasis.",
+      "Incorrect: Cervical ectropion produces mucoid physiological discharge rather than fungal plaques and pruritus.",
+      "Incorrect: Gonococcal PID presents with lower abdominal pain, cervical motion tenderness, and mucopurulent discharge rather than curdy candidal plaques.",
+      "Correct: Recurrent vulvovaginal candidiasis (≥4 episodes/year) is classified as complicated candidiasis; clinicians must exclude diabetes mellitus (random blood glucose/HbA1c), recent broad-spectrum antibiotics, and immunosuppression (HIV/steroids)."
+    ],
+    "clinicalPearl": "Recurrent vaginal candidiasis (≥4 episodes/year) should prompt screening for diabetes mellitus (especially Candida glabrata in poorly controlled diabetics), broad-spectrum antibiotic exposure, or immunosuppression.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Complicated/recurrent vulvovaginal candidiasis (≥4 attacks/year) requires culture (to exclude non-albicans species like C. glabrata) and blood glucose testing to exclude diabetes mellitus."
+    },
+    "sourceStation": {
+      "id": "gynobs_077",
+      "title": "Vaginal Candidiasis — Drugs & Predisposing Factors",
+      "originalPrompt": "Question 01\nA 40-year-old woman presented to the clinic with vaginal itchiness and soreness. A speculum examination was conducted on her.\n1.1 What is the condition which she has? (2 marks)\n1.2 List 2 drugs which can be given for her management. (4 marks)\n1.3 List 2 predisposing factors which would have contributed to the disease. (4 marks)",
+      "verifiedAnswer": "(1.1) Vaginal candidiasis. (1.2) Drugs: Clotrimazole, Miconazole (topical pessaries/creams) or oral Fluconazole. (1.3) Predisposing factors: Diabetes mellitus, Recent broad-spectrum antibiotic use, Immunosuppression (HIV, chemotherapy, systemic corticosteroids), Pregnancy / high-oestrogen states.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "gynobs_078_sba",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.7 GENITAL INFECTIONS, MATERNAL EMERGENCIES & RH ISOIMMUNISATION (8 STATIONS)",
+    "batch": "Batch 32 (4th Year) — ObGyn Q5",
+    "imagePath": "images/gynobs/gynobs_078.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Rhesus Prophylaxis & Cord Blood Workup",
+    "stem": "An unsensitised Rhesus-negative primigravida with a negative Indirect Coombs Test at booking receives the antenatal prophylaxis shown at 28 weeks' gestation and delivers a term infant uneventfully. Which combination of tests must be sent on the newborn's cord blood at delivery before deciding on postnatal maternal prophylaxis?",
+    "options": [
+      "Maternal Kleihauer-Betke test on cord blood, neonatal coagulation profile, and serum ferritin",
+      "ABO and Rh(D) blood group, Direct Antiglobulin Test, haemoglobin, and serum bilirubin",
+      "Indirect Coombs Test on cord blood, cord arterial pH, and neonatal blood culture",
+      "ABO grouping only, maternal platelet count, and neonatal random capillary glucose",
+      "Fetal haemoglobin electrophoresis, maternal VDRL titre, and cord serum creatinine"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: The Kleihauer-Betke acid-elution test is performed on maternal venous blood (to quantify fetomaternal haemorrhage), not on cord blood.",
+      "Correct: At delivery of a baby to an Rh-negative mother, cord blood must be tested for ABO and Rh(D) blood group (to confirm if postnatal Anti-D is required within 72 hours), Direct Antiglobulin Test (DAT/Direct Coombs), cord Hb, and serum bilirubin.",
+      "Incorrect: Cord blood requires the Direct Antiglobulin Test (to detect maternal antibodies bound to fetal red cells), whereas the Indirect Coombs Test screens maternal serum.",
+      "Incorrect: ABO grouping without Rh(D) typing, DAT, Hb, and bilirubin misses haemolytic disease of the newborn and fails to establish Rh status for postnatal Anti-D.",
+      "Incorrect: Haemoglobin electrophoresis screens haemoglobinopathies rather than Rhesus isoimmunisation."
+    ],
+    "clinicalPearl": "Administer Anti-D immunoglobulin at 28 weeks (routine antenatal prophylaxis) and within 72 hours of any sensitising event or delivery of an RhD-positive baby (guided by cord Rh typing and maternal Kleihauer testing).",
+    "guideCitation": {
+      "guideId": "guide_gyn_comp",
+      "guideTitle": "Comprehensive Gynaecology & Obstetrics OSCE Study Guide",
+      "keyPoint": "Cord blood from newborns of Rh-negative mothers requires ABO/Rh(D) typing, Direct Antiglobulin Test (DAT), haemoglobin, and serum bilirubin; give postnatal Anti-D within 72 hours if infant is Rh-positive."
+    },
+    "sourceStation": {
+      "id": "gynobs_078",
+      "title": "Anti-D Immunoglobulin (Rhophylac 200 µg) & Cord Blood Tests",
+      "originalPrompt": "05. Answer the questions based on the drug given in the picture:\n5.1 List two antenatal indications for administering the above drug.\n5.2 Name three investigations that should be performed on the cord blood of a newborn of an Rh-negative mother.",
+      "verifiedAnswer": "(5.1) Antenatal indications for Anti-D Ig in unsensitised Rh-negative mother: (a) Routine antenatal prophylaxis at 28 weeks (and 34w if two-dose regimen); (b) Potentially sensitising events (e.g., threatened miscarriage/APH, ectopic pregnancy, termination/evacuation, amniocentesis/CVS, abdominal trauma, external cephalic version — within 72 hours). (5.2) 3 Cord blood investigations at birth: (1) ABO & Rhesus (D) blood group; (2) Direct Antiglobulin Test (Direct Coombs Test / DAT); (3) Cord Haemoglobin (Hb) & Serum Bilirubin (SBR).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "gynobs_guide_b_01",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "OASIS Classification & Management",
+    "stem": "Following an assisted vaginal delivery of a 4.1 kg neonate, systematic vaginal and digital rectal examination in lithotomy reveals tearing of the vaginal mucosa, perineal muscles, the full thickness of the external anal sphincter, and the internal anal sphincter, while the anorectal mucosa remains completely intact. How is this injury classified, and what postoperative care is mandatory after repair in theatre?",
+    "options": [
+      "Second-degree perineal tear; suture in the delivery suite with 1% lignocaine and oral paracetamol",
+      "Third-degree (3b) tear; suture in theatre with prophylactic aspirin and avoid laxatives for 7 days",
+      "Fourth-degree perineal tear; suture anorectal mucosa in two layers and restrict oral fluids",
+      "Third-degree (3c) tear; repair in theatre under anaesthesia with antibiotics and lactulose",
+      "Third-degree (3a) tear; repair under local infiltration and discharge without antibiotic cover"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Second-degree tears involve perineal muscles without any anal sphincter injury; involvement of both sphincters indicates a third-degree tear (OASIS).",
+      "Incorrect: Grade 3b involves >50% of the external anal sphincter with an intact internal anal sphincter, whereas tearing both EAS and IAS is 3c; additionally, stool softeners like lactulose are mandatory, not withheld.",
+      "Incorrect: Fourth-degree tears additionally breach the anal/rectal mucosa/epithelium, which is intact in this patient.",
+      "Correct: Sultan's classification defines 3a (<50% EAS), 3b (>50% EAS), 3c (both EAS and IAS torn with intact anorectal mucosa), and 4th-degree (involves anorectal mucosa); 3c repairs require theatre anaesthesia, broad-spectrum antibiotics, and 10 days of lactulose.",
+      "Incorrect: Grade 3a denotes <50% external anal sphincter thickness only, and OASIS repairs require broad-spectrum antibiotics (e.g., co-amoxiclav + metronidazole) rather than omitting prophylaxis."
+    ],
+    "clinicalPearl": "Memorise Sultan's OASIS grading: 3a = <50% EAS, 3b = >50% EAS, 3c = both EAS + IAS torn, 4th = sphincter complex + anorectal mucosa; always do a PR exam post-delivery and give antibiotics + lactulose after repair.",
+    "guideCitation": {
+      "guideId": "guide_gyn_perineal",
+      "guideTitle": "Perineal Tears Classification & Repair Guide",
+      "keyPoint": "Third-degree tears involve the anal sphincter complex (3a <50% EAS, 3b >50% EAS, 3c EAS+IAS) and fourth-degree tears involve the anorectal mucosa; repair OASIS in theatre with antibiotics and lactulose."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_b_02",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Magnesium Sulphate Toxicity Management",
+    "stem": "A 29-year-old primigravida with severe pre-eclampsia receiving Pritchard regimen maintenance magnesium sulphate becomes drowsy 6 hours into therapy. Assessment shows a respiratory rate of 11 breaths/min, absent patellar tendon reflexes bilaterally, and urine output of 18 mL over the past hour. What is the immediate priority in management?",
+    "options": [
+      "Stop magnesium sulphate immediately and administer 10 mL of 10% calcium gluconate slowly IV",
+      "Halve the magnesium sulphate infusion rate and commence oral nifedipine 10 mg for blood pressure",
+      "Administer intravenous diazepam 10 mg slowly and recheck patellar reflexes in 60 minutes",
+      "Increase intravenous Hartmann's infusion to 250 mL/hr while continuing magnesium sulphate",
+      "Administer intravenous protamine sulphate 50 mg and prepare for immediate endotracheal intubation"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Respiratory rate ≤16/min (here 11/min), loss of deep tendon reflexes (serum Mg >5 mmol/L), and urine output <30 mL/hr indicate magnesium toxicity; immediately stop magnesium sulphate and give 10 mL of 10% calcium gluconate IV slowly.",
+      "Incorrect: Continuing magnesium sulphate risks respiratory and cardiac arrest, and nifedipine must be avoided concurrently because both block calcium channels and can precipitate profound hypotension and neuromuscular blockade.",
+      "Incorrect: Diazepam worsens respiratory depression and does not reverse hypermagnesaemic neuromuscular blockade.",
+      "Incorrect: Because magnesium is renally excreted, oliguria (<30 mL/hr) accelerates toxicity; fluid boluses also risk pulmonary oedema in pre-eclampsia, and magnesium must be stopped immediately.",
+      "Incorrect: Protamine sulphate reverses unfractionated heparin, whereas calcium gluconate is the specific physiological antidote for magnesium toxicity."
+    ],
+    "clinicalPearl": "Stop magnesium sulphate immediately if RR ≤ 16/min, patellar reflexes are absent, or urine output < 30 mL/hr; reverse toxicity promptly with 10 mL of 10% calcium gluconate IV over 10 minutes.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "Stop MgSO4 if RR ≤16/min, deep tendon reflexes are lost (>5 mmol/L), or urine output <30 mL/hr, and treat toxicity with IV 10% calcium gluconate."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_b_03",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "IADPSG OGTT Diagnostic Criteria",
+    "stem": "A 29-year-old woman with no prior history of diabetes undergoes universal screening with a 75 g 2-hour oral glucose tolerance test (OGTT) at 26 weeks' gestation. Her fasting plasma glucose is 88 mg/dL, 1-hour post-load glucose is 174 mg/dL, and 2-hour post-load glucose is 156 mg/dL. Applying the IADPSG criteria, how should these results be interpreted?",
+    "options": [
+      "Normal glucose tolerance, because at least two values must exceed IADPSG cutoffs for diagnosis",
+      "Impaired glucose tolerance only, requiring a repeat 75 g OGTT at 32 weeks before labelling as GDM",
+      "Gestational diabetes mellitus, because the 2-hour glucose meets the IADPSG threshold of ≥ 153 mg/dL",
+      "Pre-existing overt type 2 diabetes mellitus, requiring immediate insulin therapy and HbA1c testing",
+      "Normal glucose tolerance, because the 2-hour threshold for gestational diabetes is ≥ 180 mg/dL"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Under IADPSG criteria, any single value meeting or exceeding the fasting, 1-hour, or 2-hour cutoff establishes gestational diabetes mellitus.",
+      "Incorrect: IADPSG eliminates the intermediate 'impaired glucose tolerance' category in pregnancy; a 2-hour value ≥153 mg/dL directly diagnoses GDM.",
+      "Correct: IADPSG 75 g OGTT criteria diagnose GDM when any single threshold is met or exceeded: fasting ≥ 92 mg/dL, 1-hour ≥ 180 mg/dL, or 2-hour ≥ 153 mg/dL (here 156 mg/dL ≥ 153 mg/dL).",
+      "Incorrect: Overt diabetes in pregnancy requires fasting plasma glucose ≥ 126 mg/dL or 2-hour glucose ≥ 200 mg/dL (or random ≥ 200 mg/dL with symptoms).",
+      "Incorrect: 180 mg/dL is the 1-hour post-load IADPSG threshold, whereas the 2-hour diagnostic cutoff is 153 mg/dL."
+    ],
+    "clinicalPearl": "Memorise the 3 IADPSG 75 g OGTT thresholds (92 / 180 / 153 mg/dL, or 5.1 / 10.0 / 8.5 mmol/L): only ONE abnormal value is required to diagnose gestational diabetes mellitus.",
+    "guideCitation": {
+      "guideId": "guide_gyn_gdm_pih",
+      "guideTitle": "GDM & Hypertensive Disorders in Pregnancy (PIH) Guide",
+      "keyPoint": "IADPSG 75 g OGTT diagnoses GDM if ANY value meets or exceeds: FBS ≥ 92 mg/dL, 1-hour ≥ 180 mg/dL, or 2-hour ≥ 153 mg/dL."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_b_04",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Empiric PID & STI Management",
+    "stem": "A 26-year-old non-pregnant woman with a copper IUCD inserted 2 weeks ago presents with bilateral lower abdominal pain, deep dyspareunia, mucopurulent endocervical discharge, and cervical motion tenderness. Urine β-hCG is negative and surgical emergencies are excluded. According to the National Combined STI Guidelines (Sri Lanka), what is the recommended outpatient empiric antimicrobial regimen and IUCD management?",
+    "options": [
+      "Remove the IUCD immediately and prescribe oral ciprofloxacin 500 mg twice daily for 5 days",
+      "Prescribe single-dose oral fluconazole 150 mg plus topical clotrimazole pessary for 6 nights",
+      "Remove the IUCD immediately and administer oral amoxicillin 500 mg three times daily for 7 days",
+      "Leave the IUCD in situ and give single-dose oral metronidazole 2 g plus topical clindamycin cream",
+      "Give IM ceftriaxone 1 g stat plus oral doxycycline and metronidazole for 14 days; keep IUCD"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Fluoroquinolone monotherapy misses anaerobic pathogens and resistant Neisseria gonorrhoeae, and an IUCD should not be removed immediately in mild-to-moderate PID.",
+      "Incorrect: Antifungal therapy treats vaginal candidiasis and fails to cover Neisseria gonorrhoeae, Chlamydia trachomatis, and anaerobes causing PID.",
+      "Incorrect: Amoxicillin lacks adequate activity against Neisseria gonorrhoeae and anaerobes, and immediate IUCD removal is not indicated unless there is no response within 48–72 hours.",
+      "Incorrect: Metronidazole covers anaerobes only and misses Neisseria gonorrhoeae and Chlamydia trachomatis, the primary ascending pathogens in PID.",
+      "Correct: Per Sri Lankan STI guidelines, mild-to-moderate outpatient PID requires broad empiric cover with IM ceftriaxone 1 g stat plus oral doxycycline 100 mg BD and metronidazole 400 mg BD for 14 days; an existing IUCD is kept in situ initially and only reconsidered if there is no clinical improvement within 48–72 hours."
+    ],
+    "clinicalPearl": "Always exclude ectopic pregnancy in suspected PID, maintain a low threshold for empiric dual/triple cover (gonorrhoea + chlamydia + anaerobes) to prevent tubal infertility, treat male contacts, and only remove an IUCD if failing to improve after 48–72 hours.",
+    "guideCitation": {
+      "guideId": "guide_gyn_sti",
+      "guideTitle": "National Combined STI Guidelines (Sri Lanka)",
+      "keyPoint": "Outpatient PID regimen: IM ceftriaxone 1 g stat + oral doxycycline 100 mg BD + oral metronidazole 400 mg BD for 14 days; leave IUCD initially unless no improvement at 48–72 hours."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_b_05",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Massive Obstetric Haemorrhage Transfusion",
+    "stem": "A 32-year-old woman at 37 weeks' gestation suffers an acute massive postpartum haemorrhage following placental abruption before her ABO/RhD blood group and crossmatch results return. Rapid red cell resuscitation is initiated while clotting tests and cryoprecipitate are requested. According to the SLCOG Blood Transfusion in Pregnancy guideline, which emergency red cell product should be transfused initially and what plasma fibrinogen target guides cryoprecipitate therapy?",
+    "options": [
+      "Group O RhD-positive red cell concentrates initially; maintain plasma fibrinogen above 1.0 g/L",
+      "Group O RhD-negative red cell concentrates initially; maintain plasma fibrinogen above 2.0 g/L",
+      "Group AB RhD-negative red cell concentrates initially; maintain plasma fibrinogen above 1.5 g/L",
+      "Group O RhD-negative red cell concentrates initially; maintain plasma fibrinogen above 1.0 g/L",
+      "Group A RhD-negative red cell concentrates initially; maintain plasma fibrinogen above 2.5 g/L"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: RhD-positive red cells risk alloimmunisation and future haemolytic disease of the fetus and newborn in women of childbearing potential, and fibrinogen <2.0 g/L is inadequate in obstetric haemorrhage.",
+      "Correct: SLCOG recommends emergency Group O RhD-negative red cells until the patient's blood group is established (then switching to group-specific blood), early cryoprecipitate (10 units) in major haemorrhage, and maintaining plasma fibrinogen above 2.0 g/L.",
+      "Incorrect: Group AB red cells carry both A and B antigens (causing acute haemolytic transfusion reaction in Group O, A, or B recipients), and the obstetric fibrinogen target is >2.0 g/L.",
+      "Incorrect: While Group O RhD-negative red cells are correct initially, a fibrinogen threshold of 1.0 g/L is too low for pregnancy, where physiological fibrinogen is elevated and SLCOG mandates >2.0 g/L.",
+      "Incorrect: Group A red cells will haemolyse in Group O or B patients before grouping is known."
+    ],
+    "clinicalPearl": "In massive obstetric haemorrhage: give Group O RhD-negative red cells until grouped, FFP 12–15 mL/kg per 6 units RCC (aim PT/APTT <1.5× normal), 10 units cryoprecipitate aiming fibrinogen > 2 g/L, and platelets aiming >50 × 10⁹/L (trigger 75 × 10⁹/L).",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "In ungrouped obstetric emergencies, transfuse Group O RhD-negative red cells until grouped; guide cryoprecipitate replacement to maintain plasma fibrinogen > 2 g/L."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "gynobs_guide_b_06",
+    "specialty": "gynobs",
+    "specialtyName": "Gynaecology & Obstetrics",
+    "domain": "3.8 STUDY GUIDE ESSENTIALS: SLCOG, STI & OBSTETRIC PROTOCOLS",
+    "batch": "Study Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "SLCOG Anti-D for Platelet Transfusion",
+    "stem": "A 27-year-old RhD-negative woman with severe postpartum haemorrhage and dilutional thrombocytopenia (platelet count 42 × 10⁹/L) requires urgent platelet transfusion, but only RhD-positive platelet concentrates are available from the blood bank. According to the SLCOG Blood Transfusion in Pregnancy guideline, how should RhD alloimmunisation be prevented?",
+    "options": [
+      "Withhold platelet transfusion completely until RhD-negative concentrates are transported from a regional centre",
+      "Administer 1500 IU anti-D immunoglobulin intramuscularly before each individual platelet unit is infused",
+      "Omit anti-D prophylaxis because platelet concentrates do not contain any residual donor red blood cells",
+      "Administer 250 IU anti-D immunoglobulin subcutaneously, which covers up to 5 adult doses within 6 weeks",
+      "Transfuse double-dose fresh frozen plasma instead of platelets to restore haemostasis safely"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A platelet count <50 × 10⁹/L in an actively bleeding patient is a critical haemostatic emergency; urgent platelet transfusion must not be withheld when compatible RhD-positive units are available.",
+      "Incorrect: SLCOG specifies a 250 IU dose (covering 5 adult therapeutic doses over 6 weeks) rather than 1500 IU per unit, and favours the subcutaneous route in thrombocytopenic patients.",
+      "Incorrect: Platelet concentrates contain small numbers of residual donor red cells capable of sensitising an RhD-negative woman of childbearing potential.",
+      "Correct: Per SLCOG Blood Transfusion guidelines, when RhD-positive platelets must be transfused to an RhD-negative woman of childbearing potential, 250 IU anti-D immunoglobulin covers 5 adult therapeutic doses within 6 weeks and may be given subcutaneously to minimise haematomas.",
+      "Incorrect: Fresh frozen plasma supplies clotting factors rather than platelets and will not correct severe thrombocytopenia (<50 × 10⁹/L)."
+    ],
+    "clinicalPearl": "If RhD-positive platelets are transfused to an RhD-negative woman of childbearing potential, give 250 IU anti-D immunoglobulin (covers 5 adult therapeutic doses within 6 weeks) subcutaneously to avoid intramuscular haematomas.",
+    "guideCitation": {
+      "guideId": "guide_gyn_blood_tx",
+      "guideTitle": "SLCOG Guideline: Blood Transfusion in Pregnancy",
+      "keyPoint": "If RhD-positive platelets are given to an RhD-negative woman of childbearing potential, administer 250 IU anti-D Ig (covers 5 adult doses in 6 weeks), subcutaneously to minimise haematomas."
+    },
+    "sourceStation": null
+  }
+]

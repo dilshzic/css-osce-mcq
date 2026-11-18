@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "paed_039_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Paed Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Mongolian Blue Spot",
+    "imagePath": "images/paed/paed_039.webp",
+    "stem": "During a routine newborn examination on day 2 of life, the large, flat, bluish-grey skin lesion shown is noted over the infant's sacrum and right buttock. The baby is active, feeding well, and moves all limbs symmetrically. What is the most appropriate advice to give the parents?",
+    "options": [
+      "Reassure them that it is a benign congenital birthmark that fades spontaneously by early childhood and document it in the CHDR",
+      "Arrange an urgent coagulation profile and skeletal survey to exclude non-accidental trauma or an inherited bleeding disorder",
+      "Refer to paediatric dermatology for pulsed-dye laser therapy within the first 6 months to prevent permanent disfigurement",
+      "Request an urgent lumbosacral ultrasound and spinal MRI to exclude occult spinal dysraphism beneath the skin lesion",
+      "Schedule an excision biopsy under local anaesthesia because congenital dermal melanocytic lesions carry high melanoma risk"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Mongolian blue spots (congenital dermal melanocytosis) are benign, harmless birthmarks that require no treatment, usually fade by 3–5 years of age, and should be recorded in the Child Health Development Record (CHDR) so they are not mistaken for bruising.",
+      "Incorrect: Unlike traumatic ecchymoses, these lesions are non-tender, flat, uniform slate-grey macules present from birth and do not evolve through bruise colour stages, so a non-accidental injury workup is unwarranted.",
+      "Incorrect: Laser therapy is unnecessary because congenital dermal melanocytosis almost always fades spontaneously during early childhood without scarring or cosmetic sequelae.",
+      "Incorrect: Isolated sacral Mongolian blue spots are epidermal/dermal pigment findings and are not midline neurocutaneous markers of occult spinal dysraphism such as a sacral dimple above the gluteal cleft, hairy tuft, or lipoma.",
+      "Incorrect: Congenital dermal melanocytosis carries no significant malignant potential and does not require biopsy or surgical excision."
+    ],
+    "clinicalPearl": "Always document Mongolian blue spots in the Child Health Development Record (CHDR) at birth so their benign slate-grey appearance is not misinterpreted as non-accidental bruising later in infancy.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Mongolian blue spots are benign congenital skin lesions requiring parental reassurance, CHDR documentation, and no active treatment."
+    },
+    "sourceStation": {
+      "id": "paed_039",
+      "title": "Mongolian Blue Spot — Parental Counselling",
+      "originalPrompt": "02. A neonate was found to have the following skin lesion during clinical examination after birth.\n1. Identify the lesion.\n2. If you were to advise the parents regarding the lesion, how would you advise?",
+      "verifiedAnswer": "(1) Mongolian blue spot (congenital dermal melanocytosis). (2) Parental advice: Reassure parents that it is a completely benign, non-painful congenital birthmark (NOT a bruise or injury), requires no treatment, and typically fades spontaneously by early childhood (ages 3–5 years); clearly document in the CHDR to prevent future misinterpretation as non-accidental bruising.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_040_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Extrahepatic Biliary Atresia",
+    "imagePath": "images/paed/paed_040.webp",
+    "stem": "A 21-day-old term infant is brought for persistent jaundice and dark urine that stains the nappy yellow, accompanied by the stool appearance shown. On examination, the liver is palpable 3 cm below the right costal margin. Which underlying condition requires urgent diagnostic confirmation and surgical intervention before 60 days of age?",
+    "options": [
+      "Breast milk jaundice",
+      "Extrahepatic biliary atresia",
+      "Physiological neonatal jaundice",
+      "ABO haemolytic disease",
+      "Gilbert syndrome"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Breast milk jaundice causes prolonged unconjugated hyperbilirubinaemia in a thriving infant who passes normal yellow-pigmented stools and clear urine.",
+      "Correct: Pale clay-coloured (acholic) stools with dark urine and conjugated hyperbilirubinaemia beyond 14–21 days indicate obstructive cholestasis; extrahepatic biliary atresia requires urgent Kasai portoenterostomy ideally before 60 days of life to preserve liver function.",
+      "Incorrect: Physiological jaundice is unconjugated, resolves by day 14 in term infants, and never produces acholic stools or bilirubinuria.",
+      "Incorrect: ABO incompatibility presents within the first 24–48 hours with unconjugated hyperbilirubinaemia, anaemia, and pigmented stools rather than acholic cholestatic stools at 3 weeks.",
+      "Incorrect: Gilbert syndrome causes mild intermittent unconjugated hyperbilirubinaemia due to reduced UGT1A1 activity, typically manifesting in adolescence with normal stool colour."
+    ],
+    "clinicalPearl": "Any infant jaundiced beyond 14 days (term) or 21 days (preterm) needs split (conjugated vs unconjugated) bilirubin testing; pale acholic stools and dark urine are red flags for biliary atresia requiring Kasai surgery before 60 days.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Persistent neonatal jaundice with pale acholic stools indicates cholestasis and requires urgent split bilirubin and fasting abdominal ultrasound to exclude biliary atresia."
+    },
+    "sourceStation": {
+      "id": "paed_040",
+      "title": "Acholic (Pale Clay-Coloured) Stools — Biliary Atresia",
+      "originalPrompt": "4.1 Describe the feature seen above in the stools of a 21-day-old infant.\n4.2 What is the investigation you should do in this patient?\n4.3 Name a clinical condition that could cause the above in infants.",
+      "verifiedAnswer": "(4.1) Pale / clay-coloured (acholic) stools (indicating absent bile flow / obstructive cholestasis). (4.2) Investigations: Split serum bilirubin (conjugated vs unconjugated) (conjugated hyperbilirubinaemia > 20% or > 34 µmol/L) + Fasting abdominal Ultrasound (triangular cord sign, absent/small gallbladder) ± HIDA scan / Intraoperative cholangiogram + liver biopsy (gold standard). (4.3) Condition: Extrahepatic biliary atresia (requires Kasai portoenterostomy ideally before 60 days of life!).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_041_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Prolonged Fever & Hepatosplenomegaly",
+    "imagePath": "images/paed/paed_041.webp",
+    "stem": "A 4-year-old boy presents with a 10-day history of unremitting fever, lethargy, and the abdominal examination findings outlined on his skin. Which triad of diagnoses most plausibly accounts for this clinical presentation?",
+    "options": [
+      "Intussusception, infantile hypertrophic pyloric stenosis, and Hirschsprung disease",
+      "Minimal change nephrotic syndrome, simple febrile convulsion, and bronchial asthma",
+      "Enteric fever, acute leukaemia, and systemic juvenile idiopathic arthritis",
+      "Acute appendicitis, Meckel diverticulum, and viral laryngotracheobronchitis",
+      "Congenital hypothyroidism, physiological jaundice, and coeliac disease"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: These are structural or obstructive gastrointestinal conditions of infancy that do not typically cause a 10-day febrile illness with combined hepatosplenomegaly.",
+      "Incorrect: None of these conditions classically produce prolonged 10-day pyrexia with both hepatomegaly and splenomegaly.",
+      "Correct: Prolonged fever (>=7–10 days) with hepatosplenomegaly in a child requires considering systemic infections (such as enteric fever, malaria, leptospirosis, EBV), haematological malignancies (acute leukaemia/lymphoma), and autoimmune syndromes (systemic JIA).",
+      "Incorrect: Acute appendicitis and Meckel diverticulum present with focal abdominal pain or GI bleeding rather than organomegaly, and croup causes acute stridor.",
+      "Incorrect: These chronic endocrine, neonatal, and malabsorptive disorders do not account for acute-subacute 10-day fever accompanied by hepatosplenomegaly."
+    ],
+    "clinicalPearl": "In a child with prolonged fever (>=7–10 days) and hepatosplenomegaly, systematically consider three broad categories: infections (typhoid, dengue, malaria, leptospirosis, EBV), malignancy (acute leukaemia), and systemic JIA.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Hepatosplenomegaly with prolonged fever warrants evaluation for enteric fever, leptospirosis, malaria, acute leukaemia, and systemic juvenile idiopathic arthritis."
+    },
+    "sourceStation": {
+      "id": "paed_041",
+      "title": "Hepatosplenomegaly in Prolonged Fever (4-Year-Old Boy)",
+      "originalPrompt": "Q.1\n4-year-old boy is shown here with the shown sign(s), having a 10-day history of fever.\nList 3 causes.",
+      "verifiedAnswer": "Finding: Hepatosplenomegaly. Causes (with 10-day fever): (1) Infections: Enteric fever (typhoid), Dengue fever, Malaria, Leptospirosis, Infectious mononucleosis (EBV) / CMV, Visceral leishmaniasis; (2) Haematological/Malignancy: Acute leukaemia / Lymphoma; (3) Systemic autoimmune: Systemic Juvenile Idiopathic Arthritis (sJIA).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_042_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "WHO Reduced-Osmolarity ORS",
+    "imagePath": null,
+    "stem": "A single packet of standard WHO reduced-osmolarity Oral Rehydration Salts (ORS) is dissolved in 1 litre of clean drinking water to rehydrate a child with acute watery diarrhoea. What are the exact sodium concentration and total osmolarity of the prepared solution?",
+    "options": [
+      "Sodium 90 mmol/L and total osmolarity 311 mOsm/L",
+      "Sodium 45 mmol/L and total osmolarity 180 mOsm/L",
+      "Sodium 115 mmol/L and total osmolarity 290 mOsm/L",
+      "Sodium 75 mmol/L and total osmolarity 245 mOsm/L",
+      "Sodium 60 mmol/L and total osmolarity 210 mOsm/L"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: 90 mmol/L sodium and 311 mOsm/L reflect the older standard WHO ORS formulation, which was replaced because reduced-osmolarity ORS decreases stool output and vomiting.",
+      "Incorrect: A sodium concentration of 45 mmol/L and osmolarity of 180 mOsm/L are lower than the WHO reduced-osmolarity formulation and provide inadequate sodium replacement.",
+      "Incorrect: 115 mmol/L sodium exceeds WHO ORS levels and increases the risk of hypernatraemia in young children with non-cholera diarrhoea.",
+      "Correct: WHO reduced-osmolarity ORS (20.5 g total per 1 L: NaCl 2.6 g, anhydrous glucose 13.5 g, KCl 1.5 g, trisodium citrate dihydrate 2.9 g) yields Na+ 75 mmol/L, glucose 75 mmol/L, Cl- 65 mmol/L, K+ 20 mmol/L, citrate 10 mmol/L, and a total osmolarity of 245 mOsm/L.",
+      "Incorrect: Although closer to hypotonic paediatric maintenance fluids, standard WHO reduced-osmolarity ORS specifically contains 75 mmol/L sodium and 245 mOsm/L."
+    ],
+    "clinicalPearl": "WHO reduced-osmolarity ORS (245 mOsm/L) contains equimolar 75 mmol/L sodium and 75 mmol/L glucose to drive intestinal SGLT1 co-transport, plus K+ (20 mmol/L) for hypokalaemia and citrate (10 mmol/L) to correct acidosis.",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "Per 1 L of water, WHO reduced-osmolarity ORS contains NaCl 2.6 g, glucose 13.5 g, KCl 1.5 g, and trisodium citrate 2.9 g (Na+ 75 mmol/L; total osmolarity 245 mOsm/L)."
+    },
+    "sourceStation": {
+      "id": "paed_042",
+      "title": "Oral Rehydration Solution (ORS) — Constituents & Osmolarity",
+      "originalPrompt": "04. Clear solution in a beaker (Oral Rehydration Solution).\nState the constituents of an oral rehydration solution and its osmolality when 1 litre is prepared.  [Specimen photo omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "WHO Reduced-Osmolarity ORS (per 1 L water): Anhydrous glucose 13.5 g (75 mmol/L), Sodium chloride 2.6 g (Na⁺ 75 mmol/L), Potassium chloride 1.5 g (K⁺ 20 mmol/L), Trisodium citrate dihydrate 2.9 g (citrate 10 mmol/L; Cl⁻ 65 mmol/L). Total osmolarity: 245 mOsm/L.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_043_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Paed Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Transposition of Great Arteries",
+    "imagePath": "images/paed/paed_043.webp",
+    "stem": "A term newborn develops severe central cyanosis and tachypnoea 4 hours after birth that fails to improve significantly on 100% oxygen. His chest radiograph is shown. Which immediate pharmacological intervention should be commenced before transferring the infant to a cardiac intensive care unit?",
+    "options": [
+      "Intravenous indomethacin (prostaglandin inhibitor) bolus",
+      "Intravenous propranolol (beta-adrenergic blocker) infusion",
+      "Intravenous frusemide (high-ceiling loop diuretic) bolus",
+      "Oral sildenafil (phosphodiesterase-5 inhibitor) suspension",
+      "Intravenous alprostadil (prostaglandin E1) infusion"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Indomethacin inhibits prostaglandin synthesis and closes the ductus arteriosus, which would precipitously worsen hypoxaemia and cause circulatory collapse in duct-dependent TGA.",
+      "Incorrect: Beta-blockers like propranolol are used for hypercyanotic ('tet') spells in Tetralogy of Fallot (which shows a boot-shaped heart and oligaemic lungs), not for pre-transfer ductal maintenance in TGA.",
+      "Incorrect: Loop diuretics reduce preload and do not establish systemic-pulmonary blood mixing in neonatal TGA; ductal patency with PGE1 and correction of acidosis/hypoglycaemia are the priority.",
+      "Incorrect: Sildenafil reduces pulmonary vascular resistance in pulmonary hypertension, whereas immediate survival in cyanotic TGA relies on maintaining ductal patency with IV PGE1 and urgent Rashkind septostomy.",
+      "Correct: The radiograph shows the classic 'egg-on-a-string' silhouette (narrow superior mediastinal pedicle and enlarged globular heart with pulmonary plethora) of Transposition of the Great Arteries (TGA); IV prostaglandin E1 maintains ductus arteriosus patency to enable mixing before Balloon Atrial Septostomy."
+    ],
+    "clinicalPearl": "An 'egg-on-a-string' CXR in a cyanotic newborn indicates Transposition of the Great Arteries (TGA): start IV prostaglandin E1 immediately (monitor closely for apnoea!), correct acidosis/hypoglycaemia, and arrange urgent Balloon Atrial Septostomy.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Cyanotic CHD with an 'egg-on-a-side' heart silhouette (TGA) requires urgent IV prostaglandin E1 infusion to keep the ductus arteriosus patent prior to cardiac ICU transfer."
+    },
+    "sourceStation": {
+      "id": "paed_043",
+      "title": "Transposition of Great Arteries (TGA) CXR & Pre-Transfer Care",
+      "originalPrompt": "05) Newborn baby presented with cyanosis and difficulty in breathing, diagnosed to have Transposition of the Great Arteries (CXR given).\n1) What is the main abnormality in the X-ray?\n2) List two (2) measures you would do before transferring this baby to Cardiac ICU.",
+      "verifiedAnswer": "(1) CXR abnormality: 'Egg-on-a-string' cardiac silhouette (narrowed mediastinal vascular pedicle + oval/enlarged heart) with increased pulmonary plethora. (2) Pre-transfer stabilisation: (a) Start IV Prostaglandin E₁ (Alprostadil) infusion immediately to maintain ductus arteriosus patency (watch for apnoea!); (b) Correct acidosis, hypoglycaemia, hypothermia & arrange urgent Balloon Atrial Septostomy (Rashkind procedure) if restrictive PFO/ASD (avoid excessive high FiO₂ which can constrict PDA unless hyperoxaemia test).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_044_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Anaphylaxis Adrenaline",
+    "imagePath": "images/paed/paed_044.webp",
+    "stem": "A 4-year-old boy weighing 16 kg develops generalised urticaria, inspiratory stridor, and hypotension 10 minutes after a wasp sting. Using the medication ampoule shown, what are the correct immediate dose and administration route?",
+    "options": [
+      "0.16 mL (0.01 mL/kg) intramuscularly into the anterolateral thigh",
+      "0.16 mL (0.01 mL/kg) undiluted via rapid intravenous bolus",
+      "1.6 mL (0.1 mL/kg) intramuscularly into the upper deltoid muscle",
+      "0.16 mL (0.01 mL/kg) subcutaneously into the posterior upper arm",
+      "1.6 mL (0.1 mL/kg) diluted in normal saline via oxygen nebuliser"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: For paediatric anaphylaxis, 1:1000 adrenaline (1 mg/mL) is administered immediately at 0.01 mg/kg (= 0.01 mL/kg, so 0.16 mL for a 16 kg child) via the intramuscular route into the mid-anterolateral thigh.",
+      "Incorrect: Undiluted 1:1000 intravenous bolus adrenaline carries a high risk of fatal arrhythmias and severe hypertension; IV adrenaline is reserved for cardiac arrest (1:10,000) or specialist-titrated infusions.",
+      "Incorrect: 0.1 mL/kg of 1:1000 equals a ten-fold overdose (1.6 mg in a 16 kg child, exceeding the adult maximum of 0.5 mg); additionally, the anterolateral thigh achieves faster peak absorption than the deltoid.",
+      "Incorrect: Subcutaneous injection results in slow, erratic absorption compared with intramuscular injection into the vastus lateralis of the anterolateral thigh.",
+      "Incorrect: Nebulised adrenaline (0.5 mL/kg of 1:1000, max 5 mL) treats severe viral croup stridor, not systemic anaphylactic shock where immediate IM adrenaline is life-saving."
+    ],
+    "clinicalPearl": "Know the 3 paediatric routes of adrenaline 1:1000: (1) Anaphylaxis -> 0.01 mL/kg IM anterolateral thigh; (2) Severe croup -> 0.5 mL/kg (max 5 mL) nebulised; (3) Cardiac arrest -> dilute 10-fold to 1:10,000 and give 0.1 mL/kg IV/IO.",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "Initial anaphylaxis treatment in children is 0.01 mL/kg (0.01 mg/kg) of 1:1000 adrenaline injected intramuscularly into the mid-anterolateral thigh."
+    },
+    "sourceStation": {
+      "id": "paed_044",
+      "title": "Adrenaline (Epinephrine) 1:1000 Ampoule — Paediatric Indications & Routes",
+      "originalPrompt": "4. Following is a drug vial used in paediatric ward (Vitamin K / Konakion).\nA. List 2 indications.\nB. Mention administration route of each.",
+      "verifiedAnswer": "(1) Anaphylaxis: Intramuscular (IM) injection into anterolateral thigh (0.01 mg/kg = 0.01 mL/kg of 1:1000; max 0.5 mg); (2) Severe Croup (laryngotracheobronchitis with stridor at rest): Nebulised adrenaline (0.5 mL/kg of 1:1000, max 5 mL); (3) Paediatric Cardiac Arrest / Neonatal Resuscitation: Intravenous / Intraosseous (IV/IO) 1:10,000 dilution (dilute 1:1000 ten-fold; dose 0.01 mg/kg = 0.1 mL/kg of 1:10,000).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_045_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Paed Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Severe Acute Malnutrition Stabilisation",
+    "imagePath": null,
+    "stem": "A 15-month-old child presents with severe muscle wasting, bilateral pitting pedal oedema, flaky-paint dermatosis, angular stomatitis, and hypothermia (35.2°C) after prolonged poor intake. Capillary blood glucose is 2.4 mmol/L, and peripheral perfusion is adequate without shock. Which initial management plan is most appropriate?",
+    "options": [
+      "Infuse rapid 20 mL/kg normal saline boluses over 30 minutes alongside high-protein F-100 catch-up formula",
+      "Warm the child, treat hypoglycaemia, start broad-spectrum antibiotics, and initiate cautious F-75 starter feeds",
+      "Administer intramuscular iron dextran immediately on admission to correct nutritional anaemia before feeding",
+      "Prescribe oral frusemide 2 mg/kg twice daily to mobilise bilateral pitting oedema rapidly",
+      "Keep the child nil-by-mouth for 48 hours while correcting electrolytes with concentrated IV potassium boluses"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Rapid IV fluid boluses in oedematous SAM without decompensated shock precipitate fatal cardiac failure, and high-protein F-100 is reserved for the rehabilitation phase after oedema resolves.",
+      "Correct: During the WHO stabilisation phase of Severe Acute Malnutrition (kwashiorkor/oedematous SAM), priority goes to correcting hypothermia and hypoglycaemia (<3 mmol/L), giving empirical antibiotics, and starting low-protein, low-sodium F-75 formula orally or via NG tube.",
+      "Incorrect: Routine iron supplementation is withheld during the stabilisation phase of SAM because free iron promotes bacterial proliferation and oxidative stress; it is introduced only once appetite returns in rehabilitation.",
+      "Incorrect: Nutritional oedema resolves safely with cautious F-75 feeding and electrolyte correction; diuretics worsen intravascular depletion and hypokalaemia in SAM.",
+      "Incorrect: Early small, frequent enteral F-75 feeds prevent hypoglycaemia and restore gut integrity; concentrated IV potassium boluses are dangerous and unnecessary."
+    ],
+    "clinicalPearl": "In WHO stabilisation of Severe Acute Malnutrition (SAM): treat hypoglycaemia/hypothermia/infection first, feed cautiously with F-75 (not F-100), avoid diuretics and routine IV fluids unless in shock, and withhold iron until rehabilitation.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Kwashiorkor presents with oedema and flaky-paint dermatosis (often with perioral/nutritional lesions) and requires careful WHO stabilisation rather than aggressive IV volume loading or early iron."
+    },
+    "sourceStation": {
+      "id": "paed_045",
+      "title": "Incomplete Station in Source File",
+      "originalPrompt": "5. Photograph of infant/child with severe oral/facial/nutritional clinical presentation.\nA. What is the clinical condition giving rise to the above appearance?\nB. State the management.  [Clinical image omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "Cannot diagnose visual appearance without embedded photo in original Drive PPTX.",
+      "provenance": "[Source Image Missing]"
+    }
+  },
+  {
+    "id": "paed_046_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Paed Q15",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "DHF Critical Phase Fluid Selection",
+    "imagePath": "images/paed/paed_046.webp",
+    "stem": "A 7-year-old child (actual weight 25 kg; ideal body weight 20 kg) is monitored in the dengue haemorrhagic fever (DHF) critical phase as shown on the fluid chart. At the 20th hour of plasma leakage, haematocrit rises markedly and pulse pressure narrows despite crystalloid therapy. Which fluids are indicated during the first 6 hours of leakage versus this 20th-hour peak?",
+    "options": [
+      "Half-strength 0.45% saline initially; IV albumin with frusemide bolus at hour 20",
+      "Routine Dextran-40 colloid initially; 5% dextrose in normal saline at hour 20",
+      "Isotonic 0.9% normal saline initially; colloid (Dextran-40 or 6% starch) at hour 20",
+      "Packed red blood cells initially; oral rehydration solution alone at hour 20",
+      "10% dextrose in water initially; hypertonic 3% saline bolus at hour 20"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Hypotonic 0.45% saline does not stay intravascularly during capillary leakage and worsens third-spacing/hyponatraemia, while frusemide is contraindicated during active plasma leakage shock.",
+      "Incorrect: Colloids are reserved for peak leakage/shock unresponsive to crystalloids rather than routine initial therapy, and 5% dextrose in normal saline cannot rapidly correct hypovolaemic shock at hour 20.",
+      "Correct: Per Sri Lanka MoH Dengue guidelines, critical phase leakage starts with isotonic crystalloid (0.9% normal saline), escalating to a colloid bolus (Dextran-40 or 6% hetastarch at 10 mL/kg/hr) at peak leakage if rising PCV or shock fails to respond to crystalloids (or blood transfusion if concealed bleeding occurs).",
+      "Incorrect: Blood transfusion is indicated for concealed or overt haemorrhage (suggested by a falling haematocrit with persistent shock), not routinely in the first 6 hours; severe 20th-hour leakage requires IV resuscitation.",
+      "Incorrect: Hypertonic dextrose solutions cause osmotic diuresis and worsen intravascular depletion, and 3% saline is reserved for severe symptomatic hyponatraemia rather than routine DHF leakage."
+    ],
+    "clinicalPearl": "Sri Lanka MoH DHF 48-hour fluid quota = Maintenance (24h M) + 5% body weight (50 mL/kg) calculated on Ideal Body Weight (2,500 mL for IBW 20 kg here); begin with 0.9% NaCl and escalate to Dextran-40/hetastarch if rising PCV or shock persists.",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Critical phase monitoring charts guide initial isotonic 0.9% saline infusion and escalation to Dextran-40 or 6% starch boluses during peak plasma leakage or shock."
+    },
+    "sourceStation": {
+      "id": "paed_046",
+      "title": "Dengue Haemorrhagic Fever (DHF) Critical Phase Fluid Quota",
+      "originalPrompt": "15. A 7-year-old child (weight 25 kg) was admitted due to dengue haemorrhagic fever (critical phase); fluid balance chart shown.\n15.1 Calculate the fluid quota which can be given to this child.\n15.2 What are the types of fluid given at: (a) First 6 hours of leakage, (b) At 20th hour of leakage?",
+      "verifiedAnswer": "(15.1) 48-hour Critical Phase Fluid Quota (Sri Lanka MoH Dengue Guideline): Formula = Maintenance for 24h (M) + 5% of body weight (50 mL/kg). For 25 kg: M = `(100×10) + (50×10) + (20×5) = 1,600 mL` + 5% deficit (`50 × 25 = 1,250 mL`) = 2,850 mL over 48 hours (Note: If ideal body weight 20 kg is used on chart: `1,500 + 1,000 = 2,500 mL`). (15.2) Fluid types: First 6 hours of leakage: Isotonic crystalloid (0.9% Normal Saline); At 20th hour (peak plasma leakage / rising PCV unresponsive to crystalloid or shock): Colloid solution (Dextran-40 or 6% Hetastarch) at 10 mL/kg/hr (or blood transfusion if concealed haemorrhage).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_047_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Anaphylactic Airway Assessment",
+    "imagePath": "images/paed/paed_047.webp",
+    "stem": "A 6-year-old boy develops the intensely pruritic skin lesions shown on his forearm 15 minutes after receiving oral amoxicillin. He now appears anxious and slightly hoarse. Which physical sign most urgently indicates life-threatening progression requiring immediate intramuscular adrenaline?",
+    "options": [
+      "Blanching palmar erythema",
+      "Basal fine end-inspiratory crepitations",
+      "Positive Nikolsky sign",
+      "Inspiratory stridor",
+      "Palpable tender splenomegaly"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Palmar erythema reflects peripheral vasodilation or chronic liver disease and does not indicate impending airway compromise.",
+      "Incorrect: Basal crepitations suggest alveolar fluid or pneumonia rather than acute upper airway obstruction or anaphylactic bronchospasm (which produces expiratory wheeze).",
+      "Incorrect: Skin sloughing on lateral pressure (Nikolsky sign) occurs in staphylococcal scalded skin syndrome or toxic epidermal necrolysis, not acute urticaria/anaphylaxis.",
+      "Correct: Inspiratory stridor (alongside hoarseness or tongue/lip angioedema) signifies acute upper airway and laryngeal oedema in anaphylaxis, demanding immediate IM 1:1000 adrenaline.",
+      "Incorrect: Splenomegaly is a feature of infection, haematological malignancy, or portal hypertension and has no role in identifying acute anaphylactic airway obstruction."
+    ],
+    "clinicalPearl": "Never treat acute urticaria with an antihistamine alone before checking airway (inspiratory stridor, hoarse voice, swollen tongue/lips), breathing (wheeze), and circulation (hypotension/tachycardia) for anaphylaxis.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "When evaluating urticarial wheals, actively exclude life-threatening anaphylaxis by checking for inspiratory stridor, angioedema, wheeze, and hypotension."
+    },
+    "sourceStation": {
+      "id": "paed_047",
+      "title": "Urticaria & Anaphylactic Airway Obstruction",
+      "originalPrompt": "3.1 Describe the lesion.\n3.2 Mention a life-threatening complication of this condition.\n3.3 What is the most important physical sign you should look for in the above-mentioned complication?",
+      "verifiedAnswer": "(3.1) Lesion description: Erythematous, well-demarcated, raised oedematous wheals with surrounding flare (urticaria). (3.2) Life-threatening complication: Anaphylaxis (acute upper airway/laryngeal oedema & circulatory collapse). (3.3) Most important physical sign: Inspiratory stridor (or hoarse voice / tongue-lip angioedema indicating upper airway obstruction; plus hypotension/wheeze).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_048_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Paed Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Macroscopic Haematuria Workup",
+    "imagePath": "images/paed/paed_048.webp",
+    "stem": "A 10-year-old boy presents with mild periorbital puffiness and the dark-coloured urine shown in the bottle, 2 weeks after an episode of acute exudative pharyngitis. Which initial investigation is most appropriate to confirm the cause of his urine discolouration?",
+    "options": [
+      "Immediate percutaneous renal biopsy under real-time ultrasound guidance",
+      "24-hour urinary vanillylmandelic acid (VMA) and free metanephrines",
+      "Intravenous urogram (IVU) with non-ionic iodinated contrast medium",
+      "Serum total immunoglobulin E (IgE) level and aeroallergen prick tests",
+      "Urine full report (UFR) and light microscopy for erythrocytes and casts"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Renal biopsy is invasive and reserved for atypical presentations of APSGN (such as nephrotic-range proteinuria, persistently low C3 >8 weeks, or rapidly progressive renal impairment).",
+      "Incorrect: Urinary catecholamines evaluate phaeochromocytoma or neuroblastoma and play no role in evaluating post-infectious tea-coloured urine.",
+      "Incorrect: IVU exposes the child to radiation and nephrotoxic contrast during potential acute nephritis and is not the initial investigation for suspected glomerulonephritis.",
+      "Incorrect: Total IgE and skin prick testing evaluate atopic disease and do not investigate macroscopic haematuria.",
+      "Correct: A UFR and urine microscopy distinguish true glomerular haematuria (dysmorphic RBCs, RBC casts, proteinuria—classically APSGN) from haemoglobinuria, myoglobinuria, or lower urinary tract infection before targeted bloods (ASOT, C3, RFT)."
+    ],
+    "clinicalPearl": "In a child presenting with smoky/tea-coloured urine, always start with a Urine Full Report (UFR) + microscopy to confirm RBCs/RBC casts before ordering ASOT, C3 complement, renal function tests, and renal ultrasound.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Tea-coloured macroscopic haematuria post-pharyngitis suggests acute post-streptococcal glomerulonephritis; start with UFR/microscopy for dysmorphic RBCs and red cell casts."
+    },
+    "sourceStation": {
+      "id": "paed_048",
+      "title": "Macroscopic Haematuria (10-Year-Old Boy)",
+      "originalPrompt": "Q.2\n10-year-old boy presented with dark-coloured urine as given in the bottle.\nA.) What is the most likely diagnosis?\nB.) What is the investigation you would do to find out the cause for dark urine?",
+      "verifiedAnswer": "(A) Macroscopic haematuria (most commonly Acute Post-Streptococcal Glomerulonephritis [APSGN]; also IgA nephropathy, UTI, renal calculus). (B) Initial investigation: Urine Full Report (UFR) / Urine microscopy (looking for dysmorphic RBCs & RBC casts + proteinuria; followed by ASOT, C3 complement, RFT, renal USS).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "paed_049_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Acute Post-Streptococcal Glomerulonephritis",
+    "imagePath": null,
+    "stem": "A 5-year-old boy is brought with red-brown urine, mild oliguria, hypertension (124/84 mmHg), and periorbital oedema 2 weeks after healing impetigo. Which urine full report (UFR) finding is most pathognomonic of a glomerular origin in this condition?",
+    "options": [
+      "Red blood cell casts alongside dysmorphic erythrocytes and + to ++ proteinuria",
+      "Positive dipstick blood with zero red blood cells on high-power microscopy",
+      "Isolated calcium oxalate crystals with normal urinary protein and zero casts",
+      "Heavy leukocyte esterase and nitrite positivity with pure isomorphic RBCs",
+      "Massive ketonuria and +3 glycosuria without microscopic erythrocytes or casts"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Red cell casts formed within renal tubules together with dysmorphic RBCs and modest proteinuria (+ to ++) are pathognomonic of glomerular bleeding, most commonly due to acute post-streptococcal glomerulonephritis (APSGN).",
+      "Incorrect: Positive dipstick blood without RBCs on microscopy indicates haemoglobinuria (intravascular haemolysis) or myoglobinuria (rhabdomyolysis) rather than glomerulonephritis.",
+      "Incorrect: Crystalluria with isomorphic RBCs and absent proteinuria or casts points toward urolithiasis rather than glomerular inflammation.",
+      "Incorrect: Nitrites, marked pyuria, and isomorphic RBCs suggest bacterial urinary tract infection rather than post-streptococcal glomerulonephritis.",
+      "Incorrect: Glycosuria and ketonuria reflect uncontrolled diabetes mellitus and do not explain red-brown macroscopic haematuria."
+    ],
+    "clinicalPearl": "Remember the classic UFR quartet of APSGN: numerous dysmorphic RBCs, pathognomonic red cell casts, mild-to-moderate proteinuria (+ to ++), and granular/cellular casts; serum C3 is typically transiently low.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Red cell casts and dysmorphic RBCs with + to ++ proteinuria on UFR confirm glomerular haematuria, classically caused by acute post-streptococcal glomerulonephritis."
+    },
+    "sourceStation": {
+      "id": "paed_049",
+      "title": "Red Urine in a 5-Year-Old Boy — UFR & APSGN",
+      "originalPrompt": "04. Red urine in a test tube that belonged to a 5-year-old boy.\nGive 4 findings expected on UFR, and the most likely cause.  [Specimen photo omitted in 2013 archive files]",
+      "verifiedAnswer": "4 UFR findings: (1) Numerous red blood cells (dysmorphic RBCs); (2) Red cell casts (pathognomonic of glomerular bleeding); (3) Proteinuria (+ to ++); (4) Granular/cellular casts & occasional pus cells (brown/smoky turbid appearance). Most likely cause: Acute post-streptococcal glomerulonephritis (APSGN) (differential: UTI, nephrolithiasis, IgA nephropathy, HSP).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_050_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Lobar Pneumonia",
+    "imagePath": "images/paed/paed_050.webp",
+    "stem": "A previously healthy 4-year-old child presents with a 3-day history of high fever, cough, tachypnoea, and bronchial breathing over the right lower zone. His chest radiograph is shown. What are the commonest bacterial aetiological agent and first-line oral drug of choice?",
+    "options": [
+      "Mycoplasma pneumoniae and oral ciprofloxacin",
+      "Streptococcus pneumoniae and oral amoxicillin",
+      "Pseudomonas aeruginosa and oral cephalexin",
+      "Pneumocystis jirovecii and oral co-trimoxazole",
+      "Haemophilus influenzae type b and oral metronidazole"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Mycoplasma pneumoniae typically causes atypical patchy interstitial infiltrates in school-aged children and is treated with macrolides (azithromycin/clarithromycin), whereas fluoroquinolones are avoided as first-line paediatric therapy.",
+      "Correct: The radiograph demonstrates dense right lower lobe consolidation (lobar pneumonia); Streptococcus pneumoniae is the commonest bacterial pathogen in children >1 month, and high-dose oral amoxicillin (80–90 mg/kg/day) is first-line therapy.",
+      "Incorrect: Pseudomonas pneumonia mainly affects immunocompromised or cystic fibrosis patients and is completely resistant to first-generation cephalosporins such as cephalexin.",
+      "Incorrect: Pneumocystis causes diffuse bilateral perihilar interstitial pneumonia in severely immunocompromised infants (e.g., untreated HIV), not focal lobar consolidation in an immunocompetent 4-year-old.",
+      "Incorrect: Hib incidence fell dramatically with pentavalent vaccination, and metronidazole has no activity against aerobic respiratory cocci or bacilli."
+    ],
+    "clinicalPearl": "Right lower lobe consolidation in a 4-year-old = Streptococcus pneumoniae until proven otherwise; treat community-acquired lobar pneumonia with high-dose oral amoxicillin (or IV benzylpenicillin/cefotaxime/co-amoxiclav if severe).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Streptococcus pneumoniae is the leading cause of paediatric lobar pneumonia; high-dose oral amoxicillin is the drug of choice for outpatient management."
+    },
+    "sourceStation": {
+      "id": "paed_050",
+      "title": "Right Lower Lobe Lobar Pneumonia (4-Year-Old Child)",
+      "originalPrompt": "4. This is an X-ray of a 4-year-old child.\n1. What is your diagnosis?\n2. Name the commonest aetiological agent.\n3. What is the DOC (drug of choice) for this condition?",
+      "verifiedAnswer": "(1) Right lower lobe lobar pneumonia. (2) Commonest bacterium: Streptococcus pneumoniae. (3) Drug of choice: Oral Amoxicillin (high-dose 80–90 mg/kg/day in divided doses; IV Benzylpenicillin / Cefotaxime / Co-amoxiclav if severe/admitted).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_051_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Paed Q13",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Finger Clubbing",
+    "imagePath": "images/paed/paed_051.webp",
+    "stem": "A 9-year-old boy evaluated in the paediatric outpatient clinic for poor exercise tolerance demonstrates the bilateral nail-bed finding shown. Which pair of paediatric conditions is most strongly associated with this physical sign?",
+    "options": [
+      "Minimal change nephrotic syndrome and nutritional iron deficiency anaemia",
+      "Acute viral bronchiolitis and acute post-streptococcal glomerulonephritis",
+      "Cyanotic congenital heart disease and cystic fibrosis (bronchiectasis)",
+      "Vitamin D deficiency rickets and uncomplicated simple febrile seizures",
+      "Acute rheumatic chorea and primary nocturnal enuresis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Uncomplicated minimal change disease and iron deficiency anaemia cause pallor or oedema (and koilonychia in severe chronic iron deficiency), not digital clubbing.",
+      "Incorrect: Both are acute self-limiting illnesses and do not persist long enough to induce periosteal and nail-bed vascular proliferation causing clubbing.",
+      "Correct: Digital finger clubbing in children classically occurs in cyanotic congenital heart disease (e.g., Tetralogy of Fallot), chronic suppurative lung disease (bronchiectasis, cystic fibrosis, empyema), infective endocarditis, and chronic liver/inflammatory bowel disease.",
+      "Incorrect: Rickets produces widened wrists/ankles and rachitic rosary rather than finger clubbing, and febrile seizures have no digital signs.",
+      "Incorrect: Rheumatic chorea causes involuntary movement abnormalities, whereas clubbing points to chronic hypoxaemia, chronic suppuration, or hepatic/GI disease (and subacute infective endocarditis if fever is present)."
+    ],
+    "clinicalPearl": "When you spot finger clubbing in a child, examine specifically for central cyanosis/murmurs (cyanotic CHD), coarse crackles/sputum (bronchiectasis/CF), fever/new murmur (infective endocarditis), and chronic diarrhoea/stigmata of liver disease.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Paediatric digital clubbing is associated with cyanotic congenital heart disease, bronchiectasis/cystic fibrosis, lung abscess/empyema, infective endocarditis, IBD, and chronic liver disease."
+    },
+    "sourceStation": {
+      "id": "paed_051",
+      "title": "Digital Finger Clubbing",
+      "originalPrompt": "13.\n• What is the feature shown in this picture?\n• Give two examples for conditions that show the above feature.",
+      "verifiedAnswer": "Feature: Finger clubbing. Paediatric causes: Cyanotic congenital heart disease (e.g., Tetralogy of Fallot), Bronchiectasis / Cystic fibrosis, Empyema / lung abscess, Infective endocarditis, Inflammatory bowel disease / Chronic liver disease / Coeliac disease.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_052_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Paed Q19",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Secondary Lactose Intolerance",
+    "imagePath": null,
+    "stem": "A 7-month-old formula-fed infant continues to pass watery, frothy green-yellow stools with perianal excoriation 10 days after acute viral gastroenteritis. Stool full report shows: red cells nil, pus cells 2–3/HPF, ova/cysts/amoeba nil, and reducing substances: orange. What are the diagnosis and appropriate therapeutic intervention?",
+    "options": [
+      "Intestinal giardiasis; prescribe 7 days of oral metronidazole without altering milk",
+      "Acute bacillary dysentery; commence oral azithromycin alongside loperamide syrup",
+      "Infantile coeliac disease; initiate a strict lifelong gluten-free diet immediately",
+      "Secondary lactose intolerance; use lactose-free infant formula alongside ORS and zinc",
+      "Cow's milk protein anaphylaxis; inject intramuscular adrenaline and stop oral feeds"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Stool microscopy is negative for Giardia trophozoites or cysts, and giardiasis causes foul-smelling steatorrhoea rather than positive stool reducing substances.",
+      "Incorrect: Absent faecal red cells and minimal pus cells (2–3/HPF) exclude invasive bacterial dysentery, and antimotility agents like loperamide are contraindicated in infants.",
+      "Incorrect: Coeliac disease causes chronic malabsorption and villous atrophy over months after gluten introduction and is not diagnosed acutely via orange stool reducing substances post-gastroenteritis.",
+      "Correct: Positive (orange) stool reducing substances with acidic watery stools following gastroenteritis confirm transient secondary lactase deficiency; manage with temporary lactose-free formula for 2–4 weeks (breastfed infants continue breastfeeding) plus ORS and zinc.",
+      "Incorrect: Anaphylaxis causes acute airway, respiratory, or circulatory compromise within minutes of exposure rather than isolated post-infectious carbohydrate malabsorption."
+    ],
+    "clinicalPearl": "Orange/brick-red stool reducing substances (Clinitest) post-gastroenteritis indicate secondary lactose intolerance from brush-border lactase loss; temporarily use lactose-free formula for 2–4 weeks in formula-fed infants, but NEVER stop breastfeeding.",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "Maintain hydration with ORS and zinc while addressing carbohydrate malabsorption (secondary lactase deficiency) with temporary lactose-free formula in formula-fed infants."
+    },
+    "sourceStation": {
+      "id": "paed_052",
+      "title": "Lactose Intolerance (Stool Reducing Substances Positive)",
+      "originalPrompt": "19. Stools Full Report:\nConsistency: Semi-formed without mucus | Colour: Green-Yellow\nRed cells: Nil | Pus cells: 2–3 | Epithelial cells: 2–3\nAmoeba / Giardia / Whipworm / Hookworm / Other organisms: Nil\nReducing substances: Orange\n19.1 What is the diagnosis?\n19.2 List two (02) therapeutic interventions indicated for this child.  [Text-only stool report station]",
+      "verifiedAnswer": "(19.1) Lactose intolerance (secondary lactase deficiency, e.g., post-viral gastroenteritis). (19.2) Therapeutic interventions: (1) Temporary switch to lactose-free infant formula (or soy/lactose-free milk in older children for 2–4 weeks; continue breastfeeding if breastfed); (2) Oral Rehydration Therapy (ORS) + Zinc supplementation and avoid sugary/dairy-heavy drinks while maintaining adequate calorie nutrition.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_053_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Paed Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Nutritional Rickets Radiograph",
+    "imagePath": "images/paed/paed_053.webp",
+    "stem": "A 2-year-old girl presents with delayed walking, bone pain, frontal bossing, and palpable beading at the costochondral junctions. Her right wrist radiograph is shown. Which pair of radiographic abnormalities confirms the diagnosis?",
+    "options": [
+      "Dense white metaphyseal Frankel lines with subperiosteal haematoma calcification",
+      "Multiple punched-out lytic diaphyseal lesions with Codman triangle periosteal reaction",
+      "Premature closure of the distal radial physis with marked cortical hyperostosis",
+      "Diffuse osteosclerosis of the carpal bones with Erlenmeyer flask metaphyseal flaring",
+      "Cupping and fraying of the distal metaphyses with widening of the epiphyseal growth plate"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: A dense metaphyseal white line (Frankel line), Wimberger ring sign, and subperiosteal haemorrhage are classic radiographic features of scurvy (vitamin C deficiency), not rickets.",
+      "Incorrect: Aggressive lytic bone destruction with Codman triangle suggests osteomyelitis or malignant bone tumour (such as osteosarcoma/Ewing sarcoma) rather than metabolic bone disease.",
+      "Incorrect: Rickets causes delayed mineralisation and growth plate widening, not premature physeal fusion or cortical thickening.",
+      "Incorrect: Diffuse bone sclerosis ('bone-within-bone') and Erlenmeyer flask deformity characterise osteopetrosis or Gaucher disease rather than vitamin D deficiency rickets.",
+      "Correct: Unmineralised osteoid accumulation in rickets widens the radiolucent growth plate and causes flaring, cupping, and indistinct irregular fraying of the distal radial and ulnar metaphyses alongside generalised osteopenia."
+    ],
+    "clinicalPearl": "Classic wrist X-ray triad in rickets: metaphyseal cupping, fraying, and splaying/widening of the growth plate; check serum Ca, low PO4, markedly elevated ALP, elevated PTH, and low 25(OH) vitamin D.",
+    "guideCitation": {
+      "guideId": "guide_paed_rickets",
+      "guideTitle": "Guide for Rickets & Intussusception (Paediatrics)",
+      "keyPoint": "Wrist radiographs in rickets show cupping and fraying of the distal metaphyses, widening of the epiphyseal plate, and generalised osteopenia."
+    },
+    "sourceStation": {
+      "id": "paed_053",
+      "title": "Rickets — Wrist X-Ray & Clinical Findings",
+      "originalPrompt": "Question 02\nAn X-ray of a 2-year-old girl was taken when she presented to the ward with delayed growth and pain in the bones.\n2.1 State 2 findings which can be seen in the X-ray shown. (4 marks)\n2.2 Identify the condition. (2 marks)\n2.3 List 2 other clinical findings you would expect to find in this patient. (4 marks)",
+      "verifiedAnswer": "(2.1) X-ray findings: Cupping and fraying of metaphyses (indistinct irregular metaphyseal margins) and widening/splaying of the epiphyseal growth plate (plus generalised osteopenia). (2.2) Condition: Rickets (Vitamin D deficiency). (2.3) Clinical findings: Widened wrists and ankles, Rachitic rosary (beading at costochondral junctions), Harrison sulcus, Bowing of legs (genu varum/valgum), Frontal bossing, Craniotabes.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_054_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Paed Q12",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Type 1 Diabetes",
+    "imagePath": null,
+    "stem": "A 10-year-old boy with a BMI of 15 kg/m² presents with acute-onset secondary bedwetting, polydipsia, and unintentional weight loss. His urine full report shows glucose +2, protein nil, red cells 3/HPF, and pus cells 4/HPF. After urgently screening for diabetic ketoacidosis, what is the definitive long-term treatment?",
+    "options": [
+      "Lifelong subcutaneous basal-bolus insulin therapy with structured glucose monitoring",
+      "Oral metformin monotherapy titrated gradually against fasting blood glucose readings",
+      "Oral glibenclamide sulphonylurea twice daily alongside a strict sugar-free diet",
+      "Oral desmopressin at bedtime combined with strict evening fluid restriction after 6 pm",
+      "A 7-day course of oral cephalexin followed by a repeat urine culture in 2 weeks"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: New-onset nocturnal enuresis, weight loss, and +2 glycosuria in a lean 10-year-old indicate Type 1 diabetes mellitus (T1DM); after excluding DKA with capillary glucose, ketones, and VBG, definitive management requires lifelong subcutaneous insulin.",
+      "Incorrect: Metformin is first-line for paediatric Type 2 diabetes (typically obese adolescents with acanthosis nigricans), whereas T1DM causes absolute insulin deficiency and risks fatal DKA without exogenous insulin.",
+      "Incorrect: Sulphonylureas require endogenous pancreatic beta-cell function and are ineffective in autoimmune Type 1 diabetes mellitus.",
+      "Incorrect: Desmopressin treats primary monosymptomatic nocturnal enuresis; restricting fluids in a polyuric diabetic child precipitates severe dehydration and ketoacidosis.",
+      "Incorrect: The UFR shows negligible pus cells (4/HPF) and no nitrites, ruling out UTI as the primary diagnosis; glycosuria demands urgent diabetes assessment."
+    ],
+    "clinicalPearl": "Secondary nocturnal enuresis + weight loss + glycosuria in a child is Type 1 diabetes mellitus until proven otherwise; always check capillary glucose, blood/urine ketones, and venous blood gas immediately to rule out DKA.",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "Paediatric diabetes presenting with polyuria/enuresis and glycosuria requires immediate DKA screening (glucose, ketones, VBG; BSPED protocol if acidotic) and lifelong subcutaneous insulin."
+    },
+    "sourceStation": {
+      "id": "paed_054",
+      "title": "Paediatric Type 1 Diabetes Mellitus",
+      "originalPrompt": "12. 10-year-old boy presents with acute-onset bedwetting, BMI 15 kg/m².\nUrine Full Report: Glucose +2 | Red cell 3 | Pus cell 4 | Colour: Pale yellow | Protein: Nil\n12.1 What is the most likely diagnosis?\n12.2 What is the definitive treatment?  [Text-only UFR station]",
+      "verifiedAnswer": "(12.1) Type 1 Diabetes Mellitus (T1DM) (screen urgently for DKA with capillary blood glucose, blood/urine ketones, and venous blood gas). (12.2) Definitive treatment: Lifelong subcutaneous Insulin therapy (basal-bolus regimen) + structured diabetes education, SMBG/dietary carbohydrate management, and sick-day rules.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_055_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paediatric Round Pneumonia",
+    "imagePath": "images/paed/paed_055.webp",
+    "stem": "A 5-year-old child presents with a 2-day history of high fever, cough, and right-sided pleuritic chest pain. His chest radiograph is shown. What is the most likely diagnosis and appropriate initial management?",
+    "options": [
+      "Bronchogenic carcinoma; arrange immediate CT-guided percutaneous core needle biopsy",
+      "Round pneumonia; start oral antibiotics and repeat the chest radiograph in 4–6 weeks",
+      "Pulmonary hydatid cyst; refer immediately for surgical thoracotomy and enucleation",
+      "Posterior mediastinal neuroblastoma; begin emergency multi-agent chemotherapy",
+      "Congenital pulmonary airway malformation; schedule urgent lobectomy before starting antimicrobials"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Primary lung carcinoma is exceedingly rare in 5-year-olds, and invasive biopsy is inappropriate before treating and following up an acute febrile round consolidation.",
+      "Correct: Children <8 years have underdeveloped collateral ventilation (pores of Kohn and canals of Lambert), causing Streptococcus pneumoniae consolidation to appear as a well-defined round opacity with air bronchograms ('round pneumonia') that resolves with standard antibiotic therapy.",
+      "Incorrect: A hydatid cyst does not typically present acutely with a 2-day high fever and air bronchograms, and surgery is not indicated for uncomplicated bacterial round pneumonia.",
+      "Incorrect: Neuroblastoma is an extrapulmonary posterior mediastinal mass often causing vertebral/rib erosion or calcification rather than an acute febrile parenchymal opacity with air bronchograms.",
+      "Incorrect: Even if an underlying congenital cyst were suspected, acute febrile infection is treated first with antibiotics and reassessed by follow-up imaging at 4–6 weeks."
+    ],
+    "clinicalPearl": "Round pneumonia is a classic paediatric mimic of a lung mass in children <8 years due to immature pores of Kohn and canals of Lambert; always treat fever + round opacity with antibiotics and confirm clearance on CXR in 4–6 weeks.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Well-circumscribed round parenchymal opacity with air bronchograms in a febrile child <8 years is round pneumonia (usually S. pneumoniae), managed with antibiotics and a 4–6 week follow-up CXR."
+    },
+    "sourceStation": {
+      "id": "paed_055",
+      "title": "Round Pneumonia on Chest X-Ray (5-Year-Old)",
+      "originalPrompt": "01. This is an X-ray of a 5-year-old child.\n1. What are the two abnormalities seen in this X-ray?\n2. What is the diagnosis?",
+      "verifiedAnswer": "(1) Abnormalities: Well-defined round/oval parenchymal opacity in the lung field (often posterior/lower lobe) with air bronchograms and absence of pleural effusion/bony rib erosion. (2) Diagnosis: Round pneumonia (classic in children < 8 years due to underdeveloped pores of Kohn & canals of Lambert; commonest organism: Streptococcus pneumoniae — treat with antibiotics and repeat CXR in 4–6 weeks to confirm resolution).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_056_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gower's Sign & DMD Diagnosis",
+    "imagePath": "images/paed/paed_056.webp",
+    "stem": "A 5-year-old boy with difficulty climbing stairs and prominent calf enlargement is asked to stand up from the floor, demonstrating the sequence illustrated. Which physical sign is shown, and which initial blood test should be ordered first?",
+    "options": [
+      "Positive Trendelenburg sign; serum alkaline phosphatase",
+      "Positive Babinski sign; serum caeruloplasmin",
+      "Positive Gower's sign; serum creatine kinase (CK)",
+      "Positive Romberg sign; serum vitamin B12",
+      "Positive Chvostek sign; serum parathyroid hormone"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Trendelenburg sign evaluates hip abductor weakness on single-leg stance (e.g., developmental hip dysplasia), and alkaline phosphatase screens for metabolic bone disease rather than myopathy.",
+      "Incorrect: An extensor plantar response indicates an upper motor neurone lesion, and caeruloplasmin screens for Wilson disease.",
+      "Correct: Rising from the floor by pushing into a quadruped stance and 'walking' the hands up the thighs (Gower's sign) demonstrates proximal pelvic-girdle weakness typical of Duchenne muscular dystrophy; serum CK is markedly elevated (often >10,000 U/L) as the initial screening test.",
+      "Incorrect: Romberg sign assesses dorsal column proprioceptive ataxia while standing, not proximal muscle weakness rising from the floor.",
+      "Incorrect: Chvostek sign reflects facial nerve hyperexcitability in hypocalcaemia, not pelvic-girdle myopathy."
+    ],
+    "clinicalPearl": "Positive Gower's sign + calf pseudohypertrophy in a young boy = Duchenne muscular dystrophy until excluded; order serum creatine kinase (CK) first (usually 10–100× normal) before dystrophin genetic testing.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Gower's sign reflects proximal pelvic-girdle weakness in Duchenne muscular dystrophy, screened initially with markedly elevated serum creatine kinase."
+    },
+    "sourceStation": {
+      "id": "paed_056",
+      "title": "Gower's Sign & Duchenne Muscular Dystrophy",
+      "originalPrompt": "Q.3\nA.) What is the sign shown?\nB.) What is the diagnosis?",
+      "verifiedAnswer": "(A) Positive Gower's sign (proximal pelvic-girdle / hip extensor muscle weakness). (B) Diagnosis: Duchenne muscular dystrophy (DMD) (X-linked recessive dystrophin deficiency; associated with calf pseudohypertrophy & markedly elevated serum CK).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_057_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Erb-Duchenne Brachial Plexus Palsy",
+    "imagePath": "images/paed/paed_057.webp",
+    "stem": "A 6-week-old infant delivered vaginally after difficult shoulder dystocia exhibits the resting posture of the right upper limb shown in the photograph. Which nerve roots are injured?",
+    "options": [
+      "Lower trunk of the brachial plexus (C8–T1 nerve roots)",
+      "Isolated radial nerve at the humeral spiral groove",
+      "Isolated ulnar nerve at the medial epicondyle",
+      "Upper trunk of the brachial plexus (C5–C6 nerve roots)",
+      "Thoracic spinal cord segments T4–T6"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: C8–T1 injury (Klumpke palsy) causes intrinsic hand muscle paralysis ('claw hand') and often ipsilateral Horner syndrome, sparing shoulder abduction and elbow extension.",
+      "Incorrect: Isolated radial nerve palsy causes wrist and finger drop while preserving shoulder external rotation and biceps elbow flexion.",
+      "Incorrect: Ulnar nerve injury affects medial forearm and intrinsic hand muscles (ulnar claw) without causing shoulder adduction and internal rotation.",
+      "Correct: Lateral traction separating the head from the shoulder during shoulder dystocia stretches the C5–C6 roots (Erb-Duchenne palsy), paralysing the abductors/external rotators of the shoulder, elbow flexors, and supinators to create the 'waiter's tip' posture.",
+      "Incorrect: Mid-thoracic spinal injury spares the brachial plexus and causes lower-limb paraplegia rather than an upper-limb waiter's tip posture."
+    ],
+    "clinicalPearl": "Erb's palsy (C5–C6) = 'waiter's tip' (arm adducted, internally rotated, elbow extended, forearm pronated) with absent Moro/biceps reflex but intact palmar grasp; compare with Klumpke palsy (C8–T1) = claw hand + absent grasp + Horner syndrome.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Erb's paralysis results from C5–C6 brachial plexus traction injury during shoulder dystocia or breech delivery, producing the classic 'waiter's tip' arm posture."
+    },
+    "sourceStation": {
+      "id": "paed_057",
+      "title": "Erb's Paralysis (C5–C6 Brachial Plexus Injury)",
+      "originalPrompt": "03. Photograph of an infant (right arm adducted, internally rotated, forearm extended and pronated — Erb's paralysis).\nWhat is the diagnosis and most likely cause for this abnormality?",
+      "verifiedAnswer": "Diagnosis: Erb's palsy (Erb-Duchenne paralysis) — injury to C5–C6 roots (upper trunk of brachial plexus). Cause: Difficult vaginal delivery / shoulder dystocia causing excessive lateral traction separating head/neck from shoulder (macrosomia, breech).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_058_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Paed Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Packed Cell Volume (PCV) Reader",
+    "imagePath": "images/paed/paed_058.webp",
+    "stem": "The bedside apparatus shown is used with centrifuged capillary tubes across paediatric wards in Sri Lanka. Which parameter does it measure, and what percentage change from baseline defines significant haemoconcentration in dengue haemorrhagic fever?",
+    "options": [
+      "Erythrocyte sedimentation rate (ESR); a fall of 50% below baseline",
+      "Reticulocyte production index; a rise above 5% of total red blood cells",
+      "Mean corpuscular haemoglobin concentration; a fall below 28 g/dL",
+      "Plasma colloid oncotic pressure; a fall below 15 mmHg",
+      "Packed cell volume (haematocrit); a rise of 20% or more above baseline"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: ESR is measured vertically in a Westergren tube over 1 hour and is not a bedside indicator of acute dengue plasma leakage.",
+      "Incorrect: Reticulocyte counts assess marrow erythropoiesis via supravital staining and cannot be read on a microhaematocrit scale.",
+      "Incorrect: MCHC is a red-cell index calculated on an automated haematology analyser rather than a capillary-tube microhaematocrit reader.",
+      "Incorrect: Although hypoalbuminaemia reduces oncotic pressure in dengue plasma leakage, a capillary-tube reader specifically measures cellular packed volume (PCV).",
+      "Correct: A Hawksley microhaematocrit reader measures Packed Cell Volume (PCV / haematocrit) from a spun heparinised capillary tube; in DHF, a >=20% rise above baseline indicates significant plasma leakage and haemoconcentration."
+    ],
+    "clinicalPearl": "In Sri Lankan dengue wards, bedside microhaematocrit (PCV) is checked 3-hourly during the critical phase; a >=20% rise above baseline (or >20% drop on recovery) confirms plasma leakage.",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Packed Cell Volume (PCV) monitoring via capillary tube detects dengue plasma leakage, defined by a >=20% rise in haematocrit above baseline."
+    },
+    "sourceStation": {
+      "id": "paed_058",
+      "title": "Packed Cell Volume (PCV / Haematocrit) Capillary Tube",
+      "originalPrompt": "5.\n1. What is this test?\n2. Name 2 clinical situations where you do this test.",
+      "verifiedAnswer": "(1) Packed Cell Volume (PCV / Haematocrit). (2) Clinical situations: Dengue Haemorrhagic Fever (DHF) (monitoring haemoconcentration / plasma leakage — ≥ 20% rise above baseline) and Polycythaemia / Severe dehydration / Anaemia.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_059_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Paed Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paediatric Microcytic Anaemia Workup",
+    "imagePath": "images/paed/paed_059.webp",
+    "stem": "An 11-month-old infant exclusively fed unfortified cow's milk with minimal weaning solids has pallor. Full blood count shows haemoglobin 8.5 g/dL, MCV 67 fL, normal WBC, and normal platelets, with the peripheral blood film shown. Which pair of investigations should be ordered next to differentiate the two most likely diagnoses?",
+    "options": [
+      "Serum ferritin (iron studies) and haemoglobin HPLC / electrophoresis",
+      "Direct antiglobulin (Coombs) test and bone marrow trephine biopsy",
+      "Serum vitamin B12, red-cell folate, and intrinsic factor antibodies",
+      "Prothrombin time, activated partial thromboplastin time, and D-dimer",
+      "G6PD enzyme activity assay and osmotic fragility testing"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Marked microcytic hypochromic anaemia (Hb 8.5 g/dL, MCV 67 fL) with target cells and poikilocytosis at 11 months requires differentiating iron deficiency anaemia (low ferritin, elevated TIBC) from thalassaemia trait/intermedia/major (Hb HPLC/electrophoresis and parental FBC/HPLC).",
+      "Incorrect: Microcytic hypochromic anaemia with normal WBC and platelets does not suggest autoimmune haemolysis (normocytic/macrocytic reticulocytosis) or marrow failure requiring immediate trephine biopsy.",
+      "Incorrect: Vitamin B12 and folate deficiencies produce macrocytic megaloblastic anaemia (high MCV), not microcytic hypochromic anaemia with MCV 67 fL.",
+      "Incorrect: Coagulation studies investigate bleeding disorders or DIC and do not distinguish iron deficiency from thalassaemia syndromes.",
+      "Incorrect: G6PD deficiency causes acute episodic normocytic oxidative haemolysis, and osmotic fragility tests for hereditary spherocytosis (normocytic/hyperchromic spherocytes)."
+    ],
+    "clinicalPearl": "In Sri Lanka, always evaluate microcytic hypochromic anaemia in late infancy for BOTH iron deficiency anaemia (excess cow's milk, poor weaning) and thalassaemia (serum ferritin + Hb HPLC + parental indices).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Microcytic hypochromic anaemia in an infant (low Hb and low MCV) warrants serum ferritin/iron studies and haemoglobin HPLC to distinguish iron deficiency from thalassaemia."
+    },
+    "sourceStation": {
+      "id": "paed_059",
+      "title": "Microcytic Hypochromic Anaemia in 11-Month-Old",
+      "originalPrompt": "5) Regarding the following investigations & blood film of an 11-month-old baby:\n• Haemoglobin 8.5 g/dL  • MCV 67 fL  • WBC normal  • Platelets normal\na) What are the differential diagnoses for the above patient?\nb) What are the further investigations?",
+      "verifiedAnswer": "(a) Differential diagnoses: Iron deficiency anaemia (commonest at 9–12m) and Thalassaemia (trait or intermedia/major) (also lead poisoning/chronic disease). (b) Further investigations: Serum ferritin, serum iron & TIBC (iron studies) + Haemoglobin HPLC / Electrophoresis (and parental FBC/HPLC).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_060_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Paed Q12",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Impetigo Causative Pathogens",
+    "imagePath": "images/paed/paed_060.webp",
+    "stem": "A 2-year-old boy presents with mildly pruritic perioral skin lesions that developed over 4 days as shown in the photograph. Which pair of organisms most commonly causes this superficial skin infection?",
+    "options": [
+      "Pseudomonas aeruginosa and Klebsiella pneumoniae",
+      "Staphylococcus aureus and Streptococcus pyogenes",
+      "Haemophilus influenzae and Moraxella catarrhalis",
+      "Herpes simplex virus and Varicella zoster virus",
+      "Trichophyton rubrum and Microsporum canis"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Gram-negative bacilli cause ecthyma gangrenosum or nosocomial wound infections in immunocompromised patients rather than childhood community impetigo.",
+      "Correct: Non-bullous impetigo presents with characteristic perioral honey-coloured crusts over erythematous erosions and is caused predominantly by Staphylococcus aureus and Streptococcus pyogenes (Group A Streptococcus).",
+      "Incorrect: These respiratory colonisers cause acute otitis media and sinusitis rather than superficial crusted perioral skin lesions.",
+      "Incorrect: Viral vesicles cause painful punched-out ulcers or disseminated pruritic vesicles on an erythematous base ('dewdrop on a rose petal') rather than classic honey-coloured bacterial impetigo crusts.",
+      "Incorrect: Dermatophytes produce annular scaly plaques with central clearing (tinea faciei/corporis) or boggy scalp kerion rather than perioral golden crusts."
+    ],
+    "clinicalPearl": "Perioral honey-coloured crusts = non-bullous impetigo (Staphylococcus aureus & Group A Strep); treat localised disease with topical mupirocin/fusidic acid or widespread disease with oral flucloxacillin/erythromycin.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Honey-crusted impetigo is caused by Staphylococcus aureus and/or Streptococcus pyogenes (Group A Streptococcus) and often complicates pre-existing eczema or minor trauma."
+    },
+    "sourceStation": {
+      "id": "paed_060",
+      "title": "Impetigo (Non-Bullous Honey-Crusted)",
+      "originalPrompt": "12. This is a photograph of a 2-year-old boy.\n12.1 Name the clinical condition shown on this picture.\n12.2 What are the 2 organisms causing this condition?",
+      "verifiedAnswer": "(12.1) Impetigo. (12.2) Causative organisms: Staphylococcus aureus and Streptococcus pyogenes (Group A streptococcus).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_061_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Paed Q16",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Acute Urticaria Management",
+    "imagePath": "images/paed/paed_061.webp",
+    "stem": "A 2-year-old child presents with a 1-day history of intense itching and the generalised skin lesions shown. He is alert, afebrile, with clear chest auscultation, no stridor, no lip swelling, and normal vital signs. What are the diagnosis and appropriate first-line treatment?",
+    "options": [
+      "Toxic epidermal necrolysis; immediate intravenous immunoglobulin and ICU care",
+      "Staphylococcal scalded skin syndrome; intravenous flucloxacillin and barrier nursing",
+      "Acute urticaria; oral non-sedating H1-antihistamine (such as cetirizine)",
+      "Erythema multiforme minor; oral aciclovir and potent topical clobetasol",
+      "Infantile scabies; whole-body 5% permethrin cream left overnight"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: TEN presents with painful dusky skin, mucosal sloughing, and positive Nikolsky sign rather than pruritic migratory oedematous wheals.",
+      "Incorrect: SSSS causes diffuse tender erythema, flaccid bullae, and desquamation in infants/toddlers without pruritic wheals.",
+      "Correct: Transient, well-circumscribed erythematous oedematous wheals with surrounding flare in a systemically stable child indicate acute urticaria, managed first-line with an oral H1-antihistamine (e.g., cetirizine).",
+      "Incorrect: Erythema multiforme displays fixed symmetrical 'target' lesions with central dusky/vesicular zones rather than transient evanescent wheals.",
+      "Incorrect: Scabies causes persistent burrows, papules, and nocturnal pruritus over wrists/palms/soles rather than acute migratory urticarial plaques."
+    ],
+    "clinicalPearl": "In a child with acute urticarial wheals, first exclude anaphylaxis (stridor, wheeze, hypotension); if absent, prescribe an oral non-sedating H1-antihistamine (cetirizine) and educate parents on warning signs.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Acute urticaria presents as transient erythematous oedematous wheals with flare and is treated with oral H1-antihistamines once anaphylaxis signs are excluded."
+    },
+    "sourceStation": {
+      "id": "paed_061",
+      "title": "Acute Urticaria in a 2-Year-Old",
+      "originalPrompt": "16. 2-year-old child presented to the paediatric ward with intensive itching and rash for one day's duration.\n16.1 Briefly describe the rash on the photograph given.\n16.2 What is the diagnosis?\n16.3 Mention one (01) treatment option.",
+      "verifiedAnswer": "(16.1) Rash description: Multiple transient, well-circumscribed erythematous oedematous wheals with surrounding flare (varying sizes/shapes). (16.2) Diagnosis: Acute urticaria. (16.3) Treatment: Oral non-sedating H₁-antihistamine (e.g., Cetirizine; or Chlorpheniramine); exclude anaphylaxis signs (stridor/wheeze/hypotension — treat with IM adrenaline if present).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_062_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Paed Q12",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Duchenne Muscular Dystrophy Genetics",
+    "imagePath": "images/paed/paed_062.webp",
+    "stem": "A 4-year-old boy demonstrates the floor-rising sequence captured in the 4-frame video storyboard and is diagnosed with the commonest inherited paediatric muscular dystrophy. What are the inheritance pattern and affected structural protein?",
+    "options": [
+      "Autosomal recessive inheritance affecting survival motor neurone (SMN1) protein",
+      "Autosomal dominant inheritance affecting fibrillin-1",
+      "X-linked dominant inheritance affecting PHEX endopeptidase",
+      "X-linked recessive inheritance affecting dystrophin",
+      "Maternal mitochondrial inheritance affecting respiratory chain complex I"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: SMN1 deficiency causes autosomal recessive Spinal Muscular Atrophy (SMA), characterised by diffuse lower motor neurone hypotonia, tongue fasciculations, and areflexia rather than DMD calf pseudohypertrophy.",
+      "Incorrect: Fibrillin-1 mutations cause autosomal dominant Marfan syndrome (tall stature, arachnodactyly, lens dislocation, aortic root dilatation), not progressive pelvic-girdle muscular dystrophy.",
+      "Incorrect: X-linked dominant PHEX mutations cause vitamin D-resistant hypophosphataemic rickets, not muscular dystrophy.",
+      "Correct: Duchenne muscular dystrophy (DMD) follows X-linked recessive inheritance (Xp21 dystrophin gene mutation), causing absent dystrophin, progressive proximal weakness (Gower's sign), calf pseudohypertrophy, and late dilated cardiomyopathy/respiratory failure.",
+      "Incorrect: Mitochondrial disorders (e.g., MELAS, MERRF) show maternal transmission with multisystem lactic acidosis/encephalomyopathy rather than Xp21 dystrophin loss."
+    ],
+    "clinicalPearl": "Both Duchenne and Becker muscular dystrophies are X-linked recessive dystrophinopathies on Xp21 (Duchenne = absent dystrophin, onset <5 years; Becker = partially functional dystrophin, milder/later onset).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Duchenne muscular dystrophy is an X-linked recessive myopathy caused by dystrophin deficiency, manifesting clinically with Gower's sign."
+    },
+    "sourceStation": {
+      "id": "paed_062",
+      "title": "Gower's Sign / Duchenne Muscular Dystrophy",
+      "originalPrompt": "12. A video of a child is shown (4-frame storyboard below extracted from embedded OSCE video).\n12.1 What is the above physical sign?\n12.2 What is the most likely diagnosis?\n12.3 What is the inheritance pattern of this condition?",
+      "verifiedAnswer": "(12.1) Gower's sign (rising from floor by 'walking' hands up legs). (12.2) Diagnosis: Duchenne muscular dystrophy (DMD). (12.3) Inheritance pattern: X-linked recessive (dystrophin gene mutation on Xp21).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_063_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Henoch-Schönlein Purpura (IgA Vasculitis)",
+    "imagePath": "images/paed/paed_063.webp",
+    "stem": "An 8-year-old boy presents with colicky abdominal pain, microscopic haematuria, normal platelet count, and the symmetrical rash shown over his buttocks and lower limbs. Which additional feature completes the classic clinical tetrad of this condition?",
+    "options": [
+      "Destructive symmetrical small-joint deformities of the proximal interphalangeal joints",
+      "Desquamating strawberry tongue with bilateral non-purulent conjunctivitis",
+      "Sydenham chorea with migrating erythema marginatum over the trunk",
+      "Ascending symmetrical flaccid weakness with absent deep tendon reflexes",
+      "Symmetrical arthralgia or transient non-erosive arthritis of the knees and ankles"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: HSP arthritis is transient, oligoarticular, and strictly non-erosive, unlike rheumatoid-factor-positive polyarticular juvenile idiopathic arthritis.",
+      "Incorrect: Strawberry tongue, conjunctivitis, cracked lips, and cervical lymphadenopathy characterise Kawasaki disease rather than IgA vasculitis.",
+      "Incorrect: Chorea and erythema marginatum are Jones criteria for acute rheumatic fever, which causes migratory polyarthritis without dependent palpable purpura.",
+      "Incorrect: Ascending areflexic paralysis defines Guillain-Barré syndrome rather than Henoch-Schönlein purpura.",
+      "Correct: Henoch-Schönlein purpura (IgA vasculitis) is defined clinically by palpable purpura (predominantly buttocks/extensor legs) with normal platelets plus arthritis/arthralgia (knees/ankles), colicky abdominal pain (risk of intussusception), and IgA nephritis."
+    ],
+    "clinicalPearl": "Classic HSP tetrad: palpable purpura (buttocks/lower legs, normal platelets) + large-joint arthralgia/arthritis + colicky abdominal pain (watch for ileo-ileal intussusception!) + haematuria/proteinuria (monitor BP and urine for 6–12 months).",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Henoch-Schönlein purpura (IgA vasculitis) presents with dependent palpable purpura, knee/ankle arthritis, colicky abdominal pain, and glomerulonephritis."
+    },
+    "sourceStation": {
+      "id": "paed_063",
+      "title": "Henoch-Schönlein Purpura (HSP)",
+      "originalPrompt": "Question 01\nAn 8-year-old boy presented to the ward with abdominal cramping episodes and haematuria.\n1.1 What is the disease which the patient has? (4 marks)\n1.2 Name 2 other clinical symptoms this patient will present with. (6 marks)",
+      "verifiedAnswer": "(1.1) Henoch-Schönlein purpura (IgA vasculitis). (1.2) Other symptoms: Arthritis / arthralgia (especially knees & ankles), Colicky abdominal pain, Bloody stool / melaena (risk of intussusception), Nausea/vomiting.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_064_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Paed Q13",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paediatric LMN Facial Palsy",
+    "imagePath": "images/paed/paed_064.webp",
+    "stem": "An 8-year-old boy presents with acute-onset facial asymmetry when asked to squeeze both eyes shut and smile, as shown in the photograph. Which localisation is correct, and what bedside assessments must be performed in every child with this presentation?",
+    "options": [
+      "Left lower motor neurone facial palsy; check blood pressure and perform otoscopy",
+      "Right upper motor neurone facial palsy; perform immediate lumbar puncture and EEG",
+      "Left upper motor neurone facial palsy; order serum creatine kinase and muscle biopsy",
+      "Right lower motor neurone facial palsy; test visual fields and prescribe oral pyridostigmine",
+      "Bilateral congenital myasthenia; administer IV edrophonium and order chest CT"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Inability to close the left eye alongside left mouth droop indicates a left LMN CN VII palsy (Bell's palsy); in children, always examine the tympanic membrane/mastoid (acute otitis media/mastoiditis) and measure blood pressure (severe hypertension from renal disease or coarctation can present with LMN facial palsy!).",
+      "Incorrect: Upper motor neurone lesions spare upper facial muscles (eye closure and forehead wrinkling) due to bilateral cortical innervation, and the weakness here affects the left eye and left mouth.",
+      "Incorrect: Failure to close the left eye confirms involvement of both upper and lower facial divisions on the left side, localising to an LMN facial nerve lesion rather than UMN.",
+      "Incorrect: The right eye closes tightly and the right corner of the mouth elevates normally; the paralysed side is the left side (viewer's right).",
+      "Incorrect: Acute unilateral paralysis sparing the right side of the face does not fit bilateral neuromuscular junction disease."
+    ],
+    "clinicalPearl": "In any child with Bell's palsy (LMN CN VII), never forget two mandatory bedside checks: (1) Otoscopy (rule out acute otitis media/cholesteatoma/Ramsay Hunt vesicles) and (2) Blood pressure (renal/coarctation hypertension can cause LMN facial palsy!).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Acute unilateral inability to close the eye and retract the mouth indicates LMN CN VII palsy; check otoscopy and blood pressure in every paediatric case."
+    },
+    "sourceStation": {
+      "id": "paed_064",
+      "title": "Left Bell's Palsy (8-Year-Old Boy)",
+      "originalPrompt": "13. An 8-year-old boy presented with acute-onset facial weakness.\n13.1 State the diagnosis.\n13.2 Mention the most likely association/cause with acute-onset facial weakness.",
+      "verifiedAnswer": "(13.1) Left-sided LMN facial nerve palsy (Bell's palsy). (13.2) Likely cause: Post-viral / idiopathic (HSV-1 reactivation); in children also check otitis media / mastoiditis, Varicella-zoster, EBV, and blood pressure (coarctation/renal HTN can present with LMN facial palsy in children!).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_065_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Paed Q15",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Serial PCV Monitoring in Dengue",
+    "imagePath": "images/paed/paed_065.webp",
+    "stem": "During the critical phase of dengue haemorrhagic fever in a 9-year-old child, serial 3-hourly measurements using the capillary tube and reader shown demonstrate a rising reading from 37% to 46% alongside a falling platelet count and narrowing pulse pressure. What does this trend signify?",
+    "options": [
+      "Entering the convalescent phase with reabsorption of pleural and ascitic fluid",
+      "Ongoing plasma leakage with worsening haemoconcentration requiring fluid escalation",
+      "Concealed gastrointestinal haemorrhage requiring immediate packed red blood cell transfusion",
+      "Normal physiological diurnal variation in infant erythrocyte mass",
+      "Acute haemolytic uraemic syndrome secondary to dengue viraemia"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Reabsorption during the recovery phase causes haemodilution (a falling PCV) alongside rising blood pressure, widening pulse pressure, and brisk diuresis.",
+      "Correct: A progressive rise in Packed Cell Volume (PCV) with narrowing pulse pressure reflects worsening intravascular volume depletion from capillary plasma leakage, indicating need for IV fluid escalation (crystalloid bolus or colloid).",
+      "Incorrect: Concealed haemorrhage in dengue causes an unexpected drop (not a rise from 37% to 46%) in PCV despite persistent tachycardia or refractory shock.",
+      "Incorrect: A 9-percentage-point acute rise in PCV during active dengue leakage is pathological haemoconcentration, not diurnal variation.",
+      "Incorrect: Acute intravascular haemolysis lowers PCV/haemoglobin sharply rather than producing haemoconcentration."
+    ],
+    "clinicalPearl": "Know both critical PCV trends in DHF: Rising PCV + shock = worsening plasma leakage (needs colloid/crystalloid bolus); Falling PCV + persistent shock = concealed haemorrhage (needs urgent cross-matched blood transfusion!).",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Serial 3-hourly PCV monitoring identifies progressive haemoconcentration from plasma leakage (rising PCV) versus concealed bleeding (falling PCV in shock)."
+    },
+    "sourceStation": {
+      "id": "paed_065",
+      "title": "Packed Cell Volume (PCV) — Dengue & Polycythaemia",
+      "originalPrompt": "15.\n15.1 What is the haematological parameter shown in this picture?\n15.2 Write two indications for the above parameter.",
+      "verifiedAnswer": "(15.1) Packed Cell Volume (PCV). (15.2) Indications: Dengue Haemorrhagic Fever (detecting plasma leakage/haemoconcentration) and Polycythaemia vera (or severe dehydration/anaemia).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_066_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Paed Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Neurofibromatosis Type 1",
+    "imagePath": "images/paed/paed_066.webp",
+    "stem": "An 8-year-old boy is found to have eight flat, well-demarcated light-brown macules larger than 5 mm in diameter over his back as shown, together with bilateral axillary freckling. What are the most likely diagnosis and its mode of inheritance?",
+    "options": [
+      "Tuberous sclerosis complex; X-linked recessive",
+      "McCune-Albright syndrome; autosomal recessive",
+      "Neurofibromatosis type 1; autosomal dominant",
+      "Sturge-Weber syndrome; autosomal dominant",
+      "Ataxia-telangiectasia; X-linked dominant"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Tuberous sclerosis is autosomal dominant and classically causes hypopigmented ash-leaf macules, facial angiofibromas, and shagreen patches rather than numerous café-au-lait spots.",
+      "Incorrect: McCune-Albright syndrome arises from post-zygotic somatic GNAS mutations (non-inherited) and features fewer, jagged 'coast of Maine' café-au-lait lesions without axillary freckling.",
+      "Correct: Six or more café-au-lait macules (>5 mm prepubertal or >15 mm postpubertal) plus axillary or inguinal freckling (Crowe sign) meet diagnostic criteria for Neurofibromatosis type 1 (NF1), an autosomal dominant neurocutaneous disorder.",
+      "Incorrect: Sturge-Weber syndrome is sporadic and manifests with a trigeminal port-wine stain (naevus flammeus) and leptomeningeal angioma rather than hyperpigmented macules.",
+      "Incorrect: Ataxia-telangiectasia is autosomal recessive and presents with progressive cerebellar ataxia and oculocutaneous telangiectasias."
+    ],
+    "clinicalPearl": "NF1 diagnostic threshold for café-au-lait macules: >=6 spots >5 mm in prepubertal children (or >15 mm postpubertal); screen for Lisch nodules (iris hamartomas), optic pathway gliomas, hypertension, and scoliosis.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Multiple café-au-lait patches with axillary freckling are classic neurocutaneous stigmata of autosomal dominant Neurofibromatosis type 1."
+    },
+    "sourceStation": {
+      "id": "paed_066",
+      "title": "Multiple Café-au-Lait Macules — Neurofibromatosis Type 1",
+      "originalPrompt": "2. Identify & name a disease that causes the condition below.",
+      "verifiedAnswer": "Condition: Multiple café-au-lait macules. Causative disease: Neurofibromatosis type 1 (NF1 / von Recklinghausen disease) (diagnostic threshold: ≥ 6 macules > 5 mm prepubertal or > 15 mm postpubertal; also McCune-Albright syndrome).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_067_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.6 PAEDIATRIC NEUROLOGY, DERMATOLOGY & HAEMATOLOGY (12 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paediatric Unilateral Ptosis",
+    "imagePath": "images/paed/paed_067.webp",
+    "stem": "A 6-year-old boy presents with the unilateral eye finding shown in the photograph. If further examination demonstrates ipsilateral miosis and facial anhidrosis with full, unrestricted extraocular movements, which diagnosis best accounts for these findings?",
+    "options": [
+      "Oculomotor (CN III) nerve palsy (midbrain lesion)",
+      "Congenital isolated levator palpebrae maldevelopment",
+      "Bell's palsy (peripheral CN VII facial neuropathy)",
+      "Horner syndrome (cervical sympathetic chain lesion)",
+      "Juvenile ocular myasthenia gravis (NMJ disorder)"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: CN III palsy produces severe complete ptosis alongside a dilated pupil (mydriasis) and an eye deviated 'down and out' due to unopposed lateral rectus and superior oblique action.",
+      "Incorrect: Simple congenital ptosis is an isolated myogenic levator defect and does not cause ipsilateral miosis or facial anhidrosis.",
+      "Incorrect: Facial nerve palsy weakens orbicularis oculi causing inability to close the eye (lagophthalmos) rather than upper eyelid ptosis and miosis.",
+      "Correct: Mild right upper eyelid ptosis (denervation of Müller's muscle) combined with ipsilateral miosis and anhidrosis with preserved extraocular motility defines Horner syndrome; in children, exclude thoracic/cervical neuroblastoma or surgical sympathetic injury.",
+      "Incorrect: Myasthenia gravis causes fatigable, fluctuating ptosis and variable diplopia/ophthalmoplegia, never pupillary miosis or anhidrosis."
+    ],
+    "clinicalPearl": "Distinguish ptosis causes by pupil & eye movements: Horner = mild ptosis + miosis + anhidrosis (check neck/chest for neuroblastoma!); CN III = severe ptosis + mydriasis + 'down-and-out' gaze; Myasthenia = fatigable ptosis + normal pupils.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Evaluate unilateral paediatric ptosis by checking pupil size and eye movements to distinguish Horner syndrome, CN III palsy, congenital ptosis, and myasthenia gravis."
+    },
+    "sourceStation": {
+      "id": "paed_067",
+      "title": "Right Ptosis in a Child",
+      "originalPrompt": "1.1 Identify the clinical feature of the child below.\n1.2 List 2 aetiologies that could cause the above condition.",
+      "verifiedAnswer": "(1.1) Right-sided ptosis (blepharoptosis). (1.2) Aetiologies: Congenital ptosis (levator palpebrae maldevelopment), Oculomotor (CN III) nerve palsy, Horner's syndrome (sympathetic chain injury — mild ptosis + miosis + anhidrosis), Myasthenia gravis (juvenile/congenital myasthenia).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_068_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Needle Gauge & Route Selection",
+    "imagePath": "images/paed/paed_068.webp",
+    "stem": "Referring to the colour-coded needle gauge chart shown, which needle gauge ranges are recommended for deep intramuscular (IM) versus subcutaneous (SC) paediatric injections?",
+    "options": [
+      "18G–19G (pink or light yellow) for deep IM; 21G–22G (green or black) for SC",
+      "26G–27G (brown or grey) for deep IM; 18G–20G (pink or yellow) for SC",
+      "24G–25G (purple or orange) for deep IM; 19G–20G (light yellow or yellow) for SC",
+      "18G–20G (pink or yellow) for deep IM; 22G–23G (black or blue) for SC",
+      "21G–23G (green or blue) for deep IM; 25G–27G (orange or brown) for SC"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: 18G–19G needles are wide-bore drawing-up or blood transfusion needles unsuitable for paediatric IM injections, and 21G–22G are too large for SC administration.",
+      "Incorrect: This reverses gauge sizing: 26G–27G needles are too short/fine for deep IM muscle penetration, while 18G–20G are excessively traumatic for subcutaneous tissue.",
+      "Incorrect: 19G–20G needles are inappropriate for subcutaneous injections, and 24G is primarily a fine/neonatal gauge rather than standard deep IM.",
+      "Incorrect: 18G–20G needles cause unnecessary muscle trauma in children, and 22G–23G needles are IM rather than SC gauges.",
+      "Correct: Deep IM injections require sturdier 21G–23G needles (21G dark green, 22G black, or 23G dark blue) to penetrate muscle safely, whereas SC injections use finer, shorter 25G–27G needles (25G orange, 26G brown, or 27G grey)."
+    ],
+    "clinicalPearl": "ISO colour-coding to memorise for OSCEs: Deep IM = 21G Green / 22G Black / 23G Blue (23G–25G 25 mm for infant vaccines); Subcutaneous = 25G Orange / 26G Brown / 27G Grey.",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Correct needle selection matches route and tissue depth: 21G–23G for deep IM injections and 25G–27G for subcutaneous injections."
+    },
+    "sourceStation": {
+      "id": "paed_068",
+      "title": "Needle Gauge Selection (Deep IM vs Subcutaneous)",
+      "originalPrompt": "01. Five needles (differences in colour, gauge, length) are shown.\nSelect the needle used in:\n• Deep IM injections\n• Subcutaneous injections",
+      "verifiedAnswer": "Deep Intramuscular (IM) injections: 21G–23G (21G Green, 22G Black, 23G Blue). Subcutaneous (SC) injections: 25G–27G (25G Orange, 26G Brown, 27G Grey).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_069_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Paed Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Health 544 Disease Notification",
+    "imagePath": "images/paed/paed_069.webp",
+    "stem": "Regarding the Sri Lankan communicable disease notification form (Health 544) shown, which diseases belong to Group A requiring immediate notification upon clinical suspicion, and to whom should the attending doctor send the form?",
+    "options": [
+      "Cholera, plague, and yellow fever; sent by the attending medical officer to the local MOH",
+      "Dengue fever, enteric fever, and leptospirosis; sent by the ward nurse after PCR confirmation to the WHO",
+      "Measles, mumps, and chickenpox; sent by the hospital pharmacist to the Regional Director of Health Services",
+      "Tuberculosis, leprosy, and malaria; sent only after hospital discharge to the Epidemiology Unit",
+      "Pertussis, diphtheria, and hepatitis A; handed to the parents to deliver to the Public Health Inspector"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Under Sri Lankan surveillance, Group A diseases (cholera, plague, yellow fever) require immediate notification by telephone/special message on suspicion—without waiting for lab confirmation—with Form Health 544 filled by the attending medical officer and sent to the local Medical Officer of Health (MOH).",
+      "Incorrect: Dengue, typhoid, and leptospirosis belong to Group B (notified promptly via Health 544 on suspicion), and the attending medical officer—not only after lab confirmation—notifies the local MOH.",
+      "Incorrect: Measles is Group B and varicella is not Group A; notification is the statutory duty of the attending medical officer to the local MOH.",
+      "Incorrect: Delaying notification until discharge undermines outbreak containment and contact tracing; Health 544 must be initiated immediately upon clinical suspicion.",
+      "Incorrect: Health 544 is transmitted through official health channels to the local MOH (who coordinates PHI field investigation), never left to parents, and those diseases are Group B rather than Group A."
+    ],
+    "clinicalPearl": "Never wait for laboratory confirmation to fill Form Health 544! Notify on clinical suspicion: Group A (Cholera, Plague, Yellow Fever) = immediate phone call + Health 544 to the patient's Medical Officer of Health (MOH).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Group A notifiable diseases (cholera, plague, yellow fever) require immediate reporting on suspicion via Health 544 by the attending medical officer to the patient's MOH."
+    },
+    "sourceStation": {
+      "id": "paed_069",
+      "title": "Sri Lanka Communicable Disease Notification Form (H544)",
+      "originalPrompt": "1) Regarding the notification form (Health 544):\na. What are the diseases in Group A?\nb. Who should fill it?\nc. To whom should it be sent?",
+      "verifiedAnswer": "(a) Group A diseases (immediately notifiable by telephone/special message): Cholera, Plague, Yellow Fever (and internationally/urgently notifiable hazards). (b) Who fills it: Attending Medical Officer (Intern House Officer, Grade MO, Consultant, GP/Family Physician) upon clinical suspicion (do not wait for lab confirmation!). (c) Sent to: Medical Officer of Health (MOH) of the patient's area of residence (with copy to Regional Epidemiologist / Epidemiology Unit).",
+      "provenance": "[Drive Key + Completed]"
+    }
+  },
+  {
+    "id": "paed_070_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "OSCE Needle Selection Matching",
+    "imagePath": "images/paed/paed_070.webp",
+    "stem": "For the two paediatric procedures listed in the image—(a) intramuscular pentavalent vaccine in a 3-year-old child and (b) subcutaneous soluble insulin in a 10-year-old boy—which pair of labelled needles (A–F) is most appropriate?",
+    "options": [
+      "Needle E (fine clear-pink hub) for IM pentavalent and Needle D (blue hub) for SC insulin",
+      "Needle D (blue hub) for IM pentavalent and Needle E (fine clear-pink hub) for SC insulin",
+      "Needle A (long orange hub) for IM pentavalent and Needle F (green hub) for SC insulin",
+      "Needle F (green hub) for IM pentavalent and Needle B (purple hub) for SC insulin",
+      "Needle B (purple hub) for IM pentavalent and Needle A (long orange hub) for SC insulin"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Reversing these risks superficial adipose deposition of the aluminium-adjuvanted pentavalent vaccine (causing sterile nodules/poor immunogenicity) and inadvertent intramuscular insulin injection (causing rapid hypoglycaemia).",
+      "Correct: A 23G blue-hub needle (D) is standard for deep IM vaccines and IM anaphylaxis adrenaline in young children, while the fine short needle (E, 26G–27G range) is appropriate for subcutaneous soluble insulin.",
+      "Incorrect: Needle A is a long drawing-up/spinal-length needle unsuitable for a 3-year-old's thigh muscle, risking periosteal or neurovascular injury, and a 21G green needle (F) is too wide and long for subcutaneous insulin.",
+      "Incorrect: 21G green (F) is unnecessarily wide for routine paediatric vaccination when 23G blue (D) is available, and purple (B, 18G/24G) is suboptimal compared with dedicated fine SC insulin needles.",
+      "Incorrect: Neither needle matches safe tissue depth for these paediatric IM and SC procedures."
+    ],
+    "clinicalPearl": "In Sri Lankan OSCEs, 23G Blue (needle D) is your go-to answer for both paediatric IM vaccines (pentavalent) and IM adrenaline in anaphylaxis; use fine short needles (E, 26G–27G) for SC insulin.",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Select 23G blue (needle D) for paediatric IM pentavalent or IM adrenaline and fine short needles (E, 26G–27G) for subcutaneous insulin."
+    },
+    "sourceStation": {
+      "id": "paed_070",
+      "title": "Paediatric Needle Selection (Pentavalent, Insulin, Adrenaline)",
+      "originalPrompt": "3) Identify the suitable needle (A–F) for the following procedures:\na. Pentavalent vaccine administration for 3-year-old child\nb. Soluble insulin administration for 10-year-old boy\nc. Adrenaline administration for 3-year-old girl in anaphylactic shock",
+      "verifiedAnswer": "(a) Pentavalent IM (3yo): 23G (Blue, needle D) (or 25G 25 mm for infants; note Drive text had typo '23 gauge brown', whereas colour-coding is Blue = 23G, Brown = 26G). (b) Soluble insulin SC (10yo): 26G / 27G short needle (Brown/Grey, needle E) (or insulin syringe 29G–31G). (c) Adrenaline IM in anaphylactic shock (3yo): 23G (Blue, needle D) (or 21G–23G anterolateral thigh IM).",
+      "provenance": "[Drive Key + Clarified]"
+    }
+  },
+  {
+    "id": "paed_071_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Paediatric Ward Equipment Selection",
+    "imagePath": "images/paed/paed_071.webp",
+    "stem": "From the labelled paediatric instruments shown (A1–A2, B1–B4, C1–C3), which selection correctly matches (1) inspecting watery ear discharge in a 2-month-old baby and (2) delivering controlled IV maintenance fluids to a newborn without risking fluid overload?",
+    "options": [
+      "A2 (metal probe) for the ear; B1 (30G needle) with C1 (standard adult giving set) for newborn IV fluids",
+      "A1 (otoscope) for the ear; B2 (27G needle) with C2 (standard Y-port fluid set) for newborn IV fluids",
+      "A1 (otoscope) for the ear; B4 (scalp-vein needle) with C3 (micro-drip burette set) for newborn IV fluids",
+      "A2 (metal probe) for the ear; B4 (scalp-vein needle) with C1 (standard adult giving set) for newborn IV fluids",
+      "B3 (23G needle) for the ear; A1 (otoscope) with C3 (micro-drip burette set) for newborn IV fluids"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Inserting a rigid probe blindly into an infant ear canal risks tympanic perforation, and connecting an unmeasured adult giving set (15–20 drops/mL) to a newborn risks fatal volume overload.",
+      "Incorrect: A bare 27G hypodermic needle cannot maintain secure venous access, and a standard macro-drip tubing without a burette chamber lacks neonatal volume-limiting safeguards.",
+      "Correct: An otoscope (A1) with a small paediatric speculum inspects the infant's tympanic membrane, while a neonatal cannula or winged butterfly scalp-vein needle (B4) attached to a graduated micro-drip burette set (C3, 60 drops/mL) prevents accidental neonatal fluid overload.",
+      "Incorrect: Neither the metal probe for ear examination nor an un-buretted adult giving set for newborn maintenance fluids is safe.",
+      "Incorrect: An otoscope (A1) is not a vascular access tool, and a 23G needle is not used to inspect ear discharge."
+    ],
+    "clinicalPearl": "Always pair neonatal IV infusions with a paediatric micro-drip burette chamber (60 drops/mL, C3) and a 24G yellow cannula or butterfly needle (B4) to prevent catastrophic iatrogenic fluid overload.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Use an otoscope for infant ear assessment, and use a small-gauge neonatal cannula/butterfly needle with a 60 drops/mL burette set for controlled newborn IV fluid therapy."
+    },
+    "sourceStation": {
+      "id": "paed_071",
+      "title": "Paediatric Instruments (Otoscope, IV Cannulae, Burette/Scalp-Vein)",
+      "originalPrompt": "03) Identify the suitable instruments (A1–A2, B1–B4, C1–C3) to use in the following scenarios:\n1) 2-month-old baby to check watery ear discharge.\n2) 5-year-old child with severe dehydration following diarrhoea.\n3) To provide IV fluids for a newborn child.",
+      "verifiedAnswer": "(1) 2mo ear discharge: Otoscope (with small paediatric speculum); (2) 5yo severe dehydration: 20G Pink or 22G Blue IV cannula + standard IV infusion giving set for rapid fluid resuscitation; (3) Newborn IV fluids: 24G Yellow IV cannula (or scalp-vein butterfly needle) + Paediatric micro-drip burette set (60 drops/mL chamber prevents accidental fluid overload).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_072_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Sample Tube Matching",
+    "imagePath": "images/paed/paed_072.webp",
+    "stem": "A febrile 6-month-old infant requires blood drawn for a Full Blood Count (FBC) and an aerobic blood culture. Which pair of labelled containers (A–I) from the display should be selected?",
+    "options": [
+      "Container A (light-blue citrate tube) for FBC and Container H (amber screw-cap bottle) for culture",
+      "Container D (grey-black glucose tube) for FBC and Container B (red plain serum tube) for culture",
+      "Container B (red plain serum tube) for FBC and Container E (green heparinised tube) for culture",
+      "Container C (lavender EDTA tube) for FBC and Container G (BacT/ALERT paediatric bottle) for culture",
+      "Container F (yellow gel SST tube) for FBC and Container I (empty clear glass vial) for culture"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Light-blue sodium citrate tubes (A) are used for coagulation tests (PT/APTT), and non-broth amber glass bottles (H) cannot support automated blood culture growth.",
+      "Incorrect: Fluoride-oxalate tubes (D) preserve blood glucose/lactate, and clotted plain red tubes (B) are for serum chemistry/serology rather than blood culture.",
+      "Incorrect: Plain clot-activator tubes (B) cause clotting that invalidates FBC counts, and lithium heparin (E) is for plasma biochemistry rather than blood cultures.",
+      "Correct: Whole blood anticoagulated with EDTA in the lavender/purple-cap tube (C) preserves cellular morphology for FBC, while the yellow-capped BacT/ALERT paediatric bottle (G) provides aerobic broth optimized for lower paediatric blood volumes.",
+      "Incorrect: Yellow gel serum-separator tubes (F) are for serum electrolytes/LFTs, not whole-blood FBC, and unvented empty glass vials lack culture media."
+    ],
+    "clinicalPearl": "Know your OSCE tube colours: Lavender/Purple (EDTA) = FBC/HbA1c/HPLC; Light Blue (Citrate) = PT/APTT; Red (Plain) or Gold (SST) = Electrolytes/LFT/RFT; Grey (Fluoride) = Glucose; Yellow BacT/ALERT = Paediatric blood culture.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Collect FBC in a lavender-cap EDTA tube (C) and aerobic paediatric blood cultures in a paediatric BacT/ALERT bottle (G)."
+    },
+    "sourceStation": {
+      "id": "paed_072",
+      "title": "Sample Tubes & Culture Bottles Matching",
+      "originalPrompt": "3) Specimen tubes/bottles A–I are shown.\nWrite the most relevant tube or bottle used for each (one answer for each):\n• FBC  • Serum electrolytes  • Blood culture  • Urine culture",
+      "verifiedAnswer": "FBC: EDTA tube (Lavender/Purple cap); Serum electrolytes: Plain / Clot activator (Red cap) or Gel SST (Yellow/Gold cap) or Lithium Heparin (Green cap); Blood culture: Paediatric Blood Culture bottle (BACTEC aerobic bottle); Urine culture: Sterile wide-mouth universal container (without preservative, or boric acid container).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_073_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Paed Q13",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Intradermal BCG Immunisation",
+    "imagePath": "images/paed/paed_073.webp",
+    "stem": "Which vaccine in the Sri Lankan National Immunisation Programme is routinely administered at birth using the injection route and angle demonstrated on the left upper deltoid, and what is a true contraindication to giving it?",
+    "options": [
+      "Hepatitis B vaccine (subcutaneous); contraindicated in neonates weighing under 2.5 kg",
+      "Pentavalent vaccine (intradermal); contraindicated in infants with mild afebrile coryza",
+      "MMR vaccine (intramuscular); contraindicated in children with a family history of febrile seizures",
+      "BCG vaccine (subcutaneous); contraindicated in healthy breastfed neonates with mild physiological jaundice",
+      "BCG vaccine (intradermal); contraindicated in symptomatic HIV or severe congenital immunodeficiency"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Hepatitis B vaccine is given intramuscularly (not intradermally) at 2, 4, and 6 months inside the pentavalent vaccine in Sri Lanka's NIP, and low birth weight is not a contraindication.",
+      "Incorrect: Pentavalent vaccine is administered intramuscularly into the anterolateral thigh starting at 2 months, and mild upper respiratory illness without fever >38.5°C is not a contraindication.",
+      "Incorrect: MMR is given subcutaneously at 9 months and 3 years, and a family history of convulsions is explicitly not a contraindication to vaccination.",
+      "Incorrect: BCG must be given intradermally (not subcutaneously, which causes deep abscesses/adenitis), and neonatal jaundice is not a contraindication.",
+      "Correct: BCG is a live attenuated Mycobacterium bovis vaccine injected intradermally at a 10–15° angle over the left upper deltoid within 24 hours of birth (0–4 weeks); severe immunodeficiency or symptomatic HIV risks disseminated BCGosis."
+    ],
+    "clinicalPearl": "BCG is given intradermally (10–15° bevel up, raising a small bleb) over the left upper deltoid before hospital discharge; if no scar develops by 6 months, a repeat dose can be offered up to 5 years.",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "BCG is a live attenuated bacterial vaccine administered intradermally on the left upper deltoid at 0–4 weeks; severe immunodeficiency and symptomatic HIV are contraindications."
+    },
+    "sourceStation": {
+      "id": "paed_073",
+      "title": "Intradermal BCG Vaccination Technique",
+      "originalPrompt": "13. Regarding the following immunisation procedure:\n13.1 State the route of administration.\n13.2 Mention one (01) vaccination of the National Immunisation Programme which is administered via the similar route.\n13.3 Write one (01) contraindication for this vaccination.",
+      "verifiedAnswer": "(13.1) Intradermal (ID) route (at 10–15° angle). (13.2) NIP vaccine: BCG (Bacillus Calmette-Guérin) vaccine (given at birth on left upper deltoid; also fractional-dose IPV / intradermal rabies in specific schedules). (13.3) Contraindications: Severe/symptomatic HIV or congenital immunodeficiency (live attenuated bacterial vaccine), Active generalised skin infection at injection site, Known TB disease / positive Mantoux (or immunosuppressant therapy).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_074_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Paed Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Sri Lanka NIP First-Dose Ages",
+    "imagePath": "images/paed/paed_074.webp",
+    "stem": "Under the Sri Lankan National Immunisation Programme (NIP), at what ages after birth are the first doses of the four vaccines shown (from left to right: OPV, MMR, Live JE, and Pentavalent) routinely administered?",
+    "options": [
+      "OPV at 2 months, MMR at 9 months, Live JE at 12 months, and Pentavalent at 2 months",
+      "OPV at birth, MMR at 6 months, Live JE at 9 months, and Pentavalent at 2 months",
+      "OPV at 2 months, MMR at 12 months, Live JE at 18 months, and Pentavalent at 4 months",
+      "OPV at 4 months, MMR at 9 months, Live JE at 3 years, and Pentavalent at birth",
+      "OPV at 2 months, MMR at 15 months, Live JE at 9 months, and Pentavalent at 6 weeks"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: In Sri Lanka's NIP schedule, OPV and Pentavalent (DTP-HepB-Hib) begin on completion of 2 months (with doses at 2, 4, and 6 months), MMR 1st dose is given at 9 months (2nd at 3 years), and Live JE single dose is given at 12 months.",
+      "Incorrect: Sri Lanka gives BCG (not OPV) at birth (0–4 weeks); MMR is given at 9 months (not 6 months) and Live JE at 12 months (not 9 months).",
+      "Incorrect: MMR is administered at 9 months and Live JE at 12 months in Sri Lanka (18 months is for the 4th DTP + OPV booster), and Pentavalent starts at 2 months.",
+      "Incorrect: Both OPV and Pentavalent start at 2 months (not 4 months or birth), and Live JE is given at 12 months rather than 3 years (when the 2nd MMR dose is due).",
+      "Incorrect: Sri Lanka's NIP uses completed-month milestones: 2 months for OPV/Pentavalent/fIPV, 9 months for MMR-1, and 12 months for Live JE."
+    ],
+    "clinicalPearl": "Memorise Sri Lanka NIP milestone ages: Birth (0–4w) = BCG; 2m = OPV + Penta + fIPV-1; 4m = OPV + Penta + fIPV-2; 6m = OPV + Penta; 9m = MMR-1; 12m = Live JE; 18m = OPV + DTP; 3y = MMR-2; 5y = OPV + DT; 10y = HPV; 11y = aTd.",
+    "guideCitation": {
+      "guideId": "guide_paed_vaccines",
+      "guideTitle": "Guide for Paediatric Vaccines & Sri Lankan EPI Schedule",
+      "keyPoint": "Sri Lanka NIP schedule starts OPV and Pentavalent at 2 months, MMR 1st dose at 9 months, and Live Japanese Encephalitis at 12 months."
+    },
+    "sourceStation": {
+      "id": "paed_074",
+      "title": "Sri Lanka National Immunisation Programme (NIP) — First Dose Ages",
+      "originalPrompt": "Question 04\nThe first / only dose of these vaccines is given how many months after birth? (2.5 × 4 marks)",
+      "verifiedAnswer": "(1) OPV (Oral Polio Vaccine): 2 months (completed at 2, 4, 6 months); (2) MMR: 9 months (2nd dose at 3 years); (3) Live Japanese Encephalitis (JE): 12 months (1 year); (4) Pentavalent (DTP + Hep B + Hib): 2 months (2, 4, 6 months).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_075_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Paed Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cholera Notification Grading",
+    "imagePath": null,
+    "stem": "A 7-year-old boy presents with acute profuse 'rice-water' diarrhoea and severe hypovolaemic shock, raising clinical suspicion of cholera. Under Sri Lankan communicable disease surveillance, what is its epidemiological disease grading and which institutions must be informed immediately?",
+    "options": [
+      "Group B notifiable disease; enter into the monthly outpatient morbidity return to the Regional Director",
+      "Group A notifiable disease; inform the local Medical Officer of Health (MOH) and Epidemiology Unit",
+      "Group C non-notifiable condition; notify only after stool culture confirmation by the Medical Research Institute",
+      "Group A notifiable disease; report only at the next weekly hospital clinical mortality review",
+      "Group B notifiable disease; send a routine postal notification card to the Public Health Inspector"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Cholera is Group A (not Group B) and demands urgent immediate notification rather than delayed monthly aggregate reporting.",
+      "Correct: Cholera (alongside plague and yellow fever) is a Group A notifiable disease in Sri Lanka requiring immediate notification by telephone/special message on suspicion to the local MOH and the Ministry of Health Epidemiology Unit (plus Regional Epidemiologist).",
+      "Incorrect: Waiting for microbiological confirmation of Vibrio cholerae risks explosive waterborne spread; clinical suspicion alone mandates immediate notification.",
+      "Incorrect: Reporting must go immediately to public health authorities (MOH and Epidemiology Unit) to trigger urgent field containment, not wait for a hospital review.",
+      "Incorrect: Cholera is Group A and requires immediate same-day electronic/telephone notification and Form H544 dispatch, never a routine postal delay."
+    ],
+    "clinicalPearl": "In Sri Lanka, the 3 classic Group A diseases (Cholera, Plague, Yellow Fever) require IMMEDIATE telephone notification on suspicion to the local MOH, Regional Epidemiologist, and Epidemiology Unit.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Cholera is a Group A notifiable disease in Sri Lanka requiring immediate reporting on suspicion to the local Medical Officer of Health (MOH) and Epidemiology Unit."
+    },
+    "sourceStation": {
+      "id": "paed_075",
+      "title": "Cholera Notification Grading & Reporting Authority",
+      "originalPrompt": "3.1 What is the epidemiology disease grading of Cholera?\n3.2 What is the institute that you should inform about Cholera?  [Text-only station]",
+      "verifiedAnswer": "(3.1) Group A notifiable disease (under Sri Lankan surveillance: requires immediate notification by telephone/special message on suspicion). (3.2) Authorities to inform: Local Medical Officer of Health (MOH) AND Epidemiology Unit (Ministry of Health) (plus Regional Epidemiologist).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_076_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Paed Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Paediatric Examination Instruments",
+    "imagePath": "images/paed/paed_076.webp",
+    "stem": "A medical student rotates to the OSCE spotter station shown displaying four clinical instruments labelled A–D. Which option accurately identifies all four items?",
+    "options": [
+      "Direct ophthalmoscope (A), otoscope (B), lumbar puncture needles (C), and Sims vaginal specula (D)",
+      "Otoscope (A), indirect laryngoscope (B), butterfly scalp-vein needles (C), and bone curettes (D)",
+      "Otoscope (A), direct ophthalmoscope (B), heparinised capillary tubes (C), and tongue depressors (D)",
+      "Thudichum nasal speculum (A), direct ophthalmoscope (B), capillary tubes (C), and artery forceps (D)",
+      "Otoscope (A), direct ophthalmoscope (B), Westergren ESR pipettes (C), and curved retractors (D)"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: A and B are swapped (A has the conical ear speculum of an otoscope), C are thin glass capillary tubes rather than spinal needles, and D are tongue depressors rather than vaginal specula.",
+      "Incorrect: B is a direct ophthalmoscope with aperture/dioptre dial (not an indirect laryngoscope), C are capillary tubes, and D are tongue depressors.",
+      "Correct: A is a handheld otoscope (auroscope) for ear examination; B is a direct ophthalmoscope for fundoscopy/red reflex; C shows red-tipped heparinised microhaematocrit capillary tubes for PCV; D shows angled metallic (Lack's) tongue depressors for throat inspection.",
+      "Incorrect: A is a standard otoscope rather than a Thudichum nasal speculum, and D are flat L-shaped tongue depressors rather than haemostatic forceps.",
+      "Incorrect: C shows small red-banded heparinised microhaematocrit capillary tubes (75 mm, for PCV) rather than tall graduated 200 mm Westergren ESR pipettes."
+    ],
+    "clinicalPearl": "Do not confuse an otoscope (conical speculum head, A) with a direct ophthalmoscope (vertical lens-wheel head for red reflex/fundus, B) or heparinised PCV capillary tubes (C) with ESR pipettes.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Core paediatric bedside OSCE instruments include the otoscope (A), direct ophthalmoscope (B), heparinised PCV capillary tubes (C), and tongue depressors (D)."
+    },
+    "sourceStation": {
+      "id": "paed_076",
+      "title": "Four Paediatric Examination & Ward Instruments (A–D)",
+      "originalPrompt": "2. Identify the instruments (A, B, C, D) below.",
+      "verifiedAnswer": "A: Otoscope (Auroscope); B: Direct Ophthalmoscope; C: Heparinised capillary tubes (for PCV/microhaematocrit measurement); D: Wooden tongue depressors (spatulae).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_guide_b_01",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "WHO Dehydration Plans A/B/C",
+    "imagePath": null,
+    "stem": "An 18-month-old boy weighing 10 kg presents with 2 days of watery diarrhoea. On examination, he is restless and irritable, drinks ORS eagerly when offered, has sunken eyes, and an abdominal skin pinch goes back slowly (1–2 seconds). He is alert with warm extremities and normal CRT. Which WHO dehydration classification and treatment plan apply?",
+    "options": [
+      "No dehydration (Plan A): discharge home immediately with plain water and cease all feeds",
+      "Severe dehydration (Plan C): infuse a 20 mL/kg IV normal saline bolus immediately followed by 100 mL/kg IV",
+      "Some dehydration (Plan B): infuse 100 mL/kg IV 5% dextrose over 6 hours because oral fluids fail",
+      "Some dehydration (Plan B): give 75 mL/kg (750 mL) of ORS over 4 hours and reassess",
+      "Severe dehydration (Plan C): administer 30 mL/kg of ORS via nasogastric tube over 30 minutes"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Plan A applies only when <2 dehydration signs are present, and even under Plan A breastfeeding/feeding must continue alongside ORS after loose stools.",
+      "Incorrect: Plan C is reserved for Severe dehydration (>=2 of: lethargic/unconscious, sunken eyes, unable to drink/drinking poorly, skin pinch >2 seconds) or hypovolaemic shock.",
+      "Incorrect: Oral rehydration with reduced-osmolarity ORS is first-line for Some dehydration unless persistent severe vomiting, paralytic ileus, or inability to keep up with excessive stool losses occurs—and 5% dextrose is never used for deficit resuscitation.",
+      "Correct: Restlessness/irritability, sunken eyes, eager drinking, and slow skin pinch (>=2 signs without lethargy or very slow pinch) define WHO 'Some dehydration' (Plan B), treated with 75 mL/kg ORS over 4 hours (giving 1–2 teaspoons every 2–3 minutes; wait 10 min if vomiting).",
+      "Incorrect: Rapid 30-minute boluses apply to IV isotonic crystalloid in severe dehydration/shock, not rapid NG ORS boluses which cause vomiting and aspiration."
+    ],
+    "clinicalPearl": "WHO Dehydration Plans: Plan A (No signs) = home ORS after stools + feeding + zinc; Plan B (Some: >=2 of restless, sunken eyes, thirsty/drinks eagerly, slow pinch) = 75 mL/kg ORS over 4h; Plan C (Severe: lethargic/unconscious, unable to drink, very slow pinch) = IV Ringer's/0.9% NaCl.",
+    "guideCitation": {
+      "guideId": "guide_paed_dehydr",
+      "guideTitle": "Assessment of Dehydration in Children OSCE Guide",
+      "keyPoint": "WHO classification separates No (Plan A), Some (Plan B: 75 mL/kg ORS over 4 hours), and Severe dehydration (Plan C: rapid IV isotonic crystalloid resuscitation)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_b_02",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Sri Lanka EPI fIPV Schedule",
+    "imagePath": null,
+    "stem": "Following the WHO global withdrawal of type 2 oral poliovirus vaccine, Sri Lanka's National Immunisation Programme replaced trivalent OPV with bivalent OPV (bOPV). How is fractional-dose inactivated polio vaccine (fIPV) scheduled and administered in Sri Lanka to maintain poliovirus type 2 immunity?",
+    "options": [
+      "0.5 mL administered intramuscularly at 2, 4, and 6 months of age alongside bOPV",
+      "0.1 mL administered subcutaneously at birth and 9 months of age",
+      "0.5 mL administered orally at 6 months and 18 months of age",
+      "0.2 mL administered intradermally at 12 months and 5 years of age",
+      "0.1 mL administered intradermally at 2 and 4 months of age alongside bOPV"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: 0.5 mL IM is the full-dose IPV regimen (used in private hexavalent schedules), whereas Sri Lanka's national EPI specifically uses 0.1 mL intradermal fractional doses at 2 and 4 months.",
+      "Incorrect: BCG is given intradermally at birth and MMR subcutaneously at 9 months; fIPV is given intradermally at 2 and 4 months.",
+      "Incorrect: IPV is an injectable inactivated viral vaccine and is never given orally; bOPV (2 drops orally) is given at 2, 4, 6, 18 months, and 5 years.",
+      "Incorrect: Neither the volume (0.2 mL) nor the ages (12 months and 5 years) match the Sri Lankan EPI fIPV schedule (0.1 mL ID at 2 and 4 months).",
+      "Correct: Sri Lanka introduced two fractional doses of IPV (0.1 mL each, one-fifth of the full 0.5 mL dose) given intradermally at completion of 2 and 4 months alongside bOPV and Pentavalent to sustain type 2 immunity."
+    ],
+    "clinicalPearl": "Sri Lanka NIP polio protection combines oral bOPV (2, 4, 6, 18 months & 5 years) with two intradermal 0.1 mL doses of fractional IPV (fIPV) at 2 and 4 months to cover poliovirus type 2.",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "fIPV is administered at a dosage of 0.1 mL intradermally at 2 and 4 months together with bOPV in the Sri Lankan National Immunisation Programme."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_b_03",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.7 IMMUNISATION, NOTIFIABLE DISEASES, NEEDLES, SAMPLING & EQUIPMENT (9 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Vaccine Cold Chain (+2 to +8°C)",
+    "imagePath": null,
+    "stem": "During an audit of a clinic vaccine refrigerator, the electronic data logger reveals an overnight temperature drop to −4°C. Which facility cold-chain storage range should have been maintained, and which vaccine on the central shelf is irreversibly damaged by freezing?",
+    "options": [
+      "+2°C to +8°C; Pentavalent (DTP-HepB-Hib) and Hepatitis B vaccines are freeze-sensitive",
+      "−20°C to −10°C; BCG and freeze-dried MMR vaccines are destroyed by freezing",
+      "+2°C to +8°C; oral polio vaccine (OPV) is the most freeze-sensitive EPI vaccine",
+      "+8°C to +15°C; vaccines should be stored on the refrigerator door shelves to prevent freezing",
+      "−2°C to +4°C; reconstituted MMR vials remain valid for 28 days under the open-vial policy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: All clinic vaccines in Sri Lanka must be kept between +2°C and +8°C (ideal average +5°C) with none stored frozen at facility level; aluminium-adjuvanted vaccines (Pentavalent, DTP, DT/aTd/TT, Hep B) and IPV/HPV are freeze-sensitive and lose potency or cause sterile abscesses if frozen.",
+      "Incorrect: Long-term national freezer storage (not clinic level) applies only to OPV and MMR; clinic refrigerators operate at +2°C to +8°C, and freeze-dried BCG/MMR are heat/light-sensitive rather than freeze-damaged.",
+      "Incorrect: OPV is the most heat-sensitive vaccine (Group A) and tolerates freezing (in fact stored frozen nationally), whereas Pentavalent, Hep B, TT, and IPV are freeze-sensitive.",
+      "Incorrect: Temperatures >+8°C accelerate heat degradation, and vaccines must NEVER be placed on refrigerator door shelves because frequent opening causes wide temperature fluctuations.",
+      "Incorrect: Freezing temperatures (<+2°C) ruin freeze-sensitive vaccines, and reconstituted freeze-dried vaccines (BCG, MMR) must be discarded within 6 hours or at session end (only liquid multi-dose vials like OPV/DPT/TT/HepB last up to 28 days)."
+    ],
+    "clinicalPearl": "Cold chain golden rules: clinic range +2°C to +8°C; OPV/MMR/BCG = most heat/light-sensitive; Pentavalent/HepB/TT/IPV = DO NOT FREEZE (perform Shake Test if freezing suspected); 6-hour discard for reconstituted BCG/MMR vs 28-day open-vial policy for liquid OPV/DPT/TT/HepB.",
+    "guideCitation": {
+      "guideId": "guide_paed_slma_vacc",
+      "guideTitle": "SLMA Guidelines on Vaccines",
+      "keyPoint": "Maintain clinic vaccine refrigerators at +2°C to +8°C; never freeze DTP/Pentavalent, Hepatitis B, Tetanus, or IPV, and never store vaccines in door shelves."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_b_04",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.4 PAEDIATRIC EMERGENCIES, DENGUE (DHF) & RESUSCITATION (7 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "DHF Peak Leakage & Colloid Limits",
+    "imagePath": null,
+    "stem": "An obese 10-year-old boy (actual weight 48 kg; ideal body weight for height 30 kg) in the DHF critical phase develops narrow pulse pressure (18 mmHg), cold clammy extremities, and CRT >2 seconds. After initial 0.9% saline resuscitation, haematocrit remains elevated and shock persists. According to Sri Lanka MoH Dengue guidelines, what is the correct weight basis, monitoring frequency, and colloid ceiling?",
+    "options": [
+      "Calculate fluids on actual body weight (48 kg), monitor 3-hourly, and repeat Dextran-40 boluses without ceiling until diuresis occurs",
+      "Calculate fluids on ideal body weight (30 kg), monitor every 15 minutes, and cap colloids (Dextran-40 <=3/24h; 6% starch <=5/24h)",
+      "Calculate fluids on actual body weight (48 kg), switch to 0.45% hypotonic saline, and give IV frusemide to offload third-spaced fluid",
+      "Calculate fluids on ideal body weight (30 kg), monitor 6-hourly, and transfuse packed red cells immediately before trying colloids",
+      "Withhold all intravenous fluids for 6 hours while elevating both legs and awaiting spontaneous capillary recovery"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Using actual weight in obesity causes severe iatrogenic fluid overload and pulmonary oedema, 3-hourly monitoring is unsafe during active shock, and Dextran-40 exceeding 3 doses/24h risks coagulopathy and renal injury.",
+      "Correct: Sri Lanka MoH Dengue Monitoring Chart III mandates using Ideal Body Weight (50th centile weight-for-height) in overweight children, 15-minute bedside monitoring during shock/peak leakage, and strict colloid caps (Dextran-40 max 3 boluses/24h or 6/48h; 6% starch max 5/24h or 10/48h).",
+      "Incorrect: Hypotonic saline fails to expand intravascular volume and causes hyponatraemia, while frusemide during active leakage shock precipitates fatal circulatory collapse.",
+      "Incorrect: 6-hourly monitoring is for stable febrile-phase patients (Chart I is 3–6 hourly), and packed red cells are given if haematocrit falls unexpectedly (concealed bleeding) rather than when PCV remains elevated.",
+      "Incorrect: Decompensated dengue shock with persistent haemoconcentration is rapidly fatal without timely intravascular colloid/crystalloid expansion and 15-minute reassessment."
+    ],
+    "clinicalPearl": "Sri Lanka MoH DHF Chart III rules during shock/peak leakage: monitor every 15 minutes, use Ideal Body Weight (never excess actual weight in obesity!), cap Dextran-40 at 3 boluses/24h (6/48h) and Starch at 5/24h (10/48h), and look for concealed bleeding if PCV drops.",
+    "guideCitation": {
+      "guideId": "guide_paed_dengue",
+      "guideTitle": "Paediatric Dengue Management OSCE Guide",
+      "keyPoint": "Use Ideal Body Weight for DHF fluid calculations, monitor every 15 minutes on Chart III during shock/peak leakage, and limit Starch to 5/24h (10/48h) and Dextran-40 to 3/24h (6/48h)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_b_05",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Paediatric MDI + Spacer Technique",
+    "imagePath": null,
+    "stem": "A mother is taught how to administer inhaled fluticasone propionate using a metered-dose inhaler (MDI) and a valved holding-chamber spacer with face mask for her 3-year-old son with persistent asthma. Which counselling instruction optimises lung deposition and preserves spacer function?",
+    "options": [
+      "Actuate two puffs rapidly into the spacer before applying the mask so both doses are inhaled together",
+      "Wash the plastic spacer weekly in boiling water and rub the interior dry with a clean cotton towel",
+      "Shake the MDI, actuate single puffs during 5–6 tidal breaths, wash the face, and air-dry the spacer",
+      "Skip shaking the MDI canister prior to insertion so propellant velocity into the spacer stays steady",
+      "Remove the face mask and ask the 3-year-old to perform a rapid forceful inhalation with a 20-second hold"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Multiple simultaneous actuations into a spacer cause aerosol collision and electrostatic wall deposition, markedly reducing delivered lung dose.",
+      "Incorrect: Boiling warps plastic spacers (>40°C should be avoided per Aeromate instructions), and towel-wiping generates static charge that traps medication on the chamber walls.",
+      "Correct: Shaking disperses the suspension, actuating a single puff into the spacer prevents particle impaction/loss, 5–6 tidal breaths through a sealed mask suit toddlers, face/mouth rinsing prevents steroid thrush/rash, and air-drying after detergent washing avoids static electricity.",
+      "Incorrect: Failure to shake an MDI causes inconsistent dosing of propellant versus suspended corticosteroid particles.",
+      "Incorrect: A 3-year-old cannot reliably coordinate mouthpiece sealing and a 20-second breath hold, and rapid forceful inhalation increases oropharyngeal impaction instead of distal airway delivery."
+    ],
+    "clinicalPearl": "Five golden spacer rules: (1) Shake MDI before EVERY puff; (2) One puff at a time; (3) Snug face mask + 5–6 tidal breaths in <4–5yo (or slow deep breath + 10s hold if older); (4) Wash spacer in mild detergent water and AIR-DRY only (never towel-wipe!); (5) Rinse mouth/wash face after ICS.",
+    "guideCitation": {
+      "guideId": "guide_paed_inhalers",
+      "guideTitle": "Guide for Paediatric Inhalers & Spacers",
+      "keyPoint": "Shake MDI before use, actuate single puffs into the valved spacer during tidal breathing, and wash/air-dry the spacer without wiping to minimise electrostatic drug loss."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_b_06",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.5 PAEDIATRIC RESPIRATORY, CARDIOLOGY, ENDOCRINOLOGY & GI (8 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Intussusception Diagnosis & Pathology",
+    "imagePath": null,
+    "stem": "A previously well 8-month-old boy presents with paroxysmal episodes of screaming during which he draws his knees up to his chest, alternating with pale lethargy, bilious vomiting, and 'red currant jelly' stool. Examination reveals a firm sausage-shaped mass in the right upper quadrant. What is the definitive first-line diagnostic modality and classic radiological finding?",
+    "options": [
+      "Barium swallow demonstrating smooth 'bird-beak' distal oesophageal tapering",
+      "Abdominal ultrasound showing pyloric muscle thickness >4 mm and length >16 mm ('cervix' sign)",
+      "Upper gastrointestinal contrast meal demonstrating a 'double-bubble' sign",
+      "Abdominal ultrasound demonstrating the 'target' (bull's-eye) sign",
+      "Erect chest radiograph showing free subdiaphragmatic air as routine initial confirmation"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A 'bird-beak' appearance on barium swallow is classic for oesophageal achalasia, not ileocolic intussusception.",
+      "Incorrect: A thickened elongated pyloric channel defines infantile hypertrophic pyloric stenosis (presenting at 2–8 weeks with non-bilious projectile vomiting), not 8-month intussusception.",
+      "Incorrect: A 'double-bubble' sign on plain abdominal radiograph or upper GI study characterises congenital duodenal atresia in newborns.",
+      "Correct: Intussusception causes bowel-wall oedema, venous congestion, and ischaemic mucosal sloughing ('red currant jelly' stool); abdominal ultrasound is the non-invasive diagnostic modality of choice, showing concentric bowel rings ('target' or 'bull's-eye' sign).",
+      "Incorrect: Pneumoperitoneum indicates late bowel perforation (a surgical emergency contraindicating air/hydrostatic enema reduction) rather than the primary diagnostic test for uncomplicated intussusception."
+    ],
+    "clinicalPearl": "Intussusception triad in a 6–18 month infant: intermittent colicky pain (drawing knees to chest) + vomiting/sausage-shaped RUQ mass + 'red currant jelly' stool (late mucosal ischaemia); confirm on USS ('target/bull's-eye' sign) and reduce via pneumatic/hydrostatic enema if no peritonitis.",
+    "guideCitation": {
+      "guideId": "guide_paed_rickets",
+      "guideTitle": "Guide for Rickets & Intussusception (Paediatrics)",
+      "keyPoint": "Intussusception causes intermittent abdominal pain (knees drawn to chest), sausage-shaped mass, and 'red currant jelly' stool from mucosal ischaemic sloughing; ultrasound confirms the 'bull's-eye' sign."
+    },
+    "sourceStation": null
+  }
+]

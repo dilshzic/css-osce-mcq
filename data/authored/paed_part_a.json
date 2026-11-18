@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "paed_001_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Paed Q5",
+    "imagePath": "images/paed/paed_001.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "CHDR Growth Charts",
+    "stem": "During a paediatric clinical skills assessment, you are shown the Sri Lankan child health record booklet pictured, which monitors longitudinal growth from birth through adolescence. Which combination accurately lists the five anthropometric growth charts included in this booklet?",
+    "options": [
+      "Weight-for-age, length/height-for-age, mid-upper arm circumference-for-age, head circumference-for-age, and skinfold thickness",
+      "Weight-for-age, length/height-for-age, weight-for-length/height, head circumference-for-age, and BMI-for-age",
+      "Weight-for-age, sitting height-for-age, weight-for-length/height, chest circumference-for-age, and BMI-for-age",
+      "Birthweight-for-gestation, length/height-for-age, weight-for-length/height, head circumference-for-age, and waist-for-height",
+      "Weight-for-age, length/height-for-age, arm span-for-age, mid-upper arm circumference-for-age, and ponderal index"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: MUAC is measured with a Shakir tape rather than plotted on a dedicated CHDR chart, and triceps skinfold thickness is not part of the CHDR.",
+      "Correct: The Sri Lankan CHDR contains five WHO-based growth charts: Weight-for-Age (0–5 years), Length/Height-for-Age (0–5 years), Weight-for-Length/Height (0–5 years), Head Circumference-for-Age (0–3 years), and BMI-for-Age (5–18 years).",
+      "Incorrect: Sitting height and chest circumference charts are not included among the standard five CHDR growth charts.",
+      "Incorrect: Fetal/neonatal birthweight-for-gestational-age curves and waist-for-height ratios are not the standard five CHDR charts.",
+      "Incorrect: Arm span, MUAC charts, and ponderal index are specialised indices not plotted in the five core CHDR graphs."
+    ],
+    "clinicalPearl": "In the Sri Lankan CHDR, Weight-for-Age, Length/Height-for-Age, and Weight-for-Length/Height span 0–5 years, OFC spans 0–3 years, and BMI-for-Age covers 5–18 years.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "CHDR includes Weight-for-Age, Length/Height-for-Age, Weight-for-Length/Height, Head Circumference-for-Age, and BMI-for-Age growth charts."
+    },
+    "sourceStation": {
+      "id": "paed_001",
+      "title": "Child Health Development Record (CHDR) — 5 Growth Charts",
+      "originalPrompt": "Q.5\nList 5 types of charts in this book (CHDR) used to measure the growth of children.",
+      "verifiedAnswer": "(1) Weight-for-Age (0–5 years); (2) Length/Height-for-Age (0–5 years); (3) Weight-for-Length/Height (0–5 years); (4) Head Circumference (Occipitofrontal Circumference, OFC)-for-Age (0–3 years); (5) Body Mass Index (BMI)-for-Age (5–18 years / adolescent chart in CHDR).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_002_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Paed Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Growth Faltering",
+    "stem": "At a child welfare clinic, a 9-month-old term infant's CHDR weight-for-age curve tracks along the median centile from birth to 4 months, then flattens and crosses downward across two major centile channels over the next 5 months while length-for-age remains on the 50th centile. Which clinical interpretation and most common primary-care cause best explain this pattern?",
+    "options": [
+      "Constitutional familial short stature reflecting parental genetic height potential",
+      "Normal physiological catch-down growth typical of healthy breastfed infants after 4 months",
+      "Primary growth hormone deficiency presenting acutely before 1 year of age",
+      "Post-4-month growth faltering due to inadequate caloric intake or improper complementary feeding",
+      "Satisfactory catch-up growth following unrecognised intrauterine growth restriction"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Familial short stature presents with a low height-for-age tracking parallel to centiles from early childhood rather than isolated post-4-month weight drop.",
+      "Incorrect: Crossing two major centile channels downward is pathological growth faltering and never a benign breastfed variant without investigation.",
+      "Incorrect: Growth hormone deficiency impairs linear height velocity predominantly and typically preserves or relatively increases weight-for-height.",
+      "Correct: Flattening and downward centile crossing of weight after 4 months with preserved height indicates acute-on-subacute growth faltering, most commonly from lactation insufficiency or delayed/inadequate weaning foods.",
+      "Incorrect: Catch-up growth manifests as upward crossing toward higher centile channels rather than downward flattening across centiles."
+    ],
+    "clinicalPearl": "Weight faltering precedes height faltering in nutritional insufficiency; in Sri Lankan primary care, onset around 4–6 months classically points to weaning failure or recurrent infections.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Downward crossing of weight centiles on the CHDR after 4 months indicates growth faltering, commonly due to inadequate complementary feeding or recurrent infections."
+    },
+    "sourceStation": {
+      "id": "paed_002",
+      "title": "CHDR Growth Faltering from 4 Months Onwards",
+      "originalPrompt": "02. Growth chart in the CHDR of an infant (~8–10 months old — showing growth faltering from the 4th month onwards).\nDescribe the growth of the child, and give 2 possible causes for the abnormality.  [Chart omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Growth description: Normal early growth up to 4 months, followed by growth faltering (weight curve flattening/dropping across major centile channels from 4 months onwards). Possible causes: (1) Inadequate caloric intake / improper complementary feeding (weaning failure) around 4–6 months or lactation insufficiency; (2) Recurrent acute infections (diarrhoea, RTIs, UTIs); (3) Chronic systemic disease (congenital heart disease, malabsorption/coeliac, renal tubular acidosis).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_003_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Paed Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Preterm Catch-Up Growth",
+    "stem": "An infant born prematurely at 32 weeks' gestation with a birth weight below −3 SD on the CHDR weight-for-age chart is reassessed at 8 months of chronological age. Serial measurements show steady upward crossing of centile lines, reaching −2 SD at 8 months. How should this child's growth pattern be classified?",
+    "options": [
+      "Satisfactory catch-up growth with mild residual underweight requiring continued nutritional monitoring",
+      "Progressive growth faltering requiring urgent inpatient nutritional rehabilitation",
+      "Early-onset infantile obesity evidenced by rapid upward crossing of major centile channels",
+      "Severe acute malnutrition defined by a current weight-for-age z-score at −2 SD",
+      "Pathological macrocephaly-associated somatic overgrowth syndrome requiring genetic testing"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Upward centile crossing from below −3 SD to −2 SD reflects positive catch-up growth in a preterm low-birth-weight infant, though weight at −2 SD remains mildly low and merits ongoing nutritional support.",
+      "Incorrect: Growth faltering is defined by flattening or downward centile crossing, whereas this infant is moving steadily upward.",
+      "Incorrect: Upward crossing from −3 SD to −2 SD remains below the median and represents healthy catch-up rather than excess adiposity.",
+      "Incorrect: Severe underweight/SAM corresponds to below −3 SD, whereas −2 SD marks the threshold of moderate underweight while moving upward.",
+      "Incorrect: Steady weight recovery toward the normal range after prematurity is expected physiological catch-up, not an overgrowth syndrome."
+    ],
+    "clinicalPearl": "In preterm or LBW infants, evaluate serial trajectory rather than a single point; upward crossing toward the normal band indicates satisfactory catch-up growth.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "CHDR serial weight plotting assesses growth trajectory; upward centile-crossing in a preterm LBW infant represents catch-up growth."
+    },
+    "sourceStation": {
+      "id": "paed_003",
+      "title": "Catch-Up Growth in a Preterm Low-Birth-Weight Infant",
+      "originalPrompt": "02. Growth chart in the CHDR of an infant who was born premature with a low birth weight below -3 SD, now at 8 months still at -2 SD.\nComment on the child's growth.  [Chart omitted in 2013 archive files]",
+      "verifiedAnswer": "Structured CHDR growth comment: Baby was born low birth weight (below −3 SD) due to prematurity, showed steady upward centile-crossing trajectory reaching −2 SD by 8 months — demonstrating satisfactory catch-up growth (though current weight remains mildly underweight at −2 SD, requiring continued optimal nutrition and monitoring).",
+      "provenance": "[Drive Key + Completed]"
+    }
+  },
+  {
+    "id": "paed_004_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Paed Q1",
+    "imagePath": "images/paed/paed_004.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Macrocephaly Investigation",
+    "stem": "A 6-month-old term girl has routine measurements plotted on the 0–1 year girls' chart shown: weight 7.4 kg (50th centile), length 66 cm (50th centile), and occipitofrontal head circumference 48 cm (> +3 SD; normal 6-month median ~42.2 cm). What is the most accurate interpretation and priority next step?",
+    "options": [
+      "Proportionate somatic macrosomia requiring maternal dietary counselling and routine review in 3 months",
+      "Benign constitutional variant requiring no investigation because somatic weight and length are normal",
+      "Primary craniosynostosis causing premature suture closure requiring immediate vault distraction",
+      "Severe acute malnutrition presenting with relative head sparing on the WHO growth standard",
+      "Isolated severe macrocephaly requiring urgent cranial ultrasound or MRI to exclude hydrocephalus"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Weight and length are exactly at the median (50th centile), so this is disproportionate isolated macrocephaly rather than general macrosomia.",
+      "Incorrect: OFC exceeding +3 SD in infancy is never dismissed as benign without neuroimaging and clinical assessment for raised intracranial pressure.",
+      "Incorrect: Craniosynostosis typically restricts cranial vault expansion (microcephaly or abnormal skull shape) rather than producing symmetric OFC > +3 SD.",
+      "Incorrect: Weight and length at the 50th centile exclude malnutrition, and head sparing preserves a normal OFC rather than enlarging it beyond +3 SD.",
+      "Correct: Normal weight and length at the 50th centile combined with OFC > +3 SD indicates disproportionate cranial enlargement, necessitating urgent neuroimaging to rule out hydrocephalus, subdural effusion, or an intracranial mass."
+    ],
+    "clinicalPearl": "Always interpret head circumference alongside weight and length: disproportionate OFC crossing centiles above +2/+3 SD demands urgent cranial USS (via open anterior fontanelle) or MRI.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Disproportionate occipitofrontal circumference exceeding +3 SD with normal weight and length indicates severe macrocephaly requiring neuroimaging to exclude hydrocephalus."
+    },
+    "sourceStation": {
+      "id": "paed_004",
+      "title": "6-Month-Old Girl Growth Chart — Macrocephaly",
+      "originalPrompt": "1. Growth chart (CHDR) was given.\n1. These are the measurements obtained from a 6-month-old girl (term baby):\nWeight – 7.4 kg  |  Length – 66 cm  |  Head circumference – 48 cm\nPlot these measurements on the given chart.\n2. Comment on her growth.",
+      "verifiedAnswer": "(1) Plotting at 6 months (WHO girl standards): Weight 7.4 kg ≈ 50th centile (median); Length 66 cm ≈ 50th centile (median); Head circumference 48 cm is well above +3 SD (> 99th centile) (normal 6m girl median HC ≈ 42.2 cm). (2) Comment: Normal somatic growth (weight & length appropriate for age) with isolated severe macrocephaly (disproportionately rapid OFC enlargement — urgently exclude hydrocephalus, subdural effusion, or intracranial mass via cranial USS/MRI).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_005_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Paed Q2",
+    "imagePath": "images/paed/paed_005.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Infant Weighing Scales",
+    "stem": "A 3-month-old infant is weighed on a hospital paediatric ward using the horizontal beam pan scale pictured, rather than a hanging Salter spring scale commonly deployed in community field clinics. What is the key clinical advantage of the horizontal pan scale shown for this age group?",
+    "options": [
+      "Lightweight portability and freedom from requiring a flat table during rural outreach visits",
+      "Ability to measure standing weight and recumbent length simultaneously in a single reading",
+      "Higher weighing precision and safe supine support for young infants lacking head and trunk control",
+      "Automatic exclusion of clothing and nappy weight without needing to tare or zero the instrument",
+      "Lower procurement cost and easier suspension from clinic ceilings or tree branches in field camps"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Portability and independence from flat surfaces are advantages of the hanging Salter spring scale, not the bulky infant pan scale.",
+      "Incorrect: A pan scale measures body weight only; recumbent length requires a separate infantometer.",
+      "Correct: An infant pan scale supports the entire body safely in supine/seated posture and minimizes parallax and movement-related reading errors compared with a hanging sling spring scale.",
+      "Incorrect: Every weighing scale still requires zeroing/taring and weighing the infant unclothed or with dry nappy weight subtracted.",
+      "Incorrect: Ceiling or branch suspension applies to hanging spring scales, whereas infant pan scales cost more and require a sturdy level surface."
+    ],
+    "clinicalPearl": "Use a horizontal infant pan scale for infants < 6 months (who lack head/trunk control) and whenever high accuracy is needed; hanging Salter scales suit portable field screening in older infants.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Infant pan scales provide superior accuracy and safe supine support for young infants (< 6 months) compared with portable hanging spring scales."
+    },
+    "sourceStation": {
+      "id": "paed_005",
+      "title": "Infant Pan Scale vs Hanging Salter/SECA Spring Scale",
+      "originalPrompt": "2)\na. Identify the instrument.\nb. Mention one advantage and disadvantage of using the lower scale compared to the upper one.",
+      "verifiedAnswer": "(a) SECA/Salter hanging spring scale (bottom) vs Digital/beam infant pan scale (top). (b) Lower scale vs upper: Advantages: Portable, lightweight, inexpensive, requires no electricity (ideal for field/MOH clinics); Disadvantages: Less accurate (reading error due to child movement/parallax), unsuitable/unsafe for young infants below 6 months without head/trunk control.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_006_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Paed Q2",
+    "imagePath": "images/paed/paed_006.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Severe Acute Malnutrition",
+    "stem": "A 2-year-old girl presents to an MOH clinic with a weight of 7.5 kg and a length of 85 cm. Plotting on the girls' CHDR charts shown places her length-for-age between the 25th and 50th centiles, while both her weight-for-age and weight-for-length fall below −3 SD. What is the exact nutritional diagnosis?",
+    "options": [
+      "Severe acute malnutrition (severe wasting) without stunting",
+      "Severe chronic malnutrition (stunting) with proportional weight-for-height",
+      "Moderate acute malnutrition (moderate wasting) with mild linear stunting",
+      "Combined severe stunting and moderate acute malnutrition requiring Thriposha alone",
+      "Constitutional familial small stature with normal nutritional reserves"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Weight-for-length below −3 SD defines severe acute malnutrition (severe wasting), while normal length-for-age (25th–50th centile) excludes chronic stunting.",
+      "Incorrect: Stunting requires length/height-for-age below −2 SD (severe < −3 SD), whereas this child's length of 85 cm at 2 years is normal.",
+      "Incorrect: Moderate acute malnutrition lies between −2 SD and −3 SD on weight-for-height, whereas this child is already below −3 SD.",
+      "Incorrect: Both the stunting classification and moderate wasting severity are inaccurate; a weight-for-height < −3 SD signifies SAM requiring therapeutic feeding.",
+      "Incorrect: Constitutional smallness affects height proportionally with normal weight-for-height, unlike severe wasting below −3 SD."
+    ],
+    "clinicalPearl": "Normal height-for-age with Weight-for-Height < −3 SD signifies acute severe wasting (SAM); chronic undernutrition lowers Height-for-Age (< −2 SD) first.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "WHO/CHDR Weight-for-Height below −3 SD defines Severe Acute Malnutrition (severe wasting), independent of normal Length-for-Age."
+    },
+    "sourceStation": {
+      "id": "paed_006",
+      "title": "Severe Acute Malnutrition (SAM) in a 2-Year-Old Girl",
+      "originalPrompt": "02) 2-year-old girl with a 7.5 kg weight and 85 cm of length presented to your MOH clinic (CHDR charts shown).\n1) Comment on her growth.\n2) What is the diagnosis?",
+      "verifiedAnswer": "(1) Growth comment: Height 85 cm at 2 years is normal for age (~25th–50th centile); Weight 7.5 kg is below −3 SD on Weight-for-Age AND below −3 SD on Weight-for-Height (WHO −3 SD for 85 cm girl is ~8.6 kg). (2) Diagnosis: Severe Acute Malnutrition (SAM) / Severe wasting without stunting.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_007_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Paed Q1",
+    "imagePath": "images/paed/paed_007.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Failure to Thrive and Macrocephaly",
+    "stem": "A 9-month-old boy assessed using the boys' CHDR charts shown has a weight of 7.3 kg (~−2 SD), length of 67.5 cm (~−2 SD), and head circumference of 48 cm (> +2 SD; normal 9-month median ~45 cm). Which combined interpretation best summarises his clinical findings?",
+    "options": [
+      "Proportionate somatic growth faltering with compensatory relative microcephaly",
+      "Isolated constitutional stunting with normal weight velocity and normal cranial circumference",
+      "Normal anthropometric profile for a 9-month-old boy requiring only routine immunisation",
+      "Primary microcephaly with severe acute wasting from chronic malabsorption",
+      "Failure to thrive (underweight and stunted) with macrocephaly requiring evaluation for hydrocephalus"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: A head circumference of 48 cm at 9 months is markedly above +2 SD (macrocephaly), not microcephaly.",
+      "Incorrect: Both weight-for-age (~−2 SD) and head circumference (> +2 SD) are abnormal, excluding isolated constitutional stunting.",
+      "Incorrect: Crossing −2 SD downward for somatic size alongside > +2 SD cranial enlargement is abnormal and requires diagnostic workup.",
+      "Incorrect: OFC is enlarged (> +2 SD), and length-for-age is also reduced (~−2 SD), incompatible with primary microcephaly.",
+      "Correct: Weight-for-age and length-for-age around −2 SD indicate underweight and stunting (failure to thrive), while OFC > +2 SD denotes macrocephaly—a combination classically seen in hydrocephalus or raised intracranial pressure."
+    ],
+    "clinicalPearl": "When poor somatic weight/length growth coexists with an accelerating head circumference (> +2 SD), strongly suspect hydrocephalus causing chronic vomiting/poor feeding.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "CHDR plotting compares Weight-for-Age, Length-for-Age, and OFC-for-Age simultaneously to detect discordant macrocephaly with failure to thrive."
+    },
+    "sourceStation": {
+      "id": "paed_007",
+      "title": "9-Month-Old Boy Anthropometry — Failure to Thrive + Macrocephaly",
+      "originalPrompt": "1) A doctor has recorded values of a 9-month-old boy (CHDR charts shown):\n• Weight for Age: 7.3 kg  • Length for Age: 67.5 cm (printed 'kg' in PDF)  • Head Circumference: 48 cm\n1. Interpret your findings: (a) Weight for age (b) Length for age (c) Head circumference.\n2. What does this baby have?",
+      "verifiedAnswer": "(1) Interpretation (WHO 9m boy): Weight 7.3 kg = low (~−2 SD, underweight); Length 67.5 cm = low (approx −2 SD, stunted); Head circumference 48 cm = above +2 SD (> 97th centile) (normal 9m boy HC ≈ 45 cm). (2) Diagnosis: Macrocephaly (suspected hydrocephalus) associated with failure to thrive (underweight and stunting).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_008_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Paed Q2",
+    "imagePath": "images/paed/paed_008.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Stadiometer Technique",
+    "stem": "A 4-year-old boy is having his standing height measured using the wall-mounted stadiometer shown. Which positioning technique ensures an accurate and reproducible measurement?",
+    "options": [
+      "Wearing flat shoes with the chin tilted upward so the eyes gaze slightly above the horizontal",
+      "Standing 5 cm clear of the vertical board with knees slightly flexed to flatten lumbar lordosis",
+      "Barefoot with heels, buttocks, scapulae, and occiput against the board, and head in the Frankfurt horizontal plane",
+      "Looking down at the toes while an assistant applies upward traction beneath the mandible",
+      "Measuring supine length on an infantometer whenever a child is younger than 5 years of age"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Footwear inflates height and tilting the chin upward elevates the occiput out of the Frankfurt horizontal plane, producing false readings.",
+      "Incorrect: The child must stand upright with knees straight and heels, buttocks, scapulae, and occiput touching the vertical board.",
+      "Correct: Accurate stadiometry requires removing footwear/headgear, maintaining four posterior contact points (heels, buttocks, shoulder blades, occiput), aligning the lower orbital margin horizontally with the external auditory meatus (Frankfurt plane), and lowering the headboard firmly at end expiration.",
+      "Incorrect: Looking downward flexes the neck out of the Frankfurt plane and alters crown height.",
+      "Incorrect: Standing height via a stadiometer is standard from 2 years of age onward; supine infantometry is reserved for children under 2 years."
+    ],
+    "clinicalPearl": "In the Frankfurt horizontal plane, an imaginary line joining the lower margin of the orbit and the upper border of the external auditory meatus is parallel to the floor.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Standing height (≥ 2 years) is measured barefoot on a stadiometer with heels, buttocks, scapulae, and occiput aligned and head in the Frankfurt plane."
+    },
+    "sourceStation": {
+      "id": "paed_008",
+      "title": "Stadiometer — Accurate Height Measurement Technique",
+      "originalPrompt": "2)\n• What is the instrument?\n• Write two techniques used for correct measurement.",
+      "verifiedAnswer": "Instrument: Stadiometer (measures standing height in children aged ≥ 2 years; note student PPTX recreation had substituted an infantometer). 2 Correct Measurement Techniques: (1) Child stands barefoot with heels, buttocks, shoulder blades (scapulae), and back of head touching the vertical board and feet flat together; (2) Position head in the Frankfurt horizontal plane (line from lower orbital margin to external auditory meatus horizontal), lower the movable horizontal headboard firmly onto the crown at end expiration, and read at eye level.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_009_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Paed Q4",
+    "imagePath": "images/paed/paed_009.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Diarrhoea Adjunct Supplements",
+    "stem": "A 14-month-old boy presents to a paediatric outpatient clinic with acute watery diarrhoea and mild dehydration. Alongside oral rehydration therapy, which of the preparations shown is recommended for 10–14 days specifically to reduce diarrhoeal duration, severity, and subsequent episodes?",
+    "options": [
+      "Jeevanee oral rehydration salts (top-left)",
+      "Zinc sulphate 20 mg dispersible tablets (bottom-right)",
+      "Thriposha cereal supplement (top-right)",
+      "BP-100 therapeutic biscuit bars (bottom-left)",
+      "Oral iron-folate supplementation syrup (IRICH-XT)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Jeevanee (WHO reduced-osmolarity ORS) prevents and treats dehydration via sodium-glucose co-transport, but it does not reduce stool duration or severity.",
+      "Correct: WHO/Sri Lankan guidelines recommend oral zinc (20 mg/day for 10–14 days in children ≥ 6 months; 10 mg/day if < 6 months) alongside ORS to shorten acute diarrhoea and prevent recurrence over the next 2–3 months.",
+      "Incorrect: Thriposha is a protein-energy supplementary food for moderate malnutrition/growth faltering (> 6 months) and pregnant/lactating mothers, not acute diarrhoeal therapy.",
+      "Incorrect: BP-100 is a ready-to-use therapeutic food (RUTF) used for the rehabilitation phase of severe acute malnutrition (SAM), not as an acute diarrhoea adjunct.",
+      "Incorrect: Iron-folate preparations such as IRICH-XT treat iron-deficiency anaemia and have no role in shortening acute watery diarrhoea."
+    ],
+    "clinicalPearl": "Remember the four classic Sri Lankan paediatric clinic packs: Jeevanee (WHO ORS = 245 mOsm/L), Zinc 20 mg (10–14 days in diarrhoea), Thriposha (MAM/supplementary), and BP-100 (SAM RUTF).",
+    "guideCitation": {
+      "guideId": "guide_paed_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions (Paediatrics)",
+      "keyPoint": "Reduced-osmolarity ORS (245 mmol/L) prevents dehydration via sodium-glucose co-transport, while zinc supplementation reduces diarrhoea duration and recurrence."
+    },
+    "sourceStation": {
+      "id": "paed_009",
+      "title": "Rehydration & Nutritional Supplements (Jeevanee, Thriposha, BP-100, Zinc / IRICH-XT)",
+      "originalPrompt": "4) Four paediatric sachets/supplements (A–D) are shown.\nWrite one indication for each one.",
+      "verifiedAnswer": "A — Jeevanee (WHO ORS): Prevention and treatment of dehydration in acute watery diarrhoea; B — Thriposha: Supplementary feeding for moderate malnutrition/growth faltering (> 6 months) and pregnant/lactating mothers; C — BP-100: Therapeutic ready-to-use food for Severe Acute Malnutrition (SAM) rehabilitation phase; D — Zinc sulphate 20 mg (PDF): Adjunct in acute/persistent childhood diarrhoea (10–14 days, reduces duration/severity) [2018 PPTX variant IRICH-XT: Iron-folate-zinc supplementation for nutritional/iron deficiency anaemia].",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_010_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Paed Q11",
+    "imagePath": "images/paed/paed_010.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Prader Orchidometer",
+    "stem": "A 14-year-old boy is referred for evaluation of delayed puberty. During genital examination, the paediatrician compares each testis against the numbered ellipsoid beads shown in the top-right panel. What anatomical parameter does this tool quantify, and what value indicates central pubertal onset in boys?",
+    "options": [
+      "Testicular volume in millilitres, with ≥ 12 mL required to mark pubertal onset",
+      "Stretched penile length in centimetres, with ≥ 6 cm marking pubertal onset",
+      "Scrotal skin thickness in millimetres, with ≥ 8 mm confirming testicular descent",
+      "Testicular volume in millilitres, with ≥ 4 mL marking the onset of puberty",
+      "Epididymal cyst diameter in millimetres, with ≥ 15 mm indicating hydrocoele"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A volume of 12–25 mL corresponds to mid-to-adult testicular size (Tanner G4–G5), whereas pubertal onset begins at 4 mL.",
+      "Incorrect: Stretched penile length is measured with a rigid ruler rather than an orchidometer and is not the first sign of central puberty.",
+      "Incorrect: The Prader orchidometer measures testicular volume by palpation comparison, not scrotal skinfold thickness.",
+      "Correct: The Prader orchidometer contains numbered beads from 1 to 25 mL; a testicular volume ≥ 4 mL is the first physical sign of central gonadotrophin-dependent puberty in boys.",
+      "Incorrect: An orchidometer assesses normal and pubertal testicular volume rather than cystic scrotal pathology."
+    ],
+    "clinicalPearl": "Prader orchidometer volumes: 1–3 mL = prepubertal; ≥ 4 mL = onset of puberty (first physical sign in boys); 12–25 mL = mature adult range.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Prader orchidometer quantifies testicular volume (1–25 mL beads); ≥ 4 mL signifies onset of puberty in boys."
+    },
+    "sourceStation": {
+      "id": "paed_010",
+      "title": "Stadiometer, Infantometer & Prader Orchidometer",
+      "originalPrompt": "11. Paediatrics\nIdentify the following 3 objects and mention the uses of each.",
+      "verifiedAnswer": "(1) Stadiometer — measure standing height in children older than 2 years; (2) Infantometer — measure recumbent length in children under 2 years; (3) Prader Orchidometer — accurately measure testicular volume (assessing pubertal staging/precocious or delayed puberty, 1–25 mL beads).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_011_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Paed Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "CHDR Chart Age Ranges",
+    "stem": "During a community paediatrics assessment, a medical student inspects the Sri Lankan Child Health Development Record (CHDR) at a 3-year child health review. Which anthropometric chart in the CHDR ends at 3 years of age rather than continuing to 5 years?",
+    "options": [
+      "Weight-for-age growth chart",
+      "Length/height-for-age chart",
+      "Head circumference-for-age chart",
+      "Weight-for-length/height chart",
+      "Body mass index-for-age chart"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: The Weight-for-Age chart in the CHDR tracks children from birth up to 5 years of age.",
+      "Incorrect: The Length/Height-for-Age chart in the CHDR covers birth to 5 years (with supine length < 2 years and standing height ≥ 2 years).",
+      "Correct: In the Sri Lankan CHDR, the head circumference-for-age chart spans 0–3 years, whereas weight-for-age, length/height-for-age, and weight-for-length/height extend to 5 years.",
+      "Incorrect: The Weight-for-Length/Height chart in the CHDR extends up to 5 years of age to monitor wasting and overweight.",
+      "Incorrect: The BMI-for-Age chart in the CHDR covers older children and adolescents from 5 to 18 years."
+    ],
+    "clinicalPearl": "Age spans in the CHDR: OFC (0–3 y), Weight/Height/Weight-for-Height (0–5 y), and BMI-for-Age (5–18 y).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "CHDR anthropometric graphs cover OFC-for-Age (0–3 years), Weight/Length-Height/Weight-for-Height (0–5 years), and BMI-for-Age (5–18 years)."
+    },
+    "sourceStation": {
+      "id": "paed_011",
+      "title": "CHDR Book & Four Growth Graphs",
+      "originalPrompt": "2. Identify this book (Child Health Development Record / CHDR).\nState 4 graphs in this book.  [Book cover image omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "Book: Child Health Development Record (CHDR). 4 Graphs: Weight-for-Age, Length/Height-for-Age, Weight-for-Length/Height, Head Circumference-for-Age (plus BMI-for-Age).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_012_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Paed Q3",
+    "imagePath": "images/paed/paed_012.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Infantometer vs Stadiometer",
+    "stem": "Three paediatric anthropometric instruments are shown from left to right. At what age should linear measurement switch from the middle apparatus (recumbent) to the right-hand apparatus (standing), and what systematic difference exists between the two measurements?",
+    "options": [
+      "At 2 years (24 months), as recumbent length averages approximately 0.7 cm greater than standing height",
+      "At 12 months, as standing height averages 1.5 cm greater than recumbent length due to leg extension",
+      "At 36 months, because the sliding footboard of an infantometer cannot measure beyond 85 cm",
+      "At 18 months, as soon as the child achieves independent walking with a steady gait",
+      "At 5 years, when the child moves from the under-5 CHDR charts to the school-age BMI chart"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: WHO standards transition from supine length (infantometer) to standing height (stadiometer) at 24 months because gravity and spinal curvature make standing height ~0.7 cm shorter than recumbent length.",
+      "Incorrect: Recumbent length is slightly greater (not shorter) than standing height, and the transition occurs at 24 months rather than 12 months.",
+      "Incorrect: Standard infantometers measure up to 100–110 cm, and the WHO growth chart cut-off between length and height is 24 months.",
+      "Incorrect: Independent walking ability does not dictate the WHO reference transition; 24 months is the standardised switch point.",
+      "Incorrect: Standing height via a stadiometer begins at 2 years, not 5 years."
+    ],
+    "clinicalPearl": "If a child ≥ 2 years can only be measured lying down (or < 2 years measured standing), apply the 0.7 cm WHO adjustment before plotting on the age-appropriate curve.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Use an infantometer for recumbent length (< 2 years) and a stadiometer for standing height (≥ 2 years); recumbent length is ~0.7 cm greater than standing height."
+    },
+    "sourceStation": {
+      "id": "paed_012",
+      "title": "Anthropometric Equipment (Infantometer, Pan Scale, Stadiometer)",
+      "originalPrompt": "3. Identify the following photographs of equipment used to take anthropometric measurements.",
+      "verifiedAnswer": "(1) Infantometer (recumbent length below 2 years); (2) Infant pan weighing scale; (3) Stadiometer (standing height ≥ 2 years).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_013_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Paed Q11",
+    "imagePath": "images/paed/paed_013.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Childhood Obesity & Insulin Resistance",
+    "stem": "An 11-year-old boy has his BMI plotted on the 5–19 years WHO chart shown (red dot above +2 SD), accompanied by the velvety hyperpigmented neck lesion photographed. Which underlying pathophysiological mechanism does this skin sign reflect, and which metabolic complication requires screening?",
+    "options": [
+      "Primary autoimmune adrenal insufficiency, prompting a morning cortisol and short Synacthen test",
+      "Severe dietary zinc deficiency, prompting empiric oral zinc supplementation and sweat chloride testing",
+      "Untreated congenital hypothyroidism, prompting thyroid ultrasonography and levothyroxine initiation",
+      "Hyperinsulinaemia and insulin resistance, prompting screening for type 2 diabetes mellitus and dyslipidaemia",
+      "Superficial tinea versicolor colonisation, prompting topical selenium sulphide shampoo alone"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Addisonian hyperpigmentation is diffuse over palmar creases, scars, and buccal mucosa rather than velvety flexural acanthosis nigricans in an obese child.",
+      "Incorrect: Zinc deficiency (acrodermatitis enteropathica) causes erosive periorificial and acral dermatitis with alopecia and diarrhoea, not velvety neck plaques.",
+      "Incorrect: Hypothyroidism slows linear height velocity and causes dry skin/myxoedema rather than velvety flexural hyperpigmentation.",
+      "Correct: Childhood obesity (BMI > +2 SD) with acanthosis nigricans is a classic clinical marker of hyperinsulinaemia/insulin resistance, warranting screening for impaired glucose tolerance/T2DM, dyslipidaemia, hypertension, and MASLD.",
+      "Incorrect: Tinea versicolor produces scaly hypopigmented or finely desquamating macules rather than thick, velvety hyperpigmented folds."
+    ],
+    "clinicalPearl": "Acanthosis nigricans in an obese child is an external marker of insulin resistance—always check blood pressure, fasting glucose/HbA1c, lipid profile, and liver transaminases.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "BMI-for-Age > +2 SD defines childhood obesity; acanthosis nigricans signifies insulin resistance and warrants screening for type 2 diabetes, dyslipidaemia, and metabolic syndrome."
+    },
+    "sourceStation": {
+      "id": "paed_013",
+      "title": "Childhood Obesity & Acanthosis Nigricans",
+      "originalPrompt": "11. A growth abnormality plotted in a CHDR chart and an image of a lesion on the neck of the same child are shown below.\n11.1 What is the growth abnormality this child is having?\n11.2 What is the physical sign?\n11.3 Write one (01) metabolic complication this child can have.",
+      "verifiedAnswer": "(11.1) Childhood obesity (BMI-for-age above +2 SD / > 95th–97th centile). (11.2) Acanthosis nigricans (marker of hyperinsulinaemia / insulin resistance). (11.3) Metabolic complication: Type 2 diabetes mellitus / Impaired glucose tolerance, Dyslipidaemia, Metabolic syndrome / MASLD (fatty liver), Hypertension.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_014_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Paed Q5",
+    "imagePath": "images/paed/paed_014.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Familial & Constitutional Short Stature",
+    "stem": "A 12-year-old boy is referred for evaluation of short stature. Serial height measurements from age 2 to 12 years (plotted in blue) lie persistently below the 3rd centile but track steadily parallel to the normal centile curves. Which pair of diagnoses best accounts for this growth pattern?",
+    "options": [
+      "Acquired growth hormone deficiency or untreated juvenile hypothyroidism",
+      "Familial (genetic) short stature or constitutional delay of growth and puberty",
+      "Active coeliac disease or Crohn disease causing progressive intestinal malabsorption",
+      "Exogenous corticosteroid toxicity or Cushing syndrome suppressing epiphyseal plates",
+      "Craniopharyngioma causing progressive hypothalamic-pituitary growth arrest"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Pathological endocrine causes characteristically demonstrate a slowed height velocity with progressive downward crossing across centile lines.",
+      "Correct: Persistent height below the 3rd centile with normal growth velocity (tracking parallel to centile lines without downward crossing) typifies normal-variant short stature: familial short stature or constitutional growth delay.",
+      "Incorrect: Chronic gastrointestinal malabsorption causes declining growth velocity and downward centile crossing rather than steady parallel tracking.",
+      "Incorrect: Glucocorticoid excess flattens linear height velocity markedly while weight gain continues upward.",
+      "Incorrect: Structural pituitary lesions arrest linear growth velocity, producing a flattened curve diverging downward from normal centiles."
+    ],
+    "clinicalPearl": "Normal height velocity (parallel tracking below the 3rd centile) points to familial short stature (bone age = chronological age) or constitutional delay (bone age delayed, matching height age).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Height tracking below the 3rd centile yet parallel to normal curves indicates preserved growth velocity, typical of familial short stature or constitutional delay."
+    },
+    "sourceStation": {
+      "id": "paed_014",
+      "title": "Growth Chart — Familial / Constitutional Short Stature",
+      "originalPrompt": "05.\n5.1 Comment on this growth chart.\n5.2 Give two possible causes for this presentation.",
+      "verifiedAnswer": "(5.1) Growth comment: Height-for-age is persistently below the 3rd centile (−2 SD), tracking parallel to the normal centile curves with normal growth velocity (no progressive downward centile crossing). (5.2) Causes: Familial (genetic) short stature and Constitutional delay of growth and puberty (also chronic systemic illness/hypothyroidism/GH deficiency/Turner syndrome if velocity slows).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_015_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Paed Q1",
+    "imagePath": "images/paed/paed_015.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "MUAC Screening Technique",
+    "stem": "A public health nurse uses the colour-coded tape shown to screen a 30-month-old child for acute malnutrition during a community clinic. Where is this tape applied, and what reading establishes severe acute malnutrition (SAM)?",
+    "options": [
+      "Mid-point between the acromion and olecranon of the dominant upper arm; reading below 12.5 cm",
+      "At the maximal biceps bulge with the elbow flexed 90°; reading below 13.5 cm",
+      "At the deltoid tuberosity of the left arm; reading below 10.5 cm",
+      "Five centimetres distal to the left antecubital crease; reading below 11.5 cm",
+      "Mid-point between the acromion and olecranon of the left upper arm; reading below 11.5 cm"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: MUAC is standardised on the left arm, and 11.5–12.4 cm (yellow) indicates moderate acute malnutrition (MAM), whereas < 11.5 cm indicates SAM.",
+      "Incorrect: Although the mid-point is marked with the elbow bent 90°, the circumference itself is read with the arm hanging relaxed at the side, and ≥ 12.5 cm (green) is normal.",
+      "Incorrect: The landmark is the exact mid-point between acromion and olecranon, and the WHO SAM cut-off is < 11.5 cm.",
+      "Incorrect: Mid-forearm circumference is not used for anthropometric malnutrition screening.",
+      "Correct: Mid-upper arm circumference (MUAC / Shakir strip) is measured at the exact mid-point between the acromial process and olecranon of the relaxed left arm; in children aged 6–59 months, < 11.5 cm (red) defines SAM."
+    ],
+    "clinicalPearl": "MUAC cut-offs for children 6–59 months: Red (< 11.5 cm) = SAM; Yellow (11.5–12.4 cm) = MAM; Green (≥ 12.5 cm) = Normal.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "MUAC (Shakir strip) in children 6–59 months defines SAM at < 11.5 cm (red), MAM at 11.5–12.4 cm (yellow), and normal at ≥ 12.5 cm (green)."
+    },
+    "sourceStation": {
+      "id": "paed_015",
+      "title": "Mid-Upper Arm Circumference (MUAC) Tape (Shakir Strip)",
+      "originalPrompt": "1. The mid-arm of a severely malnourished baby is measured.\nWhat is the equipment used to check mid-arm circumference?",
+      "verifiedAnswer": "MUAC tape (Shakir strip / Mid-Upper Arm Circumference tape) — used in children aged 6–59 months: Red (below 11.5 cm) = Severe Acute Malnutrition (SAM); Yellow (11.5–12.4 cm) = Moderate Acute Malnutrition (MAM); Green (≥ 12.5 cm) = Normal.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_016_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Paed Q4",
+    "imagePath": "images/paed/paed_016.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Head Control & Prone Milestones",
+    "stem": "A healthy infant demonstrates the two motor findings photographed: lifting the head and upper chest off the surface to 90° while bearing weight on the forearms in prone (A), and maintaining steady head alignment with minimal or no head lag on the pull-to-sit manoeuvre (B). What is this infant's developmental age?",
+    "options": [
+      "6 weeks",
+      "6 to 7 months",
+      "9 to 10 months",
+      "3 to 4 months",
+      "12 months"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: At 6–8 weeks, an infant lifts the chin only momentarily off the couch in prone and still exhibits noticeable head lag on pull-to-sit.",
+      "Incorrect: By 6 months, an infant sits in a tripod posture propped on outstretched hands and rolls from prone to supine.",
+      "Incorrect: By 9–10 months, an infant sits steadily without support, crawls, and pulls to stand holding furniture.",
+      "Correct: By 3–4 months of age, a term infant holds the head steady on pull-to-sit with minimal/no head lag and lifts the chest/head off the couch bearing weight on the forearms.",
+      "Incorrect: By 12 months, an infant stands independently and walks with one hand held or takes unsupported steps."
+    ],
+    "clinicalPearl": "At 3 months: no head lag on pull-to-sit, lifts head and upper chest off the couch on forearms, coos/babbles, and loses the palmar grasp reflex (3–4 months).",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 3 months: no head lag on pull to sit; lifts head and upper chest off couch bearing weight on forearms."
+    },
+    "sourceStation": {
+      "id": "paed_016",
+      "title": "Prone Forearm Weight-Bearing & Pull-to-Sit (3–4 Months)",
+      "originalPrompt": "Q.4\nTwo clinical photographs (A and B) of a young infant are shown.\nA.) What is the sign shown in (A)?\nB.) What is the developmental age?",
+      "verifiedAnswer": "(A) Prone weight-bearing on forearms with chest/head elevated 90° (photo A) & Pull-to-sit manoeuvre assessing head control (photo B). (B) Developmental age: 3 months (3–4 months — head held steady with minimal/no head lag at 3–4 months).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "paed_017_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Paed Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Age-Appropriate Toys (4 Months)",
+    "stem": "Parents bring their healthy 4-month-old infant for developmental promotion guidance. At this stage, the infant shows midline hand regard, reaches bidextrously toward objects, and visually tracks through 180°. Which play item is most developmentally appropriate to recommend?",
+    "options": [
+      "Wooden cubes for constructing a six-block tower",
+      "Thick wax crayons and paper for circular scribbling",
+      "Brightly coloured hanging cot mobile or soft rattle",
+      "Push-and-pull wheeled toy for independent walking",
+      "Small interlocking beads for string-threading practice"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Building a tower of 5–6 cubes is a 2-year-old fine motor milestone beyond a 4-month-old's motor capabilities.",
+      "Incorrect: Scribbling with crayons emerges at 15–18 months and circular/line copying at 2 years.",
+      "Correct: At 4 months, infants develop visual tracking, hand-eye coordination, and palmar grasp, making bright hanging cot mobiles, grasp rings, and noisy rattles ideal.",
+      "Incorrect: Push-and-pull toys require steady independent walking, achieved around 15–18 months.",
+      "Incorrect: Bead threading requires mature fine-motor dexterity achieved around 2.5–3 years and poses a choking hazard at 4 months."
+    ],
+    "clinicalPearl": "Match toys to emerging motor skills and safety: 4 months = mobiles/rattles (tracking & palmar grasp, no small choking parts); 2 years = blocks, thick crayons, picture books.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 3–4 months, infants establish binocular vision, hand regard, bidextrous reach, and brief rattle grasp."
+    },
+    "sourceStation": {
+      "id": "paed_017",
+      "title": "Age-Appropriate Toys (4-Month vs 2-Year-Old)",
+      "originalPrompt": "05. Photographs of 8 different toys were provided.\nChoose 2 toys appropriate for each of the following:\n• 4-month-old child\n• 2-year-old child  [Toy array omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "4-month-old (developing hand-eye coordination, visual tracking, palmar grasp): Hanging cot mobile / bright noisy rattle / soft grasp ring. 2-year-old (tower of 6 blocks, circular scribbling, symbolic play): Building blocks (wooden/Duplo cubes), Thick crayons & paper, Picture book / push-and-pull toy.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_018_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Paed Q1",
+    "imagePath": "images/paed/paed_018.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Infant Developmental Matching",
+    "stem": "Three infants are photographed demonstrating distinct developmental capabilities: sitting propped forward on hands (A), visually tracking a suspended object (B), and picking up small pellets between thumb and index fingertip (C). Which option correctly assigns the developmental ages to panels A, B, and C?",
+    "options": [
+      "Panel A: 3 to 4 months; Panel B: 6 to 8 months; Panel C: 15 to 18 months",
+      "Panel A: 10 to 12 months; Panel B: 4 to 6 months; Panel C: 6 to 7 months",
+      "Panel A: 4 to 5 months; Panel B: 2 to 3 weeks; Panel C: 7 to 8 months",
+      "Panel A: 12 to 15 months; Panel B: 3 to 4 months; Panel C: 15 to 18 months",
+      "Panel A: 6 to 8 months; Panel B: 6 weeks to 3 months; Panel C: 10 to 12 months"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Sitting occurs at 6–8 months rather than 3–4 months, visual tracking begins much earlier than 6 months, and mature pincer grasp is achieved by 10–12 months.",
+      "Incorrect: A 6–7-month-old uses a palmar/ulnar grasp rather than a mature pincer grasp, and unsupported sitting develops before 10–12 months.",
+      "Incorrect: Sitting is achieved at 6–8 months rather than 4–5 months, visual tracking stabilizes around 6 weeks, and mature pincer grasp is 10–12 months (immature pincer at 9 months).",
+      "Incorrect: By 12–15 months an infant stands/walks rather than merely sitting propped, and mature pincer grasp precedes 15 months.",
+      "Correct: Independent/tripod sitting develops at 6–8 months (Panel A), visual tracking begins around 6 weeks and reaches 180° by 3 months (Panel B), and a mature pincer grasp is achieved at 10–12 months (Panel C)."
+    ],
+    "clinicalPearl": "Classic fine-motor grasp progression: 4m bidextrous reach → 6m palmar grasp & transfer → 9m immature pincer → 10–12m mature thumb-index pincer grasp.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Fixes and follows from 6 weeks (180° by 3m), sits unsupported 6–8m, immature pincer 9m, well-developed mature pincer grasp 10–12m."
+    },
+    "sourceStation": {
+      "id": "paed_018",
+      "title": "Developmental Matching (Pincer Grasp, Tracking, Sitting)",
+      "originalPrompt": "01. Three pictures of babies (A, B, C) are given — one holding a small pill, another looking at a moving object, and another trying to sit up.\nMatch the correct developmental age for each.",
+      "verifiedAnswer": "Holding small pill (mature pincer grip): 10 months (9–12 months); Visual tracking of moving object: 6 weeks (1.5–3 months); Sitting without support: 6–8 months (6 months rounded back / tripod, 8 months straight back).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_019_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Paed Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Age-Appropriate Toys (2 Years)",
+    "stem": "At a well-child clinic, parents of a healthy 2-year-old toddler ask which play materials best support their child's current fine motor, cognitive, and symbolic play development. Which combination is most appropriate?",
+    "options": [
+      "Building blocks (stacking 5–6 cubes) and thick crayons with paper",
+      "Black-and-white visual contrast cards and a dangling cot mobile",
+      "Small marbles for practising neat thumb-index pincer pick-up",
+      "Pointed scissors and pattern stencils for cutting out triangles",
+      "A soft cloth teething ring as the primary developmental stimulus"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: A 2-year-old can build a tower of 5–6 bricks, imitate vertical/horizontal strokes with crayons, turn single book pages, and engage in parallel and early symbolic play.",
+      "Incorrect: Visual contrast cards and hanging mobiles are designed for young infants aged 1–4 months.",
+      "Incorrect: Marbles present a severe aspiration/choking hazard in toddlers under 3 years, and pincer grasp is already established by 12 months.",
+      "Incorrect: Scissors cutting along a line and copying triangles are 4-to-5-year-old fine motor milestones.",
+      "Incorrect: Teething rings suit 4–9-month infants during early mouthing rather than stimulating a 2-year-old's symbolic and constructive play."
+    ],
+    "clinicalPearl": "At 2 years: kicks a ball, climbs stairs 2 feet/step, builds tower of 5–6 blocks, draws vertical/horizontal line, turns single pages, speaks 2–3 word phrases, and engages in parallel play.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 2 years: builds a tower of 5 bricks, copies vertical/horizontal lines with crayons, turns 1 page at a time, and engages in parallel play."
+    },
+    "sourceStation": {
+      "id": "paed_019",
+      "title": "Age-Appropriate Toys Selection (4m vs 2y)",
+      "originalPrompt": "05. Photographs of 8 different toys were provided.\nChoose 2 toys appropriate for each of the following:\n• 4-month-old child\n• 2-year-old child  [Toy photos omitted in 2013 archive files]",
+      "verifiedAnswer": "4 months: Bright hanging/moving toys & rattles (visual tracking & reaching); 2 years: Building blocks (tower of 6–7) and Crayons (scribbling/vertical line imitation).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_020_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Paed Q3",
+    "imagePath": "images/paed/paed_020.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Infant & Toddler Developmental Ages",
+    "stem": "Three developmental photographs are arranged from left to right: a baby sitting steadily while reaching upward (left), an infant smiling responsively at her mother's face (middle), and a toddler walking held by one hand (right). Which age assignment accurately matches left, middle, and right?",
+    "options": [
+      "Left: 4 months; Middle: 6 months; Right: 18 months",
+      "Left: 8–9 months; Middle: 6 weeks; Right: 12 months",
+      "Left: 12 months; Middle: 2 weeks; Right: 9 months",
+      "Left: 5 months; Middle: 4 months; Right: 24 months",
+      "Left: 15 months; Middle: 8 weeks; Right: 18 months"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: A 4-month-old cannot sit steadily unsupported, responsive smiling begins at 6 weeks (not 6 months), and by 18 months a toddler walks and runs independently.",
+      "Correct: Steady independent sitting while reaching occurs around 8–9 months, responsive social smiling emerges at 6 weeks, and walking while held by one hand occurs at 12 months.",
+      "Incorrect: Independent sitting precedes 12 months, social smile follows eye fixation around 6 weeks rather than 2 weeks, and walking held by one hand is expected around 12 months.",
+      "Incorrect: Unsupported steady sitting is not yet established at 5 months, and 24-month-olds run and climb stairs rather than requiring one-hand walking support.",
+      "Incorrect: Sitting steadily begins at 8–9 months, and walking unsupported (not merely held by one hand) is attained by 15 months."
+    ],
+    "clinicalPearl": "Key anchor milestones: 6 weeks = social smile; 3m = head control; 6m = tripod sitting; 8–9m = steady sitting; 12m = walks with one hand held; 15m = walks independently.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Social smile appears at 6–8 weeks, steady unsupported sitting at 8–9 months, and walking when held by one hand at 12 months."
+    },
+    "sourceStation": {
+      "id": "paed_020",
+      "title": "Developmental Ages (Sitting, Social Smile, Walking with Support)",
+      "originalPrompt": "3. Three photographs (A, B, C) of babies/toddlers are shown.\nWrite the correct developmental age for A, B, and C.",
+      "verifiedAnswer": "A: 8–9 months (sits steadily with straight back while reaching); B: 6 weeks (responsive social smile); C: 12 months (walks holding one hand / broad-based unsteady gait).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_021_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Paed Q4",
+    "imagePath": "images/paed/paed_021.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Geometric Shape Copying",
+    "stem": "Referring to the sequential fine-motor drawing assessment illustrated, children master copying geometric figures in a predictable order prior to copying squares and triangles. Which drawing ability is expected specifically at 3 years of age?",
+    "options": [
+      "Copying an equilateral triangle cleanly",
+      "Copying a four-sided square with crisp corners",
+      "Drawing a three-dimensional cube from memory",
+      "Making only random to-and-fro linear scribbles",
+      "Copying a complete circle accurately"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Copying a triangle is a 5-year-old fine-motor visuospatial milestone.",
+      "Incorrect: Copying a square or rectangle accurately is achieved around 4 to 4.5 years of age.",
+      "Incorrect: Copying/drawing a three-dimensional cube is an advanced late-childhood milestone achieved around 11 years.",
+      "Incorrect: Spontaneous to-and-fro scribbling occurs much earlier at 15–18 months of age.",
+      "Correct: A typically developing 3-year-old copies a complete circle accurately (after spontaneous scribbling at 18 months and vertical/horizontal lines at 2 years), preceding cross/square (4 years) and triangle (5 years)."
+    ],
+    "clinicalPearl": "Mnemonic for geometric copying milestones: Line = 2y, Circle = 3y, Cross/Square = 4y, Triangle = 5y, Diamond/Kite = 6–7y (notice shapes gain angles/complexity with each year).",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Paper-work milestones: 18m scribbling, 2 yrs vertical/horizontal line, 3 yrs circle, 4 yrs plus sign/square, 5 yrs triangle."
+    },
+    "sourceStation": {
+      "id": "paed_021",
+      "title": "Geometric Shape Copying (Circle vs Square vs Triangle)",
+      "originalPrompt": "4)\na. State the developmental age of the child.\nb. State the reason for your answer.",
+      "verifiedAnswer": "(a) 3 years old. (b) Reason: Child can copy a circle accurately (milestone achieved at 3 years) but cannot yet copy a cross/square (4–4.5 years) or triangle (5 years).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_022_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Paed Q4",
+    "imagePath": "images/paed/paed_022.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pincer Grasp & Early Walking",
+    "stem": "During a child health clinic assessment, a young child demonstrates the two developmental milestones photographed in A and B. Which option correctly names the fine motor skill in B and states the typical developmental ages for achieving A and B?",
+    "options": [
+      "Palmar grasp; Panel B at 6–7 months and Panel A at 8–9 months",
+      "Mature pincer grasp; Panel B at 10–12 months and Panel A at 12–15 months",
+      "Ulnar raking grasp; Panel B at 7–8 months and Panel A at 9–10 months",
+      "Dynamic tripod grasp; Panel B at 24–30 months and Panel A at 18 months",
+      "Bidextrous reach; Panel B at 4–5 months and Panel A at 8–9 months"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Palmar grasp involves squeezing objects into the palm with all fingers at 6 months, whereas B clearly demonstrates discrete thumb-index opposition.",
+      "Correct: Photograph B shows thumb-to-index fingertip prehension of tiny objects (mature pincer grasp, 10–12 months), while Panel A shows walking held by one hand / early independent walking (12–15 months).",
+      "Incorrect: An ulnar grasp scoops objects against the hypothenar side of the hand around 7 months rather than isolating thumb and index tips.",
+      "Incorrect: Dynamic tripod grasp refers to mature pencil holding around 3–4 years, and by 18 months a toddler walks steadily without holding an adult's hand.",
+      "Incorrect: Bidextrous reach uses both hands simultaneously at 4 months, and 9-month infants cruise along furniture rather than walking briskly held by one hand."
+    ],
+    "clinicalPearl": "Immature pincer grasp (thumb against side of index finger) emerges at 9 months; mature neat pincer grasp (fingertip pads) matures by 10–12 months.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Well-developed mature pincer grasp occurs at 10–12 months; walking if held occurs at 12 months with unsupported walking by 12–15 months."
+    },
+    "sourceStation": {
+      "id": "paed_022",
+      "title": "Walking Holding One Hand & Mature Pincer Grasp",
+      "originalPrompt": "04) Developmental milestone pictures A and B given.\n1) Name the developmental milestones A and B.\n2) State developmental age for A and B.",
+      "verifiedAnswer": "(1) Names: A = Walking held by one hand (cruising/early independent walking); B = Mature pincer grasp. (2) Ages: A = 12–15 months; B = 10–12 months.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_023_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Paed Q5",
+    "imagePath": "images/paed/paed_023.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pull-to-Sit Manoeuvre",
+    "stem": "Two clinical examination photographs (A and B) are shown from an infant neurodevelopmental assessment. What is the specific manoeuvre depicted in A, and which primary developmental domain is evaluated by both A and B?",
+    "options": [
+      "Pull-to-sit manoeuvre, assessing gross motor development and axial head-control tone",
+      "Ventral suspension (Landau) manoeuvre, assessing primitive labyrinthine persistence",
+      "Moro startle elicitation manoeuvre, assessing symmetrical upper-limb Moro reflex",
+      "Forward parachute manoeuvre, assessing fine motor visual-spatial depth perception",
+      "Asymmetrical tonic neck manoeuvre, assessing expressive speech and auditory localisation"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Photograph A demonstrates the pull-to-sit manoeuvre checking for head lag (truncal and neck flexor tone), which together with prone head elevation (B) evaluates gross motor development.",
+      "Incorrect: Ventral suspension holds the infant horizontally face-down supported under the abdomen, unlike pulling the supine infant by the hands/wrists into sitting.",
+      "Incorrect: The Moro reflex is elicited by suddenly allowing the infant's supported head to drop backward by a few centimetres, causing abduction and extension of the arms.",
+      "Incorrect: The forward parachute test tilts a suspended infant downward toward a surface to elicit protective arm extension (appearing around 6–9 months).",
+      "Incorrect: ATNR involves rotating the infant's head laterally to observe the fencing posture, not pulling the infant from supine to sitting."
+    ],
+    "clinicalPearl": "In the pull-to-sit manoeuvre, marked head lag is physiological at birth–6 weeks, diminishes by 2 months, disappears by 3–4 months, and beyond 4 months constitutes a gross motor red flag.",
+    "guideCitation": {
+      "guideId": "guide_paed_milestones",
+      "guideTitle": "Developmental Milestones Spotter Charts",
+      "keyPoint": "Pull-to-sit head lag and prone forearm weight-bearing assess the gross motor domain and axial tone."
+    },
+    "sourceStation": {
+      "id": "paed_023",
+      "title": "Pull-to-Sit / Head Control Manoeuvre",
+      "originalPrompt": "5) Pictures A and B shown.\n• What is the manoeuvre shown in A?\n• Which domain is assessed from these manoeuvres?",
+      "verifiedAnswer": "Manoeuvre A: Pull-to-sit manoeuvre (assessing head lag / truncal tone). Domain assessed: Gross motor development (and neurological tone/postural control).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_024_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Paed Q14",
+    "imagePath": "images/paed/paed_024.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Prone vs Tripod Sitting Milestones",
+    "stem": "Panels A and B illustrate two sequential gross motor postures in infancy. Which option accurately pairs the developmental ages of A and B with their corresponding fine motor milestones?",
+    "options": [
+      "Panel A: 6 weeks (no hand regard yet); Panel B: 9 months (mature fingertip pincer grasp)",
+      "Panel A: 6 months (palmar grasp); Panel B: 10 months (builds a two-brick cube tower)",
+      "Panel A: 2 months (persistent grasp reflex); Panel B: 4 months (radial grasp reflex)",
+      "Panel A: 3–4 months (hands to midline); Panel B: 6 months (palmar grasp and transfer)",
+      "Panel A: 3 months (mature pincer grasp); Panel B: 12 months (independent spoon feeding)"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A 6-week-old lifts only the chin momentarily in prone, and by 9 months sits steadily without needing hands propped forward in tripod stance.",
+      "Incorrect: Tripod sitting is a 6-month milestone, whereas a two-brick tower is achieved much later at 15–18 months.",
+      "Incorrect: Radial grasp develops around 8 months and tripod sitting at 6 months, not 4 months.",
+      "Correct: Prone forearm weight-bearing with 90° head lift (Panel A) corresponds to 3–4 months (hands to midline, holds placed rattle briefly), and tripod sitting propped on hands (Panel B) corresponds to 6 months (palmar grasp, transfers objects).",
+      "Incorrect: Mature pincer grasp develops at 10–12 months rather than 3 months, and independent sitting without hand propping occurs by 8 months."
+    ],
+    "clinicalPearl": "Compare 3m vs 6m: at 3m the infant bears weight on forearms prone and plays with hands at midline; by 6m the infant props on straight arms in tripod sitting and transfers objects hand-to-hand.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 3m: lifts head/chest on forearms and holds rattle briefly; at 6m: sits in tripod position, uses palmar grasp, and transfers hand to hand."
+    },
+    "sourceStation": {
+      "id": "paed_024",
+      "title": "Gross & Fine Motor Milestones (Prone vs Tripod Sitting)",
+      "originalPrompt": "14. Pictures below (A and B) indicate 2 gross motor developmental ages of a child.\n14.1 Identify the developmental ages in A & B.\n14.2 Write the gross motor features of A & B.\n14.3 Write the fine motor features of A and B.",
+      "verifiedAnswer": "(14.1) Ages: A = 3–4 months; B = 6 months. (14.2) Gross motor: A: Holds head steady 90° and bears weight on forearms in prone (minimal/no head lag on pull-to-sit); B: Sits with support / tripod sitting leaning forward on outstretched hands. (14.3) Fine motor: A (3–4m): Brings hands to midline, holds rattle placed in hand briefly; B (6m): Palmar grasp & transfers object from hand to hand.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_026_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Paed Q18",
+    "imagePath": "images/paed/paed_026.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Milestone Age Ordering",
+    "stem": "Three developmental photographs (A, B, and C) are presented in a spotter station. Which photograph demonstrates the earliest expected milestone, and at what developmental age is it attained?",
+    "options": [
+      "Photograph B (walking upstairs holding a rail) at 9–10 months",
+      "Photograph C (turning thick board-book pages) at 4–5 months",
+      "Photograph A (sitting independently without support) at 7–8 months",
+      "Photograph A (independent sitting without support) at 12–15 months",
+      "Photograph C (turning single picture-book pages) at 3–4 months"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Crawling up stairs occurs around 15 months and walking up stairs holding a rail (two feet per step) occurs around 18–24 months.",
+      "Incorrect: Holding a book and turning several pages at a time develops between 12 and 18 months, well after unsupported sitting.",
+      "Correct: Independent sitting with a straight back (A) appears at 7–8 months, preceding turning pages/holding a book (C, 12–18 months) and walking up stairs holding a rail (B, 18–24 months).",
+      "Incorrect: Typically developing infants sit steadily without support by 7–8 months; inability to sit unsupported beyond 9–10 months is a red flag.",
+      "Incorrect: A 3-month-old infant cannot sit upright or manipulate book pages."
+    ],
+    "clinicalPearl": "Stair milestones: creeps upstairs = 15m; walks up/down stairs 2 feet/step holding rail = 24m; upstairs 1 foot/step & downstairs 2 feet/step = 3y; downstairs 1 foot/step = 4y.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Independent sitting occurs by 8 months, turning 2–3 pages of a book at 18 months, and climbing stairs 2 feet/step at 24 months."
+    },
+    "sourceStation": {
+      "id": "paed_026",
+      "title": "Three Developmental Milestones (Sitting, Stairs, Book)",
+      "originalPrompt": "18. State the appropriate age of the following developmental milestones (A, B, C).",
+      "verifiedAnswer": "A: 7–8 months (sits independently without support); B: 18–24 months (creeps upstairs at 15m, walks up/down stairs 2 feet per step holding rail at ~24m); C: 12–18 months (turns several pages of a book at once at 18m / holds book at 12–15m).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_027_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Paed Q3",
+    "imagePath": "images/paed/paed_027.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Primitive & Postural Reflexes",
+    "stem": "Four infant reflexes are demonstrated in panels 1 through 4. Which option correctly identifies all four reflexes in exact numerical order?",
+    "options": [
+      "Panel 1: Asymmetrical tonic neck reflex; Panel 2: Plantar grasp reflex; Panel 3: Landau reflex; Panel 4: Moro reflex",
+      "Panel 1: Moro reflex; Panel 2: Babinski extensor response; Panel 3: Forward parachute reflex; Panel 4: Asymmetrical tonic neck reflex",
+      "Panel 1: Symmetrical tonic neck reflex; Panel 2: Stepping reflex; Panel 3: Galant trunk incurvation; Panel 4: Forward parachute reflex",
+      "Panel 1: Asymmetrical tonic neck reflex; Panel 2: Palmar grasp reflex; Panel 3: Stepping reflex; Panel 4: Landau reflex",
+      "Panel 1: Galant reflex; Panel 2: Plantar grasp reflex; Panel 3: Moro reflex; Panel 4: Forward parachute reflex"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Panel 1 shows the fencing posture of the asymmetrical tonic neck reflex (ATNR); Panel 2 shows toe flexion to ball-of-foot pressure (plantar grasp); Panel 3 shows prone horizontal suspension (Landau reflex); Panel 4 shows symmetrical startle abduction/extension of the arms (Moro reflex).",
+      "Incorrect: Panels 1 and 4 are reversed, Panel 2 demonstrates toe flexion (plantar grasp) rather than Babinski dorsiflexion, and Panel 3 shows Landau ventral suspension.",
+      "Incorrect: Panel 1 demonstrates lateral head rotation with ipsilateral extension (ATNR), Panel 2 tests plantar grasp on a stationary foot, and Panel 4 shows supine Moro startle.",
+      "Incorrect: Panel 2 stimulates the sole of the foot (plantar grasp), Panel 3 demonstrates ventral suspension (Landau), and Panel 4 shows the Moro reflex.",
+      "Incorrect: Galant reflex is paraspinal stroking eliciting lateral trunk flexion, whereas Panel 1 shows ATNR and Panels 3–4 show Landau and Moro respectively."
+    ],
+    "clinicalPearl": "Know expected disappearance ages: Moro disappears by 4–6m, Palmar grasp by 3–4m, ATNR by 4–6m, Plantar grasp by 9–12m; Landau appears at 3m and persists to 12–24m.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "ATNR (fencing posture) is visible in early infancy (6–8 weeks), grasp reflex fades by 3–4 months, and postural reactions emerge sequentially."
+    },
+    "sourceStation": {
+      "id": "paed_027",
+      "title": "Four Primitive & Postural Reflexes",
+      "originalPrompt": "Question 03\nName the four reflexes (1–4) shown below. (2.5 × 4 marks)",
+      "verifiedAnswer": "1: Asymmetrical Tonic Neck Reflex (ATNR); 2: Plantar grasp reflex; 3: Landau reflex; 4: Moro reflex.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_028_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Paed Q14",
+    "imagePath": "images/paed/paed_028.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Tricycle Milestone Age",
+    "stem": "Photographs A, B, and C depict young children performing routine developmental tasks during clinic surveillance. At what typical developmental age is the gross motor skill demonstrated in photograph B first achieved?",
+    "options": [
+      "18 months",
+      "2 years",
+      "4 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: At 18 months, a toddler walks purposefully, squats, and walks backward, but lacks the reciprocal lower-limb coordination to pedal a tricycle.",
+      "Incorrect: At 2 years, a child runs unsteadily and kicks a ball without falling, whereas pedalling a tricycle develops at 3 years.",
+      "Incorrect: By 4 years, a child hops on one leg, climbs ladders/trees, and walks downstairs one foot per step, well after learning to ride a tricycle.",
+      "Correct: Photograph B shows a child pedalling a tricycle, a classic 3-year gross motor milestone (alongside standing briefly on one foot and climbing stairs one foot per step).",
+      "Incorrect: By 5 years, a child skips, walks along a narrow line, and rides a bicycle with training wheels rather than newly acquiring tricycle pedalling."
+    ],
+    "clinicalPearl": "Classic 3-year-old milestones: rides a tricycle, climbs stairs 1 foot/step, stands briefly on 1 leg, builds a 9-cube tower (3-cube bridge), copies a circle, knows name/age/sex.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "At 3 years: pedals a tricycle, climbs upstairs 1 foot/step and downstairs 2 feet/step, copies a complete circle, and builds a 9-brick tower."
+    },
+    "sourceStation": {
+      "id": "paed_028",
+      "title": "Three Developmental Milestone Ages (A–C)",
+      "originalPrompt": "14. State the developmental ages at which the milestones shown in photographs (A–C) are achieved.",
+      "verifiedAnswer": "A: 10–12 months (mature pincer grasp); B: 3 years; C: 2 years.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_029_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Paed Q5",
+    "imagePath": "images/paed/paed_029.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Four-Panel Milestone Matching",
+    "stem": "Four developmental photographs are shown: top-left (A), top-right (B), bottom-left (C), and the unlabelled bottom-right panel. Which option accurately matches all four panels to their expected developmental ages?",
+    "options": [
+      "Panel A: 6 months; Panel B: 4 months; Panel C: 2 years; bottom-right: 6 weeks",
+      "Panel A: 10–12 months; Panel B: 7–8 months; Panel C: 3 years; bottom-right: 3–4 months",
+      "Panel A: 15 months; Panel B: 10 months; Panel C: 4 years; bottom-right: 6 months",
+      "Panel A: 8 months; Panel B: 5 months; Panel C: 2.5 years; bottom-right: 2 months",
+      "Panel A: 18 months; Panel B: 9 months; Panel C: 5 years; bottom-right: 4 months"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: At 6 months an infant uses a palmar grasp rather than a neat pincer grasp, 4-month infants cannot sit unsupported, and tricycle riding occurs at 3 years.",
+      "Correct: Panel A shows a mature pincer grasp (10–12 months); Panel B shows independent sitting without support (7–8 months); Panel C shows tricycle riding (3 years); bottom-right shows prone forearm weight-bearing with 90° head lift (3–4 months).",
+      "Incorrect: Mature pincer grasp develops by 10–12 months, unsupported sitting by 7–8 months, tricycle riding at 3 years, and prone forearm head lift at 3–4 months.",
+      "Incorrect: 5-month-olds require support to sit and 2-month-olds do not bear steady weight on forearms with 90° chest elevation.",
+      "Incorrect: Tricycle riding is achieved at 3 years (not 5 years), and mature pincer grasp precedes 18 months by at least 6 months."
+    ],
+    "clinicalPearl": "In multi-panel OSCE spotters, evaluate each panel systematically by domain: grasp (pincer = 10–12m), posture (prone forearms = 3–4m, unsupported sitting = 7–8m), and locomotion (tricycle = 3y).",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Prone forearm weight-bearing (3m), unsupported sitting (8m), mature pincer grasp (10–12m), and tricycle pedalling (3 yrs)."
+    },
+    "sourceStation": {
+      "id": "paed_029",
+      "title": "Four Developmental Milestone Ages (A–D)",
+      "originalPrompt": "5. Identify the developmental ages of the children (A, B, C, D) below.",
+      "verifiedAnswer": "A (Mature pincer grasp): 10–12 months; B (Sitting unsupported): 7–8 months; C (Riding tricycle): 3 years; D (Prone weight-bearing on forearms): 3–4 months.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_030_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Paed Q3",
+    "imagePath": "images/paed/paed_030.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Early Neonatal Hyperbilirubinaemia",
+    "stem": "A newborn at 12 hours of life develops marked hyperbilirubinaemia plotting near the upper treatment curve on the NICE neonatal bilirubin threshold chart shown. What is the priority underlying aetiology to investigate, and what immediate management is indicated?",
+    "options": [
+      "Physiological hyperbilirubinaemia; reassure parents and repeat serum bilirubin in 48 hours",
+      "Breast milk jaundice; substitute infant formula for 72 hours and withhold phototherapy",
+      "Haemolytic disease of newborn (Rh/ABO or G6PD); urgent intensive phototherapy and exchange readiness",
+      "Extrahepatic biliary atresia; arrange urgent HIDA scan and oral ursodeoxycholic acid",
+      "Cephalhaematoma resorption alone; observe clinically without blood grouping or phototherapy"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Physiological jaundice never presents within the first 24 hours of life and does not approach exchange thresholds at 12 hours.",
+      "Incorrect: Breast milk jaundice presents after day 5–7 of life; withholding phototherapy in severe day-1 haemolytic jaundice risks kernicterus.",
+      "Correct: Jaundice within the first 24 hours is always pathological, most often due to haemolysis (Rh/ABO incompatibility, G6PD deficiency, hereditary spherocytosis) or congenital sepsis; it demands immediate intensive phototherapy and readiness for double-volume exchange transfusion.",
+      "Incorrect: Biliary atresia presents with prolonged conjugated jaundice beyond 2 weeks and pale stools, not acute day-1 unconjugated hyperbilirubinaemia.",
+      "Incorrect: Cephalhaematoma typically exacerbates jaundice on days 2–4 and cannot justify withholding urgent haemolytic workup and phototherapy at 12 hours."
+    ],
+    "clinicalPearl": "Any neonatal jaundice < 24 hours of life is ALWAYS pathological—plot TSB by exact hours of age on the gestational-age-specific chart and start intensive phototherapy immediately.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Pathological day-1 neonatal jaundice warrants urgent haemolytic/sepsis workup and immediate intensive phototherapy with exchange transfusion readiness."
+    },
+    "sourceStation": {
+      "id": "paed_030",
+      "title": "Severe Neonatal Hyperbilirubinaemia at 12 Hours",
+      "originalPrompt": "03. Report of serum bilirubin (very high) at 12 hours of a newborn given with the bilirubin management chart to decide for phototherapy and exchange transfusion.\nWhat do you suggest to do, and what is the most likely cause for this abnormality?",
+      "verifiedAnswer": "Management: Plot TSB vs hours of age on the gestational-age-specific NICE/AAP bilirubin chart — jaundice within first 24 hours is always pathological: initiate intensive phototherapy immediately and prepare for double-volume exchange transfusion if above exchange threshold (or rising steeply / signs of acute bilirubin encephalopathy). Causes (< 24h): Haemolytic disease of newborn (Rh or ABO incompatibility), G6PD deficiency, Hereditary spherocytosis, Congenital sepsis.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "paed_031_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Paed Q2",
+    "imagePath": "images/paed/paed_031.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Down Syndrome Systemic Signs",
+    "stem": "A 3-month-old infant presents with the characteristic craniofacial appearance photographed, along with generalised neonatal hypotonia. Which associated congenital heart lesion and peripheral clinical signs should be specifically sought on examination?",
+    "options": [
+      "Coarctation of the aorta, webbed neck, shield chest, and congenital lymphoedema of the feet",
+      "Supravalvular aortic stenosis, stellate irides, elfin facies, and infantile hypercalcaemia",
+      "Interrupted aortic arch, micrognathia, cleft palate, and neonatal hypocalcaemic seizures",
+      "Pulmonary valve stenosis, pectus excavatum, low-set rotated ears, and broad webbed neck",
+      "Atrioventricular septal defect (AVSD), single palmar crease, fifth-finger clinodactyly, and sandal gap"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: These features characterise Turner syndrome (45,X) rather than Trisomy 21.",
+      "Incorrect: Supravalvular aortic stenosis and elfin facies are classic features of Williams syndrome (7q11.23 deletion).",
+      "Incorrect: Conotruncal cardiac defects, cleft palate, and thymic/parathyroid hypoplasia characterise DiGeorge (22q11.2 deletion) syndrome.",
+      "Incorrect: Pulmonary stenosis with webbed neck and Noonan facies points to Noonan syndrome rather than Trisomy 21.",
+      "Correct: The infant demonstrates typical Trisomy 21 (Down syndrome) facies (upslanting palpebral fissures, epicanthic folds, flat nasal bridge); key associated findings are AVSD/VSD, single palmar (Simian) crease, clinodactyly, sandal gap, and hypotonia."
+    ],
+    "clinicalPearl": "Screen every infant with Down syndrome early with echocardiography (40–50% have CHD, classically AVSD/endocardial cushion defect), thyroid function, hearing, and vision checks.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Down syndrome features: epicanthic folds, protruding tongue, flat occiput, hypotonia, Simian crease, AV canal defects, recurrent RTIs, and duodenal atresia."
+    },
+    "sourceStation": {
+      "id": "paed_031",
+      "title": "Down Syndrome (Trisomy 21)",
+      "originalPrompt": "2.\n1. List 3 features you can find in this picture.\n2. List 3 other signs you are going to look for.",
+      "verifiedAnswer": "(1) Photo features: Upslanting palpebral fissures, Epicanthic folds, Flat nasal bridge, Small low-set ears, Small mouth with protruding tongue, Brushfield spots. (2) Other signs: Single palmar crease (Simian crease), Sandle gap (wide gap between 1st & 2nd toes), Clinodactyly (incurved 5th finger), Generalised hypotonia, Flat occiput, Congenital heart disease (AVSD/VSD murmur).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_032_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Paed Q1",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Apgar Score Calculation",
+    "stem": "At 1 minute after birth, a term newborn exhibits central cyanosis, limp (floppy) muscle tone, a heart rate of 70 beats per minute, some grimacing and weak movement upon airway suctioning, and shallow irregular respirations. What is this infant's 1-minute Apgar score?",
+    "options": [
+      "2/10",
+      "4/10",
+      "3/10",
+      "5/10",
+      "6/10"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Scoring 2/10 would omit one of the 1-point components (heart rate < 100, some grimace/movement, or irregular respiratory effort).",
+      "Incorrect: Scoring 4/10 would erroneously award 1 point for either peripheral cyanosis (acrocyanosis) or partial limb flexion, neither of which is present.",
+      "Correct: Appearance (central cyanosis) = 0; Pulse (70 bpm, < 100) = 1; Grimace (some movement on suction) = 1; Activity (floppy) = 0; Respiration (shallow, irregular) = 1; total score = 3/10.",
+      "Incorrect: Scoring 5/10 overestimates tone, colour, or respiratory effort; central cyanosis and floppiness both score 0.",
+      "Incorrect: Scoring 6/10 corresponds to a mildly depressed newborn rather than severe depression with central cyanosis and floppiness."
+    ],
+    "clinicalPearl": "Apgar score (0–3 severely depressed, 4–6 moderately depressed, 7–10 normal) assesses prognosis and response to resuscitation—never wait for the 1-minute Apgar score to begin neonatal resuscitation.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Neonatal resuscitation is guided immediately by airway, breathing, and heart rate assessment rather than delaying for Apgar scoring."
+    },
+    "sourceStation": {
+      "id": "paed_032",
+      "title": "Apgar Score Calculation at 1 Minute",
+      "originalPrompt": "01) A baby shows on first minute after birth:\n• Appearance: Central cyanosis\n• Tone: Floppy\n• HR: 70 bpm\n• Grimace: Some movements following stimulation by a suction tube\n• Respiration: Shallow and irregular\n1) What is the Apgar score of this child?\n2) List two (2) causes for the above score.  [Text-only station]",
+      "verifiedAnswer": "(1) Apgar Score = 3/10: Appearance (central cyanosis) = 0, Pulse (70 bpm, below 100) = 1, Grimace/Reflex (some movement on suction) = 1, Activity/Tone (floppy) = 0, Respiration (shallow/irregular) = 1 → Total = 3. (2) Causes: Perinatal asphyxia / intrapartum hypoxia, Prematurity, Maternal anaesthesia/opioids, Congenital sepsis / airway obstruction.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_033_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Paed Q1",
+    "imagePath": "images/paed/paed_033.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Neonatal & Paediatric Skin Lesions",
+    "stem": "Four paediatric cutaneous lesions are photographed in panels 1 through 4. Which statement accurately matches a numbered panel to its clinical diagnosis and appropriate management?",
+    "options": [
+      "Panel 1 shows epidermal milia, which are benign keratin cysts on the abdomen that spontaneously resolve within weeks",
+      "Panel 2 shows a café-au-lait macule, which prompts evaluation for neurofibromatosis type 1 if six or more exceed 5 mm",
+      "Panel 3 shows a congenital melanocytic naevus requiring immediate wide surgical excision to prevent melanoma",
+      "Panel 4 shows a capillary port-wine stain requiring pulsed-dye laser therapy and brain MRI for Sturge–Weber syndrome",
+      "Panel 4 shows congenital dermal melanocytosis (Mongolian blue spot), which is benign and must be documented to avoid misdiagnosis as bruising"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Panel 1 depicts a café-au-lait macule on the abdomen; epidermal milia (tiny white papules on the nose) are shown in Panel 2.",
+      "Incorrect: Panel 2 depicts milia over the neonatal nasal bridge; the café-au-lait macule is shown in Panel 1.",
+      "Incorrect: Panel 3 depicts a bright red infantile (strawberry) haemangioma near the lower eyelid, treated medically with oral propranolol if obstructing vision.",
+      "Incorrect: Port-wine stains are flat erythematous-violaceous vascular malformations (typically trigeminal V1), whereas Panel 4 shows lumbosacral dermal melanocytosis.",
+      "Correct: Panel 4 shows slate-blue lumbosacral pigmentation typical of a Mongolian blue spot, a benign self-fading lesion that should be documented in the CHDR/notes so it is not mistaken for non-accidental trauma."
+    ],
+    "clinicalPearl": "Document Mongolian blue spots clearly at newborn check to prevent false suspicion of abuse; ≥ 6 café-au-lait macules (> 5 mm prepubertal, > 15 mm postpubertal) meet an NF1 diagnostic criterion; periorbital strawberry haemangiomas risk amblyopia and respond to propranolol.",
+    "guideCitation": {
+      "guideId": "guide_paed_skin",
+      "guideTitle": "Common Skin Conditions in Childhood Guide",
+      "keyPoint": "Benign neonatal lesions include Mongolian blue spots and milia; haemangiomas and neurocutaneous café-au-lait patches require targeted follow-up."
+    },
+    "sourceStation": {
+      "id": "paed_033",
+      "title": "Four Neonatal & Paediatric Skin Lesions",
+      "originalPrompt": "1. Identify the following 4 skin conditions.",
+      "verifiedAnswer": "(1) Milia (benign epidermal keratin cysts, resolve spontaneously); (2) Café-au-lait macule (if ≥ 6 and > 5 mm → suspect NF1); (3) Infantile / Strawberry haemangioma; (4) Mongolian blue spot (congenital dermal melanocytosis) (benign, document to avoid misdiagnosis as NAI/bruising).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_034_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Paed Q17",
+    "imagePath": "images/paed/paed_034.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Infantile Umbilical Hernia",
+    "stem": "A thriving 6-week-old term infant is brought for routine well-baby follow-up because the parents are worried about the soft, painless, easily reducible umbilical protrusion shown, which bulges outward during crying. What is the most appropriate management?",
+    "options": [
+      "Adhesive strapping with a flattened coin taped over the umbilicus to speed fascial closure",
+      "Urgent surgical referral for primary fascial repair before 3 months of age",
+      "Prompt abdominal ultrasonography and needle aspiration to exclude a patent urachal cyst",
+      "Parental reassurance and watchful waiting, as over 85–90% close spontaneously by 3–5 years of age",
+      "Topical silver nitrate cauterisation alongside empirical oral flucloxacillin"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Coin-taping and strapping do not hasten fascial ring closure and cause skin maceration, ulceration, or secondary infection.",
+      "Incorrect: Surgical repair is deferred until 4–5 years of age unless incarceration, strangulation, or persistent giant defect (> 1.5–2 cm) occurs.",
+      "Incorrect: The lesion is a classic reducible umbilical hernia rather than a cystic mass, and blind needle aspiration risks bowel perforation.",
+      "Correct: Infantile umbilical hernias rarely incarcerate and close spontaneously in the vast majority of children by 3–5 years; reassurance and observation without strapping is standard management.",
+      "Incorrect: Silver nitrate treats moist umbilical granulomas, not intact skin-covered umbilical hernias."
+    ],
+    "clinicalPearl": "Unlike inguinal hernias (which require prompt surgical repair due to high incarceration risk), infantile umbilical hernias are managed conservatively until 4–5 years of age; never strap with a coin.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Infantile umbilical hernia is managed with parental reassurance and conservative observation; avoid strapping/coin-taping."
+    },
+    "sourceStation": {
+      "id": "paed_034",
+      "title": "Infantile Umbilical Hernia (6 Weeks)",
+      "originalPrompt": "17. 6-week-old infant was found to have this condition during routine follow-up.\n17.1 What is the condition?\n17.2 What is the management option?",
+      "verifiedAnswer": "(17.1) Congenital/Infantile umbilical hernia. (17.2) Management: Reassurance and watchful waiting (conservative observation) — > 85–90% close spontaneously by 3–5 years of age; avoid strapping/coin-taping. Surgical repair only if persisting beyond 4–5 years, very large (> 1.5–2 cm), or complicated (rare incarceration).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_035_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Paed Q20",
+    "imagePath": "images/paed/paed_035.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Down Syndrome Confirmation",
+    "stem": "A 4-month-old infant presents with generalised hypotonia, upslanting palpebral fissures, epicanthic folds, a flat nasal bridge, and a protruding tongue as shown. Which laboratory test is required to confirm the diagnosis and identify whether a parental Robertsonian translocation is present?",
+    "options": [
+      "Peripheral blood chromosomal karyotyping for Trisomy 21 and translocation status",
+      "Maternal serum alpha-fetoprotein and unconjugated oestriol hormone measurement",
+      "Plasma amino acids and urine organic acid tandem mass spectrometry assay",
+      "Transthoracic two-dimensional echocardiography with colour Doppler study",
+      "Brain magnetic resonance imaging with diffusion-weighted spectroscopy"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: While rapid QF-PCR or FISH detects Trisomy 21 within 24–48 hours, full chromosomal karyotyping is essential to distinguish free trisomy 21 (95%) from Robertsonian translocation (4%) or mosaicism (1%) for recurrence counselling.",
+      "Incorrect: Triple/quadruple maternal serum markers are prenatal screening tests performed during pregnancy, not postnatal confirmatory diagnostics.",
+      "Incorrect: Metabolic screening evaluates inborn errors of metabolism rather than chromosomal aneuploidies.",
+      "Incorrect: Echocardiography screens for associated congenital heart disease (e.g., AVSD) once suspected, but cannot establish the cytogenetic diagnosis.",
+      "Incorrect: Cranial MRI is not diagnostic for Trisomy 21 and does not reveal chromosomal structure or translocation status."
+    ],
+    "clinicalPearl": "Even when QF-PCR confirms Trisomy 21 rapidly, always obtain a formal karyotype—if a Robertsonian translocation (e.g. t(14;21)) is found, both parents require karyotyping for recurrence risk.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Down syndrome is confirmed cytogenetically by chromosomal karyotyping alongside cardiac (AVSD) and thyroid screening."
+    },
+    "sourceStation": {
+      "id": "paed_035",
+      "title": "Down Syndrome — Features & Confirmatory Test",
+      "originalPrompt": "20.\n20.1 List two (02) abnormalities that can be seen in this photograph.\n20.2 What is the probable diagnosis?\n20.3 Mention one (01) test to confirm the diagnosis.",
+      "verifiedAnswer": "(20.1) Abnormalities: Upslanting palpebral fissures, Epicanthic folds, Flat nasal bridge / protruding tongue. (20.2) Diagnosis: Down syndrome (Trisomy 21). (20.3) Confirmatory test: Chromosomal karyotyping (or QF-PCR/FISH for rapid trisomy 21 confirmation + karyotype to check Robertsonian translocation).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_036_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Paed Q14",
+    "imagePath": "images/paed/paed_036.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Duodenal Atresia Radiology",
+    "stem": "A 2-day-old term neonate develops persistent bilious vomiting shortly after commencing feeds, without significant abdominal distension. An erect abdominal radiograph is obtained as shown. What is the diagnosis, and which genetic condition is most strongly associated with it?",
+    "options": [
+      "Infantile hypertrophic pyloric stenosis, strongly associated with Edwards syndrome",
+      "Congenital duodenal atresia, strongly associated with Trisomy 21 (Down syndrome)",
+      "Meconium ileus, strongly associated with autosomal dominant polycystic kidney disease",
+      "Hirschsprung disease, strongly associated with Turner syndrome",
+      "Malrotation with midgut volvulus, strongly associated with Klinefelter syndrome"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Pyloric stenosis presents around 3–6 weeks with non-bilious projectile vomiting and a single gastric bubble, not day-2 bilious vomiting.",
+      "Correct: The radiograph demonstrates the classic 'double-bubble' sign (gas-fluid levels in the distended stomach and dilated proximal duodenum) with complete absence of distal intestinal gas, diagnostic of duodenal atresia, which occurs frequently in Trisomy 21.",
+      "Incorrect: Meconium ileus shows dilated distal ileal loops with a 'soap-bubble' appearance and is strongly linked to cystic fibrosis (autosomal recessive).",
+      "Incorrect: Hirschsprung disease causes delayed meconium passage and multiple distal dilated colonic loops rather than an isolated upper abdominal double-bubble.",
+      "Incorrect: Although malrotation causes bilious vomiting and requires urgent exclusion, complete absence of distal bowel gas with two large symmetrical upper bubbles is the hallmark of duodenal atresia (or annular pancreas), classically linked to Trisomy 21."
+    ],
+    "clinicalPearl": "In a neonate with bilious vomiting and a 'double-bubble' sign without distal gas, stabilize with NPO, NG decompression, and IV fluids, check for Down syndrome, and prepare for duodenoduodenostomy.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Down syndrome has a strong association with congenital duodenal atresia ('double-bubble' sign on abdominal X-ray with absent distal gas)."
+    },
+    "sourceStation": {
+      "id": "paed_036",
+      "title": "Duodenal Atresia ('Double-Bubble' Sign)",
+      "originalPrompt": "14. A 2-day-old child produced severe bilious vomiting.\n14.1 State two (02) abnormalities seen in this X-ray.\n14.2 What is the diagnosis?",
+      "verifiedAnswer": "(14.1) X-ray abnormalities: 'Double-bubble' sign (distended gas-filled stomach + dilated proximal duodenum) and total absence of distal intestinal gas. (14.2) Diagnosis: Congenital duodenal atresia (strongly associated with Trisomy 21 / Down syndrome; manage with NPO, NG decompression, IV fluids, and surgical duodenoduodenostomy).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_037_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Paed Q5",
+    "imagePath": "images/paed/paed_037.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Autosomal Recessive Pedigree",
+    "stem": "A consanguineous couple seeks genetic counselling after their second son is diagnosed with a severe inherited childhood disorder; the four-generation pedigree is shown. Based on this inheritance pattern, which condition classically follows this mode of transmission, and what is the recurrence risk for each future pregnancy?",
+    "options": [
+      "Duchenne muscular dystrophy, affecting 50% of future sons with no carrier females",
+      "Beta-thalassaemia major (or cystic fibrosis), carrying a 25% recurrence risk per pregnancy",
+      "Osteogenesis imperfecta type I, carrying a 50% recurrence risk regardless of fetal sex",
+      "Vitamin D-resistant rickets, transmitted to 100% of daughters from an affected father",
+      "Haemophilia A, occurring only when both parents carry identical mutant autosomal alleles"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Duchenne muscular dystrophy is X-linked recessive, where males cannot be asymptomatic carriers and carrier mothers transmit the condition to 50% of sons and carrier status to 50% of daughters.",
+      "Correct: The pedigree shows horizontal transmission with unaffected carrier parents (both male and female carriers) and consanguinity—defining autosomal recessive inheritance, which carries a 25% affected, 50% carrier, and 25% unaffected probability per pregnancy.",
+      "Incorrect: Osteogenesis imperfecta is classically autosomal dominant, displaying vertical transmission from an affected parent rather than unaffected carrier parents.",
+      "Incorrect: X-linked dominant conditions (such as hypophosphataemic rickets) show vertical transmission with no male-to-male transmission and no unaffected obligate carrier state.",
+      "Incorrect: Haemophilia A is X-linked recessive rather than autosomal recessive."
+    ],
+    "clinicalPearl": "Hallmarks of autosomal recessive pedigrees: skipped generations, unaffected carrier parents of both sexes, consanguinity (double line), and a 1-in-4 (25%) recurrence risk per conception.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Autosomal recessive disorders (e.g., thalassaemia, cystic fibrosis, sickle cell disease) show horizontal transmission, carrier parents, and consanguinity."
+    },
+    "sourceStation": {
+      "id": "paed_037",
+      "title": "Autosomal Recessive Pedigree Inheritance",
+      "originalPrompt": "Question 05\nPedigree chart shown.\n5.1 Identify the inheritance pattern of the disease. (5 marks)\n5.2 Name a disease which follows the inheritance pattern. (5 marks)",
+      "verifiedAnswer": "(5.1) Autosomal recessive inheritance. (5.2) Diseases: Thalassaemia, Sickle cell anaemia, Cystic fibrosis, Phenylketonuria (PKU), Galactosaemia, Glycogen storage diseases, Tay-Sachs / Gaucher disease.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "paed_038_sba",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Paed Q11",
+    "imagePath": "images/paed/paed_038.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Day-1 Neonatal Jaundice",
+    "stem": "A term newborn develops prominent yellow discolouration of the skin and sclerae at 18 hours of age as shown. Which clinical rule and immediate action plan govern this presentation?",
+    "options": [
+      "Physiological jaundice; reassure parents, advise morning sunlight exposure, and review on day 5",
+      "Breast milk jaundice; pause maternal breastfeeding for 48 hours and supplement with dextrose water",
+      "Pathological jaundice; urgent serum bilirubin and haemolytic/sepsis workup with intensive phototherapy",
+      "Benign hyperbilirubinaemia; defer blood tests unless jaundice progresses to the soles by day 3",
+      "Extrahepatic biliary atresia; schedule urgent Kasai portoenterostomy prior to bilirubin testing"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Physiological jaundice appears after 24 hours (typically days 2–4); sunlight exposure is unsafe and ineffective for pathological day-1 hyperbilirubinaemia.",
+      "Incorrect: Breast milk jaundice presents toward the end of the first week, and suspending breastfeeding or giving dextrose water impairs hydration and bilirubin clearance.",
+      "Correct: Any visible icterus < 24 hours of life is pathological (e.g., Rh/ABO haemolysis, G6PD deficiency, sepsis) and requires urgent TSB, blood group, DCT, FBC/reticulocytes, and immediate intensive phototherapy.",
+      "Incorrect: Rapidly rising unconjugated bilirubin in day-1 haemolysis can rapidly cross the blood–brain barrier and cause kernicterus in term neonates.",
+      "Incorrect: Biliary atresia causes delayed conjugated hyperbilirubinaemia beyond 14 days, whereas day-1 jaundice is almost always unconjugated haemolytic or septic."
+    ],
+    "clinicalPearl": "Never rely solely on Kramer's visual cephalocaudal progression in day-1 jaundice—always measure serum bilirubin urgently and check baby/mother blood groups plus Coombs (DCT).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Neonatal jaundice presenting within 24 hours of birth is always pathological and requires urgent TSB, haemolytic workup, and immediate intensive phototherapy."
+    },
+    "sourceStation": {
+      "id": "paed_038",
+      "title": "Day-1 Pathological Neonatal Jaundice",
+      "originalPrompt": "11. This is a picture of a one-day-old neonate.\n11.1 Identify the condition.\n11.2 What is the treatment?",
+      "verifiedAnswer": "(11.1) Day-1 (early/pathological) neonatal jaundice (jaundice within first 24 hours is ALWAYS pathological — think Rh/ABO haemolytic disease, G6PD deficiency, congenital sepsis). (11.2) Treatment: Urgent total serum bilirubin (TSB) & haemolytic workup (blood group, DCT/Coombs, FBC/retics, G6PD, sepsis screen) + immediate intensive phototherapy (± exchange transfusion / IVIG if thresholds exceeded).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "paed_guide_a_01",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Early Infancy Developmental Red Flags",
+    "stem": "During routine developmental screening at an MOH clinic, four term infants without acute intercurrent illness are evaluated. Which clinical finding represents a clear developmental red flag requiring specialist neurodevelopmental referral?",
+    "options": [
+      "A 4-month-old infant with marked head lag on pull-to-sit and absent responsive smiling",
+      "A 6-month-old infant who sits in a tripod posture propped forward on outstretched hands",
+      "A 9-month-old infant who transfers cubes hand-to-hand and babbles non-specific 'mama/dada'",
+      "A 14-month-old toddler who walks independently with a broad-based gait and speaks two meaningful words",
+      "A 24-month-old toddler who stacks a five-cube tower and uses two-to-three-word phrases"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: By 6–8 weeks an infant should smile responsively, and by 3 months should have no head lag on pull-to-sit; persistence of head lag and absent social smiling at 4 months indicates motor/social delay.",
+      "Incorrect: Tripod sitting with arched back propped forward on hands is the expected 6-month gross motor milestone.",
+      "Incorrect: Hand-to-hand transfer (6 months) and non-specific 'mama/dada' babbling (9 months) are age-appropriate milestones.",
+      "Incorrect: Walking independently occurs around 12–15 months with broad-based unsteady gait, and speaking first meaningful words occurs at 12–15 months.",
+      "Incorrect: A 5-brick tower and 2–3-word sentences are expected typical milestones at 2 years of age."
+    ],
+    "clinicalPearl": "Early infancy red flags: no responsive smile by 8–10 weeks, no visual fixation/tracking by 3 months, persistent head lag beyond 4 months, and persistence of primitive grasp beyond 4–5 months.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Social smile appears by 6–8 weeks and head control (no head lag on pull-to-sit) by 3 months; delay beyond these thresholds signals neurodevelopmental abnormality."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_a_02",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Toddler Developmental Red Flags",
+    "stem": "A 20-month-old term toddler is brought to the paediatric clinic for developmental review. Which finding constitutes an absolute developmental red flag warranting immediate specialist evaluation rather than parental reassurance?",
+    "options": [
+      "Engaging predominantly in parallel play beside peers rather than cooperative group games",
+      "Inability to copy a complete circle cleanly with a thick crayon on blank drawing paper",
+      "Wet nappies overnight despite beginning early daytime bowel and bladder awareness",
+      "Inability to hop steadily on one foot or climb stairs alternating one foot per step",
+      "Inability to walk unsupported, no meaningful single words, and loss of prior babbling"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Parallel play is normal at 2 years; cooperative group play does not emerge until around 4 years.",
+      "Incorrect: At 18–20 months toddlers make spontaneous to-and-fro or circular scribbles; copying a complete circle is a 3-year milestone.",
+      "Incorrect: At 2 years only ~50% of children are dry by night (rising to 75% at 3y and 90% at 5y), so nocturnal wetting at 20 months is entirely normal.",
+      "Incorrect: Alternating feet climbing upstairs develops at 3 years (downstairs at 4 years), and hopping on one leg occurs around 4–5 years.",
+      "Correct: Failure to walk independently by 18 months, lack of meaningful words by 18–20 months, and especially regression/loss of previously acquired skills are absolute neurodevelopmental red flags."
+    ],
+    "clinicalPearl": "Universal absolute red flags: regression of any previously acquired skill at ANY age, not walking by 18 months, no single meaningful words by 18 months, and early hand preference before 12 months (suspect hemiparesis).",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "By 15–18 months children walk independently and speak 6–20 meaningful words; parallel play (2y), night dryness (2–5y), circle copying (3y), and hopping (4–5y) emerge later."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_a_03",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Acute Bilirubin Encephalopathy & Exchange Criteria",
+    "stem": "A 38-week term neonate aged 40 hours has severe unconjugated hyperbilirubinaemia (total serum bilirubin 375 µmol/L) due to Rhesus isoimmunisation. On examination, the infant is lethargic, hypotonic, refuses feeds, and exhibits a high-pitched cry with retrocollis. What is the mandatory immediate management?",
+    "options": [
+      "Single-bank conventional phototherapy alone with repeat bilirubin measurement in 12 hours",
+      "Oral phenobarbitone therapy alone to induce hepatic bilirubin conjugation",
+      "Intravenous 20% albumin infusion alone without phototherapy or blood exchange",
+      "Urgent double-volume exchange transfusion alongside continuous intensive phototherapy",
+      "Temporary interruption of breastfeeding for 48 hours combined with oral glucose feeds"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Once clinical encephalopathy is present or exchange thresholds are crossed, phototherapy alone is insufficient to prevent permanent kernicterus.",
+      "Incorrect: Phenobarbitone takes several days to induce hepatic UGT1A1 and has no role in acute bilirubin encephalopathy.",
+      "Incorrect: Albumin binding does not substitute for urgent physical removal of circulating bilirubin and sensitised erythrocytes via double-volume exchange transfusion.",
+      "Correct: Clinical signs of acute bilirubin encephalopathy (lethargy, poor feeding, high-pitched cry, opisthotonos/retrocollis) are an absolute indication for immediate double-volume exchange transfusion while administering continuous intensive phototherapy.",
+      "Incorrect: Interrupting breastfeeding is counterproductive, and oral dextrose does not lower dangerous serum bilirubin levels in haemolytic crisis."
+    ],
+    "clinicalPearl": "In neonatal jaundice, ANY neurological sign of acute bilirubin encephalopathy (lethargy, poor suck, high-pitched cry, hypertonia/retrocollis) mandates immediate exchange transfusion regardless of TSB level.",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Severe neonatal hyperbilirubinaemia with neurological signs of acute bilirubin encephalopathy requires immediate double-volume exchange transfusion alongside intensive phototherapy."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_a_04",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.3 NEONATOLOGY, APGAR, JAUNDICE, CONGENITAL ANOMALIES & GENETICS (11 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Prolonged Neonatal Jaundice Criteria",
+    "stem": "An exclusively breastfed term male neonate remains visibly jaundiced at 16 days of life and attends the postnatal clinic. His mother reports pale chalky stools and dark urine staining the nappy. Which diagnostic investigation is most urgent?",
+    "options": [
+      "Split (total and conjugated/direct) serum bilirubin to screen for biliary atresia",
+      "Reassurance and repeat clinical review at 6 weeks assuming benign breast milk jaundice",
+      "Diagnostic 72-hour trial of formula substitution prior to ordering blood tests",
+      "Immediate intensive blue-light phototherapy before checking bilirubin fractions",
+      "Direct antiglobulin (Coombs) test alone without assessing conjugated bilirubin or liver function"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Prolonged jaundice (> 14 days in term, > 21 days in preterm) always mandates fractionated bilirubin testing; conjugated hyperbilirubinaemia with acholic stools and dark urine requires urgent surgical evaluation for biliary atresia.",
+      "Incorrect: Pale stools and dark urine exclude benign breast milk jaundice (which is unconjugated with normal yellow stools); delaying biliary atresia diagnosis past 60 days worsens cirrhosis risk.",
+      "Incorrect: Withholding breastfeeding is discouraged and delays essential split-bilirubin differentiation of obstructive cholestasis.",
+      "Incorrect: Phototherapy is ineffective and contraindicated in conjugated hyperbilirubinaemia because it induces the 'bronze baby' syndrome.",
+      "Incorrect: While haemolysis can cause early jaundice, acholic stools and dark urine point specifically to cholestasis requiring split bilirubin and hepatobiliary workup."
+    ],
+    "clinicalPearl": "Prolonged jaundice (> 14d term / > 21d preterm) rule: always order SPLIT bilirubin—conjugated fraction > 20% (or > 25 µmol/L) with pale stools = urgent biliary atresia workup (Kasai ideally < 60 days).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "Prolonged neonatal jaundice beyond 14 days in term infants requires fractionated (split) bilirubin testing to exclude conjugated cholestasis such as biliary atresia."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_a_05",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.1 ANTHROPOMETRY, GROWTH CHARTS (CHDR) & MALNUTRITION (15 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "CHDR Z-Score Definitions (SAM/MAM/Stunting)",
+    "stem": "In the Sri Lankan CHDR, WHO growth standards classify childhood undernutrition using z-score (standard deviation) thresholds across Weight-for-Height, Height-for-Age, and Weight-for-Age. Which statement accurately defines Moderate Acute Malnutrition (MAM) and Severe Acute Malnutrition (SAM) in children aged 6–59 months?",
+    "options": [
+      "MAM: height-for-age −3 SD to < −2 SD; SAM: height-for-age < −3 SD regardless of weight-for-height",
+      "MAM: weight-for-height −3 SD to < −2 SD; SAM: weight-for-height < −3 SD, MUAC < 11.5 cm, or oedema",
+      "MAM: weight-for-age −2 SD to < −1 SD; SAM: weight-for-age < −2 SD without nutritional oedema",
+      "MAM: weight-for-height < −1 SD; SAM: weight-for-height < −2 SD with normal MUAC measurement",
+      "MAM: BMI-for-age < −2 SD under 5 years; SAM: MUAC < 13.5 cm with height below −2 SD"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Height-for-age below −2 SD and −3 SD defines moderate and severe stunting (chronic malnutrition), not acute malnutrition (wasting).",
+      "Correct: WHO/CHDR definitions use Weight-for-Height (wasting) and MUAC: MAM lies between −2 SD and −3 SD (orange band; MUAC 11.5–12.4 cm), whereas SAM is Weight-for-Height < −3 SD (red band), MUAC < 11.5 cm, or nutritional oedema.",
+      "Incorrect: Weight-for-age between −1 SD and −2 SD (light green band) is at-risk/mildly low weight, and Weight-for-Age < −2 SD defines underweight rather than SAM.",
+      "Incorrect: The acute malnutrition thresholds begin at −2 SD (MAM) and −3 SD (SAM), not −1 SD and −2 SD.",
+      "Incorrect: BMI-for-age in the CHDR applies to ages 5–18 years, and a MUAC ≥ 12.5 cm is normal rather than SAM."
+    ],
+    "clinicalPearl": "Distinguish the three CHDR anthropometric deficits: Weight-for-Age < −2 SD = Underweight; Height-for-Age < −2 SD = Stunting (chronic); Weight-for-Height < −2 SD = Wasting (acute: −2 to −3 = MAM, < −3 = SAM).",
+    "guideCitation": {
+      "guideId": "guide_paed_osce",
+      "guideTitle": "Paediatrics OSCE Spotter Guide",
+      "keyPoint": "CHDR/WHO z-scores distinguish wasting (Weight-for-Height: MAM −2 to −3 SD, SAM < −3 SD or MUAC < 11.5 cm or oedema) from stunting (Height-for-Age < −2 SD)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "paed_guide_a_06",
+    "specialty": "paed",
+    "specialtyName": "Paediatrics",
+    "domain": "4.2 DEVELOPMENTAL MILESTONES, PRIMITIVE REFLEXES & AGE-APPROPRIATE TOYS (14 STATIONS)",
+    "batch": "CSS Guide — Paediatrics",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Persistence of Primitive Reflexes",
+    "stem": "During a neurological assessment, an 8-month-old term infant exhibits a persistent, obligatory asymmetrical tonic neck reflex (fencing posture) on head rotation, persistent palmar grasp reflex, and an absent forward parachute response. What is the clinical significance of these findings?",
+    "options": [
+      "Normal age-appropriate neurodevelopment, as ATNR typically persists until independent walking at 15 months",
+      "Benign physiological variation that resolves once mature pincer grasp develops at 12 months",
+      "Abnormal persistence of primitive reflexes and delayed postural reactions suggestive of evolving cerebral palsy",
+      "Isolated lower motor neuron brachial plexus injury (Erb palsy) limited to the C5–C6 roots",
+      "Normal reflex sequence, because the forward parachute reflex does not emerge until 18 months"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Obligatory ATNR past 6 months is pathological and interferes with rolling, midline hand play, and sitting.",
+      "Incorrect: Persistent palmar grasp at 8 months physically prevents voluntary release and development of the pincer grasp.",
+      "Correct: The palmar grasp reflex should disappear by 3–4 months and ATNR by 4–6 months, while the partial/full forward parachute emerges by 6–9 months; persistent obligatory primitive reflexes with absent postural reactions point to upper motor neuron pathology/cerebral palsy.",
+      "Incorrect: Erb palsy causes unilateral flaccid weakness with an absent ipsilateral Moro response rather than bilateral persistent ATNR and absent parachute reactions.",
+      "Incorrect: Partial forward parachute appears around 6 months and is fully established by 8–9 months."
+    ],
+    "clinicalPearl": "Expected reflex timelines: Grasp reflex disappears at 3–4 months; ATNR (fencing posture) disappears by 4–6 months; forward parachute appears around 6–9 months and persists for life.",
+    "guideCitation": {
+      "guideId": "guide_paed_dev",
+      "guideTitle": "Paediatric Developmental Assessment Guide",
+      "keyPoint": "Grasp reflex disappears by 3–4 months; fencing posture (ATNR) is seen in early infancy (6–8 weeks); partial forward parachute emerges by 6 months."
+    },
+    "sourceStation": null
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "surg_039_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Surg Q9",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "ABG in AKI — Hyperkalaemia & Metabolic Acidosis",
+    "imagePath": null,
+    "stem": "A 62-year-old post-operative man with acute kidney injury has the following arterial blood gas report: pH 7.10, PaO2 100 mmHg, PaCO2 30 mmHg (35–45), base excess -10 mmol/L (-2 to +2), and K+ 6.5 mmol/L. In view of these life-threatening abnormalities, which immediate intravenous agent should be administered first to protect the myocardium against fatal arrhythmias?",
+    "options": [
+      "Soluble insulin 10 units with 50 mL of 50% dextrose",
+      "Sodium bicarbonate 8.4% slow intravenous infusion",
+      "10% calcium gluconate 10 mL over 3–5 minutes",
+      "Furosemide 80 mg intravenous bolus injection",
+      "Magnesium sulphate 2 g in 100 mL normal saline"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: IV insulin with 50% dextrose drives potassium intracellularly within 15–30 minutes, so it is given immediately after membrane stabilisation rather than first.",
+      "Incorrect: Sodium bicarbonate helps correct severe acidaemia and causes a modest intracellular K+ shift, but it does not acutely stabilise the cardiac resting membrane potential.",
+      "Correct: IV 10% calcium gluconate (10 mL over 3–5 minutes) acts within minutes to antagonise hyperkalaemia-induced myocardial excitability without lowering serum K+.",
+      "Incorrect: Loop diuretics promote renal potassium excretion only if the kidneys are responsive and act too slowly for emergent cardioprotection in oliguric AKI.",
+      "Incorrect: IV magnesium sulphate is indicated for torsades de pointes or eclampsia, not acute cardioprotection in hyperkalaemic metabolic acidosis."
+    ],
+    "clinicalPearl": "Severe hyperkalaemia (K+ >= 6.5 mmol/L) with severe metabolic acidosis (pH 7.10, BE -10) is immediately life-threatening; always give IV 10% calcium gluconate first for membrane stabilisation before insulin-dextrose and nebulised salbutamol.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Assess pH (7.35–7.45), base excess (-2 to +2), and serum K+ together; severe acidaemia with hyperkalaemia mandates immediate myocardial membrane stabilisation."
+    },
+    "sourceStation": {
+      "id": "surg_039",
+      "title": "ABG in AKI — Severe Metabolic Acidosis & Hyperkalaemia",
+      "originalPrompt": "9. Following is an ABG report taken from a patient with acute kidney injury:\npH: 7.1 | PaO2: 100 mmHg | PaCO2: 30 mmHg (35–45) | Base excess: -10 mmol/L (-2 to +2) | K+: 6.5\n9.1 Write two (02) life-threatening abnormalities seen in this ABG report.\n9.2 Write two (02) drugs used in the management of above-mentioned abnormalities.  [Text-only ABG station]",
+      "verifiedAnswer": "(9.1) Life-threatening abnormalities: Severe hyperkalaemia (K⁺ 6.5 mmol/L) (cardiac arrest risk) and Severe metabolic acidosis (pH 7.1, BE −10). (9.2) Emergency drugs: (a) IV 10% Calcium gluconate (10 mL over 3–5 min — cardioprotective membrane stabilisation); (b) IV Soluble Insulin (10 U) + 50% Dextrose (50 mL) (shifts K⁺ intracellularly); also nebulised Salbutamol 10–20 mg and IV Sodium bicarbonate (if refractory acidosis/hyperkalaemia, or urgent haemodialysis).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_040_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Surg Q10",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Basal Ganglia Intracerebral Haemorrhage & GCS",
+    "imagePath": "images/surg/surg_040.webp",
+    "stem": "A 58-year-old man is admitted to the emergency trauma unit after sustaining an accidental head impact. An axial non-contrast CT brain slice is shown. Which pairing accurately identifies the primary abnormality and the Glasgow Coma Scale (GCS) score at or below which endotracheal intubation is indicated?",
+    "options": [
+      "Right basal ganglia intracerebral haemorrhage; GCS <= 8",
+      "Right extradural haematoma; GCS <= 10",
+      "Left basal ganglia ischaemic infarct; GCS <= 9",
+      "Right chronic subdural haematoma; GCS <= 12",
+      "Bilateral subarachnoid haemorrhage; GCS <= 11"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: The CT demonstrates a hyperdense parenchymal clot centred in the right basal ganglia with mild ventricular effacement, and a GCS <= 8 ('less than 8, intubate') mandates airway protection.",
+      "Incorrect: An extradural haematoma is an extra-axial biconvex lens-shaped collection bounded by cranial sutures rather than deep parenchymal hyperdensity, and intubation is triggered at GCS <= 8.",
+      "Incorrect: The hyperdense acute lesion is located in the right hemisphere by radiological convention and represents haemorrhage rather than a hypodense ischaemic infarct.",
+      "Incorrect: A chronic subdural haematoma appears as an extra-axial hypodense/isodense crescentic collection over the cerebral convexity, not a deep parenchymal bleed.",
+      "Incorrect: Subarachnoid haemorrhage tracks as hyperdensity within basal cisterns and cortical sulci rather than forming a focal right lentiform mass, and the intubation threshold is GCS <= 8."
+    ],
+    "clinicalPearl": "Deep hyperdense intraparenchymal clot in the lentiform/basal ganglia region indicates intracerebral haemorrhage; monitor GCS across Eye (1–4), Verbal (1–5), and Motor (1–6) domains and intubate promptly at GCS <= 8.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "Severe head injury is defined as GCS <= 8 (coma range 3–8), which is the standard threshold for definitive endotracheal intubation."
+    },
+    "sourceStation": {
+      "id": "surg_040",
+      "title": "Right Basal Ganglia Intracerebral Haemorrhage (CT Brain)",
+      "originalPrompt": "10. Following is a CT scan of a patient who had an accidental head impact.\n10.1 What is the abnormality seen?\nHouse officer decided to monitor his GCS:\n10.2 What are the components of GCS?\n10.3 What is the GCS score at which you need to insert an endotracheal tube?",
+      "verifiedAnswer": "(10.1) Right basal ganglia / deep parenchymal intracerebral haemorrhage with peri-haematomal oedema and mass effect. (10.2) GCS components: Eye opening (E: 1–4), Verbal response (V: 1–5), Motor response (M: 1–6) (Total 3–15). (10.3) Intubation score: GCS ≤ 8.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_041_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "C4–C5 Unilateral Interfacetal Dislocation",
+    "imagePath": "images/surg/surg_041.webp",
+    "stem": "A 25-year-old man presents with neck pain following a high-speed road traffic collision. Anteroposterior and lateral cervical spine radiographs are shown. Which bony injury is demonstrated on these films?",
+    "options": [
+      "Type II odontoid peg fracture at C2",
+      "Bilateral C1 ring (Jefferson) burst fracture",
+      "Atlanto-occipital dissociation with soft-tissue swelling",
+      "Flexion teardrop fracture of the C7 vertebral body",
+      "Unilateral interfacetal dislocation at C4–C5"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The C2 odontoid process is intact on these views, whereas the focal malalignment lies lower in the mid-cervical spine.",
+      "Incorrect: A Jefferson burst fracture involves lateral mass displacement of C1 best seen on an open-mouth odontoid view, not mid-cervical subluxation.",
+      "Incorrect: Atlanto-occipital dissociation disrupts the craniocervical junction above C1 rather than the C4–C5 facet joints.",
+      "Incorrect: There is no anteroinferior triangular bone fragment avulsed from C7; the anterior displacement and widened interspinous space sit at C4–C5.",
+      "Correct: The lateral radiograph shows anterior translation of C4 on C5 with facet joint locking/hyperflexion and widened interspinous space, while the AP view shows spinous process malalignment typical of C4–C5 unilateral interfacetal dislocation."
+    ],
+    "clinicalPearl": "In cervical trauma X-rays, assess all four alignment lines (anterior vertebral, posterior vertebral, spinolaminar, and spinous tips) and examine clinically for midline tenderness and neurological deficits using NEXUS/Canadian C-spine rules.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Suspected cervical spine injury requires immediate triple immobilisation (manual in-line stabilisation, hard collar, and sandbags) before and during radiographic clearance."
+    },
+    "sourceStation": {
+      "id": "surg_041",
+      "title": "Cervical Spine C4–C5 Unilateral Interfacetal Dislocation",
+      "originalPrompt": "Question 03\nThis 25-year-old man presented to hospital with a head injury following a road traffic accident.\n3.1 Name the views of the X-rays given below. (2 marks)\n3.2 Name 2 abnormalities seen in these X-rays. (4 marks)\n3.3 List 2 clinical features you would look for in this patient. (4 marks)",
+      "verifiedAnswer": "(3.1) Views: Anteroposterior (AP) view (left) and Lateral cervical spine view (right). (3.2) Abnormalities: Unilateral interfacetal dislocation at C4–C5, hyperflexion at C4–C5 with widened interspinous space, malalignment of spinous processes. (3.3) Clinical features: Posterior midline cervical tenderness, focal neurological deficits (sensory/motor level), level of consciousness, alcohol intoxication, painful distracting injuries (NEXUS/Canadian C-spine criteria).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_042_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Surg Q19",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Hypovolaemic Shock & Fluid Deficit in Acute Diarrhoea",
+    "imagePath": null,
+    "stem": "A 40-year-old previously healthy man presents with confusion and restlessness after 2 days of profuse watery diarrhoea. On admission his BP is 80/40 mmHg, urine output is 5 mL/hr, and estimated total body water is 40 L. After establishing wide-bore intravenous access, what is the most appropriate immediate fluid and electrolyte management?",
+    "options": [
+      "Slow 5% dextrose infusion at 100 mL/hr with immediate IV potassium chloride",
+      "Rapid IV 0.9% saline or Hartmann's bolus, delaying IV K+ until UOP > 0.5 mL/kg/hr",
+      "Immediate oral rehydration solution via nasogastric tube before starting IV fluids",
+      "Continuous 10% human albumin infusion over 6 hours while restricting crystalloids",
+      "IV sodium bicarbonate bolus combined with furosemide to stimulate urine output"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: 5% dextrose distributes across total body water rather than restoring intravascular volume in shock, and giving IV potassium during oliguria (5 mL/hr) risks fatal hyperkalaemia.",
+      "Correct: Severe hypovolaemic shock (~10% body weight deficit, ~6.7 L for a ~67 kg adult with 40 L TBW; losses of Na+, K+, Cl-, and HCO3-) requires immediate rapid IV isotonic crystalloid resuscitation, deferring K+ replacement until adequate urine output (> 0.5 mL/kg/hr) is restored.",
+      "Incorrect: Altered sensorium and profound hypotension (80/40 mmHg) contraindicate oral/enteral rehydration as primary resuscitation due to poor splanchnic perfusion and aspiration risk.",
+      "Incorrect: Albumin is neither first-line nor superior to balanced/isotonic crystalloids for diarrhoeal hypovolaemic shock, and crystalloid restriction worsens organ hypoperfusion.",
+      "Incorrect: Loop diuretics worsen intravascular volume depletion in pre-renal oliguria and must not be given in hypovolaemic shock."
+    ],
+    "clinicalPearl": "In severe dehydration with shock, restore the intravascular compartment first with rapid isotonic crystalloid boluses (20 mL/kg), then replace the calculated deficit (10 mL/%/kg) and ongoing losses—never add IV K+ until urine output is established.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "In severe surgical dehydration (altered sensorium, oliguria, impaired vitals), first restore intravascular volume with a 20 mL/kg IV crystalloid bolus over 30 minutes before replacing the remaining deficit."
+    },
+    "sourceStation": {
+      "id": "surg_042",
+      "title": "Hypovolaemic Shock & Fluid Deficit in Acute Diarrhoea",
+      "originalPrompt": "19. 40-year-old previously well male presented with confusion and restlessness. He has a 2-day history of diarrhoea. On admission: BP 80/40 mmHg, Urine output 5 mL/hr, Total body water 40 L.\n19.1 Calculate the fluid deficit.\n19.2 What are the ions that are lost?\n19.3 What is the treatment?  [Text-only clinical calculation station]",
+      "verifiedAnswer": "(19.1) Fluid deficit: Severe dehydration (~10% body weight loss). Since TBW ≈ 60% BW, TBW 40 L corresponds to ~67 kg adult → 10% BW ≈ 6.7 L (or if estimated as 10% of TBW = 4.0 L; note both calculations clearly). (19.2) Ions lost: Na⁺, K⁺, Cl⁻, and HCO₃⁻. (19.3) Treatment: Immediate rapid IV isotonic crystalloid resuscitation (0.9% NaCl or Hartmann's/Ringer's lactate) to restore BP & perfusion, followed by deficit + ongoing loss replacement and IV potassium supplementation once urine output is adequate (> 0.5 mL/kg/hr).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_043_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Subacute/Chronic Subdural Haematoma (CT Brain)",
+    "imagePath": "images/surg/surg_043.webp",
+    "stem": "A 75-year-old man presents with progressive confusion and altered behaviour 3 days after a fall at home. A non-contrast CT brain scan is shown. Which diagnosis and definitive surgical treatment pair best accounts for these appearances?",
+    "options": [
+      "Acute extradural haematoma; urgent craniotomy and middle meningeal artery ligation",
+      "Aneurysmal subarachnoid haemorrhage; nimodipine and endovascular coiling",
+      "Acute territorial ischaemic stroke; intravenous alteplase thrombolysis",
+      "Subacute/chronic subdural haematoma; urgent neurosurgical burr-hole drainage",
+      "Hypertensive basal ganglia haemorrhage; osmotic therapy and blood pressure lowering"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Extradural haematomas form biconvex (lentiform) hyperdense collections limited by cranial sutures rather than a crescent-shaped collection tracking along the hemisphere.",
+      "Incorrect: Subarachnoid haemorrhage fills basal cisterns and sulcal spaces with bright acute blood rather than producing a unilateral extra-axial crescentic mass.",
+      "Incorrect: An ischaemic stroke produces parenchymal hypoattenuation conforming to a vascular territory without an extra-axial fluid collection.",
+      "Correct: The CT reveals a crescent-shaped (concavo-convex) extra-axial collection crossing suture lines with sulcal/ventricular effacement and midline shift, characteristic of a subacute/chronic subdural haematoma managed definitively by burr-hole drainage (or craniotomy if solid acute clot).",
+      "Incorrect: Hypertensive intracerebral haemorrhage appears as a focal hyperdense clot deep within the brain parenchyma rather than an extra-axial convexity collection."
+    ],
+    "clinicalPearl": "Subdural haematomas arise from torn bridging cortical veins in elderly or anticoagulated patients, creating a crescentic collection crossing suture lines; liquid chronic/subacute clots are evacuated via burr-hole drainage.",
+    "guideCitation": {
+      "guideId": "guide_med_gcs",
+      "guideTitle": "GCS OSCE Guide",
+      "keyPoint": "Prompt GCS monitoring and non-contrast CT imaging distinguish extra-axial surgical emergencies requiring neurosurgical evacuation after traumatic falls in older adults."
+    },
+    "sourceStation": {
+      "id": "surg_043",
+      "title": "Right Subacute/Chronic Subdural Haematoma (CT Brain)",
+      "originalPrompt": "04. A 75-year-old male presented to NCTH Ragama with altered behaviour. He has a past history of a fall 3 days ago. A CT image is shown below.\n1. List three abnormalities seen in the image.\n2. What is the likely diagnosis?\n3. What is the definitive management?",
+      "verifiedAnswer": "(1) Abnormalities: Right crescent-shaped (concavo-convex) extra-axial collection crossing suture lines (hyper/isodense subacute), effacement of right cortical sulci & lateral ventricle, and midline shift to the left. (2) Diagnosis: Right acute-on-chronic / subacute subdural haematoma (SDH). (3) Definitive management: Urgent neurosurgical Burr-hole drainage (for chronic/subacute liquid SDH) or craniotomy (if large acute solid clot).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_044_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Tension Pneumothorax & Immediate Decompression",
+    "imagePath": "images/surg/surg_044.webp",
+    "stem": "A 28-year-old motorcyclist develops severe dyspnoea, hypotension, and engorged neck veins after blunt chest trauma. A chest radiograph obtained in the resuscitation bay is shown. Which immediate life-saving intervention is indicated for this condition?",
+    "options": [
+      "Immediate needle decompression (2nd ICS mid-clavicular) followed by chest drain",
+      "Urgent subxiphoid pericardiocentesis under bedside ultrasound guidance",
+      "Rapid sequence endotracheal intubation with high positive end-expiratory pressure",
+      "Intravenous furosemide bolus with high-flow oxygen via non-rebreather mask",
+      "Supine positioning with aggressive IV colloid infusion and repeat radiograph"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: The radiograph shows a massive right tension pneumothorax (hyperlucent hemithorax without lung markings, collapsed right lung, depressed right hemidiaphragm, and leftward mediastinal shift), requiring immediate wide-bore needle decompression (2nd ICS mid-clavicular or 4th/5th ICS anterior axillary line) followed by intercostal chest tube insertion.",
+      "Incorrect: Pericardiocentesis treats cardiac tamponade rather than unilateral pleural air under pressure causing lung collapse and contralateral tracheal deviation.",
+      "Incorrect: Positive-pressure ventilation prior to pleural decompression rapidly worsens intrathoracic pressure and precipitates obstructive cardiac arrest.",
+      "Incorrect: Diuretics have no role in obstructive shock from pleural air entrapment and will exacerbate preload compromise.",
+      "Incorrect: Delaying decompression for fluid boluses or repeat films risks imminent cardiorespiratory arrest; clinically recognised tension pneumothorax should be decompressed even before X-ray."
+    ],
+    "clinicalPearl": "Tension pneumothorax is a clinical diagnosis (hypotension, hyperresonance, absent breath sounds, tracheal deviation); never delay needle decompression for a chest X-ray, and always follow with an underwater-seal ICD.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Tension pneumothorax shows absent lung markings, ipsilateral lung collapse, contralateral mediastinal shift, and hemidiaphragm depression—mandating immediate decompression."
+    },
+    "sourceStation": {
+      "id": "surg_044",
+      "title": "Right-Sided Tension Pneumothorax & Immediate Management",
+      "originalPrompt": "1.1 What is the diagnosis?\n1.2 What is the immediate management of this patient?",
+      "verifiedAnswer": "(1.1) Right-sided tension pneumothorax. (1.2) Immediate management: Immediate needle decompression (wide-bore 14G–16G cannula into 2nd intercostal space mid-clavicular line or 4th/5th ICS anterior/mid-axillary line — do NOT delay for X-ray clinically!) followed immediately by Intercostal Drainage (ICD) tube insertion connected to an underwater seal.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_045_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Class III Haemorrhagic Shock Resuscitation",
+    "imagePath": "images/surg/surg_045.webp",
+    "stem": "A 35-year-old man is admitted to the Emergency Treatment Unit after a road traffic accident with massive haemoperitoneum. His pulse rate is 130 bpm with reduced pulse pressure, capillary refill time is 3 seconds, and respiratory rate is 33/min (reference table shown). After securing two wide-bore intravenous cannulae, what is the most appropriate initial fluid resuscitation strategy?",
+    "options": [
+      "Slow maintenance 5% dextrose infusion at 100 mL/hr while awaiting cross-match",
+      "Restricted 500 mL normal saline over 4 hours until blood pressure normalises",
+      "Rapid 1–2 L warmed isotonic crystalloid bolus with early blood transfusion",
+      "Immediate 1 L bolus of 6% hydroxyethyl starch colloid without crystalloid",
+      "Hypertonic 3% saline 250 mL infusion followed by oral electrolyte replacement"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Maintenance dextrose does not remain in the intravascular space and leaves Class III haemorrhagic shock (30–40% blood loss) critically under-resuscitated.",
+      "Incorrect: Giving only 500 mL over 4 hours fails to restore circulating volume in a patient with tachycardia 130 bpm, tachypnoea 33/min, and falling systolic BP.",
+      "Correct: Clinical parameters fit Class III haemorrhage (30–40% volume loss, ~1,500–2,000 mL), requiring immediate rapid infusion of 1–2 L warmed isotonic crystalloid (0.9% NaCl or Hartmann's/Ringer's lactate) over 15–30 minutes with early balanced blood transfusion and urgent surgical haemorrhage control.",
+      "Incorrect: Synthetic starch colloids are avoided in acute haemorrhagic shock due to coagulopathy and nephrotoxicity; isotonic crystalloids and blood products are standard.",
+      "Incorrect: Hypertonic saline with oral replacement is inappropriate for massive intraperitoneal haemorrhage requiring IV volume resuscitation and emergency laparotomy."
+    ],
+    "clinicalPearl": "Class III haemorrhage (30–40% loss, ~1.5–2.0 L) marks the onset of measurable hypotension alongside PR > 120 bpm and RR 30–40/min; resuscitate via two wide-bore cannulae with warmed isotonic crystalloids and early blood products.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Grade III haemorrhagic shock corresponds to 30–40% blood loss (1,500–2,000 mL) with pulse 120–140 bpm, hypotension, tachypnoea, and oliguria (<0.5 mL/kg/hr)."
+    },
+    "sourceStation": {
+      "id": "surg_045",
+      "title": "Class III Haemorrhagic Shock (RTA Haemoperitoneum)",
+      "originalPrompt": "2. 35-year-old male patient admitted to the ETU due to an RTA with a massive haemorrhagic lesion in the peritoneum. His pulse rate is 130 bpm with reduced pulse pressure, capillary refilling time is 3 s with respiratory rate 33/min (ACS Acute Hemorrhage table shown).\n2.1 Estimate the patient's blood loss.\n2.2 Write down two isotonic crystalloids given to the patient.\n2.3 What is the rate at which the fluid is given to the patient?",
+      "verifiedAnswer": "(2.1) Class III Haemorrhage: 30–40% blood volume loss (~1,500–2,000 mL). (2.2) Isotonic crystalloids: 0.9% Normal Saline and Hartmann's solution (Ringer's lactate). (2.3) Fluid rate: Rapid IV bolus of 1–2 L (warmed crystalloid via two wide-bore cannulae over 15–30 minutes, reassessing haemodynamic response and transitioning early to blood/balanced transfusion + urgent laparotomy).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_046_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Distal Radius Fracture (Colles'-Type Displacement)",
+    "imagePath": "images/surg/surg_046.webp",
+    "stem": "An elderly woman presents with wrist pain and deformity following a fall onto an outstretched hand. Anteroposterior and lateral wrist radiographs are shown. Which bone fracture and displacement pattern are demonstrated?",
+    "options": [
+      "Distal ulna fracture with volar angulation and ulnar shortening",
+      "Distal radius fracture with volar displacement and intact dorsal cortex",
+      "Scaphoid waist fracture with dorsal intercalated segment instability",
+      "Proximal radial shaft fracture with radial head subluxation",
+      "Distal radius fracture with dorsal displacement and radial shortening"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The primary transverse metaphyseal break involves the distal radius rather than the distal ulna, although the radial and ulnar styloids now sit at the same level from radial collapse.",
+      "Incorrect: Volar displacement of the distal radius describes a Smith's or volar Barton's fracture, whereas the lateral film here shows posterior (dorsal) tilting.",
+      "Incorrect: The scaphoid waist contour is preserved; the obvious cortical disruption crosses the distal radial metaphysis.",
+      "Incorrect: Proximal radius fractures do not account for this extra-articular distal metaphyseal wrist deformity.",
+      "Correct: The radiographs show a transverse distal radial metaphyseal fracture with dorsal (posterior) displacement/angulation and radial shortening aligning the radial and ulnar styloids—typical of a Colles'-type fracture."
+    ],
+    "clinicalPearl": "A Colles' fracture occurs within ~2.5 cm of the distal radial articular surface with dorsal displacement, dorsal angulation, radial deviation, and radial shortening ('dinner-fork' deformity).",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Colles' fracture is a transverse distal radial fracture whose distal fragment is displaced and angulated posteriorly (dorsally), producing the classic dinner-fork deformity."
+    },
+    "sourceStation": {
+      "id": "surg_046",
+      "title": "Distal Radius Fracture (Colles'-Type Displacement)",
+      "originalPrompt": "Q.4\nA.) What is the bone fractured?\nB.) Describe the displacement of the fracture.",
+      "verifiedAnswer": "(A) Radius (distal radius). (B) Displacement: Fracture at the distal neck/metaphysis of radius with dorsal (upward/posterior) displacement and radial shortening, aligning radial and ulnar styloid processes at the same level on AP view (typical Colles'-type pattern).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_047_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Left Femoral Neck Fracture X-Ray",
+    "imagePath": "images/surg/surg_047.webp",
+    "stem": "A 72-year-old woman is unable to stand or bear weight after a fall at home. An anteroposterior radiograph of the injured hip is shown. What is the exact anatomical site of the fracture?",
+    "options": [
+      "Left superior pubic ramus",
+      "Left subtrochanteric femoral shaft",
+      "Left posterior acetabular wall",
+      "Left femoral neck (neck of femur)",
+      "Right intertrochanteric femur"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The pelvic ring and superior pubic ramus remain continuous on this view.",
+      "Incorrect: The cortex below the lesser trochanter (subtrochanteric region) is intact.",
+      "Incorrect: The acetabular dome and margins are preserved around the femoral head.",
+      "Correct: There is cortical disruption across the left femoral neck with loss of Shenton's line continuity, diagnostic of an intracapsular left neck-of-femur fracture.",
+      "Incorrect: Both laterality (left hip shown) and anatomical zone (intracapsular femoral neck rather than intertrochanteric line) are inaccurate here."
+    ],
+    "clinicalPearl": "Intracapsular femoral neck fractures disrupt the retinacular blood supply to the femoral head (risking avascular necrosis), typically requiring hemiarthroplasty or total hip replacement in elderly patients.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Confirm suspected fractures with AP/lateral radiographs and systematically inspect cortical continuity, alignment lines, and distal limb neurovascular status."
+    },
+    "sourceStation": {
+      "id": "surg_047",
+      "title": "Left Femoral Neck Fracture X-Ray",
+      "originalPrompt": "05. Photograph of an X-ray of the hip joint.\nWhat is the anatomical site of the fracture?",
+      "verifiedAnswer": "Left femoral neck (neck of femur) fracture.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_048_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Positive Transillumination Test (1st MTP Lump)",
+    "imagePath": "images/surg/surg_048.webp",
+    "stem": "A patient presents with a painless, well-circumscribed swelling over the dorsomedial aspect of the first metatarsophalangeal joint. A bedside examination manoeuvre is performed as shown. What does this sign indicate, and which lesion typically produces it?",
+    "options": [
+      "Solid vascular tissue; capillary haemangioma",
+      "Clear fluid-filled cavity; ganglion cyst",
+      "Caseous necrotic material; tuberculous cold abscess",
+      "Keratin-filled subcutaneous sac; epidermoid cyst",
+      "Purulent exudate; acute septic bursitis"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Solid or blood-filled vascular lesions absorb light rather than allowing brilliant transmission across the swelling.",
+      "Correct: The glowing illumination demonstrates a positive transillumination test, signifying a cystic lesion containing clear serous/mucinous fluid such as a ganglion cyst (as well as hydrocele, cystic hygroma, or epididymal cyst).",
+      "Incorrect: Thick caseous material is opaque and fails to transilluminate brightly.",
+      "Incorrect: Epidermoid (sebaceous) cysts contain opaque cheesy keratin and are classically transillumination-negative.",
+      "Incorrect: Acute pus scatters and blocks light transmission, rendering septic collections opaque on transillumination."
+    ],
+    "clinicalPearl": "A positive transillumination test indicates clear fluid inside a cystic swelling (e.g., ganglion cyst, vaginal hydrocele, epididymal cyst, cystic hygroma); blood, pus, keratin, and solid tumours do not transilluminate.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Bedside lump assessment combines inspection, palpation, fluctuation, and transillumination to distinguish clear-fluid cysts from solid or purulent swellings."
+    },
+    "sourceStation": {
+      "id": "surg_048",
+      "title": "Positive Transillumination Test (1st MTP Lump)",
+      "originalPrompt": "3) Lump over 1st metatarsophalangeal joint.\n1) What is the physical sign elicited in this patient?\n2) What is the inference from the above sign?\n3) List two lumps that elicit this sign.",
+      "verifiedAnswer": "(1) Positive transillumination test. (2) Inference: The lump contains clear fluid (cystic lesion with clear serous/mucinous fluid). (3) Two lumps: Ganglion cyst (or synovial cyst / adventitial bursa over 1st MTP), Hydrocele (vaginal hydrocele), Cystic hygroma, Epididymal cyst.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_049_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Dupuytren's Contracture",
+    "imagePath": "images/surg/surg_049.webp",
+    "stem": "A 62-year-old man with chronic alcoholic liver disease presents with painless, progressive cord-like thickening in the palm and an inability to lay his hand flat on a tabletop, as shown. What is the most likely diagnosis?",
+    "options": [
+      "Ulnar nerve claw hand",
+      "Trigger finger (stenosing tenosynovitis)",
+      "Volkmann's ischaemic contracture",
+      "Dupuytren's contracture",
+      "De Quervain's tenosynovitis"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Ulnar claw hand results from intrinsic muscle paralysis producing MCP hyperextension and IP flexion without fibrotic palmar fascial cords.",
+      "Incorrect: Trigger finger causes painful catching or locking of a flexor tendon at the A1 pulley without visible longitudinal palmar fascial cords.",
+      "Incorrect: Volkmann's contracture follows forearm compartment ischaemia and involves deep flexor muscle fibrosis across the forearm and wrist.",
+      "Correct: Thickened fibrotic cords in the palmar aponeurosis pulling the ring/little finger into fixed MCP/PIP flexion—associated with cirrhosis, alcohol excess, diabetes, phenytoin, and family history—are classic for Dupuytren's contracture.",
+      "Incorrect: De Quervain's tenosynovitis causes radial wrist pain over the first extensor compartment (positive Finkelstein test) rather than palmar flexion cords."
+    ],
+    "clinicalPearl": "Dupuytren's contracture affects the palmar fascia (most commonly the ring and little fingers) and is tested clinically with Hueston's tabletop test; key associations include alcohol excess, cirrhosis, diabetes, phenytoin, and manual vibration.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Distinguish fixed palmar fascial cords with MCP/PIP flexion (Dupuytren's contracture) from ulnar nerve palsy clawing (MCP hyperextension with IP flexion from lumbrical paralysis)."
+    },
+    "sourceStation": {
+      "id": "surg_049",
+      "title": "Dupuytren's Contracture",
+      "originalPrompt": "01. What is the diagnosis?",
+      "verifiedAnswer": "Dupuytren's contracture (fibromatosis/thickening and contracture of the palmar fascia/aponeurosis; associations: family history, alcohol excess, diabetes, phenytoin, cirrhosis).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_050_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Dry Gangrene of Toes",
+    "imagePath": "images/surg/surg_050.webp",
+    "stem": "A 68-year-old man with a 40-pack-year smoking history presents with progressive black discoloration of his right first and second toes, as shown. Which clinical entity and most common underlying cause explain this appearance?",
+    "options": [
+      "Dry gangrene; peripheral arterial disease (atherosclerosis)",
+      "Wet gangrene; polymicrobial necrotising soft-tissue sepsis",
+      "Erysipelas; acute Group A streptococcal dermal infection",
+      "Acute deep vein thrombosis; phlegmasia caerulea dolens",
+      "Chronic fungal paronychia; untreated tinea pedis"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Shriveled, desiccated, mummified black digits with a sharp line of demarcation represent dry gangrene due to chronic arterial insufficiency—most commonly atherosclerosis (also diabetes mellitus or Buerger's disease).",
+      "Incorrect: Wet gangrene produces swollen, boggy, blistering, foul-smelling tissue with indistinct demarcation and spreading proximal cellulitis.",
+      "Incorrect: Erysipelas causes bright fiery-red, raised, sharply demarcated plaques without black mummified digital necrosis.",
+      "Incorrect: Phlegmasia caerulea dolens causes acute tense oedema and cyanosis of the entire limb rather than chronic desiccated auto-amputating toes.",
+      "Incorrect: Superficial fungal nail/skin infection does not cause full-thickness ischaemic digital necrosis."
+    ],
+    "clinicalPearl": "Dry gangrene develops from gradual arterial occlusion leading to mummification and a clear line of demarcation; key causes are atherosclerosis, diabetes mellitus, and thromboangiitis obliterans (Buerger's disease).",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Evaluate any gangrenous digit for underlying vascular occlusion (atherosclerosis, diabetes, Buerger's), pedal pulses, and signs of superadded wet infection."
+    },
+    "sourceStation": {
+      "id": "surg_050",
+      "title": "Dry Gangrene of Right 1st & 2nd Toes",
+      "originalPrompt": "Q.2\nA.) What is this condition?\nB.) List 3 causes.",
+      "verifiedAnswer": "(A) Dry gangrene of the right great (1st) and 2nd toes. (B) Causes: Peripheral arterial disease (atherosclerosis), Diabetes mellitus (micro/macrovascular), Thromboangiitis obliterans (Buerger's disease), Arterial embolism/thrombosis, Severe Raynaud's/vasculitis.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_051_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Gas Gangrene (Clostridium perfringens)",
+    "imagePath": null,
+    "stem": "A 45-year-old labourer develops agonising limb pain, tense swelling, bronze skin discoloration, and palpable subcutaneous crepitus 24 hours after a soil-contaminated thigh laceration. Gram stain of wound exudate demonstrates large Gram-positive bacilli with subterminal spores. Alongside urgent radical surgical debridement, which causative organism and intravenous antibiotic regimen are indicated?",
+    "options": [
+      "Staphylococcus aureus; IV flucloxacillin plus vancomycin",
+      "Streptococcus pyogenes; IV amoxicillin plus gentamicin",
+      "Clostridium perfringens; high-dose IV benzylpenicillin plus clindamycin",
+      "Pseudomonas aeruginosa; IV ceftazidime plus ciprofloxacin",
+      "Bacteroides fragilis; IV metronidazole monotherapy"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Staphylococcus aureus appears as Gram-positive cocci in clusters and does not form spores or classic clostridial myonecrosis with gas.",
+      "Incorrect: Streptococcus pyogenes forms Gram-positive cocci in chains rather than spore-bearing bacilli.",
+      "Correct: Gas gangrene (clostridial myonecrosis) is caused by Clostridium perfringens (anaerobic Gram-positive spore-forming bacilli) and requires radical debridement plus high-dose IV benzylpenicillin (Penicillin G) and clindamycin (which suppresses bacterial exotoxin synthesis).",
+      "Incorrect: Pseudomonas aeruginosa is a Gram-negative aerobic rod rather than a Gram-positive spore-former.",
+      "Incorrect: Bacteroides fragilis is a non-spore-forming Gram-negative anaerobe, and metronidazole monotherapy is inferior to penicillin plus clindamycin for C. perfringens myonecrosis."
+    ],
+    "clinicalPearl": "Clostridium perfringens causes rapidly fatal gas gangrene via alpha-toxin (lecithinase); combine immediate radical debridement with high-dose IV benzylpenicillin plus clindamycin (to halt toxin translation).",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Benzylpenicillin (Penicillin G / Crystalline penicillin IV) plus anaerobic/clostridial cover (with clindamycin toxin suppression and radical surgical debridement) treats severe clostridial soft-tissue necrosis."
+    },
+    "sourceStation": {
+      "id": "surg_051",
+      "title": "Gas Gangrene (Clostridium perfringens)",
+      "originalPrompt": "02. Patient with gas gangrene / deep tissue necrosis; light microscopic appearance of causative organism (Gram-positive spore-forming bacilli) is shown.\n1.) What is the organism?\n2.) Drug(s) used on him?  [Micrograph omitted in 2012 archive files]",
+      "verifiedAnswer": "Organism: Clostridium perfringens (non-motile Gram-positive bacilli with subterminal spores; double zone of beta-haemolysis). Drugs: High-dose IV Benzylpenicillin (Penicillin G) + Clindamycin (inhibits toxin synthesis; Drive key also notes Metronidazole/Gentamicin for polymicrobial cover) alongside urgent radical surgical debridement.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_052_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Erysipelas Diagnosis & Causative Organism",
+    "imagePath": "images/surg/surg_052.webp",
+    "stem": "A 55-year-old woman presents with acute fever, rigors, and a tender, bright erythematous plaque spreading up her lower leg, as shown. Which clinical diagnosis and most likely causative organism correspond to this presentation?",
+    "options": [
+      "Necrotising fasciitis; Clostridium perfringens",
+      "Deep cellulitis; Pseudomonas aeruginosa",
+      "Erythrasma; Corynebacterium minutissimum",
+      "Venous stasis dermatitis; Staphylococcus epidermidis",
+      "Erysipelas; Streptococcus pyogenes"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Necrotising fasciitis presents with pain out of proportion, haemorrhagic bullae, dusky necrosis, and systemic shock rather than a well-demarcated bright red superficial plaque.",
+      "Incorrect: Cellulitis has indistinct, poorly demarcated borders involving deeper subcutaneous fat, and Pseudomonas is uncommon in immunocompetent community lower-limb plaques.",
+      "Incorrect: Erythrasma causes chronic reddish-brown scaly intertriginous patches (axillae/groin) showing coral-red fluorescence under Wood's light.",
+      "Incorrect: Stasis dermatitis is a chronic non-infective eczematous process lacking acute fever, rigors, and a raised advancing border.",
+      "Correct: A raised, fiery-red, palpable plaque with a sharply demarcated advancing border is classic erysipelas (superficial dermal/lymphatic infection), most commonly caused by Streptococcus pyogenes (Group A beta-haemolytic streptococcus)."
+    ],
+    "clinicalPearl": "Unlike cellulitis (diffuse, poorly demarcated subcutaneous infection), erysipelas involves the upper dermis and lymphatics, giving a palpable, sharply demarcated edge caused primarily by Streptococcus pyogenes.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Erysipelas involves the superficial dermis and presents as a palpable erythematous lesion with a well-demarcated edge caused mainly by beta-haemolytic streptococci (Streptococcus pyogenes)."
+    },
+    "sourceStation": {
+      "id": "surg_052",
+      "title": "Erysipelas (Streptococcus pyogenes)",
+      "originalPrompt": "02)\na) What is the diagnosis? (Picture shown)\nb) Most likely organism for above diagnosis.\nc) Name 3 antibiotics for above condition.",
+      "verifiedAnswer": "(a) Erysipelas. (b) Organism: Streptococcus pyogenes (Group A beta-haemolytic streptococcus). (c) Antibiotics: IV Penicillin G (Benzylpenicillin) 1.2 MU 6-hourly, Oral/IV Amoxicillin, Cephalexin 500 mg TDS, or Erythromycin 500 mg QDS/BD (or Clindamycin) if penicillin-allergic.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_053_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Lower Limb Cellulitis & Ward Antibiotics",
+    "imagePath": "images/surg/surg_053.webp",
+    "stem": "A 52-year-old man with poorly controlled diabetes presents with a 2-day history of fever, warmth, and diffuse swelling of his distal leg and ankle, as shown. Which organism is most frequently responsible, and which intravenous antibiotic is appropriate for initial ward management?",
+    "options": [
+      "Pseudomonas aeruginosa; oral ciprofloxacin monotherapy",
+      "Streptococcus pyogenes; IV flucloxacillin or cefuroxime",
+      "Clostridium perfringens; IV metronidazole monotherapy",
+      "Escherichia coli; IV gentamicin plus oral trimethoprim",
+      "Corynebacterium minutissimum; topical miconazole cream"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Pseudomonas is typically associated with puncture wounds through footwear or malignant otitis externa rather than routine community lower-limb cellulitis.",
+      "Correct: Diffuse, poorly demarcated erythema and oedema of the lower limb indicates cellulitis (deep dermal and subcutaneous tissue), caused predominantly by Streptococcus pyogenes and Staphylococcus aureus and treated on the ward with IV flucloxacillin, co-amoxiclav, or cefuroxime.",
+      "Incorrect: Metronidazole covers strict anaerobes and lacks activity against beta-haemolytic streptococci and staphylococci.",
+      "Incorrect: Gentamicin lacks reliable streptococcal and staphylococcal cover for routine lower-limb cellulitis.",
+      "Incorrect: Corynebacterium minutissimum causes superficial erythrasma in skin folds rather than acute febrile lower-limb cellulitis."
+    ],
+    "clinicalPearl": "Lower limb cellulitis spreads through subcutaneous planes with indistinct margins; cover both Streptococcus pyogenes and Staphylococcus aureus empirically (e.g., IV flucloxacillin or co-amoxiclav, or vancomycin/clindamycin if severe/MRSA).",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Ward treatment of acute lower-limb cellulitis targets Streptococcus pyogenes and Staphylococcus aureus using IV penicillins (crystalline penicillin/cloxacillin or co-amoxiclav), or clindamycin in penicillin allergy."
+    },
+    "sourceStation": {
+      "id": "surg_053",
+      "title": "Lower Limb Cellulitis",
+      "originalPrompt": "5)\n• Identify the condition.\n• What is the most common organism causing this condition?\n• State 2 antibiotics that are used in the ward for the treatment of this.",
+      "verifiedAnswer": "Condition: Cellulitis. Organism: Streptococcus pyogenes (and Staphylococcus aureus). Ward antibiotics: IV Flucloxacillin / Co-amoxiclav / Cefuroxime (Drive PPTX lists Vancomycin, Clindamycin for severe/MRSA cases).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_054_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Infected Diabetic Foot Ulcer Management",
+    "imagePath": "images/surg/surg_054.webp",
+    "stem": "A 63-year-old man with long-standing Type 2 diabetes mellitus presents with the deep ankle-region ulcer shown. After haemodynamic stabilisation, empirical IV antibiotics, and deep tissue sampling for culture, which local surgical intervention is most essential?",
+    "options": [
+      "Primary closure of the wound edges with interrupted nylon sutures",
+      "Sharp surgical debridement of all slough and necrotic tissue",
+      "Immediate split-thickness skin grafting over the sloughy base",
+      "Application of tight graduated compression bandaging to the calf",
+      "Daily dry gauze packing without excision of devitalised tissue"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Primary suturing of an infected, necrotic diabetic wound traps bacteria and pus, worsening deep space sepsis.",
+      "Correct: Infected diabetic foot ulcers contain devitalised slough and necrotic tissue that harbour organisms and prevent healing; thorough surgical debridement alongside broad-spectrum antibiotics, glycaemic control, vascular assessment, and offloading is essential.",
+      "Incorrect: Skin grafts fail when placed over infected or sloughy beds; healthy pink granulation tissue and infection clearance are prerequisites.",
+      "Incorrect: Tight compression is contraindicated in diabetic foot ulcers until arterial ischaemia is excluded and sepsis is controlled.",
+      "Incorrect: Leaving necrotic slough in situ sustains bacterial biofilms and delays wound contraction and epithelialisation."
+    ],
+    "clinicalPearl": "Every diabetic foot ulcer requires probing for exposed bone (osteomyelitis), palpation/Doppler of pedal pulses, thorough surgical debridement of slough, deep tissue culture, glycaemic optimisation, and pressure offloading.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Optimise glycaemic control strictly in diabetic surgical patients and manage dirty/infected wounds with surgical debridement, deep culture-guided IV antibiotics, and delayed healing."
+    },
+    "sourceStation": {
+      "id": "surg_054",
+      "title": "Infected Diabetic Foot Ulcer",
+      "originalPrompt": "3. This is a wound of a Type 2 DM patient.\n1. List 2 features of the wound which help in further management.\n2. List 3 steps taken to manage the wound.",
+      "verifiedAnswer": "(1) Wound features: Size/depth & probing to bone (osteomyelitis), presence of slough/necrotic tissue vs granulation tissue, purulent discharge/erythema/oedema (infection), and surrounding callus/vascularity. (2) Management steps: (a) Surgical debridement of slough/necrotic tissue & deep tissue culture; (b) Empirical broad-spectrum IV/oral antibiotics + strict glycaemic control; (c) Vascular assessment (Doppler/ABI), offloading pressure, and moist sterile dressings.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_055_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Surg Q12",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Diabetic Foot Ulcer — Healing & Perfusion Assessment",
+    "imagePath": "images/surg/surg_055.webp",
+    "stem": "A 59-year-old diabetic man is reviewed in the surgical outpatient clinic during follow-up of a dorsal foot ulcer shown in the photograph. Before planning reconstructive coverage, which pair of assessments most reliably evaluates arterial perfusion of the foot?",
+    "options": [
+      "10 g Semmes-Weinstein monofilament and 128 Hz tuning fork testing",
+      "Trendelenburg tourniquet test and Perthes clinical test",
+      "Plain foot radiograph and serum C-reactive protein level",
+      "Superficial wound swab culture and glycated haemoglobin (HbA1c)",
+      "Pedal pulse palpation and hand-held Doppler / Ankle-Brachial Index"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Monofilament and 128 Hz tuning fork tests assess peripheral neuropathy (protective sensation and vibration), not arterial blood flow.",
+      "Incorrect: Trendelenburg and Perthes tests evaluate superficial venous incompetence and deep venous patency in varicose veins, not arterial perfusion.",
+      "Incorrect: Radiographs and CRP detect underlying osteomyelitis or systemic inflammation rather than quantifying arterial inflow.",
+      "Incorrect: Swab culture and HbA1c reflect colonisation and glycaemic control rather than limb perfusion.",
+      "Correct: The ulcer shows healthy pink/beefy-red granulation tissue and contracting margins; arterial perfusion is evaluated clinically by palpating dorsalis pedis and posterior tibial pulses and objectively using hand-held Doppler / Ankle-Brachial Index (ABI) or arterial Duplex ultrasound."
+    ],
+    "clinicalPearl": "Healthy pink/beefy-red granulation tissue with contracting epithelial edges signals active ulcer healing, while dorsalis pedis/posterior tibial pulse palpation plus Doppler ABI confirms adequate perfusion for reconstruction.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Assess vascular status of lower-limb ulcers by examining pedal pulses, capillary refill, and Doppler/Duplex flow before surgical closure or grafting."
+    },
+    "sourceStation": {
+      "id": "surg_055",
+      "title": "Healing Diabetic Foot Ulcer & Perfusion Assessment",
+      "originalPrompt": "12. This is a diabetic foot ulcer.\n12.1 List two (02) features to indicate this ulcer is healing.\n12.2 Write two (02) methods to assess the perfusion of the foot.",
+      "verifiedAnswer": "(12.1) Healing features: Healthy pink/beefy-red granulation tissue, absence of slough/purulence/cellulitis, contracting wound edges with epithelialisation rim. (12.2) Assessing perfusion: (a) Palpation of pedal pulses (dorsalis pedis & posterior tibial) & capillary refill time; (b) Hand-held Doppler / Ankle-Brachial Index (ABI) or Arterial Duplex ultrasound.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_056_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Erysipelas Management in a Farmer",
+    "imagePath": "images/surg/surg_056.webp",
+    "stem": "A 40-year-old farmer is admitted to the surgical ward with high fever and a painful, acutely expanding erythematous skin lesion on his leg, as shown. Blood cultures are obtained. Which initial inpatient antibiotic and supportive management plan is most appropriate?",
+    "options": [
+      "Oral terbinafine therapy with occlusive topical corticosteroid",
+      "Intravenous metronidazole monotherapy with warm fomentation",
+      "Intravenous benzylpenicillin with limb elevation and analgesia",
+      "Immediate surgical debridement and below-knee amputation",
+      "Oral fluconazole with graduated elastic compression stockings"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Antifungals and topical steroids do not treat acute bacterial dermal infection and steroids can worsen bacterial spread.",
+      "Incorrect: Metronidazole targets obligate anaerobes and is ineffective against Streptococcus pyogenes and Staphylococcus aureus.",
+      "Correct: The sharply demarcated fiery-red plaque represents erysipelas (typically Streptococcus pyogenes, occasionally Staphylococcus aureus), managed with IV benzylpenicillin/penicillin G (or cephalosporin/clindamycin/erythromycin if allergic), limb elevation, local cooling/wet dressings if ulcerated, and analgesia.",
+      "Incorrect: Amputation is indicated only for unsalvageable gangrene or life-threatening necrotising sepsis, never uncomplicated erysipelas.",
+      "Incorrect: Fluconazole treats fungal disease and tight compression is avoided during acute painful infective inflammation."
+    ],
+    "clinicalPearl": "First-line ward therapy for acute erysipelas is IV benzylpenicillin (Penicillin G) or a beta-lactam/clindamycin in penicillin allergy, combined with limb elevation, antipyretics, and local wound care.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Treat acute erysipelas with crystalline penicillin (or cephalosporin, clindamycin, or erythromycin) alongside limb elevation and symptomatic analgesia."
+    },
+    "sourceStation": {
+      "id": "surg_056",
+      "title": "Erysipelas in a Farmer",
+      "originalPrompt": "Question 05\nA 40-year-old farmer presented to the surgical ward.\n5.1 What is your diagnosis? (2 marks)\n5.2 Name 2 organisms which give rise to the above presentation. (2 marks)\n5.3 List 3 methods of management of this patient. (6 marks)",
+      "verifiedAnswer": "(5.1) Erysipelas. (5.2) Organisms: Streptococcus pyogenes (primary) and Staphylococcus aureus. (5.3) Management: (1) Antibiotics (Crystalline penicillin / Penicillin G, cephalosporin, clindamycin, or erythromycin); (2) Local wound care (saline wet dressings if ulcerated, cold compresses, limb elevation); (3) Symptomatic analgesia/antipyretics + surgical debridement if necrotic.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_057_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Surg Q16",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Dorsum Foot Ulcer — Slough vs Granulation Tissue",
+    "imagePath": "images/surg/surg_057.webp",
+    "stem": "A 65-year-old man with diabetes mellitus and peripheral arterial disease presents with a chronic wound on the dorsum of the foot, with zones A and B marked as shown. Which option correctly identifies the tissue types labelled A and B?",
+    "options": [
+      "A = Devitalised fibrinous slough; B = Granulation tissue",
+      "A = Granulation tissue; B = Necrotic black eschar",
+      "A = Epithelialising wound edge; B = Exposed extensor tendon",
+      "A = Hyperkeratotic neuropathic callus; B = Subcutaneous adipose",
+      "A = Exposed metatarsal cortex; B = Purulent abscess cavity"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Zone A points to yellowish devitalised fibrinous/necrotic slough adherent to the wound bed (requiring debridement), while Zone B points to healthy red vascularised granulation tissue.",
+      "Incorrect: Granulation tissue is beefy red (Zone B), whereas yellowish fibrinous material (Zone A) is slough rather than black eschar.",
+      "Incorrect: Epithelialisation appears as a pale pink/translucent advancing rim at the skin margin rather than central yellow fibrinous exudate.",
+      "Incorrect: Neuropathic callus forms thickened hyperkeratotic skin surrounding pressure points on the plantar foot rather than moist yellow wound-bed slough.",
+      "Incorrect: Neither cortical bone nor a deep fluctuant abscess pocket corresponds to these superficial wound-bed zones."
+    ],
+    "clinicalPearl": "Distinguishing yellow devitalised slough (which impedes healing and requires debridement) from beefy-red granulation tissue (indicating healthy vascular bed ready for contraction or grafting) guides ulcer care.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Surgical wound bed assessment differentiates removable yellow necrotic slough from healthy vascular granulation tissue prior to dressings or skin grafting."
+    },
+    "sourceStation": {
+      "id": "surg_057",
+      "title": "Dorsum Foot Ulcer — Slough vs Granulation Tissue",
+      "originalPrompt": "16. 65-year-old patient presented with wound on the dorsum of the foot (zones A and B labelled).\n16.1 List 3 underlying causes.\n16.2 Name the areas labelled A & B.",
+      "verifiedAnswer": "(16.1) Causes: Diabetes mellitus (neuro-ischaemic), Peripheral arterial disease (ischaemic ulcer), Venous insufficiency / trauma / vasculitis. (16.2) Areas: A = Slough (necrotic/fibrinous devitalised tissue); B = Granulation tissue.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_058_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Post-Operative Surgical Site Infection (Bypass Wound)",
+    "imagePath": "images/surg/surg_058.webp",
+    "stem": "A 70-year-old man who underwent femoro-popliteal bypass surgery 7 days ago is readmitted with low-grade fever and the wound appearance shown. Which post-operative complication and most frequent causative organism are represented?",
+    "options": [
+      "Primary arterial graft thrombosis; Streptococcus pneumoniae",
+      "Post-operative lymphocele fistula; Pseudomonas aeruginosa",
+      "Suture hypersensitivity granuloma; Mycobacterium tuberculosis",
+      "Surgical site infection (SSI); Staphylococcus aureus",
+      "Acute ischaemic flap necrosis; Clostridium perfringens"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Graft thrombosis presents with acute limb ischaemia (pain, pallor, pulselessness) rather than purulent wound dehiscence at day 7.",
+      "Incorrect: A lymphocele leaks clear straw-coloured lymphatic fluid rather than thick purulent slough with surrounding inflammatory erythema.",
+      "Incorrect: Foreign-body suture reactions are indolent and sterile rather than acute purulent breakdown 1 week post-op.",
+      "Correct: Wound dehiscence with purulent exudate, slough, and peri-incisional erythema at day 7 is a classic surgical site infection (SSI), most commonly caused by skin flora such as Staphylococcus aureus (including MRSA) or S. epidermidis.",
+      "Incorrect: Clostridial myonecrosis presents hyperacutely within 24–48 hours with crepitus and severe systemic toxicity rather than a day-7 groin wound infection."
+    ],
+    "clinicalPearl": "Groin incisions for vascular bypass carry high SSI risk (skin folds, seroma, distal ischaemia); prevention relies on the WHO SSI bundle (timely IV antibiotic prophylaxis, normothermia, appropriate hair removal, and glycaemic control).",
+    "guideCitation": {
+      "guideId": "guide_surg_checklist",
+      "guideTitle": "WHO Surgical Safety Checklist Guide",
+      "keyPoint": "The WHO Surgical Safety Checklist SSI bundle mandates timely antibiotic prophylaxis, patient warming, proper hair removal, and glycaemic control to prevent surgical site infection."
+    },
+    "sourceStation": {
+      "id": "surg_058",
+      "title": "Post-Operative Surgical Site Infection (Femoro-Popliteal Bypass)",
+      "originalPrompt": "02. A 70-year-old male who has undergone femoro-popliteal bypass surgery is admitted to the ward after 7 days.\n2.1 Identify this complication.\n2.2 What is the most likely cause?\n2.3 State one likely organism responsible.",
+      "verifiedAnswer": "(2.1) Surgical site infection (SSI) / Prosthetic or vein graft wound infection. (2.2) Cause: Bacterial wound contamination (skin flora entry perioperatively, exacerbated by poor distal perfusion/seroma/haematoma in groin crease). (2.3) Organism: Staphylococcus aureus (including MRSA; also Staphylococcus epidermidis or Gram-negatives).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_059_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Wet Gangrene of Toes",
+    "imagePath": "images/surg/surg_059.webp",
+    "stem": "A 64-year-old man with poorly controlled diabetes presents to the emergency surgical unit with the forefoot appearance shown, accompanied by fever and foul-smelling discharge. What is the diagnosis, and which urgent bedside assessment is essential before surgical intervention?",
+    "options": [
+      "Dry (aseptic) gangrene; await spontaneous auto-amputation without antibiotics",
+      "Tinea pedis with intertrigo; prescribe topical clotrimazole cream only",
+      "Acute gouty podagra; initiate oral colchicine and allopurinol",
+      "Charcot neuroarthropathy; immobilise immediately in a total-contact cast",
+      "Wet (infected) gangrene; assess pedal pulses and proximal cellulitis or crepitus"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Moist, swollen, sloughing digits with proximal erythema and malodorous discharge indicate superadded infection (wet gangrene), which rapidly spreads if left for auto-amputation.",
+      "Incorrect: Superficial dermatophyte infection does not cause full-thickness tissue necrosis of the toes or systemic sepsis.",
+      "Incorrect: Gout causes acute crystal arthritis of a joint without blackened digital necrosis or foul exudate.",
+      "Incorrect: Charcot arthropathy causes rocker-bottom midfoot collapse without moist gangrenous slough; casting an actively infected foot is dangerous.",
+      "Correct: Swollen, moist, necrotic 1st–3rd toes with sloughing skin and proximal erythema represent wet (infected) gangrene; urgently check pedal pulses (DP/PT), line of demarcation, proximal spreading cellulitis/crepitus, and protective sensation alongside antibiotics and surgical debridement/amputation."
+    ],
+    "clinicalPearl": "Unlike dry gangrene, wet gangrene is an infective surgical emergency with a poorly defined boundary and rapid proximal spread; always check pedal pulses, crepitus, and proximal cellulitis before urgent debridement or amputation.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Differentiate aseptic dry gangrene from infected wet gangrene by looking for oedema, foul exudate, proximal cellulitis, and crepitus while assessing pedal pulses."
+    },
+    "sourceStation": {
+      "id": "surg_059",
+      "title": "Wet Gangrene of Toes",
+      "originalPrompt": "3.1 What is the diagnosis?\n3.2 Write down two other features of the foot that you will look for.",
+      "verifiedAnswer": "(3.1) Wet (infected) gangrene of the 1st, 2nd, and 3rd toes. (3.2) Other features to check: Pedal pulses (dorsalis pedis & posterior tibial), Line of demarcation / proximal spreading cellulitis & crepitus, Skin temperature & capillary refill, Loss of protective sensation (monofilament testing).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_060_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Varicose Veins & Venous Duplex Ultrasound",
+    "imagePath": "images/surg/surg_060.webp",
+    "stem": "A 46-year-old teacher presents with aching lower limbs at the end of the workday and the leg appearance shown. Which investigation is the gold-standard modality to evaluate this condition and guide definitive treatment?",
+    "options": [
+      "Ascending conventional contrast venography",
+      "Venous Duplex ultrasound scan (colour Doppler)",
+      "Resting Ankle-Brachial Pressure Index (ABPI) alone",
+      "CT pulmonary angiography of the lower limbs",
+      "Plain anteroposterior radiographs of both calves"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Invasive contrast venography has been superseded by non-invasive Duplex ultrasound and is reserved for select complex deep venous reconstructions.",
+      "Correct: Dilated, tortuous superficial lower-limb veins represent varicose veins (chronic venous insufficiency); Venous Duplex ultrasound (colour Doppler) is the investigation of choice to map saphenofemoral/saphenopopliteal junction incompetence, perforators, and exclude DVT.",
+      "Incorrect: ABPI assesses arterial inflow (useful before compression therapy) but cannot map venous valve reflux or deep venous patency.",
+      "Incorrect: CT pulmonary angiography evaluates pulmonary arteries for embolism rather than superficial lower-limb venous reflux.",
+      "Incorrect: Plain radiographs cannot visualise superficial venous valves or incompetent junctions."
+    ],
+    "clinicalPearl": "Venous Duplex ultrasound is the gold-standard investigation for varicose veins because it non-invasively maps reflux at the SFJ/SPJ and perforators while confirming a patent deep venous system.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Evaluate varicose veins (managed conservatively, via sclerotherapy, endovenous ablation, or ligation) using colour Duplex ultrasound to localise venous incompetence and exclude DVT."
+    },
+    "sourceStation": {
+      "id": "surg_060",
+      "title": "Varicose Veins & Venous Duplex Ultrasound",
+      "originalPrompt": "4.1 What is your diagnosis?\n4.2 What is the best investigation modality to identify the above diagnosis?",
+      "verifiedAnswer": "(4.1) Varicose veins (lower limb chronic venous insufficiency). (4.2) Best investigation: Venous Duplex Ultrasound scan (Colour Doppler) (identifies saphenofemoral/saphenopopliteal junction incompetence, perforators, and excludes DVT).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_061_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Coronary Artery Bypass Grafting (CABG) Scars",
+    "imagePath": "images/surg/surg_061.webp",
+    "stem": "A 66-year-old man attending the surgical clinic has the healed chest and lower limb scars shown. Which prior operation did he undergo, and what accounts for the linear scar on his leg?",
+    "options": [
+      "Aortic valve replacement; anterior tibial artery cannulation",
+      "Transhiatal oesophagectomy; sural nerve graft harvesting",
+      "Thymectomy for myasthenia; femoral vein transposition",
+      "Coronary artery bypass grafting; long saphenous vein harvesting",
+      "Median sternotomy biopsy; Trendelenburg varicose vein stripping"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Isolated aortic valve replacement via sternotomy does not require harvesting a long medial lower-limb conduit.",
+      "Incorrect: Oesophagectomy uses abdominal/thoracic/cervical incisions rather than a median sternotomy and medial saphenous vein harvest.",
+      "Incorrect: Thymectomy does not involve harvesting a long leg vein for bypass conduits.",
+      "Correct: The midline chest scar represents a median sternotomy for coronary artery bypass grafting (CABG), and the medial leg scar represents harvesting of the long (great) saphenous vein as an autologous bypass conduit.",
+      "Incorrect: Trendelenburg varicose vein surgery involves a groin crease incision rather than a full-length harvest scar paired with a median sternotomy."
+    ],
+    "clinicalPearl": "A healed median sternotomy scar paired with a long medial leg (or forearm radial) scar is a classic surgical OSCE spotter indicating prior CABG with great saphenous vein conduit harvesting.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Patients with prior ischaemic heart disease/CABG require careful preoperative cardiac risk stratification (NYHA class, ECG, ECHO, and antiplatelet review) before non-cardiac surgery."
+    },
+    "sourceStation": {
+      "id": "surg_061",
+      "title": "Coronary Artery Bypass Grafting (CABG) Scars",
+      "originalPrompt": "2.1 Name the surgery that is likely to have been performed on this patient.\n2.2 What could be the reason for the scar in the leg?",
+      "verifiedAnswer": "(2.1) Coronary artery bypass grafting (CABG) via median sternotomy. (2.2) Reason for leg scar: Long (great) saphenous vein harvesting used as autologous venous conduit for coronary bypass grafts.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_062_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.6 UROLOGY & RENAL IMAGING (3 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Surg Q8",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Persistent Microscopic Haematuria in Older Adult",
+    "imagePath": null,
+    "stem": "A previously healthy 64-year-old man presents with intermittent lower abdominal pain. Two urine full reports repeated 1 week apart consistently show acidic turbid urine with nil protein or sugar, 2–3 pus cells/hpf, 20–30 RBCs/hpf, and calcium oxalate crystals (++). While urolithiasis is likely, which serious underlying condition must also be actively excluded in this patient?",
+    "options": [
+      "Urothelial (bladder) or renal cell carcinoma",
+      "Acute post-streptococcal glomerulonephritis",
+      "Orthostatic (postural) benign proteinuria",
+      "Diabetic nephropathy with nephrotic syndrome",
+      "Acute asymptomatic bacteriuria of elderly males"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Persistent non-visible (microscopic) haematuria (20–30 RBCs/hpf) in a 64-year-old man, even with calcium oxalate crystalluria suggesting urolithiasis, mandates excluding urological malignancy (bladder transitional cell carcinoma or renal cell carcinoma) via imaging and cystoscopy.",
+      "Incorrect: Post-streptococcal glomerulonephritis features dysmorphic RBC casts, proteinuria, oedema, and hypertension rather than isolated crystalluria with nil protein.",
+      "Incorrect: Orthostatic proteinuria produces transient proteinuria in upright adolescents, not persistent haematuria with negative urinary protein.",
+      "Incorrect: Diabetic nephropathy presents with progressive albuminuria/proteinuria and normal RBC counts rather than isolated microscopic haematuria.",
+      "Incorrect: Pus cells are minimal (2–3/hpf) and asymptomatic bacteriuria does not explain persistent microscopic haematuria in a 64-year-old."
+    ],
+    "clinicalPearl": "In any patient aged > 40–50 years with persistent microscopic haematuria, always investigate to exclude urological malignancy (CT urogram/USS + cystoscopy) even when urinary crystals suggest a stone.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Perform urinalysis preoperatively—especially before urological interventions—and evaluate persistent haematuria thoroughly for urolithiasis and underlying urothelial malignancy."
+    },
+    "sourceStation": {
+      "id": "surg_062",
+      "title": "Persistent Microscopic Haematuria with Calcium Oxalate Crystalluria",
+      "originalPrompt": "08. Surgery — Urine Full Report (UFR):\nColour: Pale yellow | Appearance: Turbid | pH: Acidic | Protein: Nil | Sugar: Nil\nCentrifuged sample: Pus 2–3/hpf | RBC 20–30/hpf | Calcium oxalate crystals ++\nThis is the UFR of a previously healthy 64-year-old man complaining of intermittent lower abdominal pain. Test repeated in a week revealed the same findings.\n8.1 What is the most significant abnormality in this report?\n8.2 List 2 causes for this abnormality.  [Text-only UFR station]",
+      "verifiedAnswer": "(8.1) Persistent microscopic haematuria (RBC 20–30/hpf) with calcium oxalate crystalluria. (8.2) Causes: Urolithiasis (renal/ureteric/bladder stone) — most likely with oxalate crystals; Urological malignancy (bladder TCC / renal cell carcinoma — must exclude in 64yo!); BPH / Prostatitis.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_063_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.6 UROLOGY & RENAL IMAGING (3 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Uroflowmetry — Urethral Stricture",
+    "imagePath": "images/surg/surg_063.webp",
+    "stem": "A 60-year-old man presents to the urology clinic with a 2-month history of poor urinary stream, hesitancy, and straining. His clinic trace (Qmax 7 mL/s, voiding time 58 s, voided volume 297 mL) is shown alongside a normal reference curve. Which investigation and diagnosis best account for this flat plateau pattern?",
+    "options": [
+      "Cystometrogram; neurogenic detrusor overactivity",
+      "Retrograde urethrogram; acute bacterial prostatitis",
+      "Uroflowmetry; fixed urethral stricture obstruction",
+      "Micturating cystourethrogram; primary vesicoureteric reflux",
+      "Intravenous urogram; distal ureteric calculus"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Cystometry measures intravesical pressure against bladder filling volume rather than urinary flow rate (mL/s) over time.",
+      "Incorrect: A retrograde urethrogram is a contrast radiograph of the urethra rather than a flow-rate curve, and acute prostatitis is not the classic cause of a fixed box-shaped flow plateau.",
+      "Correct: The graph is a uroflowmetry trace demonstrating severely reduced Qmax (7 mL/s; normal > 15 mL/s), prolonged voiding (58 s), and a flat box-like plateau characteristic of fixed bladder outlet obstruction from a urethral stricture (risking retention, recurrent UTIs, bladder diverticula, and obstructive uropathy).",
+      "Incorrect: An MCUG is a fluoroscopic voiding radiograph used mainly to grade reflux or posterior urethral valves rather than a flow-volume curve.",
+      "Incorrect: An IVU is a contrast renal tract radiograph and a ureteric calculus causes renal colic rather than a flat urethral flow plateau."
+    ],
+    "clinicalPearl": "A flattened, low-amplitude ('box-shaped') uroflowmetry curve with Qmax < 10 mL/s and prolonged voiding time classically indicates fixed urethral stricture; untreated obstruction leads to urinary retention, UTIs, trabeculation, and bilateral hydronephrosis.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Urethral stricture is a classic late complication of urethral trauma or catheterisation that produces chronic bladder outlet obstruction and obstructive uropathy if untreated."
+    },
+    "sourceStation": {
+      "id": "surg_063",
+      "title": "Uroflowmetry — Urethral Stricture",
+      "originalPrompt": "Question 04\nA 60-year-old man presented to the clinic with LUTS symptoms for a duration of 2 months.\n4.1 Identify the above investigation. (3 marks)\n4.2 What is your diagnosis? (3 marks)\n4.3 List 2 complications which can arise if this is left untreated. (4 marks)",
+      "verifiedAnswer": "(4.1) Uroflowmetry. (4.2) Diagnosis: Urethral stricture (fixed bladder outlet obstruction plateau pattern). (4.3) Complications: Acute/chronic urinary retention, Recurrent UTIs, Bladder diverticulum/trabeculation, Bilateral vesicoureteric reflux / hydronephrosis / obstructive uropathy (AKI/CKD), Periurethral abscess/fistula.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_064_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.6 UROLOGY & RENAL IMAGING (3 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Non-Contrast CT KUB — Left Ureteric Calculus",
+    "imagePath": "images/surg/surg_064.webp",
+    "stem": "A 42-year-old man presents to the emergency unit with severe left-sided loin-to-groin colicky pain and microscopic haematuria. A coronal slice from his diagnostic imaging study is shown. Which modality and key abnormalities are demonstrated?",
+    "options": [
+      "Non-contrast CT KUB; left ureteric calculus with left hydronephrosis",
+      "Contrast-enhanced CT abdomen; left renal cell carcinoma with vein thrombus",
+      "Intravenous urogram; right pelviureteric junction obstruction",
+      "Non-contrast CT KUB; bilateral nephrocalcinosis with medullary sponge kidney",
+      "CT renal angiogram; left renal artery aneurysm with retroperitoneal bleed"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: This coronal non-contrast CT KUB (no intravascular contrast in aorta or renal vessels) demonstrates a bright hyperdense calculus in the left proximal ureter causing proximal left hydronephrosis and hydroureter.",
+      "Incorrect: The aorta and renal parenchyma lack intravenous contrast enhancement, and there is a small focal calcified ureteric stone rather than a solid renal tumour.",
+      "Incorrect: This is cross-sectional CT imaging rather than a plain-film intravenous urogram, and the dilated collecting system is on the left side.",
+      "Incorrect: Bilateral parenchymal medullary calcifications are absent; a single discrete obstructing calculus sits in the left ureter.",
+      "Incorrect: No intravenous contrast bolus is present for angiography and there is no retroperitoneal haematoma."
+    ],
+    "clinicalPearl": "Non-contrast CT KUB is the gold-standard investigation for acute ureteric colic (sensitivity > 95%), identifying even radiolucent urate stones alongside hydronephrosis and perinephric fat stranding.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Suspected acute obstructing ureteric calculus is confirmed with non-contrast CT KUB, assessing stone site/size and degree of proximal hydronephrosis."
+    },
+    "sourceStation": {
+      "id": "surg_064",
+      "title": "Non-Contrast CT KUB — Left Ureteric Calculus & Hydronephrosis",
+      "originalPrompt": "3.1 Identify the investigation.\n3.2 List two features seen in the image.",
+      "verifiedAnswer": "(3.1) Non-contrast CT KUB (CT Kidneys, Ureters, Bladder). (3.2) Features seen: Radiopaque (hyperdense) calculus in the left ureter, Left-sided hydronephrosis / hydroureter (dilated pelvicalyceal system & proximal ureter with perinephric stranding).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_065_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Intercostal Drainage (ICD) Tube",
+    "imagePath": "images/surg/surg_065.webp",
+    "stem": "The surgical tube shown is prepared for emergency thoracic placement. Which anatomical site defines the 'safe triangle' for its insertion, and what is a primary clinical indication for its use?",
+    "options": [
+      "2nd intercostal space mid-clavicular line; acute pericardial tamponade",
+      "7th intercostal space paravertebral line; cardiogenic pulmonary oedema",
+      "Subxiphoid epigastric notch; pneumoperitoneum from perforated ulcer",
+      "5th intercostal space anterior to the mid-axillary line; pneumothorax or haemothorax",
+      "Suprasternal notch above the manubrium; subglottic tracheal stenosis"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The 2nd ICS mid-clavicular line is used for emergency needle decompression of tension pneumothorax, whereas formal ICD tubes are placed in the lateral 5th ICS safe triangle (and never for pericardial tamponade).",
+      "Incorrect: Inserting a drain at the 7th ICS risks diaphragmatic, hepatic, or splenic perforation, and pulmonary oedema is managed medically rather than by chest drainage.",
+      "Incorrect: Subxiphoid access is used for pericardiocentesis rather than pleural drainage.",
+      "Correct: This is an intercostal drainage (ICD) chest tube (24–34 Fr) inserted via blunt dissection just over the upper border of the 5th rib within the safe triangle (5th ICS anterior to mid-axillary line, lateral to pectoralis major, anterior to latissimus dorsi) for pneumothorax, haemothorax, pleural effusion, or empyema.",
+      "Incorrect: The suprasternal notch sits over the trachea and great vessels rather than the pleural space."
+    ],
+    "clinicalPearl": "Insert chest drains via blunt dissection using curved artery (Roberts) forceps along the upper border of the 5th rib (safe triangle) to avoid the intercostal neurovascular bundle running along the inferior rib groove.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Position the patient at 45 degrees with arm abducted behind the head, incise at the upper border of the 5th rib within the safe triangle, and connect the 24–34 Fr ICD tube to an underwater seal."
+    },
+    "sourceStation": {
+      "id": "surg_065",
+      "title": "Intercostal Drainage (ICD) Tube",
+      "originalPrompt": "Q.1\nA.) Identify the instrument (given with the cover pack).\nB.) List 2 indications for use.",
+      "verifiedAnswer": "(A) Intercostal drainage (ICD) tube / Chest tube. (B) Indications: Pneumothorax (especially tension or large/symptomatic), Massive/symptomatic pleural effusion, Haemothorax, Empyema thoracis, Chylothorax.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_066_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Suture Selection Across Surgical Procedures",
+    "imagePath": null,
+    "stem": "A vascular surgeon is closing a longitudinal common femoral arteriotomy after performing an emergency embolectomy. Which suture material and gauge provides optimal non-absorbable monofilament strength with minimal tissue drag for this arterial repair?",
+    "options": [
+      "Braided black silk suture 1-0",
+      "Polypropylene (Prolene) 5-0",
+      "Chromic catgut suture 2-0",
+      "Braided polyglactin (Vicryl) 1-0",
+      "Loop polydioxanone (PDS) 1-0"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Braided silk provokes pronounced tissue reaction, loses tensile strength over time, and drags through delicate arterial walls.",
+      "Correct: Vascular anastomoses and arterial repairs (such as femoral arteriotomy closure) require a fine non-absorbable monofilament suture—specifically Polypropylene (Prolene) 5-0 or 6-0—for smooth passage and permanent tensile support (whereas loop PDS/nylon is used for mass abdominal closure and Vicryl/PDS 3-0 for small bowel).",
+      "Incorrect: Catgut is a natural rapidly absorbable suture with intense inflammatory reactivity and high failure risk in arterial closure.",
+      "Incorrect: Heavy 1-0 braided Vicryl is absorbable and causes excessive tissue drag, making it unsuitable for fine arterial repairs.",
+      "Incorrect: Heavy 1-0 loop PDS is designed for mass closure of the abdominal wall fascia rather than delicate peripheral arterial suturing."
+    ],
+    "clinicalPearl": "Match surgical sutures by tissue healing time and drag: loop PDS/Nylon for mass abdominal closure, Prolene 5-0/6-0 for arterial repair, Prolene/Ethibond 3-0/4-0 for flexor tendons, and Vicryl/PDS 3-0 for small bowel.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Polypropylene (Prolene) is a synthetic non-absorbable monofilament offering minimal tissue drag and permanent tensile strength for vascular and tendon repairs."
+    },
+    "sourceStation": {
+      "id": "surg_066",
+      "title": "Suture Material Selection Across Surgical Procedures",
+      "originalPrompt": "Q.5\nA list of 6 suture materials with their gauges (A to F) was provided.\nWrite the best material for each of the procedures:\n1. Mass abdominal closure\n2. Femoral artery repair\n3. Flexor tendon suture\n4. Small intestine suture  [Text-only station (table/list) in original source file]",
+      "verifiedAnswer": "(1) Mass abdominal closure: Loop Polydioxanone (PDS) or Nylon (monofilament, high tensile strength, slow/non-absorbable). (2) Femoral artery repair: Polypropylene (Prolene) 5-0 or 6-0 (non-absorbable monofilament, minimal tissue drag). (3) Flexor tendon repair: Polypropylene (Prolene) or Braided Polyester (Ethibond) / Nylon (3-0/4-0 non-absorbable). (4) Small intestine anastomosis: Polyglactin (Vicryl) 3-0 or Polydioxanone (PDS) 3-0/4-0 (absorbable).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_067_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Foley Urinary Catheter & Male Analgesia",
+    "imagePath": "images/surg/surg_067.webp",
+    "stem": "A 65-year-old man presents with painful acute urinary retention. Prior to inserting the medical device shown via the urethra, which topical lubricant/analgesic agent should be instilled intraurethrally and left for 3–5 minutes?",
+    "options": [
+      "10% povidone-iodine aqueous solution",
+      "70% isopropyl alcohol antiseptic spray",
+      "0.5% bupivacaine plain injection fluid",
+      "White soft paraffin without local anaesthetic",
+      "2% lignocaine (lidocaine) water-soluble gel"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Povidone-iodine is used externally to cleanse the urethral meatus and glans prior to draping, not instilled intraurethrally for analgesia.",
+      "Incorrect: Alcohol causes severe chemical mucosal burning and must never be instilled into the urethra.",
+      "Incorrect: Aqueous injectable bupivacaine provides no lubrication and lacks urethral mucosal dwell time.",
+      "Incorrect: Plain paraffin provides no local anaesthesia and oil-based lubricants can damage latex Foley balloons.",
+      "Correct: The image shows a two-way Foley urinary catheter; in male catheterisation, 2% lignocaine water-soluble gel is instilled intraurethrally (waiting 3–5 minutes before insertion) to provide both mucosal analgesia and lubrication."
+    ],
+    "clinicalPearl": "For male Foley catheterisation (typically 14–16 Fr), cleanse with povidone-iodine under sterile non-touch technique, instil 2% lignocaine gel, wait 3–5 minutes, confirm urine flow before balloon inflation, and always reduce the prepuce afterward.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "During male Foley catheterisation, empty a full tube of 2% lignocaine gel into the urethra and wait 3–5 minutes before atraumatic insertion."
+    },
+    "sourceStation": {
+      "id": "surg_067",
+      "title": "Foley Urinary Catheter & Male Analgesic Gel",
+      "originalPrompt": "01. A urinary catheter is shown.\nWhat is this instrument, and what is the analgesic used when this is used for a male patient?",
+      "verifiedAnswer": "Foley urinary catheter (two-way balloon catheter). Analgesic: 2% Lignocaine (Lidocaine) gel instilled intraurethrally (wait 3–5 minutes before insertion).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_068_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Nasogastric (NG / Ryles) Tube Indications & Contraindication",
+    "imagePath": null,
+    "stem": "A 54-year-old man is admitted with persistent bilious vomiting, abdominal distension, and tinkling bowel sounds secondary to adhesive small bowel obstruction. Which tube is indicated for immediate gastric decompression, and which injury constitutes a strict contraindication to inserting it via the nasal route?",
+    "options": [
+      "Foley catheter; benign prostatic hyperplasia",
+      "Endotracheal tube; uncomplicated rib fracture",
+      "Ryles (nasogastric) tube; base of skull fracture",
+      "Sengstaken-Blakemore tube; peptic ulcer disease",
+      "Flatus rectal tube; internal haemorrhoids"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: A Foley catheter drains the urinary bladder rather than decompressing the stomach.",
+      "Incorrect: An endotracheal tube secures the trachea for ventilation rather than draining obstructed gastric fluid.",
+      "Correct: A Ryles (nasogastric) tube is used for gastric decompression (bowel obstruction, ileus, post-operative), enteral feeding, and gastric aspiration/lavage; nasal insertion is strictly contraindicated in base of skull fractures due to the risk of intracranial tube misplacement through the cribriform plate.",
+      "Incorrect: A Sengstaken-Blakemore balloon tamponade tube is reserved for refractory oesophageal variceal bleeding.",
+      "Incorrect: A flatus tube relieves distal colonic/sigmoid volvulus gas rather than upper gastrointestinal obstruction."
+    ],
+    "clinicalPearl": "In basal skull fracture (raccoon eyes, Battle sign, CSF rhinorrhoea/otorrhoea), never insert a nasogastric or nasotracheal tube nasally—use the orogastric route if gastric decompression is required.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Ryles NG tubes are indicated for gastric decompression in intestinal obstruction and enteral feeding, but are contraindicated nasally in base of skull fractures."
+    },
+    "sourceStation": {
+      "id": "surg_068",
+      "title": "Nasogastric (NG / Ryles) Tube",
+      "originalPrompt": "04. A Nasogastric (NG) tube is shown.\nName the instrument and give 2 uses.  [Tube photo omitted in 2012 archive files]",
+      "verifiedAnswer": "Nasogastric (NG / Ryles) tube. Uses: (1) Enteral feeding & medication administration; (2) Gastric decompression (bowel obstruction, ileus, post-op); (3) Gastric lavage / aspiration of gastric contents.",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "surg_069_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 22 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Central Venous Catheter (CVC) Sites & Complications",
+    "imagePath": null,
+    "stem": "A malnourished surgical patient with a high-output enterocutaneous fistula requires prolonged total parenteral nutrition (TPN) via a central venous catheter. Which venous access site is preferred over the femoral route to minimise catheter-related infection, and which acute mechanical complication is most classically associated with subclavian cannulation?",
+    "options": [
+      "Great saphenous vein; deep vein thrombosis",
+      "External jugular vein; brachial artery pseudoaneurysm",
+      "Internal jugular or subclavian vein; pneumothorax",
+      "Basilic cubital vein; retroperitoneal haematoma",
+      "Femoral vein; thoracic duct chylothorax"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: The great saphenous vein is a peripheral lower-limb vein unsuitable for central hyperosmolar TPN infusion.",
+      "Incorrect: The external jugular vein often has valves and tortuous entry into the subclavian vein and is distant from the brachial artery.",
+      "Correct: The internal jugular and subclavian veins are preferred CVC sites for TPN (avoiding femoral lines due to higher infection and thrombosis risk); immediate cannulation complications include pneumothorax/haemothorax (highest with subclavian access), arterial puncture, air embolism, arrhythmias, and thoracic duct injury (left-sided).",
+      "Incorrect: A basilic vein PICC line does not cause retroperitoneal haematoma, which complicates high femoral/iliac punctures.",
+      "Incorrect: The femoral route is avoided for TPN because of infection risk, and thoracic duct injury occurs during left internal jugular or left subclavian cannulation."
+    ],
+    "clinicalPearl": "Use Seldinger technique under ultrasound guidance for IJV/subclavian CVC placement for TPN or irritant infusions (inotropes, KCl, amiodarone), and obtain a post-procedure CXR to confirm tip position (cavoatrial junction) and exclude pneumothorax.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Central venous access for TPN uses the internal jugular or subclavian veins via Seldinger technique; immediate complications include pneumothorax, arterial puncture, arrhythmia, air embolism, and left thoracic duct injury."
+    },
+    "sourceStation": {
+      "id": "surg_069",
+      "title": "Central Venous Catheter (CVC) for Parenteral Nutrition",
+      "originalPrompt": "01. A patient requires a central venous line for parenteral nutrition.\nState 2 possible veins/sites for central venous catheters, and 3 possible complications during cannulation.  [Text-only station in original paper]",
+      "verifiedAnswer": "Sites: Internal jugular vein (IJV) and Subclavian vein (femoral avoided for TPN due to high infection risk). Cannulation complications: Pneumothorax/haemothorax, Arterial puncture / haematoma, Air embolism, Cardiac arrhythmia, Injury to brachial plexus/thoracic duct, Catheter malposition. (Late: CRBSI/infection, venous thrombosis.)",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_070_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Nasogastric Tube — First-Line Placement Check",
+    "imagePath": "images/surg/surg_070.webp",
+    "stem": "After inserting the tube shown into an adult surgical patient for enteral feeding, which bedside test is the recommended first-line method to confirm correct gastric placement before commencing feeds?",
+    "options": [
+      "Injecting 10 mL of air while auscultating over the epigastrium",
+      "Immersing the proximal tube end in water to exclude air bubbles",
+      "Measuring the external tube length remaining outside the nostril",
+      "Asking the patient to speak clearly and swallow sips of water",
+      "Aspirating gastric fluid and confirming pH <= 5.5 on indicator paper"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The epigastric 'whoosh' auscultation test is unreliable because air insufflated into a malpositioned bronchial or oesophageal tube can still be transmitted across the diaphragm.",
+      "Incorrect: Underwater bubbling checks lack sensitivity and specificity—false negatives occur when pleural/bronchial tips occlude against mucosa, and gastric gas can bubble.",
+      "Incorrect: External tube length cannot detect coiling in the pharynx or accidental tracheal advancement.",
+      "Incorrect: Intact phonation does not exclude subglottic/bronchial misplacement, especially with small-bore tubes or depressed airway reflexes.",
+      "Correct: Aspirating gastric contents and testing with pH indicator paper (confirming acidic pH <= 5.5) is the gold-standard first-line bedside confirmation before initial feeding and prior to every subsequent feed."
+    ],
+    "clinicalPearl": "Always confirm NG position on initial insertion, before every feed, and after vomiting/coughing/desaturation using aspirate pH <= 5.5 first, proceeding to chest/upper abdominal X-ray if no aspirate or pH > 5.5.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "Confirm NG tube placement using a 60 mL syringe and pH litmus strip (acidic aspirate) or X-ray; measure insertion length from philtrum to tragus to xiphisternum and never reinsert a guidewire in situ."
+    },
+    "sourceStation": {
+      "id": "surg_070",
+      "title": "Nasogastric Tube — Confirmation of Placement",
+      "originalPrompt": "1.\n1. Identify the above tube. (2 marks)\n2. List 2 clinical uses of it. (2 marks)\n3. How do you confirm whether the tube is in the right place? Give 3 factors. (6 marks)",
+      "verifiedAnswer": "(1) Nasogastric (Ryles) tube. (2) Uses: Enteral feeding; gastric decompression/aspiration. (3) Confirming placement: (a) Aspirate fluid and check pH (acidic, pH ≤ 5.5 on indicator strip — gold standard bedside test); (b) Chest/upper abdominal X-ray (tip below diaphragm in stomach); (c) Auscultation over epigastrium while injecting air (note: historical bedside sign, pH & CXR are preferred) / checking absence of bubbling underwater.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_071_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Surg Q2",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Suture Classification — Synthetic Absorbable for Gut",
+    "imagePath": null,
+    "stem": "During an exploratory laparotomy and small bowel resection, a trainee must choose among three available suture materials: black silk, polyethylene, and polyglycolic acid. Which suture is synthetic and absorbable, making it most appropriate for suturing the gut mucosa and bowel wall?",
+    "options": [
+      "Polyglycolic acid",
+      "Black silk",
+      "Polyethylene",
+      "Polypropylene",
+      "Monofilament nylon"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Polyglycolic acid (Dexon) is a synthetic absorbable suture appropriate for gut mucosa/anastomosis (whereas black silk is braided natural non-absorbable used for skin/ties, and polyethylene/nylon/polypropylene are non-absorbable monofilaments).",
+      "Incorrect: Black silk is a braided, natural, non-absorbable suture that elicits high tissue reactivity and should not be buried in bowel anastomoses.",
+      "Incorrect: Polyethylene is a synthetic non-absorbable monofilament used for skin or fascial closure rather than gut mucosa.",
+      "Incorrect: Polypropylene (Prolene) is a synthetic non-absorbable monofilament suited to vascular or fascial repairs.",
+      "Incorrect: Nylon (polyamide) is a synthetic non-absorbable monofilament used mainly for skin or abdominal wall closure."
+    ],
+    "clinicalPearl": "Bowel anastomoses heal rapidly and require synthetic absorbable sutures (polyglycolic acid, polyglactin/Vicryl, or polydioxanone/PDS), whereas skin and vascular repairs typically use non-absorbable monofilaments.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Synthetic absorbable sutures include polyglactin (Vicryl), polyglycolic acid, poliglecaprone (Monocryl), and polydioxanone (PDS), whereas nylon and Prolene are non-absorbable monofilaments."
+    },
+    "sourceStation": {
+      "id": "surg_071",
+      "title": "Suture Material Classification & Matching",
+      "originalPrompt": "2. Suture materials:\nA. Black silk  |  B. Polyethylene  |  C. Polyglycolic acid\n1. Which suture material is used to suture the skin of the abdomen?\n2. Which of the suture materials is used to suture gut mucosa?\n3. Name one absorbable suture material.\n4. Name one monofilament suture material.  [Text-only station]",
+      "verifiedAnswer": "(1) Abdominal skin: A (Black silk) or Nylon/Prolene (Drive key notes A from given list). (2) Gut mucosa: C (Polyglycolic acid / Dexon). (3) Absorbable: Polyglycolic acid / Polyglactin (Vicryl) / Catgut / PDS. (4) Monofilament: Polyethylene (B) / Nylon / Polypropylene (Prolene).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_072_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "CT Scan — Essential Pre-Contrast History",
+    "imagePath": "images/surg/surg_072.webp",
+    "stem": "A 32-year-old woman with acute upper abdominal pain is scheduled to undergo the cross-sectional imaging investigation shown. Before proceeding with intravenous contrast administration, which trio of clinical enquiries is most essential to exclude radiation and contrast hazards?",
+    "options": [
+      "Metallic cardiac pacemaker, cochlear implant, and claustrophobia",
+      "Pregnancy status/LMP, prior contrast/iodine allergy, and renal disease",
+      "24-hour solid food fasting, aspirin therapy, and previous appendicectomy",
+      "Recent tetanus immunisation, blood group, and lactose intolerance",
+      "Contact lens wear, inhaled corticosteroid use, and mild ankle oedema"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Metallic implants, pacemakers, and severe claustrophobia are primary pre-MRI safety checks rather than key contraindications for CT scanning.",
+      "Correct: This is a Computed Tomography (CT) scan; essential pre-contrast history includes pregnancy status/LMP (ionising radiation risk in childbearing women), allergies (iodinated contrast/asthma/atopy), and renal disease (contrast-induced nephropathy risk—check baseline eGFR/creatinine and metformin use).",
+      "Incorrect: Routine 24-hour fasting and stopping aspirin are unnecessary for diagnostic CT imaging.",
+      "Incorrect: Blood group, tetanus status, and lactose intolerance do not alter CT radiation or contrast safety.",
+      "Incorrect: Contact lenses and inhaled steroids do not contraindicate CT scanning with IV contrast."
+    ],
+    "clinicalPearl": "Before every contrast-enhanced CT scan, always screen the '4 checks': Pregnancy/LMP (ionising radiation), Renal function (eGFR/creatinine), Allergies (contrast/iodine/asthma), and Metformin use.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Pre-investigation surgical preparation includes baseline renal function (U&Es/creatinine), drug review (metformin), allergy checks, and pregnancy verification before radiological studies."
+    },
+    "sourceStation": {
+      "id": "surg_072",
+      "title": "CT Scanner — Pre-Contrast History",
+      "originalPrompt": "5.\n1. What is this investigation method?\n2. Write 3 important things you should ask in this patient's history.",
+      "verifiedAnswer": "(1) Computed Tomography (CT) scan. (2) Pre-CT history: (a) Contrast/iodine allergy & asthma/atopy; (b) Renal disease (risk of contrast-induced nephropathy — check eGFR/creatinine); (c) Pregnancy status / LMP in women of childbearing age (ionising radiation); (d) Metformin use in diabetics (lactic acidosis risk) / claustrophobia.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "surg_073_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Endotracheal Tube — Gold-Standard Confirmation",
+    "imagePath": "images/surg/surg_073.webp",
+    "stem": "Following emergency airway management in a trauma patient using the cuffed airway device shown, which finding provides the gold-standard objective confirmation of correct tracheal placement?",
+    "options": [
+      "Condensation mist appearing inside the lumen during expiration",
+      "Absence of gurgling sounds on auscultation over the epigastrium",
+      "Symmetric bilateral chest wall rise during manual bag ventilation",
+      "Continuous waveform capnography showing persistent end-tidal CO2",
+      "Equal vesicular breath sounds heard over both lung apices"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Tube misting can occur transiently even after oesophageal intubation due to warm humidified gastric gas and is unreliable.",
+      "Incorrect: Absent epigastric gurgling supports tracheal placement only indirectly and does not reliably rule out supraglottic or oesophageal malposition.",
+      "Incorrect: Chest wall movement can be obscured in obesity or mimicked by gastric insufflation and must not replace objective confirmation.",
+      "Correct: The image shows a cuffed endotracheal tube (ETT); continuous waveform capnography demonstrating sustained end-tidal CO2 (ETCO2) over multiple breaths is the gold-standard objective confirmation of tracheal intubation (supplemented by bilateral chest rise, equal air entry, and absent epigastric gurgling).",
+      "Incorrect: Auscultation can transmit breath sounds falsely in thin chests or fail to detect right mainstem intubation if compared poorly; waveform capnography remains the gold standard."
+    ],
+    "clinicalPearl": "Never rely solely on condensation misting or auscultation after ETT insertion; continuous waveform capnography ('no trace = wrong place') is mandatory to confirm tracheal placement.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "An endotracheal tube features a 15 mm universal connector, radiopaque line, and inflatable cuff (preventing air leak and aspiration); confirm placement immediately via ETCO2 capnography, chest rise, and bilateral auscultation."
+    },
+    "sourceStation": {
+      "id": "surg_073",
+      "title": "Endotracheal Tube (ETT) — Position Confirmation",
+      "originalPrompt": "04) Endotracheal tube picture given on the table.\na) Identify the tube.\nb) How to identify whether it is in the correct position.",
+      "verifiedAnswer": "(a) Endotracheal tube (ETT). (b) Confirmation: (1) Continuous waveform capnography (ETCO₂ detector) — gold standard; (2) Bilateral equal chest rise and equal air entry on auscultation over both lung fields + absent gurgling over epigastrium; (3) Direct visualisation passing vocal cords & tube misting.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_074_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Surg Q5",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Polydioxanone (PDS) Classification (Bailey & Love)",
+    "imagePath": null,
+    "stem": "Based on standard surgical suture classifications, a surgeon selects polydioxanone (PDS) for mass closure of a midline laparotomy fascia. Which set of characteristics accurately describes polydioxanone?",
+    "options": [
+      "Natural, braided, non-absorbable suture",
+      "Synthetic, monofilament, absorbable suture",
+      "Synthetic, braided, rapidly absorbable suture",
+      "Natural, monofilament, rapidly absorbable suture",
+      "Synthetic, monofilament, non-absorbable suture"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Natural braided non-absorbable describes black silk rather than polydioxanone.",
+      "Correct: Polydioxanone (PDS) is a synthetic, monofilament, slowly absorbable suture ideal for anterior abdominal wall mass closure and bowel anastomosis (unlike braided polyglactin or non-absorbable monofilament nylon).",
+      "Incorrect: Polyglactin (Vicryl) and polyglycolic acid are synthetic braided absorbable sutures, whereas PDS is monofilament with prolonged absorption (~180 days).",
+      "Incorrect: Plain or chromic catgut is a natural absorbable suture, not synthetic PDS.",
+      "Incorrect: Nylon and polypropylene (Prolene) are synthetic monofilament non-absorbable sutures, whereas PDS undergoes eventual hydrolysis."
+    ],
+    "clinicalPearl": "Polydioxanone (PDS) combines low-drag monofilament handling with prolonged absorbable tensile strength (~6 weeks+ retention), making it first-line for laparotomy mass closure and bowel anastomosis.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Polydioxanone (PDS) and poliglecaprone (Monocryl) are synthetic monofilament absorbable sutures, whereas polyglactin (Vicryl) is synthetic braided absorbable."
+    },
+    "sourceStation": {
+      "id": "surg_074",
+      "title": "Suture Matching (Bailey & Love)",
+      "originalPrompt": "05) Suture options: Polygluconate, Nylon, Black Silk, Catgut, Polydioxanone.\nSelect most appropriate suture material:\na) Anterior abdominal wall\nb) For bowel anastomosis\nc) Monofilament\nd) Absorbable  [Text-only station]",
+      "verifiedAnswer": "(a) Anterior abdominal wall: B (Nylon), C (Black silk), or E (Polydioxanone — mass closure). (b) Bowel anastomosis: A (Polyglyconate) or E (Polydioxanone). (c) Monofilament: A (Polyglyconate), B (Nylon), E (Polydioxanone). (d) Absorbable: A (Polyglyconate), D (Catgut), E (Polydioxanone).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_075_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Surg Q1",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Ryles Tube — Definitive Radiographic Confirmation",
+    "imagePath": "images/surg/surg_075.webp",
+    "stem": "After inserting the sterile tube shown into a sedated post-operative patient in the intensive care unit, no fluid can be aspirated for bedside pH testing. Which investigation is definitively required before commencing enteral feeding through this tube?",
+    "options": [
+      "Injecting 20 mL of air while listening over the left hypochondrium",
+      "Submerging the proximal funnel in water to check for air bubbles",
+      "Advancing the tube 10 cm further and taping it to the forehead",
+      "Obtaining a chest/upper abdominal X-ray showing the tip below the diaphragm",
+      "Waiting 2 hours and measuring gastric residual volume alone"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Air insufflation auscultation ('whoosh test') is unreliable and must never be used to authorise enteral feeding when aspirate pH is unavailable.",
+      "Incorrect: Underwater bubble observation is an outdated, unreliable check that risks missing bronchial placement.",
+      "Incorrect: Blindly advancing an unconfirmed tube risks coiling or deeper bronchial/parenchymal perforation.",
+      "Correct: The packaged device is a Ryles (nasogastric) tube; when gastric aspirate cannot be obtained (or pH > 5.5), a chest/upper abdominal radiograph confirming the radiopaque tip and steel spheres safely below the diaphragm in the stomach is mandatory before feeding.",
+      "Incorrect: Waiting without confirming tip position delays care and fails to exclude pulmonary or oesophageal misplacement."
+    ],
+    "clinicalPearl": "If bedside aspirate is unobtainable or pH > 5.5 (e.g., on PPI therapy), confirm Ryles tube position radiographically (tip bisecting the carina, below the left hemidiaphragm, curving into the stomach) before starting feeds.",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "When NG aspirate pH testing is inconclusive or unobtainable, radiographic confirmation (X-ray) is required to verify gastric placement before feeding."
+    },
+    "sourceStation": {
+      "id": "surg_075",
+      "title": "Ryles / Nasogastric Tube — Uses & Position Checks",
+      "originalPrompt": "1)\n• What is the instrument?\n• State 3 ways to confirm that it has been correctly inserted.",
+      "verifiedAnswer": "Ryles / Nasogastric (NG) tube. Uses: Feeding, gastric decompression/aspiration. Confirmation: (1) pH testing of gastric aspirate (≤ 5.5); (2) Chest X-ray; (3) Auscultation over epigastrium during air insufflation.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_076_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Surg Q3",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "CECT Abdomen — Metformin & Contrast Precautions",
+    "imagePath": "images/surg/surg_076.webp",
+    "stem": "A 62-year-old man with Type 2 diabetes mellitus and stage 3 chronic kidney disease is scheduled for the intravenous contrast-enhanced imaging study shown. Alongside checking baseline eGFR and contrast allergies, which oral medication must specifically be identified and temporarily withheld around the procedure?",
+    "options": [
+      "Gliclazide",
+      "Atorvastatin",
+      "Metformin",
+      "Amlodipine",
+      "Aspirin"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Gliclazide is a sulphonylurea that does not cause contrast-associated lactic acidosis.",
+      "Incorrect: Statins do not interact with iodinated contrast to precipitate metabolic acidosis.",
+      "Correct: This is a contrast-enhanced CT (CECT) scan; in patients with renal impairment receiving IV iodinated contrast, metformin must be identified and temporarily withheld (typically for 48 hours until renal function is rechecked stable) to prevent metformin-associated lactic acidosis.",
+      "Incorrect: Calcium channel blockers such as amlodipine are continued normally around contrast CT imaging.",
+      "Incorrect: Low-dose aspirin does not precipitate contrast-induced nephropathy or lactic acidosis."
+    ],
+    "clinicalPearl": "Always ask about Metformin alongside renal disease, contrast/iodine allergy, and pregnancy/LMP before a contrast-enhanced CT; hold metformin if eGFR is reduced and recheck creatinine before restarting.",
+    "guideCitation": {
+      "guideId": "guide_surg_preop",
+      "guideTitle": "Preoperative Preparation Surgery OSCE Guide",
+      "keyPoint": "Preoperative/pre-contrast drug review specifically requires withholding metformin in patients at risk of renal impairment or acute kidney injury."
+    },
+    "sourceStation": {
+      "id": "surg_076",
+      "title": "Contrast-Enhanced CT (CECT) Abdomen & Pre-Test Checks",
+      "originalPrompt": "3)\n• What is the investigation?\n• Write 3 things that you should ask from the history prior to the investigation.",
+      "verifiedAnswer": "Contrast-enhanced CT (CECT) abdomen. History prior to CECT: (1) Pregnancy / LMP; (2) Renal disease (baseline creatinine/eGFR); (3) Allergies (contrast/iodine/asthma) & Metformin use.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_077_sba",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Surg Q4",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Toothed Dissecting Forceps — Indications",
+    "imagePath": "images/surg/surg_077.webp",
+    "stem": "During closure of a midline laparotomy incision, the scrub nurse passes the surgeon the instrument shown. Which tissue is this instrument specifically designed to grasp securely with minimal crush injury?",
+    "options": [
+      "Tough skin edges and fascial aponeurosis",
+      "Delicate small intestinal wall during anastomosis",
+      "Exposed median or sciatic nerve trunk",
+      "Mesenteric arterial branches before ligation",
+      "Visceral pleural surface of the lung"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: The instrument shown is a pair of toothed dissecting forceps (1x2 teeth), designed to grip tough structures like skin, fascia, and aponeurosis firmly during suturing without slipping or crushing broader tissue planes.",
+      "Incorrect: Toothed forceps perforate and lacerate fragile bowel wall; non-toothed or DeBakey/Babcock forceps are used on intestine.",
+      "Incorrect: Grasping nerve trunks with sharp teeth causes iatrogenic neuropraxia or axonotmesis.",
+      "Incorrect: Sharp teeth can puncture mesenteric vessels and cause troublesome bleeding; atraumatic vascular forceps (DeBakey) are used instead.",
+      "Incorrect: Puncturing visceral pleura with toothed forceps risks air leaks and parenchymal bleeding."
+    ],
+    "clinicalPearl": "Use toothed dissecting forceps strictly on tough tissues (skin, fascia, rectus sheath, aponeurosis); switch to non-toothed or DeBakey forceps for bowel, vessels, peritoneum, and nerves.",
+    "guideCitation": {
+      "guideId": "guide_surg_casualty",
+      "guideTitle": "Casualty Side Surgical Instruments Guide",
+      "keyPoint": "Toothed dissecting forceps are included in wound toilet, suturing, herniotomy, and laparotomy packs specifically to hold tough skin and fascial edges firmly during closure."
+    },
+    "sourceStation": {
+      "id": "surg_077",
+      "title": "Toothed Dissecting Forceps",
+      "originalPrompt": "4)\n• Identify the instrument.\n• Mention one situation it is used for.",
+      "verifiedAnswer": "Toothed dissecting forceps (Tissue tooth forceps). Use: Firmly grasping tough tissues (skin, fascia, aponeurosis) with minimal crush trauma during wound closure/suturing.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "surg_guide_b_01",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.4 ORTHOPAEDICS & MUSCULOSKELETAL (4 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Monteggia vs Galeazzi Fracture-Dislocation",
+    "imagePath": null,
+    "stem": "A 24-year-old man falls onto his outstretched, pronated forearm during a rugby tackle. Forearm and elbow radiographs demonstrate a fracture of the proximal third of the ulna shaft accompanied by anterior dislocation of the radial head. Which eponymous forearm injury is present?",
+    "options": [
+      "Galeazzi fracture-dislocation",
+      "Volar Barton's fracture-dislocation",
+      "Smith's reversed Colles' fracture",
+      "Colles' distal radial fracture",
+      "Monteggia fracture-dislocation"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: A Galeazzi fracture involves the distal radius shaft with dislocation of the distal radioulnar joint (DRUJ) rather than the proximal ulna and radial head.",
+      "Incorrect: Barton's fracture is an intra-articular fracture-subluxation of the distal radial rim involving the radiocarpal joint.",
+      "Incorrect: Smith's fracture is an extra-articular distal radial fracture within 2.5 cm of the wrist joint with volar displacement.",
+      "Incorrect: Colles' fracture is an extra-articular distal radial fracture with dorsal displacement and no proximal radioulnar dislocation.",
+      "Correct: Remember 'MUGR' (Monteggia = Ulna proximal fracture + radial head dislocation; Galeazzi = Radius distal fracture + DRUJ dislocation); proximal ulna fracture with radial head dislocation is a Monteggia fracture-dislocation."
+    ],
+    "clinicalPearl": "Always radiograph both joints above and below a single forearm bone fracture using the 'MUGR' mnemonic: Monteggia = proximal Ulna + radial head dislocation; Galeazzi = distal Radius + DRUJ dislocation.",
+    "guideCitation": {
+      "guideId": "guide_surg_fractures",
+      "guideTitle": "Orthopaedics & Fractures Surgery OSCE Guide",
+      "keyPoint": "Monteggia fracture-dislocation is an ulnar fracture with radial head dislocation (proximal), whereas Galeazzi is a radial fracture with distal radioulnar joint (DRUJ) dislocation (distal)."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_b_02",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Bard-Parker Scalpel Handle & Blade Compatibility",
+    "imagePath": null,
+    "stem": "A surgical trainee sets up the incision and drainage (I&D) trolley for a fluctuant perianal abscess and is handed a No. 3 Bard-Parker (BP) scalpel handle. Which blade mechanically fits this handle and is specifically designed for making a small, precise stab puncture incision?",
+    "options": [
+      "No. 11 pointed straight blade",
+      "No. 20 curved belly blade",
+      "No. 22 large curved blade",
+      "No. 23 broad curved blade",
+      "No. 24 large curved blade"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Blades prefixed with '1' (#10, #11, #12, #15) fit No. 3 and No. 7 BP handles; the pointed triangular #11 blade is specifically designed for small, deep stab/puncture incisions (such as abscess drainage or chest tube skin incisions).",
+      "Incorrect: Blades with numeric prefix '2' (20, 21, 22, 23, 24) have a wider slot that fits only the No. 4 BP handle, not the No. 3 handle.",
+      "Incorrect: The No. 22 blade is a large curved blade compatible exclusively with a No. 4 BP handle for major skin incisions.",
+      "Incorrect: The No. 23 blade requires a No. 4 BP handle (as used in wound toilet/laparotomy packets) rather than a No. 3 handle.",
+      "Incorrect: The No. 24 blade fits only the No. 4 BP handle and is unsuitable for delicate stab incisions."
+    ],
+    "clinicalPearl": "Scalpel compatibility rule: Blades starting with '1' (#10, #11, #12, #15) fit No. 3/No. 7 BP handles (#11 for stab punctures, #15 for short shallow incisions); blades starting with '2' (#20–#24) fit No. 4 BP handles.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_ward",
+      "guideTitle": "Surgical Instruments Slides (Ward Reference)",
+      "keyPoint": "Blades with numeric prefix '1' (10, 11, 12, 15) fit #3/#7 handles (#11 for tiny deep stab incisions), whereas blades with prefix '2' (20–24) fit #4 handles."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_b_03",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Atraumatic Tubular-Tissue Forceps (Babcock's)",
+    "imagePath": null,
+    "stem": "During an open appendicectomy, the surgeon needs to grasp and elevate the inflamed appendix gently without crushing or tearing its friable wall. Which ring-handled instrument from the appendicectomy packet has atraumatic, non-toothed fenestrated jaws designed specifically for tubular viscera?",
+    "options": [
+      "Allis tissue forceps",
+      "Kocher's artery forceps",
+      "Babcock's forceps",
+      "Backhaus towel clip",
+      "Curved mosquito haemostat"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Allis forceps have sharp inward-pointing teeth intended for grasping tough fascia or rectus sheath and will traumatise delicate bowel or tubular walls.",
+      "Incorrect: Kocher's forceps have heavy transverse serrations and a sharp 1x2 interlocking tooth at the tip, causing severe crush injury if applied to bowel or appendix.",
+      "Correct: Babcock's forceps feature smooth, non-toothed, fenestrated loop jaws that cradle delicate tubular structures (appendix, ureter, fallopian tube, intestine) atraumatically.",
+      "Incorrect: Backhaus towel clips have sharp piercing prongs used exclusively to secure surgical drapes.",
+      "Incorrect: Curved mosquito forceps are fine crushing haemostats meant for clamping small bleeding vessels prior to ligation or diathermy."
+    ],
+    "clinicalPearl": "Know the grasping hierarchy: Babcock's (atraumatic, non-toothed loop) for appendix, ureter, and fallopian tube; Allis (sharp teeth) for tough fascia/rectus sheath; Kocher's (toothed heavy clamp) for tough fibrous pedicles.",
+    "guideCitation": {
+      "guideId": "guide_surg_instruments_proc",
+      "guideTitle": "Surgical Instruments & Procedures Guide",
+      "keyPoint": "Babcock's forceps lack sharp teeth and are specifically designed to grasp delicate tubular structures (appendix, fallopian tube, ureter) atraumatically."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_b_04",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.3 TRAUMA, SHOCK, BURNS, NEUROTRAUMA & CRITICAL CARE (15 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Advanced",
+    "topic": "Chest Drain Massive Haemothorax & Underwater Seal Rules",
+    "imagePath": null,
+    "stem": "A 36-year-old man with penetrating right chest trauma has a 32 Fr intercostal chest drain connected to an underwater seal bottle kept below chest level. Immediately upon connection, 1,600 mL of frank blood drains rapidly into the collection chamber while the patient remains hypotensive. What is the most appropriate next definitive surgical step?",
+    "options": [
+      "Clamp the chest tube immediately to tamponade intrathoracic bleeding",
+      "Proceed immediately to urgent exploratory surgical thoracotomy",
+      "Elevate the underwater seal bottle to chest height to slow drainage",
+      "Insert a second 28 Fr chest drain into the 2nd intercostal space",
+      "Observe hourly output for 4 hours while giving oral tranexamic acid"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Clamping an active chest drain risks tension physiology (haemopneumothorax) and fatal cardiovascular collapse without arresting major vessel bleeding.",
+      "Correct: An immediate drainage volume of >= 1,500 mL of blood upon ICD insertion (or ongoing loss > 200 mL/hr) defines massive haemothorax and is an absolute indication for urgent surgical thoracotomy alongside vigorous blood resuscitation.",
+      "Incorrect: Elevating the underwater seal bottle above chest level causes retrograde syphoning of fluid/air back into the pleural cavity and must never be done.",
+      "Incorrect: Adding a second chest drain does not control an injured internal mammary, intercostal, or pulmonary hilar vessel requiring direct surgical repair.",
+      "Incorrect: Conservative observation in a hypotensive patient with 1,600 mL immediate intrathoracic blood loss is fatal; immediate operative control is mandatory."
+    ],
+    "clinicalPearl": "Daily chest drain checks cover patient state, tube function (bubbling, fluid level, respiratory swinging/tidaling), and apparatus (underwater seal intact, bottle strictly below chest level); immediate blood drainage >= 1,500 mL mandates urgent thoracotomy.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Immediate drainage of 1,500 mL of blood upon intercostal chest tube insertion is a classic trauma indication for urgent thoracotomy."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_b_05",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.7 SURGICAL TUBES, CATHETERS, SUTURES, IMAGING & INSTRUMENTS (13 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Three-Way Foley Catheter & Continuous Bladder Irrigation",
+    "imagePath": null,
+    "stem": "A 70-year-old man develops brisk gross haematuria with blood clots causing painful bladder distension immediately after transurethral resection of the prostate (TURP). Which catheter type and calibre is specifically indicated to establish continuous bladder irrigation (CBI) and prevent recurrent clot obstruction?",
+    "options": [
+      "12 Fr standard two-way latex Foley catheter",
+      "14 Fr straight Nelaton/Robinson intermittent catheter",
+      "External penile condom sheath catheter",
+      "22 Fr three-way Foley urinary catheter",
+      "8 Fr paediatric feeding tube used transurethrally"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: A narrow 12 Fr two-way Foley catheter lacks a dedicated irrigation inflow channel and rapidly blocks with prostatic blood clots.",
+      "Incorrect: A straight Robinson catheter is designed only for single in-and-out drainage and cannot provide indwelling continuous irrigation.",
+      "Incorrect: An external condom catheter collects involuntary urinary incontinence externally and does not drain clot-obstructed intravesical retention.",
+      "Correct: A large-bore three-way Foley catheter (typically 22 Fr) provides separate channels for balloon inflation, continuous sterile saline irrigation inflow, and wide-lumen outflow to prevent clot retention (while monitoring closely for TURP syndrome: fluid overload and dilutional hyponatraemia).",
+      "Incorrect: An 8 Fr paediatric feeding tube is far too narrow for adult post-TURP haematuria and lacks both a retention balloon and irrigation lumen."
+    ],
+    "clinicalPearl": "Use a 22 Fr 3-way Foley catheter for continuous bladder irrigation in gross haematuria/post-TURP bleeding (vs 14–16 Fr 2-way for routine retention); note silicone catheters last up to 3 months vs 1 month for latex, and monitor for TURP syndrome (fluid overload + hyponatraemia).",
+    "guideCitation": {
+      "guideId": "guide_surg_tubes",
+      "guideTitle": "NG Tube, IC Tube & Urinary Catheter Surgery OSCE Guide",
+      "keyPoint": "A three-way Foley catheter is an indwelling urethral catheter (typically 22 Fr) inserted specifically for continuous bladder irrigation (CBI) to prevent clot obstruction during bleeding."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "surg_guide_b_06",
+    "specialty": "surg",
+    "specialtyName": "Surgery",
+    "domain": "2.5 VASCULAR, DIABETIC FOOT & SOFT-TISSUE INFECTIONS (12 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Digital Ring Block & End-Arterial Vasoconstrictor Contraindication",
+    "imagePath": null,
+    "stem": "A 29-year-old carpenter requires wound exploration and nail-bed repair for a deep laceration of his right index finger under a digital ring block at the web space. Which local anaesthetic preparation and maximum dose limit apply safely to prevent digital ischaemia and systemic toxicity?",
+    "options": [
+      "2% lignocaine with 1:200,000 adrenaline; maximum dose 7 mg/kg",
+      "1% lignocaine with 1:80,000 adrenaline; maximum dose 5 mg/kg",
+      "0.5% bupivacaine with adrenaline; maximum dose 7 mg/kg",
+      "5% bupivacaine hyperbaric spinal solution; maximum dose 3 mg/kg",
+      "Plain 1% or 2% lignocaine without adrenaline; maximum dose 3 mg/kg"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Although adrenaline raises the safe systemic maximum dose of lignocaine to 7 mg/kg by slowing absorption, adrenaline is strictly avoided in end-arterial sites (digits, tip of nose, earlobe, tip of penis) due to vasospastic ischaemia.",
+      "Incorrect: Concentrated 1:80,000 adrenaline injected around digital vessels risks profound arteriolar vasospasm and digital gangrene.",
+      "Incorrect: Adrenaline-containing local anaesthetic must not be injected into digital web spaces, and bupivacaine's maximum dose is 2 mg/kg (not 7 mg/kg).",
+      "Incorrect: 5% hyperbaric bupivacaine is formulated strictly for intrathecal spinal anaesthesia rather than peripheral ring block.",
+      "Correct: Traditional surgical teaching contraindicates adrenaline in end-arterial territories (digits, nose tip, earlobe, tip of penis); perform a web-space ring block using a 25G needle with 2 mL of plain lignocaine (maximum systemic dose 3 mg/kg without adrenaline)."
+    ],
+    "clinicalPearl": "Remember the lignocaine dose ceiling and end-arterial rule: max 3 mg/kg plain vs 7 mg/kg with adrenaline (bupivacaine max 2 mg/kg); avoid adrenaline in digits, tip of nose, earlobe, and penis, and remember earliest local anaesthetic toxicity is perioral tingling/agitation.",
+    "guideCitation": {
+      "guideId": "guide_surg_bhanuka",
+      "guideTitle": "Surgery OSCE Clinical Revision Notes (Bhanuka)",
+      "keyPoint": "Use plain lignocaine without adrenaline (max 3 mg/kg; 25G needle, 2 mL at web space) for digital ring blocks, avoiding adrenaline in end-arterial sites (digits, nose tip, earlobe, penis tip)."
+    },
+    "sourceStation": null
+  }
+]

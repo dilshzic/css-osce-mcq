@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "med_041_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_041.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Xanthelasma Palpebrarum",
+    "stem": "A 52-year-old man attends the medical clinic for cardiovascular risk screening. Examination of his left eye reveals the soft, yellowish, flat-topped periorbital plaques shown in the photograph. Which of the following is the most accurate clinical identification of this sign?",
+    "options": [
+      "Periorbital syringoma",
+      "Eyelid milia",
+      "Xanthelasma palpebrarum",
+      "Seborrhoeic keratosis",
+      "Molluscum contagiosum"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Syringomas are benign eccrine sweat duct tumours appearing as small, firm, skin-coloured papules on the lower eyelids rather than flat yellow lipid plaques.",
+      "Incorrect: Milia are tiny, 1–2 mm subepidermal keratin-filled white cysts rather than confluent soft yellow plaques at the inner canthus.",
+      "Correct: Xanthelasma palpebrarum consists of lipid-laden dermal macrophage plaques on the medial eyelids, commonly signalling hyperlipidaemia and increased atherosclerotic risk.",
+      "Incorrect: Seborrhoeic keratoses are hyperpigmented, verrucous, 'stuck-on' epidermal lesions rather than smooth yellow medial canthal plaques.",
+      "Incorrect: Molluscum contagiosum presents as dome-shaped, pearly papules with central umbilication caused by a poxvirus infection."
+    ],
+    "clinicalPearl": "In Kelaniya CSS physical sign spotters, always pair identification of xanthelasma palpebrarum with checking a fasting lipid profile for underlying hypercholesterolaemia and premature coronary artery disease.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Recognise periorbital yellowish lipid plaques as xanthelasma palpebrarum indicating dyslipidaemia and cardiovascular risk."
+    },
+    "sourceStation": {
+      "id": "med_041",
+      "title": "Xanthelasma Palpebrarum",
+      "originalPrompt": "5.\n1. What is this clinical sign? (6 marks)\n2. What is the significance of it? (4 marks)",
+      "verifiedAnswer": "(1) Xanthelasma (xanthelasma palpebrarum). (2) Significance: Indicative of hyperlipidaemia / hypercholesterolaemia (lipid disorder associated with premature atherosclerosis and coronary artery disease).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_042_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Med Q2",
+    "imagePath": "images/med/med_042.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Drug-Induced Gynaecomastia",
+    "stem": "A 60-year-old man receiving medical therapy for chronic congestive heart failure develops tender, firm bilateral subareolar breast enlargement as shown in the photograph. Which medication in his regimen is most likely responsible for this physical sign?",
+    "options": [
+      "Spironolactone",
+      "Furosemide",
+      "Bisoprolol",
+      "Enalapril",
+      "Atorvastatin"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Spironolactone competitively blocks androgen receptors and inhibits testosterone synthesis, making it a classic drug cause of bilateral gynaecomastia.",
+      "Incorrect: Furosemide is a loop diuretic used for volume overload and does not exert anti-androgenic or oestrogenic effects on breast tissue.",
+      "Incorrect: Cardioselective beta-blockers such as bisoprolol improve heart failure survival without causing proliferation of male glandular breast tissue.",
+      "Incorrect: ACE inhibitors like enalapril may cause cough, hyperkalaemia, or angio-oedema, but they are not recognised causes of gynaecomastia.",
+      "Incorrect: HMG-CoA reductase inhibitors lower LDL cholesterol and do not induce subareolar glandular enlargement."
+    ],
+    "clinicalPearl": "Kelaniya CSS examiners frequently expect you to distinguish true glandular gynaecomastia from adipose pseudogynaecomastia and recall key culprits: spironolactone, digoxin, cimetidine, ketoconazole, and anti-androgens.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Evaluate drug history carefully (especially spironolactone, digoxin, cimetidine, and anti-androgens) alongside cirrhosis and hypogonadism in male breast enlargement."
+    },
+    "sourceStation": {
+      "id": "med_042",
+      "title": "Gynaecomastia",
+      "originalPrompt": "02)\na) What is the main physical sign you identify in this person?\nb) Give 2 causes to have above condition.",
+      "verifiedAnswer": "(a) Gynaecomastia. (b) Causes: Liver cirrhosis, Drugs (spironolactone, digoxin, cimetidine, ketoconazole, oestrogens/anti-androgens), Physiological (puberty/senescence), Hypogonadism (Klinefelter syndrome), Testicular tumours.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_043_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 25 (3rd Year) — Med Q3",
+    "imagePath": "images/med/med_043.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Type 2 Diabetes Mellitus with Genital Candidiasis",
+    "stem": "A 36-year-old unmarried man presents with intense genital itching, polyuria, nocturia, dry mouth, and polydipsia. Examination of the glans penis reveals the erythematous eroded plaques with satellite lesions shown. Which combination represents the most appropriate inexpensive initial blood test and dual management?",
+    "options": [
+      "Serum uric acid; oral allopurinol and topical hydrocortisone",
+      "VDRL serology; intramuscular benzathine penicillin and saline washes",
+      "Serum creatinine; oral loop diuretics and oral ciprofloxacin",
+      "Full blood count; oral aciclovir and topical zinc oxide",
+      "Fasting blood glucose; glycaemic control and topical clotrimazole"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Gout does not cause osmotic urinary symptoms or genital candidiasis, and topical corticosteroids alone worsen fungal infections.",
+      "Incorrect: Primary syphilis produces a painless solitary indurated chancre rather than pruritic eroded plaques with satellite lesions and polyuria.",
+      "Incorrect: Loop diuretics aggravate polyuria and dehydration, and ciprofloxacin has no activity against Candida species.",
+      "Incorrect: Genital herpes causes grouped painful vesicles on an erythematous base rather than chronic pruritic fungal balanitis with polydipsia.",
+      "Correct: Osmotic symptoms (polyuria, polydipsia, nocturia) with candidal balanoposthitis indicate newly presenting diabetes mellitus, confirmed inexpensively by fasting or random blood glucose and treated by controlling hyperglycaemia plus topical antifungal therapy."
+    ],
+    "clinicalPearl": "Always treat both the opportunistic fungal infection (topical clotrimazole/miconazole ± single-dose fluconazole) and the underlying uncontrolled diabetes mellitus identified by an inexpensive fasting or random blood glucose.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Mucocutaneous candidiasis presenting with polyuria and polydipsia requires prompt blood glucose testing and combined antifungal plus glycaemic management."
+    },
+    "sourceStation": {
+      "id": "med_043",
+      "title": "Type 2 Diabetes Mellitus Presenting with Genital Candidiasis",
+      "originalPrompt": "03) 36-year-old unmarried man presented with intensive itching in genital area, nocturia, dry mouth, polyuria, and thirst.\na) What is the inexpensive blood test you request to perform?\nb) What is the treatment method?",
+      "verifiedAnswer": "(a) Fasting blood glucose (FBG) (or random/capillary blood glucose). (b) Treatment: Manage diabetes mellitus (lifestyle/diet + oral hypoglycaemics e.g. metformin, or insulin as needed) AND treat the candidal infection with topical antifungal cream (e.g., clotrimazole/miconazole) ± single-dose oral fluconazole.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_044_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_044.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Diabetic Neuropathic Foot Ulcer",
+    "stem": "A 40-year-old man with long-standing diabetes mellitus presents with the painless punched-out plantar ulcer with surrounding hyperkeratotic callus under the first metatarsal head shown in the photograph. His foot is warm and pedal pulses are bounding. Which bedside examination finding best confirms the primary underlying aetiology?",
+    "options": [
+      "Ankle-brachial pressure index measured below 0.5",
+      "Absent 10 g monofilament and vibration sense",
+      "Delayed capillary refill exceeding 5 seconds",
+      "Hyperreflexic ankle jerks with sustained clonus",
+      "Positive Homans sign with deep calf tenderness"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Severe arterial insufficiency produces a cold, pulseless foot with painful distal tip or lateral margin ischaemic ulcers rather than a warm foot with bounding pulses.",
+      "Correct: A painless plantar ulcer over a pressure point with callus, warm skin, and palpable pedal pulses is a classic neuropathic ulcer confirmed by loss of 10 g Semmes-Weinstein monofilament pressure sense, 128 Hz vibration sense, and ankle jerks.",
+      "Incorrect: Markedly prolonged capillary refill reflects critical peripheral ischaemia, whereas pure neuropathic diabetic feet often have warm skin from autonomic arteriovenous shunting.",
+      "Incorrect: Upper motor neurone spasticity produces hyperreflexia and clonus, whereas diabetic distal symmetrical polyneuropathy causes diminished or absent ankle reflexes.",
+      "Incorrect: Calf tenderness relates to suspected deep venous thrombosis rather than the sensory neuropathy driving plantar pressure ulceration."
+    ],
+    "clinicalPearl": "In Kelaniya Medicine OSCEs, always contrast pure diabetic neuropathic ulcers (warm foot, palpable pulses, callus over pressure points, absent monofilament/vibration sense) against neuro-ischaemic ulcers (cold foot, absent pulses, ABI <0.9).",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Distal peripheral neuropathy is confirmed at the bedside using a 10 g monofilament for protective touch, a 128 Hz tuning fork for vibration, and ankle reflex testing."
+    },
+    "sourceStation": {
+      "id": "med_044",
+      "title": "Diabetic Neuropathic Foot Ulcer",
+      "originalPrompt": "1) This is a picture of the lower limb / foot of a 40-year-old diabetic patient.\nGive two signs you would elicit to confirm the aetiology for your diagnosis.",
+      "verifiedAnswer": "Sensory neuropathy signs: (1) Loss of protective light-touch / pressure sensation using 10 g Semmes-Weinstein monofilament; (2) Loss of vibration sense (128 Hz tuning fork over 1st MTP/malleolus) and absent ankle jerk reflexes (with warm foot and palpable pedal pulses in pure neuropathic ulcer vs absent pulses/ABI below 0.9 if neuro-ischaemic).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_045_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Med Q2",
+    "imagePath": "images/med/med_045.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Graves' Disease with Thyrotoxic Proximal Myopathy",
+    "stem": "A 36-year-old woman complains of progressive difficulty rising from a squatting position over 3 months, accompanied by weight loss despite an increased appetite. Her facial photograph is shown. Which of the following is the most complete diagnosis?",
+    "options": [
+      "Myasthenia gravis with bilateral ocular ptosis",
+      "Cushing syndrome with proximal steroid myopathy",
+      "Dermatomyositis with periorbital heliotrope rash",
+      "Graves' disease with thyrotoxic proximal myopathy",
+      "Hashimoto thyroiditis with hypothyroid myopathy"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Myasthenia gravis causes fatigable ptosis and diplopia rather than bilateral proptosis and upper eyelid retraction.",
+      "Incorrect: Cushing syndrome causes moon facies, plethora, and truncal obesity rather than bilateral proptosis with lid retraction and weight loss.",
+      "Incorrect: Dermatomyositis causes violaceous periorbital erythema and oedema without true exophthalmos or lid retraction.",
+      "Correct: Bilateral exophthalmos with upper lid retraction and scleral show establishes Graves' ophthalmopathy, while difficulty standing from a squat indicates accompanying thyrotoxic proximal myopathy.",
+      "Incorrect: Hypothyroidism typically causes periorbital puffiness, weight gain, and cold intolerance rather than Graves' exophthalmos and hypermetabolic weight loss."
+    ],
+    "clinicalPearl": "When an OSCE prompt highlights difficulty rising from a squat alongside exophthalmos, give the complete two-part diagnosis: Graves' disease complicated by thyrotoxic proximal myopathy, confirmed with TSH, Free T4/T3, and TRAb.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Bilateral exophthalmos and upper lid retraction with proximal pelvic girdle weakness signify Graves' disease complicated by thyrotoxic proximal myopathy."
+    },
+    "sourceStation": {
+      "id": "med_045",
+      "title": "Graves' Disease with Thyrotoxic Proximal Myopathy",
+      "originalPrompt": "02) 36-year-old female complains of difficulty in standing from a squatting position.\n1) What is the complete diagnosis?\n2) Name two features seen in this picture to support your diagnosis.\n3) List two investigations to confirm the diagnosis.",
+      "verifiedAnswer": "(1) Graves' disease (thyrotoxicosis) complicated by thyrotoxic proximal myopathy. (2) Visual features: Bilateral exophthalmos/proptosis with upper lid retraction (thyroid ophthalmopathy) and diffuse anterior neck swelling (goitre). (3) Investigations: Thyroid function tests (suppressed TSH, elevated Free T4 & Free T3) and TSH-receptor antibodies (TRAb) (plus serum CK — usually normal — and EMG/muscle biopsy only if atypical).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_046_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Med Q6",
+    "imagePath": "images/med/med_046.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Dyslipidaemia Indicated by Xanthelasma",
+    "stem": "A 58-year-old man recovering from an acute coronary syndrome has the bilateral yellowish medial eyelid lesions shown in the photograph. Which underlying biochemical abnormality is most strongly indicated by this physical finding?",
+    "options": [
+      "Elevated serum uric acid",
+      "Elevated serum LDL cholesterol",
+      "Elevated unconjugated serum bilirubin",
+      "Elevated serum ionised calcium",
+      "Elevated serum potassium concentration"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Hyperuricaemia produces monosodium urate crystal tophi over joints and pinnae rather than soft yellow periorbital plaques.",
+      "Correct: Medial canthal xanthelasma palpebrarum is a cutaneous lipid deposit strongly associated with hyperlipidaemia, particularly elevated LDL cholesterol and premature coronary artery disease.",
+      "Incorrect: Hyperbilirubinaemia causes diffuse yellow scleral icterus rather than discrete raised lipid plaques confined to the eyelids.",
+      "Incorrect: Hypercalcaemia causes band keratopathy at the corneal limbus rather than cutaneous eyelid plaques.",
+      "Incorrect: Hyperkalaemia causes cardiac conduction abnormalities without characteristic periorbital cutaneous deposits."
+    ],
+    "clinicalPearl": "Even when serum lipid levels appear borderline, xanthelasma palpebrarum remains an independent clinical marker of atherogenic dyslipidaemia and high coronary risk requiring aggressive lipid-lowering assessment.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Bilateral medial eyelid xanthelasma signals underlying dyslipidaemia (raised LDL cholesterol) and heightened coronary artery disease risk."
+    },
+    "sourceStation": {
+      "id": "med_046",
+      "title": "Xanthelasma in Coronary Artery Disease",
+      "originalPrompt": "6. This is an image of a man who had coronary syndrome.\n6.1 What is the abnormality?\n6.2 What is the biochemical abnormality indicated in the above abnormality?",
+      "verifiedAnswer": "(6.1) Xanthelasma (xanthelasma palpebrarum). (6.2) Biochemical abnormality: Hyperlipidaemia / Dyslipidaemia (specifically elevated LDL cholesterol / hypercholesterolaemia).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_047_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 29 (3rd Year) — Med Q10",
+    "imagePath": "images/med/med_047.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Gynaecomastia Recognition",
+    "stem": "A 34-year-old man is evaluated in the medical clinic for the bilateral anterior chest wall finding shown in the photograph. Palpation reveals concentric, firm, rubbery subareolar glandular tissue beneath both nipples. Which of the following is the correct clinical term for this sign?",
+    "options": [
+      "Pseudogynaecomastia",
+      "Bilateral mastitis",
+      "Subcutaneous lipoma",
+      "Galactorrhoea",
+      "Gynaecomastia"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Pseudogynaecomastia (lipomastia) consists of soft adipose tissue deposition without a palpable concentric glandular disc beneath the areola.",
+      "Incorrect: Infectious mastitis presents acutely with unilateral warmth, erythema, focal tenderness, and purulent discharge rather than symmetrical chronic enlargement.",
+      "Incorrect: Lipomas are encapsulated, lobulated, soft fatty masses situated eccentrically in subcutaneous tissue rather than symmetrically centred under both areolae.",
+      "Incorrect: Galactorrhoea refers to milky nipple discharge (typically from hyperprolactinaemia) rather than palpable glandular breast hypertrophy.",
+      "Correct: Concentric, firm, rubbery glandular tissue directly beneath the nipple-areolar complex represents true gynaecomastia due to an elevated oestrogen-to-androgen ratio."
+    ],
+    "clinicalPearl": "In a Medicine OSCE chest examination, always pinch across the areola between thumb and forefinger to distinguish firm concentric glandular gynaecomastia from soft fatty pseudogynaecomastia.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "True gynaecomastia is defined by palpable concentric subareolar glandular tissue and warrants screening for cirrhosis, drugs, hypogonadism, and testicular tumours."
+    },
+    "sourceStation": {
+      "id": "med_047",
+      "title": "Gynaecomastia — Identification & Causes",
+      "originalPrompt": "10.1 What is the physical sign shown in this picture?\n10.2 Name two (02) possible causes for this.",
+      "verifiedAnswer": "(10.1) Gynaecomastia. (10.2) Causes: Chronic liver disease (cirrhosis), Medications (spironolactone, digoxin, finasteride, cimetidine), Hypogonadism (Klinefelter syndrome), Testicular/hCG-secreting tumours, Hyperthyroidism.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_048_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Med Q3",
+    "imagePath": "images/med/med_048.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Addison's Disease — Hyperpigmentation",
+    "stem": "A 38-year-old man presents with 6 months of progressive generalised weakness, rapid weight loss, and recurrent vomiting. Examination of his hands demonstrates the diffuse darkening over knuckles and palmar creases shown in the photograph. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Secondary pituitary ACTH deficiency",
+      "Hereditary haemochromatosis",
+      "Primary adrenal insufficiency",
+      "Peutz-Jeghers syndrome",
+      "Chronic arsenic toxicity"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Secondary adrenal insufficiency has low ACTH levels and therefore causes pallor rather than palmar crease hyperpigmentation.",
+      "Incorrect: Haemochromatosis produces generalised slate-grey 'bronze' skin pigmentation with cirrhosis and diabetes rather than preferential palmar crease darkening with vomiting.",
+      "Correct: Loss of adrenal cortisol feedback elevates pituitary POMC and ACTH-derived melanocyte-stimulating hormone, causing characteristic hyperpigmentation of palmar creases, knuckles, buccal mucosa, and scars.",
+      "Incorrect: Peutz-Jeghers syndrome causes discrete circumoral, buccal, and digital mucocutaneous lentigines rather than diffuse palmar crease darkening with weight loss.",
+      "Incorrect: Chronic arsenic exposure causes raindrop pigmentation and palmoplantar hyperkeratosis rather than selective darkening of palmar creases and knuckles."
+    ],
+    "clinicalPearl": "When examining hands and mouth in a Medicine OSCE for chronic fatigue and vomiting, look for palmar crease, knuckle, and buccal mucosal pigmentation—the hallmark of primary adrenal insufficiency (Addison's disease).",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Hyperpigmentation of palmar creases, knuckles, and oral mucosa distinguishes primary adrenal insufficiency (Addison's disease) from secondary ACTH deficiency."
+    },
+    "sourceStation": {
+      "id": "med_048",
+      "title": "Addison's Disease (Primary Adrenal Insufficiency)",
+      "originalPrompt": "03. The patient complains of weakness with rapid weight loss and vomiting for 6 months.\n3.1 What is the abnormality seen in the picture?\n3.2 What is the probable diagnosis?",
+      "verifiedAnswer": "(3.1) Hyperpigmentation of the palmar creases, knuckles, and skin (due to excess ACTH/POMC-derived MSH). (3.2) Probable diagnosis: Addison's disease (primary adrenal insufficiency).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_049_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "Batch 32 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_049.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Addison's Disease — Diagnostic Testing",
+    "stem": "A 45-year-old man presents with lethargy, postural hypotension, hyponatraemia, and recurrent hypoglycaemia. Examination of his palms reveals the patchy hyperpigmentation shown in the photograph. Which diagnostic strategy is most appropriate to evaluate the suspected endocrine disorder?",
+    "options": [
+      "9 am serum cortisol and short Synacthen test",
+      "Midnight salivary cortisol and dexamethasone suppression",
+      "Fasting plasma insulin and C-peptide levels",
+      "24-hour urinary metanephrines and plasma renin",
+      "Oral glucose tolerance test with growth hormone"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Suspected Addison's disease (postural hypotension, hyponatraemia, hypoglycaemia, palmar hyperpigmentation) is screened with 9 am serum cortisol and plasma ACTH, and confirmed by failure of cortisol to rise on a short Synacthen (ACTH stimulation) test.",
+      "Incorrect: Midnight salivary cortisol and dexamethasone suppression tests are used to diagnose cortisol excess (Cushing syndrome), not adrenal insufficiency.",
+      "Incorrect: Insulin and C-peptide evaluate insulinoma and endogenous hyperinsulinaemia rather than glucocorticoid-deficiency hypoglycaemia with hyponatraemia.",
+      "Incorrect: Urinary metanephrines screen for phaeochromocytoma, which causes paroxysmal hypertension rather than postural hypotension and hyperpigmentation.",
+      "Incorrect: Growth hormone suppression during an oral glucose load diagnoses acromegaly rather than primary adrenocortical failure."
+    ],
+    "clinicalPearl": "In suspected adrenal crisis, draw blood immediately for random cortisol and ACTH before giving IV hydrocortisone and 0.9% saline—never delay emergency treatment waiting for a Synacthen test.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Screen stable suspected Addison's disease with 9 am serum cortisol (plus plasma ACTH) and confirm with the 250 microgram short Synacthen stimulation test."
+    },
+    "sourceStation": {
+      "id": "med_049",
+      "title": "Addison's Disease — Screening Test",
+      "originalPrompt": "01. A 45-year-old male complains of lethargy and postural hypotension. Investigations reveal hypoglycaemia and hyponatraemia.\n1.1 What is the possible diagnosis?\n1.2 What is the screening test done for this condition?",
+      "verifiedAnswer": "(1.1) Addison's disease (primary adrenal insufficiency). (1.2) Screening/diagnostic test: 9 am serum cortisol (with plasma ACTH) as initial screen, confirmed by Short Synacthen (ACTH stimulation) test (failure of cortisol to rise adequately at 30/60 min after 250 µg tetracosactide).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_050_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Med Q4",
+    "imagePath": "images/med/med_050.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Acanthosis Nigricans",
+    "stem": "A 32-year-old woman with central obesity and oligomenorrhoea has symmetrical, velvety, hyperpigmented plaques in the axillae and posterior neck as shown in the photograph. Which pairing correctly identifies this dermatological sign and its primary systemic association?",
+    "options": [
+      "Erythrasma; Corynebacterium minutissimum infection",
+      "Pityriasis versicolor; Malassezia furfur overgrowth",
+      "Melasma; oestrogen excess and ultraviolet exposure",
+      "Acanthosis nigricans; severe insulin resistance",
+      "Necrobiosis lipoidica; granulomatous small-vessel vasculitis"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Erythrasma causes sharply demarcated reddish-brown scaly patches in skin folds that fluoresce coral-red under Wood's light rather than velvety hyperkeratotic neck plaques.",
+      "Incorrect: Pityriasis versicolor produces fine branny scaly hypopigmented or hyperpigmented macules on the upper trunk rather than velvety flexural plaques.",
+      "Incorrect: Melasma manifests as flat, symmetrical brown macules over sun-exposed malar and forehead skin rather than thickened axillary folds.",
+      "Correct: Velvety, hyperpigmented flexural thickening of the axillae and nape of the neck is acanthosis nigricans, driven by hyperinsulinaemia acting on keratinocyte IGF-1 receptors in obesity, Type 2 diabetes, and PCOS.",
+      "Incorrect: Necrobiosis lipoidica appears as shiny, atrophic, yellow-brown plaques with telangiectasia over the anterior shins rather than velvety posterior neck thickening."
+    ],
+    "clinicalPearl": "Always examine the axillae and posterior neck for acanthosis nigricans in young patients with obesity or PCOS to detect insulin resistance—and remember that sudden, florid, widespread acanthosis nigricans in a lean older adult warrants screening for occult gastric adenocarcinoma.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Velvety hyperpigmented plaques of the axillae and posterior neck denote acanthosis nigricans, a clinical hallmark of insulin resistance (and rarely occult GI malignancy)."
+    },
+    "sourceStation": {
+      "id": "med_050",
+      "title": "Acanthosis Nigricans",
+      "originalPrompt": "4. Identify the condition below.",
+      "verifiedAnswer": "Acanthosis nigricans — strongly associated with insulin resistance (Type 2 diabetes mellitus, obesity, PCOS) and occasionally internal malignancy (especially gastric adenocarcinoma in older/non-obese patients).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_051_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.4 ENDOCRINOLOGY & METABOLIC MEDICINE (12 STATIONS)",
+    "batch": "B32/33 (Header: 33rd Batch) — Med Q5",
+    "imagePath": "images/med/med_051.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Bilateral Gynaecomastia — Systemic Causes",
+    "stem": "A 46-year-old man presents for evaluation of the progressive bilateral chest finding shown in the photograph, confirmed on palpation as true subareolar glandular enlargement. Which group of systemic disorders best explains pathological development of this sign?",
+    "options": [
+      "Primary hypothyroidism, Cushing disease, and acromegaly",
+      "Type 1 diabetes mellitus, Addison's disease, and vitiligo",
+      "Chronic pancreatitis, coeliac disease, and nephrogenic diabetes insipidus",
+      "Constrictive pericarditis, pulmonary fibrosis, and silicosis",
+      "Liver cirrhosis, primary hypogonadism, and hyperthyroidism"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Primary hypothyroidism, cortisol excess, and growth hormone excess do not characteristically shift the free oestrogen-to-androgen ratio to cause true gynaecomastia.",
+      "Incorrect: Autoimmune polyendocrine disorders present with metabolic decompensation and depigmentation or hyperpigmentation rather than glandular breast hypertrophy.",
+      "Incorrect: Malabsorptive and renal tubular concentrating disorders cause weight loss or polyuria rather than oestrogen-mediated breast tissue proliferation.",
+      "Incorrect: Cardiopulmonary restrictive diseases produce dyspnoea, elevated JVP, or cor pulmonale without disrupting sex steroid balance.",
+      "Correct: Cirrhosis impairs hepatic oestrogen clearance, hypogonadism lowers androgen output, and hyperthyroidism increases SHBG (reducing free testosterone relative to oestrogen), all classically producing bilateral gynaecomastia."
+    ],
+    "clinicalPearl": "Beyond physiological puberty and senescence, systematically screen bilateral gynaecomastia for chronic liver disease, offending medications, Klinefelter syndrome, hyperthyroidism, and hCG-secreting testicular tumours.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Pathological gynaecomastia reflects increased free oestrogen-to-androgen activity seen in cirrhosis, hypogonadism, hyperthyroidism, and testicular neoplasms."
+    },
+    "sourceStation": {
+      "id": "med_051",
+      "title": "Bilateral Gynaecomastia",
+      "originalPrompt": "5. Identify below condition & give causes.",
+      "verifiedAnswer": "Bilateral gynaecomastia. Causes: Physiological (pubertal, ageing), Cirrhosis/chronic liver disease, Drugs (spironolactone, digoxin, cimetidine, ketoconazole, anti-androgens, oestrogens), Primary/secondary hypogonadism (Klinefelter syndrome), Hyperthyroidism, Testicular/adrenal tumours.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_052_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Med Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Bilateral Pitting Pedal Oedema",
+    "stem": "A 62-year-old man with essential hypertension presents with symmetrical swelling of both ankles that leaves a clear indentation after firm digital pressure over the medial malleoli for 15 seconds. Jugular venous pressure is normal and urinalysis is negative for protein. Which medication is most likely responsible?",
+    "options": [
+      "Losartan",
+      "Amlodipine",
+      "Atenolol",
+      "Hydrochlorothiazide",
+      "Enalapril"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Angiotensin II receptor blockers balance arteriolar and venous tone and can actually ameliorate calcium-channel-blocker-induced ankle oedema.",
+      "Correct: Dihydropyridine calcium channel blockers such as amlodipine and nifedipine selectively dilate precapillary arterioles without proportional venodilation, raising capillary hydrostatic pressure and causing bilateral pitting pedal oedema.",
+      "Incorrect: Beta-blockers do not cause isolated precapillary arteriolar vasodilatory oedema unless decompensated heart failure develops with raised JVP.",
+      "Incorrect: Thiazide diuretics promote natriuresis and reduce peripheral oedema rather than inducing pitting ankle swelling.",
+      "Incorrect: ACE inhibitors lower both preload and afterload and are not a pharmacological cause of benign bilateral pitting pedal oedema."
+    ],
+    "clinicalPearl": "In Kelaniya Medicine OSCEs, alongside cardiac failure, liver cirrhosis, and nephrotic syndrome, always list dihydropyridine calcium channel blockers (amlodipine, nifedipine) as a major reversible cause of bilateral pitting pedal oedema.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Bilateral pitting pedal oedema reflects heart failure, cirrhosis, nephrotic/CKD fluid retention, or vasodilatory calcium channel blockers such as amlodipine and nifedipine."
+    },
+    "sourceStation": {
+      "id": "med_052",
+      "title": "Bilateral Pitting Pedal Oedema",
+      "originalPrompt": "02. Photograph of a patient with oedematous legs (pitting when pressed seen clearly).\nWhat is the clinical feature, and give 2 causes?  [Photo omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Clinical feature: Pitting oedema. Causes: Congestive cardiac failure (CCF/RHF), Liver cirrhosis, Nephrotic syndrome / Chronic kidney disease, Calcium channel blockers (amlodipine, nifedipine).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_053_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Med Q4",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Alcoholic Liver Cirrhosis (Parotid Enlargement + Ascites)",
+    "stem": "A 54-year-old man presents with progressive abdominal distension and shifting dullness on flank percussion. Examination of his face reveals painless, soft, bilateral swelling of the cheeks anterior to the ears, accompanied by palmar erythema and spider naevi. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Alcoholic liver cirrhosis",
+      "Nephrotic syndrome",
+      "Constrictive pericarditis",
+      "Tuberculous peritonitis",
+      "Primary Sjögren syndrome"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Bilateral painless parotid gland enlargement (sialadenosis) combined with ascites and peripheral stigmata of chronic liver disease (palmar erythema, spider naevi) is classic for alcoholic liver cirrhosis.",
+      "Incorrect: Nephrotic syndrome causes ascites alongside periorbital and generalised oedema, but does not produce bilateral parotid gland hypertrophy or spider naevi.",
+      "Incorrect: Constrictive pericarditis causes ascites with markedly elevated JVP, Kussmaul sign, and pericardial knock, without bilateral parotid enlargement.",
+      "Incorrect: Tuberculous peritonitis produces exudative ascites with constitutional symptoms and doughy abdomen rather than bilateral parotid swelling and chronic liver stigmata.",
+      "Incorrect: Sjögren syndrome can cause bilateral parotid swelling and sicca symptoms, but it does not explain portal-hypertensive ascites with spider naevi."
+    ],
+    "clinicalPearl": "Bilateral parotid sialadenosis, Dupuytren contracture, and gynaecomastia are classic extra-abdominal clues pointing specifically toward an alcoholic aetiology in a patient presenting with cirrhosis and ascites.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Bilateral parotid enlargement accompanied by ascites and stigmata of chronic liver disease strongly points to alcoholic liver cirrhosis."
+    },
+    "sourceStation": {
+      "id": "med_053",
+      "title": "Alcoholic Liver Cirrhosis (Parotid Enlargement + Ascites)",
+      "originalPrompt": "04. Two photographs of a man: face with swollen cheeks (bilateral parotid swelling) and distended abdomen.\nWhat are the abnormalities, and most likely condition?  [Patient photos omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Abnormalities: Bilateral parotid gland enlargement and abdominal distension (ascites). Most likely condition: Alcoholic liver cirrhosis.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_054_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_054.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Pneumoperitoneum from Perforated Peptic Ulcer",
+    "stem": "A 70-year-old man taking regular medication for chronic joint pain over the past 20 years develops sudden, severe epigastric pain and board-like abdominal rigidity. His erect chest radiograph is shown. Which pair correctly identifies the radiological abnormality and its most likely cause?",
+    "options": [
+      "Right lower lobe consolidation; community-acquired pneumonia",
+      "Elevated right hemidiaphragm; amoebic liver abscess",
+      "Basal pleural effusion; acute alcoholic pancreatitis",
+      "Subdiaphragmatic air collection; NSAID-induced perforated peptic ulcer",
+      "Colonic interposition; benign Chilaiditi sign"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: The lung fields are clear without lobar air-space opacity or air bronchograms; the abnormal lucency lies beneath the diaphragmatic domes.",
+      "Incorrect: A liver abscess elevates the right hemidiaphragm without producing free crescentic intraperitoneal air bilaterally under the diaphragms.",
+      "Incorrect: Pleural effusions blunt the costophrenic angles with a homogeneous meniscus above the diaphragm rather than free subdiaphragmatic gas.",
+      "Correct: Crescentic radiolucent gas beneath both hemidiaphragms indicates pneumoperitoneum, most commonly from a perforated peptic ulcer precipitated by chronic NSAID therapy for osteoarthritis.",
+      "Incorrect: Chilaiditi sign shows haustral bowel markings confined beneath the right hemidiaphragm without acute peritonitic rigidity or bilateral free air."
+    ],
+    "clinicalPearl": "In Kelaniya CSS radiology stations, always ask for an erect CXR (after sitting the patient upright for 10–15 minutes) rather than a supine film to detect small volumes of free air under the diaphragm in suspected perforated peptic ulcer.",
+    "guideCitation": {
+      "guideId": "guide_med_cxr_ct",
+      "guideTitle": "Guide for CXR & CT Brain/Chest",
+      "keyPoint": "Crescentic gas beneath the hemidiaphragm on an erect CXR confirms pneumoperitoneum, classically caused by NSAID-related perforated peptic ulcer."
+    },
+    "sourceStation": {
+      "id": "med_054",
+      "title": "Pneumoperitoneum (Perforated Peptic Ulcer from Chronic NSAIDs)",
+      "originalPrompt": "1. This is an erect CXR of a 70-year-old patient who complains of severe upper abdominal pain. He is on regular Rx for joint pain for the past 20 years.\n1. What is the main abnormality you can see in this X-ray? (6 marks)\n2. Give one possible cause for this condition. (4 marks)",
+      "verifiedAnswer": "(1) Subdiaphragmatic air collection (pneumoperitoneum). (2) Cause: Perforated peptic (duodenal/gastric) ulcer secondary to chronic NSAID use for joint pain.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_055_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_055.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Asterixis (Flapping Tremor)",
+    "stem": "A drowsy 59-year-old man is asked to hold both arms outstretched with wrists dorsiflexed and fingers extended as shown in the photograph, eliciting brief, irregular downward drops of the hands followed by rapid corrective jerks. Which triad of conditions classically produces this physical sign?",
+    "options": [
+      "Parkinson disease, benign essential tremor, and cerebellar ataxia",
+      "Thyrotoxicosis, salbutamol excess, and acute generalised anxiety",
+      "Hepatic encephalopathy, hypercapnic respiratory failure, and uraemia",
+      "Huntington chorea, Wilson disease, and rheumatic Sydenham chorea",
+      "Hypocalcaemia, hypomagnesaemia, and acute respiratory alkalosis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: These disorders produce resting pill-rolling tremor, postural kinetic tremor, or intention tremor rather than sudden lapses in extensor posture.",
+      "Incorrect: Sympathomimetic and thyrotoxic states cause a fine, high-frequency postural tremor rather than coarse, arrhythmic flapping asterixis.",
+      "Correct: Asterixis (flapping tremor, negative myoclonus) is a classic metabolic encephalopathy sign produced by hepatic failure, Type 2 respiratory failure (CO2 narcosis), uraemia, and anticonvulsant/sedative toxicity.",
+      "Incorrect: Chorea consists of continuous, irregular, flowing dance-like movements rather than brief loss of sustained wrist dorsiflexion tone.",
+      "Incorrect: Tetany causes carpopedal spasm and Chvostek or Trousseau signs rather than negative myoclonus on wrist extension."
+    ],
+    "clinicalPearl": "Always elicit asterixis for at least 15–30 seconds with arms outstretched and wrists maximally extended; remember it represents negative myoclonus seen in hepatic encephalopathy, CO2 narcosis, uraemia, and drug toxicity.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Assess encephalopathy patients clinically for asterixis alongside hypercarbia (Type 2 respiratory failure), chronic liver disease, and chronic kidney disease."
+    },
+    "sourceStation": {
+      "id": "med_055",
+      "title": "Asterixis (Flapping Tremor)",
+      "originalPrompt": "04.\n4.1. What is the clinical sign elicited?\n4.2. List 2 conditions where this sign can be positive.",
+      "verifiedAnswer": "(4.1) Flapping tremor (Asterixis). (4.2) Causes: Hepatic encephalopathy (liver failure), Type 2 respiratory failure (CO₂ narcosis), Uraemia (renal failure), Drug toxicity (alcohol, barbiturates, carbamazepine, phenytoin), Severe hypoglycaemia/hypokalaemia.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_056_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_056.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Bilateral Pitting Oedema — Pathophysiology",
+    "stem": "A 64-year-old woman presents with progressive bilateral lower limb swelling and exertional orthopnoea. Firm pressure over her anterior shin leaves the persistent indentation shown in the photograph. Which physiological disturbance accounts for this finding across cardiac failure, nephrotic syndrome, and cirrhosis?",
+    "options": [
+      "Increased capillary hydrostatic pressure or reduced plasma oncotic pressure",
+      "Chronic lymphatic vessel obstruction from filarial fibrosis",
+      "Dermal mucopolysaccharide deposition from severe hypothyroidism",
+      "Acute unilateral iliofemoral deep venous thrombosis",
+      "Subcutaneous emphysema from necrotising soft tissue infection"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Systemic pitting oedema results from Starling force imbalance—elevated venous/capillary hydrostatic pressure (right heart failure, IVC obstruction) or hypoalbuminaemia lowering plasma oncotic pressure (nephrotic syndrome, cirrhosis).",
+      "Incorrect: Chronic lymphatic obstruction causes firm, non-pitting lymphoedema with skin thickening and hyperkeratosis rather than easily displaced interstitial fluid.",
+      "Incorrect: Hypothyroid myxoedema produces firm, non-pitting pretibial or facial infiltration rather than indentable pitting oedema.",
+      "Incorrect: Deep venous thrombosis typically causes asymmetrical unilateral leg swelling, warmth, and calf tenderness rather than bilateral symmetrical oedema.",
+      "Incorrect: Subcutaneous gas produces palpable crepitus with severe sepsis rather than slow-filling fluid indentation."
+    ],
+    "clinicalPearl": "When documenting bilateral pitting oedema in a Medicine OSCE, press firmly over a bony prominence (medial malleolus or anterior tibia) for 15 seconds and state its proximal extent (ankle, shin, knee, or sacral).",
+    "guideCitation": {
+      "guideId": "guide_med_cxr",
+      "guideTitle": "Guide for CXR (Keshali B28)",
+      "keyPoint": "Bilateral pitting ankle and pretibial oedema accompanies elevated JVP and basal crepitations in congestive cardiac failure as well as hypoalbuminaemic states."
+    },
+    "sourceStation": {
+      "id": "med_056",
+      "title": "Bilateral Pitting Oedema",
+      "originalPrompt": "05.\n1. What is the sign shown in the photograph?\n2. Give two reasons to see this sign in both legs.",
+      "verifiedAnswer": "(1) Pitting oedema. (2) Causes: Congestive cardiac failure / Right ventricular failure, Nephrotic syndrome, Liver cirrhosis, IVC obstruction, Drugs (calcium channel blockers).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_057_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Med Q5",
+    "imagePath": "images/med/med_057.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Caput Medusae (Portal Hypertension)",
+    "stem": "A 50-year-old man presenting with bilateral lower limb oedema has the tortuous, engorged abdominal wall veins radiating from the umbilicus shown in the photograph, with blood flow directed away from the umbilicus. Recanalisation of which anatomical structure explains this sign?",
+    "options": [
+      "Inferior vena cava via the azygos system",
+      "Superior mesenteric vein via the haemorrhoidal plexus",
+      "Thoracoepigastric vein draining to the axillary vein",
+      "Umbilical vein within the falciform ligament",
+      "Left gastric vein via the oesophageal submucosal plexus"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Inferior vena cava obstruction dilates lateral abdominal wall collaterals (thoracoepigastric veins) with upward flow from groin toward chest rather than radial umbilical collaterals.",
+      "Incorrect: Inferior mesenteric–rectal portosystemic anastomoses produce anorectal varices rather than visible periumbilical abdominal wall veins.",
+      "Incorrect: Engorgement of the lateral thoracoepigastric vein reflects IVC or SVC obstruction rather than paraumbilical portal-systemic shunting.",
+      "Correct: Severe portal hypertension forces blood from the left portal vein through the recanalised umbilical vein in the falciform ligament into superficial paraumbilical veins, producing caput medusae radiating away from the umbilicus.",
+      "Incorrect: Coronary (left gastric)–azygos shunting causes internal oesophageal varices rather than cutaneous periumbilical venous engorgement."
+    ],
+    "clinicalPearl": "To differentiate caput medusae (portal hypertension) from IVC obstruction on clinical examination, milk a vein flat below the umbilicus: portal collaterals refill downwards away from the umbilicus, whereas IVC collaterals flow upwards.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Caput medusae represents portosystemic collateral flow through a recanalised umbilical vein secondary to portal hypertension (cirrhosis, portal vein thrombosis, or Budd-Chiari syndrome)."
+    },
+    "sourceStation": {
+      "id": "med_057",
+      "title": "Caput Medusae (Portal Hypertension)",
+      "originalPrompt": "Question 05\nA 50-year-old male presented with bilateral lower limb oedema.\n5.1 What is the observation? (2 marks)\n5.2 What is the explanation for the above observation? (4 marks)\n5.3 List 2 causes for the above condition. (4 marks)",
+      "verifiedAnswer": "(5.1) Caput medusae. (5.2) Mechanism: Severe portal hypertension opens portosystemic collaterals via the recanalised umbilical vein (falciform ligament) into engorged superficial epigastric/paraumbilical abdominal wall veins radiating from the umbilicus. (5.3) Causes: Liver cirrhosis, Portal or splenic vein thrombosis, Chronic hepatitis / Budd-Chiari syndrome.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_058_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_058.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Chronic Calcific Pancreatitis",
+    "stem": "A 49-year-old man with chronic alcohol misuse presents with debilitating epigastric pain radiating to the back, steatorrhoea, and progressive weight loss. His plain abdominal radiograph is shown. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Bilateral staghorn renal calculi",
+      "Calcified abdominal aortic aneurysm",
+      "Calcified mesenteric lymphadenitis",
+      "Porcelain gallbladder with gallstones",
+      "Chronic calcific pancreatitis"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Staghorn calculi conform to the renal pelvicalyceal collecting systems laterally in the paravertebral gutters rather than tracing an oblique band across L1–L2.",
+      "Incorrect: An aortic aneurysm shows curvilinear parallel mural calcification along the vertical aortic wall rather than clustered pancreatic ductal stippling extending to the left upper quadrant.",
+      "Incorrect: Calcified mesenteric lymph nodes appear as scattered, mobile, mulberry-like opacities predominantly in the right lower and central abdomen.",
+      "Incorrect: Porcelain gallbladder creates a single ovoid calcified rim confined strictly to the right upper quadrant beneath the liver edge.",
+      "Correct: Speckled, coarse parenchymal and intraductal calcifications crossing the midline across L1–L2 along the head, body, and tail of the pancreas in a heavy alcohol user are diagnostic of chronic calcific pancreatitis."
+    ],
+    "clinicalPearl": "Coarse mottled calcifications crossing the L1–L2 vertebral bodies on a plain KUB/abdominal X-ray are pathognomonic of chronic calcific pancreatitis and signal high risk of exocrine steatorrhoea and pancreatogenic (type 3c) diabetes.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Coarse stippled calcifications spanning the L1–L2 midline on an abdominal radiograph represent chronic calcific pancreatitis."
+    },
+    "sourceStation": {
+      "id": "med_058",
+      "title": "Chronic Calcific Pancreatitis — Abdominal X-Ray",
+      "originalPrompt": "5. An alcoholic presented with chronic debilitating pain in the abdomen and weight loss.\nWhat could be the clinical condition according to his X-ray?",
+      "verifiedAnswer": "Chronic calcific pancreatitis (alcohol-induced chronic pancreatitis with intraductal/parenchymal calcification along the pancreatic head, body, and tail across L1–L2).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_059_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_059.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Chronic Plaque Psoriasis",
+    "stem": "A 30-year-old woman presents with persistent, symmetrically distributed, raised erythematous skin lesions covered by silvery-white scales over both extensor elbows as shown in the photograph. Gentle scraping of the scales produces pinpoint bleeding. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Atopic eczema",
+      "Chronic plaque psoriasis",
+      "Discoid lupus erythematosus",
+      "Tinea corporis",
+      "Lichen planus"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Atopic eczema favours flexural creases (antecubital and popliteal fossae) with ill-defined erythema, excoriations, and lichenification rather than well-demarcated extensor plaques.",
+      "Correct: Well-demarcated erythematous plaques with silvery-white scale over extensor surfaces (elbows, knees) and Auspitz sign (pinpoint bleeding on scale removal) are diagnostic of chronic plaque psoriasis.",
+      "Incorrect: Discoid lupus typically affects sun-exposed scalp, face, and ears with follicular plugging, central hypopigmented atrophy, and scarring alopecia.",
+      "Incorrect: Tinea corporis forms annular plaques with an active raised scaly advancing border and central clearing rather than thick silvery extensor plaques.",
+      "Incorrect: Lichen planus presents as violaceous, flat-topped, polygonal pruritic papules with Wickham striae predominantly on flexor wrists and ankles."
+    ],
+    "clinicalPearl": "Always examine the scalp, natal cleft, and nails (for pitting, onycholysis, and subungual hyperkeratosis) plus joints (for psoriatic arthritis) whenever you identify extensor plaque psoriasis in a CSS OSCE.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Sharply demarcated silvery-scaled plaques on extensor surfaces represent plaque psoriasis vulgaris; distinguish from flexural eczema and guttate lesions."
+    },
+    "sourceStation": {
+      "id": "med_059",
+      "title": "Plaque Psoriasis",
+      "originalPrompt": "Q.3\nWhat is the diagnosis? (Clinical photograph of extensor elbow plaques.)",
+      "verifiedAnswer": "Plaque psoriasis (chronic plaque psoriasis vulgaris).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_060_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 20 (4th Year) — Med Q5",
+    "imagePath": "images/med/med_060.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Rheumatoid Arthritis Hands",
+    "stem": "A 52-year-old woman presents with a 10-year history of symmetrical small joint polyarthritis and morning stiffness lasting more than 1 hour. Her hands are shown in the photograph. Which set of clinical features best supports the underlying diagnosis?",
+    "options": [
+      "Heberden nodes at DIP joints with squared first carpometacarpal joints",
+      "Asymmetrical DIP arthritis with nail pitting and pencil-in-cup deformity",
+      "MCP swelling, ulnar deviation, swan-neck deformity, and DIP sparing",
+      "Tophaceous deposits over PIP joints with acute first MTP podagra",
+      "Tight shiny sclerodactyly with calcinosis cutis and digital tip ischaemia"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Bony Heberden nodes at the DIP joints and squaring of the thumb base are characteristic of nodal osteoarthritis rather than inflammatory rheumatoid arthropathy.",
+      "Incorrect: DIP predominance with psoriatic nail dystrophy and pencil-in-cup erosions defines psoriatic arthritis rather than classic symmetrical rheumatoid hands.",
+      "Correct: Symmetrical MCP and PIP synovitis/subluxation with ulnar deviation, swan-neck/boutonnière deformities, Z-thumb, dorsal interosseous guttering, and sparing of DIP joints are hallmarks of rheumatoid arthritis.",
+      "Incorrect: Chalky subcutaneous tophi and episodic monoarticular podagra characterise chronic tophaceous gout.",
+      "Incorrect: Tight tapered skin over digits with Raynaud phenomenon and fingertip ulceration characterises systemic sclerosis."
+    ],
+    "clinicalPearl": "When presenting rheumatoid arthritis hands in an OSCE, follow 'look, feel, move, function': highlight symmetrical MCP/PIP involvement sparing DIPs, ulnar deviation, dorsal guttering, Z-thumb, and check elbows for rheumatoid nodules.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Symmetrical deforming MCP and PIP arthropathy with ulnar deviation, swan-neck deformities, dorsal guttering, and DIP sparing identifies rheumatoid arthritis."
+    },
+    "sourceStation": {
+      "id": "med_060",
+      "title": "Rheumatoid Arthritis Hands",
+      "originalPrompt": "Q.5\na.) What is the diagnosis?\nb.) Describe 3 features that helped you to arrive at the above diagnosis.",
+      "verifiedAnswer": "(a) Rheumatoid arthritis. (b) Supporting features: Symmetrical deforming polyarthropathy affecting MCP and PIP joints (sparing DIPs), ulnar deviation of fingers, swan-neck / boutonniere / Z-thumb deformities, and dorsal guttering (interosseous muscle wasting).",
+      "provenance": "[Drive Key + Expanded]"
+    }
+  },
+  {
+    "id": "med_061_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 21 (3rd Year) — Med Q5",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Lower Limb Cellulitis — Empirical Therapy",
+    "stem": "A 56-year-old man with interdigital tinea pedis presents with fever and a rapidly spreading, warm, tender, poorly demarcated area of erythema and swelling over his left lower leg. Which antibiotic regimen is the most appropriate first-line empirical therapy?",
+    "options": [
+      "Oral metronidazole monotherapy",
+      "Oral ciprofloxacin monotherapy",
+      "Topical mupirocin ointment alone",
+      "Flucloxacillin or amoxicillin",
+      "Oral terbinafine monotherapy"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Metronidazole targets obligate anaerobes and lacks activity against beta-haemolytic streptococci and Staphylococcus aureus.",
+      "Incorrect: Fluoroquinolones have poor reliability against Group A streptococci and are not first-line empirical therapy for uncomplicated lower limb cellulitis.",
+      "Incorrect: Cellulitis involves deep dermal and subcutaneous tissues requiring systemic oral or intravenous antibiotics rather than topical agents.",
+      "Correct: Unilateral lower limb cellulitis is caused primarily by Streptococcus pyogenes and Staphylococcus aureus, making systemic anti-staphylococcal/streptococcal beta-lactam therapy (flucloxacillin or amoxicillin; macrolide/clindamycin if penicillin-allergic) first-line.",
+      "Incorrect: While treating coexistent tinea pedis prevents recurrence, terbinafine is an antifungal with no activity against bacterial cellulitis."
+    ],
+    "clinicalPearl": "Always demarcate the advancing erythematous border with a skin marker and inspect the toe webs for tinea pedis—treating fungal fissuring prevents recurrent streptococcal/staphylococcal leg cellulitis.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Cellulitis involves subcutaneous tissues (chiefly S. pyogenes and S. aureus) and requires systemic penicillinase-stable/anti-streptococcal beta-lactam therapy."
+    },
+    "sourceStation": {
+      "id": "med_061",
+      "title": "Left Leg Cellulitis",
+      "originalPrompt": "05. Photograph of legs of a patient showing unilateral lower limb cellulitis.\nState the diagnosis and the drug of choice.  [Photo omitted in text-only 2012 archive PDF]",
+      "verifiedAnswer": "Left leg cellulitis. Drug: Amoxicillin / Flucloxacillin (oral/IV anti-staphylococcal & streptococcal penicillin; macrolides or clindamycin if penicillin-allergic).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_062_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 23 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_062.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Vitiligo & Autoimmune Associations",
+    "stem": "A 24-year-old woman presents with symmetrical, sharply demarcated, milky-white depigmented patches over both knees and anterior shins as shown in the photograph. Which cluster of systemic disorders is most strongly associated with this cutaneous condition?",
+    "options": [
+      "Hepatic cirrhosis, haemochromatosis, and Wilson disease",
+      "Tuberculoid leprosy, cutaneous leishmaniasis, and pityriasis alba",
+      "Ulcerative colitis, ankylosing spondylitis, and anterior uveitis",
+      "Familial hypercholesterolaemia, gout, and metabolic syndrome",
+      "Autoimmune thyroid disease, pernicious anaemia, and Type 1 diabetes"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Chronic parenchymal liver and metal-storage disorders cause hyperpigmentation, jaundice, or spider naevi rather than autoimmune depigmented patches.",
+      "Incorrect: These conditions cause hypopigmented patches with sensory loss, ulcerated nodules, or fine scaling rather than symmetrical chalky-white autoimmune depigmentation.",
+      "Incorrect: Seronegative spondyloarthropathy and IBD are linked with erythema nodosum and pyoderma gangrenosum rather than vitiligo.",
+      "Incorrect: Metabolic and lipid disorders manifest with xanthomas, tophi, and acanthosis nigricans rather than loss of melanocytes.",
+      "Correct: Vitiligo is caused by autoimmune destruction of epidermal melanocytes and strongly clusters with autoimmune thyroiditis (Graves'/Hashimoto's), pernicious anaemia, Type 1 diabetes, Addison's disease, and alopecia areata."
+    ],
+    "clinicalPearl": "Whenever a patient presents with vitiligo in a Kelaniya Medicine OSCE, remember to screen thyroid function, blood glucose, and full blood count/B12 for coexistent autoimmune endocrinopathies.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Vitiligo is an autoimmune melanocyte disorder strongly linked with autoimmune thyroid disease, Addison's disease, Type 1 diabetes, and pernicious anaemia."
+    },
+    "sourceStation": {
+      "id": "med_062",
+      "title": "Vitiligo & Autoimmune Associations",
+      "originalPrompt": "4.\n1. What is this clinical sign? (6 marks)\n2. Give 2 diseases which are associated with this condition. (4 marks)",
+      "verifiedAnswer": "(1) Vitiligo. (2) Associated autoimmune disorders: Autoimmune thyroid disease (Graves' / Hashimoto's), Pernicious anaemia, Addison's disease, Type 1 diabetes mellitus, Alopecia areata.",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_063_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Med Q3",
+    "imagePath": "images/med/med_063.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Systemic Lupus Erythematosus (Malar Rash)",
+    "stem": "A 26-year-old woman presents with diffuse hair loss, photosensitivity, symmetrical polyarthralgia, and recurrent painless oral ulcers. Her facial examination is shown in the photograph. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Papulopustular acne rosacea",
+      "Idiopathic acute dermatomyositis",
+      "Systemic lupus erythematosus",
+      "Facial seborrhoeic dermatitis",
+      "Niacin-deficiency pellagra dermatitis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Rosacea causes central facial flushing, telangiectasia, and inflammatory papulopustules without sparing the nasolabial folds or causing diffuse lupus alopecia and arthralgia.",
+      "Incorrect: Dermatomyositis causes a purplish heliotrope periorbital rash and Gottron papules over knuckles rather than a malar rash sparing the nasolabial folds.",
+      "Correct: A confluent erythematous malar ('butterfly') rash across the nasal bridge and cheeks characteristically sparing the nasolabial folds, paired with lupus alopecia and arthralgia in a young woman, is classic for SLE.",
+      "Incorrect: Seborrhoeic dermatitis causes greasy yellowish scales specifically involving the nasolabial folds, eyebrows, and scalp rather than sparing the nasolabial creases.",
+      "Incorrect: Niacin deficiency causes a hyperpigmented photodistributed dermatitis (Casal necklace) accompanied by diarrhoea and dementia."
+    ],
+    "clinicalPearl": "Always verify nasolabial fold sparing to distinguish an SLE malar rash from seborrhoeic dermatitis or rosacea, and pair diagnosis with ANA, anti-dsDNA, anti-Sm, C3/C4, FBC, and urine protein-creatinine ratio.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "An erythematous malar rash sparing the nasolabial folds with alopecia in a young woman indicates SLE; confirm with ANA, anti-dsDNA, complement, and urinalysis."
+    },
+    "sourceStation": {
+      "id": "med_063",
+      "title": "Systemic Lupus Erythematosus (SLE — Malar Rash & Alopecia)",
+      "originalPrompt": "3) A 26-year-old female presented with hair loss.\nWhat is the possible diagnosis?",
+      "verifiedAnswer": "Systemic Lupus Erythematosus (SLE) (classic malar/butterfly facial rash sparing the nasolabial folds accompanied by lupus alopecia; investigate with ANA, anti-dsDNA, anti-Sm antibodies, complement C3/C4, FBC, UFR/urine protein-creatinine ratio).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_064_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_064.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Lepromatous Leprosy — Confirmatory Test",
+    "stem": "A 45-year-old man attends the dermatology clinic with progressive thickening of the facial skin, infiltrated earlobes, and multiple symmetrical cutaneous nodules over the trunk as shown in the photograph. Which investigation is most appropriate to confirm the diagnosis and determine the bacterial index?",
+    "options": [
+      "Slit-skin smear with Ziehl-Neelsen stain for acid-fast bacilli",
+      "Tzanck smear stained with Giemsa for multinucleated giant cells",
+      "Potassium hydroxide mount of skin scrapings for hyphae",
+      "Dark-field microscopy of serous exudate for spirochaetes",
+      "Mantoux tuberculin skin test read at 72 hours"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Infiltrated leonine facies and earlobe/trunk nodules indicate multibacillary lepromatous leprosy, confirmed by a slit-skin smear (modified Ziehl-Neelsen / Fite-Faraco stain) showing numerous Mycobacterium leprae acid-fast bacilli and quantifying the Bacterial Index.",
+      "Incorrect: Tzanck smears detect acantholytic or viral multinucleated giant cells in herpes simplex, varicella-zoster, or pemphigus, not mycobacterial infection.",
+      "Incorrect: KOH microscopy identifies superficial dermatophyte hyphae or Candida pseudohyphae rather than intradermal mycobacteria.",
+      "Incorrect: Dark-field microscopy detects Treponema pallidum in primary or secondary syphilitic lesions rather than Mycobacterium leprae.",
+      "Incorrect: The tuberculin skin test assesses cell-mediated delayed hypersensitivity to M. tuberculosis and is typically anergic in lepromatous leprosy."
+    ],
+    "clinicalPearl": "Slit-skin smears from earlobes and active lesions quantify the Bacterial Index (BI) to classify paucibacillary versus multibacillary leprosy and guide Sri Lankan anti-leprosy MDT duration.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Confirm multibacillary lepromatous leprosy via slit-skin smear (modified Ziehl-Neelsen/Fite-Faraco stain) demonstrating Mycobacterium leprae AFB and Bacterial Index."
+    },
+    "sourceStation": {
+      "id": "med_064",
+      "title": "Lepromatous Leprosy",
+      "originalPrompt": "4) 45-year-old male visited the skin clinic seeking treatment for his skin changes.\n1) What is the most probable diagnosis?\n2) What is the test to confirm the diagnosis?",
+      "verifiedAnswer": "(1) Lepromatous leprosy (multibacillary leprosy caused by Mycobacterium leprae — infiltrated facial/earlobe nodules producing leonine facies). (2) Confirmatory test: *Slit-skin smear (Ziehl-Neelsen / modified Fite-Faraco stain) demonstrating Acid-Fast Bacilli (AFB / M. leprae)* with Bacterial Index (BI) (and skin biopsy histology).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_065_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_065.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Thalassaemia Intermedia",
+    "stem": "An 8-year-old boy who previously underwent splenectomy receives packed red cell transfusions every 4 months. His elder brother died of heart failure at age 22. Facial examination shows maxillary prominence and frontal bossing as pictured. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Beta-thalassaemia minor",
+      "Thalassaemia intermedia",
+      "Hereditary spherocytosis",
+      "Sickle cell anaemia",
+      "Diamond-Blackfan anaemia"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Beta-thalassaemia trait is asymptomatic with mild microcytosis, normal facial bones, and no transfusion or splenectomy requirement.",
+      "Correct: Thalassaemia intermedia presents with thalassaemic facies from extramedullary haematopoiesis, splenomegaly/post-splenectomy status, infrequent (e.g., 4-monthly) transfusion needs compared with monthly transfusions in major disease, and high risk of fatal iron-overload cardiomyopathy.",
+      "Incorrect: Hereditary spherocytosis causes haemolytic jaundice and gallstones cured largely by splenectomy, without severe maxillary marrow expansion or transfusion-related iron cardiomyopathy.",
+      "Incorrect: Sickle cell disease presents with vaso-occlusive painful crises, dactylitis, and autosplenectomy rather than classic severe thalassaemic chipmunk facies with sibling iron cardiomyopathy.",
+      "Incorrect: Diamond-Blackfan anaemia causes severe pure red cell aplasia from early infancy requiring regular 3–4 weekly transfusions without erythroid marrow hyperplasia."
+    ],
+    "clinicalPearl": "Always differentiate thalassaemia intermedia (infrequent/episodic transfusions, prominent extramedullary haematopoiesis, yet still at risk of iron overload from increased gut iron absorption) from thalassaemia major (strictly transfusion-dependent from infancy).",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Thalassaemia intermedia combines thalassaemic facies and splenomegaly with intermittent transfusions and requires vigilant iron-overload monitoring (ferritin, cardiac T2* MRI, desferrioxamine chelation)."
+    },
+    "sourceStation": {
+      "id": "med_065",
+      "title": "Thalassaemia Intermedia",
+      "originalPrompt": "1. An 8-year-old adolescent who had a splenectomy is undergoing 4-monthly blood transfusions. He had an elder brother who died 4 years ago due to heart failure at the age of 22.\nWhat is the probable diagnosis?",
+      "verifiedAnswer": "Thalassaemia intermedia (infrequent transfusion requirement compared with thalassaemia major, splenomegaly/post-splenectomy, extramedullary haematopoiesis/bone changes, iron-overload cardiomyopathy risk).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_066_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Med Q2",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Cervical Lymphadenopathy with B Symptoms",
+    "stem": "A 17-year-old boy presents with multiple painless, firm lumps in the submental and submandibular regions accompanied by drenching night sweats and a 10 kg unintentional weight loss over 3 months. Which pair of diagnoses is most important to consider first?",
+    "options": [
+      "Thyroglossal cyst and branchial cleft cyst",
+      "Mumps parotitis and submandibular sialolithiasis",
+      "Malignant lymphoma and tuberculous lymphadenitis",
+      "Carotid body tumour and cystic hygroma",
+      "Ludwig angina and acute suppurative tonsillitis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Congenital midline or lateral neck cysts are solitary developmental anomalies that do not cause multiple submental nodes or severe systemic weight loss.",
+      "Incorrect: Acute viral parotitis and salivary duct stones cause painful, meal-related glandular swelling rather than chronic painless nodal masses with 10 kg weight loss.",
+      "Correct: Persistent painless cervical/submandibular lymphadenopathy paired with 10 kg weight loss ('B symptoms') strongly points to Hodgkin/non-Hodgkin lymphoma or tuberculous lymphadenitis (scrofula).",
+      "Incorrect: Chemodectomas and lymphatic malformations are rare structural neck masses that do not produce multiple submandibular nodes with constitutional wasting.",
+      "Incorrect: Ludwig angina is a rapidly progressive, painful, febrile floor-of-mouth cellulitis threatening the airway rather than a 3-month indolent nodal presentation."
+    ],
+    "clinicalPearl": "In Sri Lankan clinical practice, persistent painless cervical lymphadenopathy with significant weight loss always mandates excisional lymph node biopsy (not just FNAC) alongside TB workup to differentiate lymphoma from tuberculous adenitis.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Multiple painless submandibular/cervical nodes with B-symptom weight loss require urgent biopsy and TB evaluation to distinguish lymphoma from tuberculous lymphadenitis."
+    },
+    "sourceStation": {
+      "id": "med_066",
+      "title": "Submental & Submandibular Lymphadenopathy",
+      "originalPrompt": "2. A boy presented with loss of weight of 10 kg over 3 months. On examination he had multiple lumps in the submental and submandibular area.\n2.1 Give 2 disorders which can give rise to this condition.  [Photo omitted on slide in original Drive PPTX]",
+      "verifiedAnswer": "(1) Lymphoma (Hodgkin or Non-Hodgkin lymphoma — 'B symptoms' of weight loss); (2) Tuberculous lymphadenitis (scrofula); (3) Metastatic malignancy or Infectious mononucleosis / HIV.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_067_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Med Q3",
+    "imagePath": "images/med/med_067.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Henoch-Schönlein Purpura (IgA Vasculitis)",
+    "stem": "A 17-year-old boy presents with colicky abdominal pain, vomiting, mild abdominal distension, and the symmetrical non-blanching palpable rash over his lower limbs shown in the photograph. Which pathophysiological mechanism best accounts for his abdominal pain?",
+    "options": [
+      "Small-vessel IgA vasculitis causing bowel wall oedema or intussusception",
+      "Immune thrombocytopenic purpura causing spontaneous retroperitoneal haematoma",
+      "Meningococcal septicaemia producing bilateral adrenal haemorrhage",
+      "Acute appendicitis complicated by generalised faecal peritonitis",
+      "Gallstone impaction at the ampulla of Vater causing acute pancreatitis"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Symmetrical palpable purpura over the legs and buttocks with colicky abdominal pain defines Henoch-Schönlein purpura (IgA vasculitis), where mesenteric leukocytoclastic vasculitis causes submucosal oedema/haemorrhage and may act as a lead point for intussusception.",
+      "Incorrect: ITP causes flat, non-palpable petechiae and ecchymoses with severe thrombocytopenia, whereas platelet counts are normal or elevated in palpable purpuric vasculitis.",
+      "Incorrect: Meningococcaemia causes toxic shock, meningism, and rapidly coalescing retiform purpura rather than symmetrical dependent palpable purpura in a stable patient.",
+      "Incorrect: Acute appendicitis presents with migratory right iliac fossa tenderness and fever without a symmetrical lower-limb palpable purpuric eruption.",
+      "Incorrect: Biliary pancreatitis produces severe epigastric pain radiating to the back with jaundice rather than dependent palpable lower-limb purpura."
+    ],
+    "clinicalPearl": "In Henoch-Schönlein purpura (IgA vasculitis), always monitor urine microscopy/proteinuria for IgA nephritis and obtain an abdominal ultrasound if vomiting or distension persists to exclude ileo-ileal intussusception.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Dependent palpable purpura with abdominal pain signifies IgA vasculitis (HSP), driven by mesenteric small-vessel vasculitis with risk of submucosal bleeding and intussusception."
+    },
+    "sourceStation": {
+      "id": "med_067",
+      "title": "Henoch-Schönlein Purpura (IgA Vasculitis)",
+      "originalPrompt": "3. A 17-year-old boy presented with abdominal pain and vomiting. On examination he had abdominal distension and his legs were as shown in the given picture.\n3.1 What is the most likely diagnosis?\n3.2 What is the reason for abdominal pain?",
+      "verifiedAnswer": "(3.1) Henoch-Schönlein purpura (IgA vasculitis). (3.2) Cause of abdominal pain: Mesenteric / bowel wall small-vessel IgA vasculitis causing submucosal oedema/haemorrhage (and risk of intussusception or bowel ischaemia).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_068_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_068.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Urticaria & Anaphylaxis Management",
+    "stem": "Twenty minutes after an intravenous antibiotic dose, a 28-year-old woman develops the pruritic raised erythematous plaques shown in the photograph, followed by hoarseness, stridor, and a blood pressure of 75/45 mmHg. Which immediate medication is the first-line life-saving treatment?",
+    "options": [
+      "Intravenous hydrocortisone 200 mg slow bolus",
+      "Intravenous chlorpheniramine 10 mg over 1 minute",
+      "Subcutaneous adrenaline 0.5 mg (1:10,000) in forearm",
+      "Intramuscular adrenaline 0.5 mg (0.5 mL of 1:1000)",
+      "Nebulised salbutamol 5 mg via face mask"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Intravenous hydrocortisone has a delayed onset of hours and serves only as a second-line adjunct to reduce biphasic reactions after IM adrenaline.",
+      "Incorrect: Antihistamines relieve cutaneous pruritus and urticaria but cannot reverse life-threatening airway oedema or distributive shock.",
+      "Incorrect: Subcutaneous absorption is erratic and slow during shock, and 1:10,000 is the dilute formulation reserved for monitored IV use in peri-arrest settings.",
+      "Correct: Acute urticaria progressing to laryngeal stridor and hypotension defines anaphylaxis; immediate IM adrenaline 0.5 mg (0.5 mL of 1:1000) into the anterolateral thigh reverses bronchospasm, mucosal oedema, and vasodilatory shock.",
+      "Incorrect: Nebulised beta-agonists may supplement bronchodilation once adrenaline is given, but alone they fail to treat hypotension or upper airway oedema."
+    ],
+    "clinicalPearl": "For anaphylaxis in Kelaniya Emergency OSCEs, state the exact dose, concentration, and site: 0.5 mL of 1:1000 (500 micrograms) adrenaline IM into the anterolateral mid-thigh immediately, repeated every 5 minutes if needed, alongside IV fluids, hydrocortisone, and chlorpheniramine.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Anaphylaxis accompanying acute urticaria requires immediate 0.5 mg IM adrenaline (1:1000) into the anterolateral thigh before IV hydrocortisone and antihistamines."
+    },
+    "sourceStation": {
+      "id": "med_068",
+      "title": "Urticaria & Anaphylaxis Emergency",
+      "originalPrompt": "4.\n4.1 What is the emergency that is associated with the above skin lesion?\n4.2 Name 3 medications that can be given to manage this.",
+      "verifiedAnswer": "(4.1) Anaphylaxis (acute life-threatening airway/laryngeal oedema, bronchospasm, distributive shock). (4.2) Medications: (1) IM Adrenaline (Epinephrine) 1:1000 (0.5 mg = 0.5 mL IM anterolateral thigh — first-line!); (2) IV Hydrocortisone (200 mg); (3) IV/Oral Antihistamine (e.g., Chlorpheniramine 10 mg IV) ± nebulised salbutamol if bronchospasm.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_069_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 28 (4th Year) — Med Q5",
+    "imagePath": "images/med/med_069.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Atrophic Glossitis — Clinical Recognition",
+    "stem": "A 42-year-old woman complains of burning mouth soreness when eating spicy food and increasing exertional fatigue. Examination of her tongue reveals the appearance shown in the photograph. Which finding and primary underlying pathology best match this picture?",
+    "options": [
+      "Oral hairy leukoplakia; Epstein-Barr virus reactivation",
+      "Geographic tongue; benign migratory oral mucositis",
+      "Black hairy tongue; prolonged broad-spectrum antibiotics",
+      "Pseudomembranous candidiasis; inhaled corticosteroid therapy",
+      "Atrophic glossitis; iron, folate, or B12 deficiency"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Oral hairy leukoplakia produces adherent, corrugated white plaques along the lateral tongue borders in immunocompromised patients rather than diffuse papillary atrophy.",
+      "Incorrect: Geographic tongue exhibits irregular map-like erythematous patches surrounded by raised serpiginous white borders rather than uniform smooth depapillation.",
+      "Incorrect: Black hairy tongue involves hypertrophy and dark keratin staining of elongated filiform papillae rather than loss of papillae.",
+      "Incorrect: Oral thrush presents as curdy white plaques that scrape off leaving a raw erythematous base rather than a uniformly smooth, bald tongue.",
+      "Correct: A smooth, shiny, beefy-red depapillated tongue resulting from loss of filiform papillae is atrophic glossitis, classically caused by iron deficiency (or vitamin B12/folate deficiency)."
+    ],
+    "clinicalPearl": "When examining a patient with a smooth depapillated tongue (atrophic glossitis), also inspect the mouth corners for angular cheilitis, conjunctivae for pallor, and fingernails for koilonychia.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Smooth, erythematous, depapillated tongue (atrophic glossitis) points to iron, vitamin B12, or folate deficiency anaemia."
+    },
+    "sourceStation": {
+      "id": "med_069",
+      "title": "Atrophic Glossitis (Nutritional Anaemia)",
+      "originalPrompt": "5.\n5.1 Name 2 abnormalities that can be seen in this picture.\n5.2 What is the most likely underlying pathology?",
+      "verifiedAnswer": "(5.1) Abnormalities: Smooth, bald, erythematous tongue (atrophic glossitis / loss of filiform papillae) and pallor / angular cheilitis. (5.2) Underlying pathology: Iron deficiency anaemia (also Vitamin B12 or folate deficiency).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_070_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_070.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Lepromatous Leprosy — Neuropathic Complications",
+    "stem": "A 40-year-old woman presents with progressive painless loss of sensation in both hands over several years, leading to recurrent unnoticed thermal burns and the bilateral digital shortening and facial changes shown in the photograph. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis mutilans",
+      "Multibacillary lepromatous leprosy",
+      "Sclerodactyly with acro-osteolysis",
+      "Psoriatic arthritis mutilans",
+      "Diabetic distal polyneuropathy"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Arthritis mutilans produces telescoping 'opera-glass' joints from severe osteolysis with painful inflammatory synovitis rather than painless sensory loss and lagophthalmos.",
+      "Correct: Glove-and-stocking sensory loss from peripheral nerve trunk damage, trophic ulcers causing auto-amputation/resorption of digits, facial infiltration, and ocular lagophthalmos are classic for advanced multibacillary lepromatous leprosy.",
+      "Incorrect: Systemic sclerosis produces sclerodactyly, Raynaud phenomenon, and microstomia with preserved distal pain and temperature sensation.",
+      "Incorrect: Psoriatic arthritis mutilans causes severe joint destruction accompanied by cutaneous plaques and nail dystrophy rather than neuropathic anaesthetic digits.",
+      "Incorrect: Diabetic neuropathy rarely causes bilateral upper-limb digital auto-amputation together with facial skin infiltration and ocular ectropion."
+    ],
+    "clinicalPearl": "Always palpate superficial peripheral nerves (ulnar at the medial epicondyle, common peroneal at the fibular neck, and great auricular nerve) for thickening and tenderness whenever sensory neuropathy and trophic digital loss are present.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Leprosy causes thickened peripheral nerves (notably ulnar and facial/ophthalmic branches) leading to glove-and-stocking anaesthesia, trophic ulceration, and clawing."
+    },
+    "sourceStation": {
+      "id": "med_070",
+      "title": "Lepromatous Leprosy",
+      "originalPrompt": "Question 01\nThis 40-year-old woman presented with loss of sensations of both hands.\nWhat is the likely diagnosis? (10 marks)",
+      "verifiedAnswer": "Lepromatous leprosy (Mycobacterium leprae multibacillary disease).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_071_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 30 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_071.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Psoriatic Nail Dystrophy",
+    "stem": "A 35-year-old woman presents with progressive cosmetic and structural nail changes across multiple fingers as shown in the photograph, including pinpoint nail plate depressions, distal nail-bed separation, and thickened subungual debris. Which underlying disorder is most strongly associated with these findings?",
+    "options": [
+      "Iron deficiency anaemia",
+      "Chronic plaque psoriasis",
+      "Chronic liver cirrhosis",
+      "Subacute infective endocarditis",
+      "Chronic kidney disease"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Severe chronic iron deficiency causes flat nails (platynychia) and spoon-shaped koilonychia rather than coarse pitting and subungual hyperkeratosis.",
+      "Correct: The triad of nail pitting (thimble pitting), distal onycholysis with 'oil-drop' salmon patches, and subungual hyperkeratosis is characteristic of psoriatic nail dystrophy and predicts psoriatic arthritis.",
+      "Incorrect: Cirrhosis is associated with white nail beds with narrow distal pink bands (Terry nails) and leukonychia.",
+      "Incorrect: Infective endocarditis causes finger clubbing and linear longitudinal splinter haemorrhages beneath the nail plate rather than pitting and subungual hyperkeratosis.",
+      "Incorrect: Chronic uraemia classically produces 'half-and-half' (Lindsay) nails with a white proximal half and reddish-brown distal band."
+    ],
+    "clinicalPearl": "In a Rheumatology/Dermatology CSS station, psoriatic nail dystrophy (pitting, onycholysis, subungual hyperkeratosis) is strongly linked with DIP-predominant psoriatic arthritis—always inspect hidden extensor elbows, scalp, and natal cleft.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Nail pitting, distal onycholysis, and subungual hyperkeratosis constitute classic psoriatic nail disease."
+    },
+    "sourceStation": {
+      "id": "med_071",
+      "title": "Psoriatic Nail Changes",
+      "originalPrompt": "Question 04\nA woman presented to you and she is worried about the condition of her nails.\n4.1 Write 3 features you observe in these nails. (6 marks)\n4.2 State the condition where you see these features in nails. (4 marks)",
+      "verifiedAnswer": "(4.1) Nail pitting, Subungual hyperkeratosis, and Onycholysis. (4.2) Condition: Psoriasis (psoriatic nail dystrophy).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_072_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_072.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Lymphatic Filariasis (Elephantiasis)",
+    "stem": "A 52-year-old man from a coastal district in Sri Lanka presents with chronic, progressive, non-pitting swelling and thickened verrucous skin folds of his right lower limb as shown in the photograph. Which complication is he at greatest ongoing risk of developing?",
+    "options": [
+      "Iliofemoral deep venous thrombosis with saddle embolism",
+      "Necrotising fasciitis due to Clostridium perfringens",
+      "Acute osteofascial compartment syndrome requiring fasciotomy",
+      "Recurrent bacterial cellulitis and acute dermatolymphangioadenitis",
+      "Spontaneous popliteal arterial aneurysm rupture"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Elephantiasis represents chronic lymphatic obstruction rather than acute deep venous thrombosis, so recurrent skin sepsis—not saddle PE—is the hallmark recurring complication.",
+      "Incorrect: Gas gangrene is an acute traumatic/surgical anaerobic emergency rather than the typical chronic recurrent infective complication of filarial lymphoedema.",
+      "Incorrect: Chronic interstitial fibrotic lymphoedema develops gradually over years without acute raised intracompartmental muscle pressure.",
+      "Correct: Chronic filarial lymphoedema (elephantiasis, classically caused by Wuchereria bancrofti in Sri Lanka) impairs local lymphatic drainage and skin barrier integrity, predisposing to recurrent episodes of acute dermatolymphangioadenitis/bacterial cellulitis and fungal intertrigo.",
+      "Incorrect: Arterial aneurysms are unrelated to chronic lymphatic obstruction caused by filarial nematodes."
+    ],
+    "clinicalPearl": "In Sri Lankan lymphatic filariasis (elephantiasis), meticulous daily limb washing, skin-fold drying, antifungal treatment of toe-web maceration, limb elevation, and prompt antibiotics for acute dermatolymphangioadenitis prevent progression.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Chronic lower-limb lymphoedema (elephantiasis) predisposes to recurrent secondary bacterial cellulitis and fungal skin-fold infections requiring strict limb hygiene."
+    },
+    "sourceStation": {
+      "id": "med_072",
+      "title": "Right Lower Limb Elephantiasis (Lymphatic Filariasis)",
+      "originalPrompt": "05.\n5.1 State the diagnosis.\n5.2 State a complication of this condition.",
+      "verifiedAnswer": "(5.1) Right lower limb elephantiasis (chronic lymphoedema, typically Wuchereria bancrofti filariasis). (5.2) Complication: Recurrent secondary bacterial or fungal infections (recurrent acute dermatolymphangioadenitis / cellulitis, lymphorrhoea, ulceration, psychosocial disability).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_073_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "Batch 33 (3rd Year) — Med Q1",
+    "imagePath": "images/med/med_073.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Iron Deficiency Anaemia — Investigation",
+    "stem": "A 46-year-old woman presents with exertional dyspnoea and a burning sensation on her tongue when eating, with the oral finding shown in the photograph. Her full blood count shows Hb 7.8 g/dL, MCV 70 fL, and MCH 25 pg. Which confirmatory investigation profile best establishes the underlying cause?",
+    "options": [
+      "Low serum ferritin with raised total iron-binding capacity",
+      "Elevated serum vitamin B12 with normal red cell folate",
+      "Raised reticulocyte count with positive direct Coombs test",
+      "Elevated HbA2 exceeding 3.5% on haemoglobin electrophoresis",
+      "High serum ferritin with reduced total iron-binding capacity"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Atrophic glossitis with microcytic hypochromic anaemia (Hb 7.8 g/dL, MCV 70 fL, MCH 25 pg) indicates iron deficiency anaemia, confirmed by low serum ferritin, low serum iron, and elevated TIBC—warranting evaluation for menorrhagia, occult GI blood loss, or hookworm.",
+      "Incorrect: Vitamin B12 or folate deficiency produces macrocytic anaemia (MCV >100 fL) rather than microcytic hypochromic indices (MCV 70 fL).",
+      "Incorrect: A positive direct antiglobulin test and reticulocytosis confirm autoimmune haemolytic anaemia, which is typically normocytic or mildly macrocytic.",
+      "Incorrect: Beta-thalassaemia trait elevates HbA2 but typically yields mild microcytosis with normal or minimally reduced haemoglobin (not symptomatic Hb 7.8 g/dL with glossitis).",
+      "Incorrect: Elevated ferritin with reduced TIBC reflects anaemia of chronic inflammation/disease rather than true iron depletion."
+    ],
+    "clinicalPearl": "Always pair confirmation of iron deficiency anaemia (low serum ferritin) with identifying its cause: menorrhagia in premenopausal women, occult gastrointestinal malignancy in men and older adults, and hookworm infestation in endemic settings.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Microcytic hypochromic anaemia (low MCV and MCH) with atrophic glossitis reflects iron deficiency, confirmed by low serum ferritin and followed up for blood loss."
+    },
+    "sourceStation": {
+      "id": "med_073",
+      "title": "Atrophic Glossitis & Iron Deficiency Anaemia",
+      "originalPrompt": "1.1 A patient presented with burning sensations in her mouth while eating. Mention the clinical feature you can see in the picture.\n1.2 Hb 7.8 g/dL | MCV 70 fL | MCH 25 pg. What could be the reason for these FBC findings?",
+      "verifiedAnswer": "(1.1) Atrophic glossitis (smooth, depapillated tongue) ± angular cheilitis. (1.2) Reason for microcytic hypochromic anaemia: Iron deficiency anaemia (causes: chronic occult/GI blood loss, menorrhagia, hookworm infestation, nutritional deficiency; confirm with serum ferritin and GI/gynae evaluation).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_074_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 25 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_074.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Leptospirosis (Weil's Disease)",
+    "stem": "A 21-year-old man presents with 1 week of high fever and severe calf myalgia after bathing in a river. Physical examination demonstrates the ocular sign shown in the photograph alongside mild scleral icterus. Which life-threatening complications is he most specifically at risk of developing over the next several days?",
+    "options": [
+      "Perforated duodenal ulcer and pneumoperitoneum",
+      "Ascending flaccid paralysis and bulbar palsy",
+      "Acute kidney injury and pulmonary haemorrhage",
+      "Acute retinal detachment and optic atrophy",
+      "Chronic constrictive pericarditis and tamponade"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Peptic ulcer perforation presents with acute peritonism and subdiaphragmatic air rather than conjunctival suffusion and jaundiced febrile myalgia.",
+      "Incorrect: Ascending paralysis characterises Guillain-Barré syndrome or krait envenoming rather than acute leptospirosis.",
+      "Correct: Fever, calf myalgia, river/paddy water exposure, conjunctival suffusion (erythema without purulent exudate), and jaundice are diagnostic of severe leptospirosis (Weil's disease), which causes AKI, fulminant hepatic dysfunction, pulmonary haemorrhage, and myocarditis.",
+      "Incorrect: Severe leptospirosis may rarely cause late uveitis, whereas immediate mortality arises from pulmonary haemorrhage, acute renal failure, and myocarditis.",
+      "Incorrect: Leptospirosis causes acute myocarditis and arrhythmias rather than chronic fibrotic pericardial constriction."
+    ],
+    "clinicalPearl": "In Sri Lankan Medicine OSCEs, bilateral conjunctival suffusion (bright red conjunctival injection without pus) + calf tenderness + freshwater exposure = leptospirosis; monitor urine output, serum creatinine, platelets, and respiratory distress closely for Weil's syndrome and pulmonary haemorrhage.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Conjunctival suffusion with jaundice and river-water exposure indicates leptospirosis, risking acute kidney injury, pulmonary haemorrhage, myocarditis, and hepatitis."
+    },
+    "sourceStation": {
+      "id": "med_074",
+      "title": "Leptospirosis (Conjunctival Suffusion + Jaundice)",
+      "originalPrompt": "04) A 21-year-old male presented with a history of fever for 1 week and severe myalgia. He had recently bathed in a river.\n1) What is the sign you see in the patient?\n2) What is the most likely diagnosis for this patient?\n3) List three (3) complications he could develop within a few days.",
+      "verifiedAnswer": "(1) Conjunctival suffusion (with icterus). (2) Diagnosis: Leptospirosis (Weil's disease). (3) Complications: Acute kidney injury (AKI), Hepatic dysfunction/fulminant hepatitis, Pulmonary haemorrhage, Myocarditis / arrhythmias, Aseptic meningitis.",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_075_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 26 (3rd Year) — Med Q5",
+    "imagePath": "images/med/med_075.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "IV Cannula Selection for Blood Transfusion",
+    "stem": "A 44-year-old man with acute upper gastrointestinal bleeding requires an urgent packed red cell transfusion. Three peripheral intravenous cannulae (A, B, and C) are displayed on the ward trolley as shown in the photograph. Which cannula is standardly preferred for adult blood transfusion and why?",
+    "options": [
+      "Cannula A (22G blue) to reduce the risk of transfusion-associated fluid overload",
+      "Cannula A (22G blue) because narrow bores minimise endothelial irritation",
+      "Cannula B (20G pink) because smaller lumens prevent platelet clumping",
+      "Cannula C (18G green) because it eliminates the need for blood warmers",
+      "Cannula C (18G green) to allow rapid flow without red cell haemolysis"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Cannula A (22G blue) is too narrow for routine adult blood transfusion, impeding flow and increasing risk of mechanical haemolysis and clotting; fluid overload is prevented by infusion rate control and diuretics, not tiny cannulae.",
+      "Incorrect: While 22G blue cannulae suit maintenance fluids or fragile paediatric/elderly veins, they are unsuitable for urgent adult red cell resuscitation.",
+      "Incorrect: Although a 20G pink cannula can be used slowly in patients with very small veins, 18G green (C) is the standard preferred gauge for adult packed red cell transfusion.",
+      "Incorrect: Cannula gauge facilitates safe rapid flow without haemolysis, whereas blood warmers are still indicated during massive rapid transfusion to prevent hypothermia.",
+      "Correct: Cannula C is a wide-bore 18-gauge green cannula that permits rapid administration of viscous packed red blood cells with minimal mechanical shear haemolysis."
+    ],
+    "clinicalPearl": "Know the CSS colour-code sequence from narrowest to widest: 24G Yellow -> 22G Blue (A) -> 20G Pink (B) -> 18G Green (C, standard blood transfusion) -> 16G Grey -> 14G Orange/Brown (massive trauma resuscitation).",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Select an 18G green wide-bore IV cannula for standard adult packed red cell transfusion to enable brisk flow without shear haemolysis."
+    },
+    "sourceStation": {
+      "id": "med_075",
+      "title": "IV Cannula Selection for Blood Transfusion",
+      "originalPrompt": "5) Three IV cannulae (A, B, C: blue, pink, green) are shown.\nSelect the cannula used for blood transfusions.",
+      "verifiedAnswer": "Green cannula (18G) — wide-bore cannula allows rapid flow of viscous packed red blood cells without haemolysis (20G Pink can be used in small veins/elderly if needed, but 18G Green is standard for adult transfusion).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_077_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 28 (3rd Year) — Med Q7",
+    "imagePath": "images/med/med_077.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Class IV Haemorrhagic Shock & Resuscitation",
+    "stem": "A 30-year-old man is brought to the emergency unit following a traumatic upper arm amputation. His pulse rate is 120 bpm, blood pressure is 80/60 mmHg, and he is anuric. Three intravenous fluid bottles (A, B, and C) are shown. Which pair correctly states his estimated blood volume loss and appropriate initial resuscitation fluid?",
+    "options": [
+      "15% to 30% blood loss; 5% dextrose (bottle A) to expand plasma volume",
+      "30% to 40% blood loss; 5% dextrose (bottle A) as rapid bolus",
+      "Less than 15% blood loss; isotonic crystalloid (bottle B or C) alone",
+      "Greater than 40% blood loss; 5% dextrose (bottle A) to prevent hypoglycaemia",
+      "Greater than 40% blood loss; isotonic crystalloid (bottle B or C) before blood"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Class II haemorrhage (15–30%) maintains normal systolic blood pressure via tachycardia and vasoconstriction, and 5% dextrose rapidly equilibrates into intracellular water rather than expanding intravascular volume.",
+      "Incorrect: Anuria combined with 80/60 mmHg hypotension represents >40% loss (Class IV), and hypotonic 5% dextrose is contraindicated in shock resuscitation.",
+      "Incorrect: Class I haemorrhage (<15%) presents with normal heart rate, normal blood pressure, and preserved urine output.",
+      "Incorrect: Although blood loss exceeds 40%, 5% dextrose fails to restore circulating intravascular volume and risks cerebral/tissue oedema.",
+      "Correct: Marked tachycardia (120 bpm), severe hypotension (80/60 mmHg), and anuria define ATLS Class IV haemorrhagic shock (>40% blood volume loss), requiring immediate isotonic crystalloid resuscitation (Compound Sodium Lactate [B] or 0.9% NaCl [C]) while activating urgent cross-matched blood/massive transfusion."
+    ],
+    "clinicalPearl": "Never pick 5% dextrose for hypovolaemic shock resuscitation: once dextrose is metabolised it behaves as free water; use isotonic crystalloid (Hartmann's/Compound Sodium Lactate or 0.9% NaCl) initially and transition urgently to blood in Class III/IV shock.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Class IV haemorrhage (>40% blood volume loss with hypotension, tachycardia, and anuria) requires initial isotonic crystalloid resuscitation and urgent blood transfusion."
+    },
+    "sourceStation": {
+      "id": "med_077",
+      "title": "Class IV Haemorrhagic Shock & Initial Fluid Resuscitation",
+      "originalPrompt": "7. A 30-year-old patient underwent a traumatic amputation of the upper arm. His pulse rate was 120 bpm and blood pressure was 80/60 mmHg. He was anuric. Three IV fluid bottles (A, B, C) are shown.\n• Estimate the percentage of fluid loss due to haemorrhage.\n• What is the most appropriate fluid for initial resuscitation?",
+      "verifiedAnswer": "(1) Class IV Haemorrhage: above 40% blood volume loss (hypotension + tachycardia + anuria). (2) B — 0.9% Normal Saline (isotonic crystalloid; or Hartmann's/Ringer's lactate, followed urgently by cross-matched blood/massive transfusion protocol).",
+      "provenance": "[Drive Key]"
+    }
+  },
+  {
+    "id": "med_078_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Med Q1",
+    "imagePath": "images/med/med_078.webp",
+    "sourceType": "osce",
+    "difficulty": "Advanced",
+    "topic": "Snakebite-Induced Intravascular Haemolysis",
+    "stem": "A 27-year-old man previously treated by a native healer presents 6 days after a snakebite passing the dark brown urine shown in the photograph. Microscopy shows 1–2 red cells/hpf, 1–2 pus cells/hpf, no casts, negative bilirubin, and negative urobilinogen, while his haemoglobin falls from 13 g/dL to 6 g/dL in 24 hours. What explains the dark urine?",
+    "options": [
+      "Gross glomerular haematuria from crescentic glomerulonephritis",
+      "Cholestatic obstructive jaundice with conjugated bilirubinuria",
+      "Haemoglobinuria secondary to acute intravascular haemolysis",
+      "Extravascular haemolysis causing excess urinary urobilinogen",
+      "Acute bacterial pyelonephritis with renal papillary necrosis"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: True glomerular haematuria shows abundant red cells and red cell casts on urine microscopy rather than 1–2 RBCs/hpf with no casts.",
+      "Incorrect: Obstructive jaundice produces positive urinary bilirubin rather than negative urinary bilirubin and an abrupt 7 g/dL drop in haemoglobin.",
+      "Correct: Dark cola-coloured urine with an acute 7 g/dL haemoglobin drop, virtually absent red cells on microscopy (1–2 RBC/hpf), and negative bilirubin/urobilinogen confirms free haemoglobinuria from acute intravascular haemolysis (triggered by viper venom or herbal nephro-haemotoxins).",
+      "Incorrect: Extravascular haemolysis elevates urinary urobilinogen (which is negative here) and does not spill free haemoglobin into the urine.",
+      "Incorrect: Pyelonephritis causes significant pyuria and bacteriuria rather than 1–2 pus cells/hpf with catastrophic acute anaemia."
+    ],
+    "clinicalPearl": "Cola-coloured urine + positive dipstick blood + virtually NO red cells on microscopy = pigmenturia (haemoglobinuria or myoglobinuria); aggressively hydrate with IV crystalloids and monitor renal function to prevent pigment-induced acute tubular necrosis.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Viper envenoming or toxic herbal remedies can trigger acute intravascular haemolysis, presenting with steep Hb drop, dark urine, negative bilirubin, and minimal RBCs on microscopy."
+    },
+    "sourceStation": {
+      "id": "med_078",
+      "title": "Snakebite-Induced Intravascular Haemolysis (Haemoglobinuria)",
+      "originalPrompt": "1. This is a urine sample of a 27-year-old male treated by a native physician for snakebite, 6 days after an alleged snakebite. Urine analysis:\nPus cells: 1–2/hpf | Red cells: 1–2/hpf | Casts: Nil | Bilirubin: Nil | Urobilinogen: Nil\nHis haemoglobin level dropped from 13 g/dL to 6 g/dL within one day.\nWhat is the reason for dark-coloured urine?",
+      "verifiedAnswer": "Haemoglobinuria secondary to acute intravascular haemolysis (triggered by snake venom, e.g., Russell's viper / hump-nosed viper, or native herbal toxins; confirmed by cola/dark urine with positive dipstick blood but only 1–2 RBCs/hpf on microscopy and steep Hb drop).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_079_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 29 (4th Year) — Med Q4",
+    "imagePath": "images/med/med_079.webp",
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Snakebite Local Envenoming (Sri Lankan Species)",
+    "stem": "A 34-year-old farmer presents 12 hours after a snakebite on the dorsum of his foot with the haemorrhagic blister and local swelling shown in the photograph. Which pair of Sri Lankan snakes most characteristically produces this local bite-site appearance?",
+    "options": [
+      "Common krait (Bungarus caeruleus) and Ceylon krait (Bungarus ceylonicus)",
+      "Hump-nosed viper (Hypnale hypnale) and cobra (Naja naja)",
+      "Rat snake (Ptyas mucosa) and green vine snake (Ahaetulla nasuta)",
+      "Common krait (Bungarus caeruleus) and rat snake (Ptyas mucosa)",
+      "Beaked sea snake and Ceylon krait (Bungarus ceylonicus)"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Kraits typically bite sleeping victims at night and produce descending neurotoxicity with minimal or absent local swelling, pain, or blistering.",
+      "Correct: Among these Sri Lankan species, hump-nosed vipers classically produce marked local swelling, haemorrhagic blistering, and necrosis (plus AKI/coagulopathy), and cobras similarly cause severe local blistering and tissue necrosis alongside neurotoxicity.",
+      "Incorrect: The rat snake is non-venomous and the mildly venomous vine snake does not cause severe haemorrhagic blistering or tissue necrosis.",
+      "Incorrect: Neither the non-venomous rat snake nor the krait produces severe haemorrhagic blisters at the bite site.",
+      "Incorrect: Sea snakes cause rhabdomyolysis/myotoxicity and neurotoxicity with minimal local bite-site inflammation, and kraits lack local necrotic blistering."
+    ],
+    "clinicalPearl": "Remember the crucial Sri Lankan clinical rule: Indian polyvalent antivenom covers Cobra, Russell's viper, Common krait, and Saw-scaled viper—it is INEFFECTIVE against Hump-nosed viper (Hypnale hypnale), which is managed supportively for local blistering, coagulopathy, and AKI.",
+    "guideCitation": {
+      "guideId": "guide_med_niroshan",
+      "guideTitle": "Guide for Medicine OSCE (Niroshan)",
+      "keyPoint": "Hump-nosed viper and cobra cause prominent local swelling and haemorrhagic blistering, whereas kraits cause severe neurotoxicity with minimal local signs."
+    },
+    "sourceStation": {
+      "id": "med_079",
+      "title": "Snakebite Local Envenoming (Haemorrhagic Blister)",
+      "originalPrompt": "4. The following picture is of a snakebite.\nWhich of the following snake(s) is/are likely to have caused it? (Wrong answers carry minus marks):\n• Cobra  • Hump-nosed viper  • Sri Lankan krait  • Indian krait  • Rat snake",
+      "verifiedAnswer": "*Hump-nosed viper (Hypnale hypnale) and/or Cobra (Naja naja) — both Sri Lankan species cause prominent local swelling, haemorrhagic blistering, and necrosis (Note: Kraits cause neurotoxicity with minimal/no local signs; Rat snake is non-venomous. Russell's viper also causes local blistering but wasn't listed; among the choices, Hump-nosed viper is classic for severe local haemorrhagic blisters/necrosis + AKI, and Cobra* causes local necrosis/blistering).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_080_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Med Q4",
+    "imagePath": "images/med/med_080.webp",
+    "sourceType": "osce",
+    "difficulty": "Core",
+    "topic": "Adult Cardiac Arrest — BLS/CPR Standards",
+    "stem": "Two healthcare providers perform the resuscitation procedure shown in the photograph on an unresponsive adult with no carotid pulse and absent normal breathing. Which combination states the correct chest compression site, depth, and compression-to-ventilation ratio for adult Basic Life Support?",
+    "options": [
+      "Lower half of sternum, 5–6 cm depth, 30:2 ratio",
+      "Upper half of sternum, 2–3 cm depth, 15:2 ratio",
+      "Lower half of sternum, 5–6 cm depth, 15:2 ratio",
+      "Left fifth intercostal space, 4 cm depth, 30:2 ratio",
+      "Tip of the xiphisternum, 3–4 cm depth, 5:1 ratio"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Adult CPR with bag-valve-mask ventilation uses interlocked hands with straight arms over the lower half of the sternum, compressing 5–6 cm (about 2 inches) at 100–120/min in a 30 compressions to 2 breaths ratio.",
+      "Incorrect: Compressing the upper sternum at 2–3 cm fails to generate adequate intrathoracic cardiac output, and 15:2 applies to two-rescuer paediatric CPR rather than adults.",
+      "Incorrect: A 15:2 compression-to-ventilation ratio is used in two-rescuer paediatric resuscitation, whereas adult BLS uses 30:2 regardless of one or two rescuers prior to an advanced airway.",
+      "Incorrect: Compressions are delivered centrally over the lower half of the sternum, not laterally at the cardiac apex.",
+      "Incorrect: Pressing directly on the xiphisternum risks xiphoid fracture and hepatic laceration, and neither depth nor ratio meets adult BLS guidelines."
+    ],
+    "clinicalPearl": "During two-rescuer BVM ventilation in an OSCE, hold the mask with an E-C clamp (thumb and index finger forming a C on the mask, remaining fingers lifting the mandible) and avoid hyperventilation—each breath should take 1 second just to produce visible chest rise.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Adult cardiac arrest CPR uses straight-arm compressions over the lower sternum to ~2 inches (5–6 cm) depth at a 30:2 ratio with BVM ventilation."
+    },
+    "sourceStation": {
+      "id": "med_080",
+      "title": "Cardiac Arrest — CPR & Bag-Valve-Mask Ventilation",
+      "originalPrompt": "04.\n4.1 What is the procedure shown in this picture?\n4.2 State the emergency condition.",
+      "verifiedAnswer": "(4.1) Cardiopulmonary resuscitation (CPR) with Bag-Valve-Mask (BVM) ventilation. (4.2) Emergency condition: Cardiac arrest (cardiopulmonary arrest).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_081_sba",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "Batch 31 (3rd Year) — Med Q18",
+    "imagePath": null,
+    "sourceType": "osce",
+    "difficulty": "Moderate",
+    "topic": "Heroin Overdose — Respiratory Acidosis & Naloxone",
+    "stem": "A 20-year-old man is brought to the emergency department drowsy with pinpoint pupils and a respiratory rate of 5 breaths/min following an alleged heroin overdose. His ABG shows pH 7.25, PaO2 98 mmHg, PaCO2 60 mmHg, and HCO3- 30 mmol/L. Which interpretation and immediate management is most appropriate?",
+    "options": [
+      "Metabolic acidosis; intravenous sodium bicarbonate and flumazenil",
+      "Compensated respiratory alkalosis; high-flow oxygen via face mask alone",
+      "Mixed metabolic and respiratory acidosis; urgent haemodialysis and charcoal",
+      "Acute respiratory acidosis; assisted BVM ventilation and IV naloxone",
+      "Chronic respiratory acidosis; oral acetylcysteine and non-invasive ventilation"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Bicarbonate is slightly elevated rather than low, proving respiratory acidosis; flumazenil reverses benzodiazepines (and risks seizures) rather than opioids.",
+      "Incorrect: A low pH of 7.25 with high PaCO2 is acidosis, not alkalosis, and high-flow oxygen without ventilatory support or naloxone fails to clear life-threatening hypercapnia.",
+      "Incorrect: Activated charcoal is contraindicated in a drowsy patient without a secured airway, and heroin toxicity is reversed specifically by naloxone rather than dialysis.",
+      "Correct: Marked hypoventilation (RR 5/min) raises PaCO2 to 60 mmHg and drops pH to 7.25, representing acute respiratory acidosis from opioid toxicity; immediate management is airway/BVM ventilation with O2 plus titrated IV naloxone (monitoring closely for re-sedation as naloxone wears off faster than heroin).",
+      "Incorrect: The minimal bicarbonate rise relative to PaCO2 60 mmHg indicates acute hypoventilation, and acetylcysteine treats paracetamol poisoning rather than opioid overdose."
+    ],
+    "clinicalPearl": "Never discharge or leave a heroin-overdose patient unmonitored after a single IV naloxone bolus: naloxone's half-life (30–60 min) is shorter than many opioids, so recurrent respiratory depression frequently develops.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Opioid-induced hypoventilation causes acute respiratory acidosis (low pH, high PaCO2); secure airway/BVM ventilation and administer titrated IV naloxone while watching for re-sedation."
+    },
+    "sourceStation": {
+      "id": "med_081",
+      "title": "Heroin Overdose — Acute Respiratory Acidosis & Management",
+      "originalPrompt": "18. A 20-year-old boy was admitted due to overdose of heroin. He was drowsy. Respiratory rate was 5/min. Arterial blood gas findings:\npH: 7.25 | PO2: 98 mmHg | PCO2: 60 mmHg | HCO3-: 30 mmol/L (24–29)\n18.1 What is the abnormality in the blood gas findings?\n18.2 What is the immediate management to correct the abnormality?  [Text-only ABG station]",
+      "verifiedAnswer": "(18.1) Acute (uncompensated/partially compensated) respiratory acidosis due to opioid-induced central hypoventilation (low pH, markedly elevated PCO₂). (18.2) Immediate management: (a) Airway & breathing support (jaw thrust/airway adjunct, assisted BVM ventilation with O₂); (b) IV Naloxone (0.4–2 mg IV, titrated to restore adequate respiratory effort; monitor closely for re-sedation because naloxone half-life is shorter than heroin).",
+      "provenance": "[Compiled Answer]"
+    }
+  },
+  {
+    "id": "med_guide_b_01",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.2 RESPIRATORY MEDICINE, CHEST IMAGING & AIRWAY EQUIPMENT (14 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Blood Gas Analysis — PaO2/FiO2 Ratio & Inspired Oxygen",
+    "stem": "A 35-year-old man admitted with dyspnoea following a stab injury to the chest has an arterial blood gas showing pH 7.48, PaO2 90 mmHg, and PaCO2 32 mmHg. Which additional parameter is essential to interpret this PaO2 value and accurately quantify impaired oxygenation?",
+    "options": [
+      "Serum haemoglobin concentration to calculate total arterial oxygen content",
+      "Inspired oxygen fraction (FiO2) to calculate the PaO2/FiO2 ratio",
+      "Standard bicarbonate level to evaluate acute respiratory alkalosis compensation",
+      "Central venous oxygen saturation to determine tissue oxygen extraction",
+      "Alveolar minute ventilation to assess carbon dioxide clearance capacity"
+    ],
+    "correctIndex": 1,
+    "optionRationales": [
+      "Incorrect: Although haemoglobin determines total blood oxygen-carrying capacity, PaO2 reflects dissolved plasma oxygen tension driven by alveolar-capillary transfer relative to inspired FiO2, not haemoglobin concentration.",
+      "Correct: Arterial PaO2 cannot be interpreted in isolation; dividing PaO2 by FiO2 (for example, PaO2 90 mmHg on FiO2 0.50 yields a PaO2/FiO2 ratio of 180 mmHg, compared with 450 mmHg on room air) is essential to quantify gas-exchange impairment and shunt.",
+      "Incorrect: Standard bicarbonate evaluates the non-respiratory (metabolic) acid-base component (which explains his mild alkalotic pH 7.48 from hyperventilation to PaCO2 32 mmHg), rather than quantifying pulmonary oxygenation.",
+      "Incorrect: Central venous oxygen saturation (ScvO2) from a VBG assesses global systemic oxygen supply-to-demand balance rather than quantifying alveolar oxygenation efficiency on an ABG.",
+      "Incorrect: Minute ventilation governs PaCO2 elimination (ventilation), whereas quantifying impaired oxygen transfer requires relating arterial PaO2 to the inspired oxygen fraction (FiO2)."
+    ],
+    "clinicalPearl": "Per the Kelaniya Blood Gas Analysis guide, never label a PaO2 of 90–100 mmHg as normal without checking FiO2: calculate the PaO2/FiO2 ratio (normal >400 mmHg; <=300 mmHg indicates impaired gas exchange) and recognise that PaO2 90 mmHg on FiO2 0.50 equals a P/F ratio of 180 mmHg.",
+    "guideCitation": {
+      "guideId": "guide_med_abg",
+      "guideTitle": "Guide for Blood Gas Analysis (ABG/VBG)",
+      "keyPoint": "Quantifying oxygenation on an ABG requires factoring in inspired FiO2 (via the PaO2/FiO2 ratio) rather than interpreting PaO2 in isolation."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_b_02",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Ulnar Paradox in Peripheral Nerve Palsies",
+    "stem": "A 28-year-old woman sustains a deep laceration across the medial anterior wrist, developing marked clawing of the ring and little fingers with MCP hyperextension and IP flexion. Compared with a complete ulnar nerve lesion at the elbow, why is the claw-hand deformity more pronounced in this distal wrist injury?",
+    "options": [
+      "The extensor digitorum communis and extensor indicis are denervated at the wrist",
+      "All four lumbrical muscles are spared when the nerve is cut proximal to Guyon's canal",
+      "The palmar interossei receive dual innervation from the anterior interosseous nerve",
+      "The flexor carpi ulnaris pulls the proximal phalanges into hyperextension",
+      "The medial half of flexor digitorum profundus remains intact to flex the DIP joints"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: Digital extensors are innervated proximally in the forearm by the posterior interosseous branch of the radial nerve, not the ulnar nerve at the wrist.",
+      "Incorrect: The ulnar nerve supplies the third and fourth lumbricals distally in the hand, so they are paralysed in both wrist and elbow lesions.",
+      "Incorrect: All palmar and dorsal interossei are innervated exclusively by the deep motor branch of the ulnar nerve.",
+      "Incorrect: Flexor carpi ulnaris inserts onto the pisiform/fifth metacarpal base to flex and adduct the wrist, without extending the MCP joints.",
+      "Correct: In the 'ulnar paradox', a wrist lesion spares the proximal ulnar branches in the forearm to the medial half of flexor digitorum profundus (FDP), so unopposed FDP pulls the interphalangeal joints into exaggerated flexion when the medial lumbricals are paralysed."
+    ],
+    "clinicalPearl": "Always remember the 'ulnar paradox' in Neurology OSCE stations: distal ulnar nerve lesions at the wrist produce uglier, more severe clawing of digits 4–5 than proximal lesions at the elbow because FDP remains intact.",
+    "guideCitation": {
+      "guideId": "guide_med_nerve",
+      "guideTitle": "Guide for Nerve Palsies (Keshali B28)",
+      "keyPoint": "Ulnar paradox: a wrist lesion causes worse clawing than an elbow lesion because proximal innervation to the ulnar half of flexor digitorum profundus is preserved."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_b_03",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.3 NEUROLOGY, CRANIAL NERVES & NEUROMUSCULAR DISORDERS (14 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Retina & Fundoscopy — Central Retinal Vein Occlusion",
+    "stem": "A 64-year-old man with poorly controlled hypertension and primary open-angle glaucoma develops sudden, painless unilateral visual loss in his right eye. Direct ophthalmoscopy reveals disc hyperaemia, markedly engorged tortuous retinal veins, and widespread haemorrhages radiating across all four quadrants ('stormy sunset' appearance). What is the most likely diagnosis?",
+    "options": [
+      "Central retinal vein occlusion",
+      "Central retinal artery occlusion",
+      "Proliferative diabetic retinopathy",
+      "Primary glaucomatous optic atrophy",
+      "Dry age-related macular degeneration"
+    ],
+    "correctIndex": 0,
+    "optionRationales": [
+      "Correct: Sudden painless visual loss with severely engorged tortuous veins and diffuse four-quadrant retinal haemorrhages ('stormy sunset' fundus) is the textbook presentation of central retinal vein occlusion, classically linked with hypertension and glaucoma.",
+      "Incorrect: Central retinal artery occlusion produces a pale, ischaemic retina with attenuated arteries and a central 'cherry-red spot' at the fovea rather than diffuse four-quadrant venous haemorrhages.",
+      "Incorrect: Proliferative diabetic retinopathy is characterised by fragile new vessel formation (neovascularisation at the disc or elsewhere) rather than acute unilateral four-quadrant venous engorgement.",
+      "Incorrect: Advanced glaucoma produces gradual peripheral field loss with a pale, widened, deeply excavated optic cup rather than sudden haemorrhagic engorgement.",
+      "Incorrect: Dry macular degeneration causes gradual central visual distortion with choroidal drusen and macular pigment changes rather than acute diffuse retinal haemorrhages."
+    ],
+    "clinicalPearl": "Know the iconic Kelaniya Retina OSCE spotter descriptors: CRVO = 'stormy sunset' engorged veins and haemorrhages; malignant hypertensive retinopathy = 'star-burst' macular exudates + papilloedema; CRAO = pale retina + cherry-red spot.",
+    "guideCitation": {
+      "guideId": "guide_med_retina",
+      "guideTitle": "Retina & Fundoscopy OSCE Guide",
+      "keyPoint": "Central retinal vein occlusion shows a 'stormy sunset' fundus with engorged tortuous veins and extensive accompanying retinal haemorrhages."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_b_04",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.6 DERMATOLOGY, RHEUMATOLOGY, HAEMATOLOGY & INFECTIONS (15 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Moderate",
+    "topic": "Skin Infections — Erythrasma & Wood's Lamp",
+    "stem": "A 44-year-old man with obesity presents with asymptomatic, well-demarcated reddish-brown scaly plaques in both groins and axillae. A fungal scraping for hyphae is negative, and Wood's ultraviolet light examination demonstrates bright coral-red fluorescence. Which organism is responsible for this infection?",
+    "options": [
+      "Trichophyton rubrum",
+      "Malassezia furfur",
+      "Candida albicans",
+      "Corynebacterium minutissimum",
+      "Streptococcus pyogenes"
+    ],
+    "correctIndex": 3,
+    "optionRationales": [
+      "Incorrect: Tinea cruris due to Trichophyton rubrum shows branching hyphae on KOH microscopy, an active raised scaly border with central clearing, and no coral-red Wood's light fluorescence.",
+      "Incorrect: Pityriasis versicolor caused by Malassezia furfur affects the upper trunk and exhibits pale yellow-green fluorescence under Wood's light rather than coral-red flexural plaques.",
+      "Incorrect: Candidal intertrigo produces bright beefy-red macerated plaques with satellite pustules and does not fluoresce coral-red on Wood's lamp examination.",
+      "Correct: Erythrasma is a superficial bacterial skin-fold infection caused by Corynebacterium minutissimum; bacterial coproporphyrin III production causes characteristic coral-red fluorescence under Wood's lamp.",
+      "Incorrect: Erysipelas due to beta-haemolytic streptococci causes acute painful, febrile, raised erythematous plaques rather than indolent brown scaly plaques with porphyrin fluorescence."
+    ],
+    "clinicalPearl": "In the Kelaniya Bone & Skin Infections guide, differentiate groin/axillary plaques rapidly using Wood's light: coral-red fluorescence confirms Corynebacterium minutissimum erythrasma (treated with topical/oral erythromycin or fusidic acid) rather than tinea.",
+    "guideCitation": {
+      "guideId": "guide_med_skin_bone",
+      "guideTitle": "Guide for Bone & Skin Infections",
+      "keyPoint": "Erythrasma (Corynebacterium minutissimum) forms well-defined reddish-brown flexural plaques exhibiting coral-red Wood's lamp fluorescence from porphyrins."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_b_05",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.7 TOXICOLOGY, SNAKEBITE, ACUTE CARE & CLINICAL EQUIPMENT (8 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Pre-Hospital Snakebite First Aid",
+    "stem": "A 32-year-old paddy farmer is bitten on the right ankle by a viper while working in the field and arrives at a rural clinic 15 minutes later. Which immediate pre-hospital first-aid action is recommended by the Emergency Medicine OSCE protocol prior to urgent hospital transfer?",
+    "options": [
+      "Apply a tight proximal arterial tourniquet above the right knee",
+      "Make shallow cruciform incisions over the fang marks to drain venom",
+      "Remove tight ornaments, immobilise the limb, and transfer urgently",
+      "Pack the bitten foot in crushed ice to slow systemic venom spread",
+      "Administer intramuscular adrenaline prophylactically before transfer"
+    ],
+    "correctIndex": 2,
+    "optionRationales": [
+      "Incorrect: Arterial tourniquets are strictly contraindicated because they exacerbate local ischaemic necrosis and can precipitate sudden systemic venom bolus release upon removal.",
+      "Incorrect: Incising or sucking the bite wound is ineffective and risks severe bleeding in viper-induced coagulopathy alongside secondary wound infection.",
+      "Correct: Emergency Medicine CSS protocol mandates removing rings, anklets, and tight clothing (before swelling progresses), gently cleansing with soap and water if soiled, immobilising the bitten limb, and transferring to hospital ASAP.",
+      "Incorrect: Cryotherapy with ice packs worsens local tissue ischaemia and necrosis without reducing systemic envenoming.",
+      "Incorrect: Adrenaline is reserved for treating acute anaphylaxis (for example, reactions to antivenom) rather than routine initial snakebite first aid."
+    ],
+    "clinicalPearl": "Kelaniya Emergency Medicine OSCE 'Should Do / Should Not Do' checklist for snakebites: DO remove ornaments, reassure, immobilise, and get to hospital ASAP; DO NOT apply tourniquets or make incisions.",
+    "guideCitation": {
+      "guideId": "guide_med_emergency",
+      "guideTitle": "Emergency Medicine OSCE Guide",
+      "keyPoint": "Immediate snakebite first aid: remove tight ornaments, cleanse gently, immobilise the limb, and transfer to hospital ASAP; never apply tourniquets or incise the wound."
+    },
+    "sourceStation": null
+  },
+  {
+    "id": "med_guide_b_06",
+    "specialty": "med",
+    "specialtyName": "Medicine",
+    "domain": "1.5 GASTROENTEROLOGY, HEPATOLOGY, RENAL & FLUID/ACID-BASE (7 STATIONS)",
+    "batch": "CSS Guide Exclusive",
+    "imagePath": null,
+    "sourceType": "guide",
+    "difficulty": "Core",
+    "topic": "Oral Rehydration Solutions — Mechanism & Osmolarity",
+    "stem": "A 35-year-old man with acute watery diarrhoea and mild dehydration is prescribed WHO reduced-osmolarity Oral Rehydration Solution (ORS), prepared by dissolving one 20.5 g packet in 1 litre of clean drinking water. Which statement accurately describes its osmolarity and physiological action?",
+    "options": [
+      "Total osmolarity is 311 mmol/L; hypertonic glucose draws water passively into the gut lumen",
+      "Total osmolarity is 245 mmol/L; sodium bicarbonate prevents hypokalaemic paralytic ileus",
+      "Total osmolarity is 150 mmol/L; potassium chloride directly neutralises bacterial enterotoxins",
+      "Total osmolarity is 330 mmol/L; active chloride secretion drives intestinal water absorption",
+      "Total osmolarity is 245 mmol/L; Na+-glucose co-transport stays intact and citrate corrects acidosis"
+    ],
+    "correctIndex": 4,
+    "optionRationales": [
+      "Incorrect: The older 311 mmol/L formulation was replaced by 245 mmol/L ORS precisely to reduce osmotic diarrhoea, and water follows sodium-glucose absorption out of the lumen into enterocytes.",
+      "Incorrect: Modern WHO ORS uses trisodium citrate dihydrate (rather than bicarbonate, for longer shelf stability) to treat acidosis, while potassium chloride prevents hypokalaemic ileus.",
+      "Incorrect: Total osmolarity is 245 mmol/L (not 150 mmol/L), and potassium chloride replaces faecal potassium losses rather than neutralising toxins.",
+      "Incorrect: Active chloride secretion (as triggered by cholera toxin via cAMP) causes secretory fluid loss; ORS works via intact glucose-coupled sodium absorption.",
+      "Correct: WHO reduced-osmolarity ORS (245 mmol/L: Na+ 75, glucose 75, Cl- 65, K+ 20, citrate 10 mmol/L) relies on coupled Na+-glucose co-transport (SGLT1), which remains intact even during enteritis, while KCl prevents hypokalaemia and trisodium citrate corrects metabolic acidosis."
+    ],
+    "clinicalPearl": "Know the exact Kelaniya ORS OSCE numbers: 1 packet (20.5 g) in 1 L clean drinking water gives 245 mmol/L (Na+ 75, glucose 75, K+ 20, Cl- 65, citrate 10 mmol/L); discard unused solution after 24 hours, and switch to IV fluids if altered mental status, ileus, or persistent vomiting prevents oral intake.",
+    "guideCitation": {
+      "guideId": "guide_med_ors",
+      "guideTitle": "Guide for Oral Rehydration Solutions",
+      "keyPoint": "Reduced-osmolarity WHO ORS (245 mmol/L; 20.5 g/L) exploits intact Na+-glucose co-transport, provides K+ (20 mmol/L) against hypokalaemia, and uses trisodium citrate (10 mmol/L) to correct acidosis."
+    },
+    "sourceStation": null
+  }
+]
